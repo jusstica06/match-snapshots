@@ -1,110 +1,55 @@
-// scripts/snapshot.js
-/**
- * Günlük snapshot üretir:
- * - snapshots/YYYY-MM-DD/fixtures.json   (API'den çekilir)
- * - snapshots/YYYY-MM-DD/predictions.json (yoksa {} oluşturur)
- *
- * İsteğe bağlı: belirli bir günü üretmek için env:
- *   SNAPSHOT_DATE=YYYY-MM-DD node scripts/snapshot.js
- */
-const fs = require('fs');
-const path = require('path');
-const https = require('https');
+name: Daily Snapshots
 
-const API_BASE = 'https://v3.football.api-sports.io';
-const API_KEY = process.env.APISPORTS_KEY;
+on:
+  schedule:
+    # GitHub Actions cron = UTC. İstanbul 05:35 = UTC 02:35
+    - cron: "35 2 * * *"
+  workflow_dispatch:
+    inputs:
+      snapshot_date:
+        description: "YYYY-MM-DD (opsiyonel; geçmiş bir günü üretmek için)"
+        required: false
+        default: ""
 
-// ---- Istanbul (IST) tarihinde YYYY-MM-DD ----
-function ymdIST(d = new Date()) {
-  // Intl ile timezone doğru hesaplanır (yaz/kış saatinde de)
-  return new Intl.DateTimeFormat('en-CA', {
-    timeZone: 'Europe/Istanbul',
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit',
-  }).format(d); // en-CA => YYYY-MM-DD
-}
+# Repoya push atabilmek için gerekli
+permissions:
+  contents: write
 
-// Eğer manuel tarih verilmişse onu kullan
-function getTargetYmd() {
-  const fromEnv = process.env.SNAPSHOT_DATE; // ör: 2025-09-21
-  if (fromEnv && /^\d{4}-\d{2}-\d{2}$/.test(fromEnv)) return fromEnv;
-  return ymdIST();
-}
+jobs:
+  build-snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
-function httpGetJSON(url, headers = {}) {
-  return new Promise((resolve, reject) => {
-    const req = https.request(url, { method: 'GET', headers }, (res) => {
-      let data = '';
-      res.on('data', (c) => (data += c));
-      res.on('end', () => {
-        try {
-          const json = JSON.parse(data);
-          resolve(json);
-        } catch (e) {
-          reject(new Error(`JSON parse error for ${url}: ${e.message}`));
-        }
-      });
-    });
-    req.on('error', reject);
-    req.end();
-  });
-}
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-// Bugünün tüm fikstürleri (gerekirse lig filtresi ekleyebilirsin)
-async function fetchFixturesForDate(ymd) {
-  const url = `${API_BASE}/fixtures?date=${ymd}`;
-  const json = await httpGetJSON(url, { 'x-apisports-key': API_KEY });
-  const list = json?.response || [];
+      - name: Run snapshot script
+        env:
+          APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
+          SNAPSHOT_DATE: ${{ inputs.snapshot_date }}
+        run: node scripts/snapshot.js
 
-  // Uygulamanın ihtiyacı olan minimum alanlara düzleştir
-  const fixtures = list.map((it) => ({
-    fixtureId: it?.fixture?.id,
-    leagueId: it?.league?.id,
-    season: it?.league?.season,
-    homeTeamId: it?.teams?.home?.id,
-    awayTeamId: it?.teams?.away?.id,
-    homeTeam: it?.teams?.home?.name,
-    awayTeam: it?.teams?.away?.name,
-    // istersen ileride şunları da ekleyebilirsin:
-    // fixtureDate: it?.fixture?.date,
-    // leagueName: it?.league?.name,
-    // status: it?.fixture?.status?.short
-  }));
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "snapshot-bot"
+          git config user.email "snapshot-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            echo "NO_CHANGES=true" >> $GITHUB_ENV
+          else
+            git commit -m "chore(snapshot): update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          fi
 
-  // Null/undefined değerleri süz
-  return fixtures.filter(
-    (f) =>
-      f.fixtureId && f.homeTeamId && f.awayTeamId && f.leagueId && f.season
-  );
-}
-
-async function main() {
-  if (!API_KEY) {
-    throw new Error('Missing APISPORTS_KEY secret.');
-  }
-
-  const ymd = getTargetYmd();
-  const dir = path.join('snapshots', ymd);
-  fs.mkdirSync(dir, { recursive: true });
-
-  // 1) fixtures.json
-  const fixtures = await fetchFixturesForDate(ymd);
-  const fixturesPath = path.join(dir, 'fixtures.json');
-  fs.writeFileSync(fixturesPath, JSON.stringify(fixtures, null, 2));
-  console.log(`Wrote ${fixtures.length} fixtures → ${fixturesPath}`);
-
-  // 2) predictions.json (yoksa boş map)
-  const predsPath = path.join(dir, 'predictions.json');
-  if (!fs.existsSync(predsPath)) {
-    fs.writeFileSync(predsPath, JSON.stringify({}, null, 2));
-    console.log(`Wrote empty predictions map → ${predsPath}`);
-  } else {
-    console.log('predictions.json already exists, keeping as is.');
-  }
-}
-
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});
+      - name: Push
+        if: env.NO_CHANGES != 'true'
+        run: |
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          git push origin HEAD:$BRANCH
