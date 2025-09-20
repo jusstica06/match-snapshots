@@ -1,4 +1,12 @@
 // scripts/snapshot.js
+/**
+ * Günlük snapshot üretir:
+ * - snapshots/YYYY-MM-DD/fixtures.json   (API'den çekilir)
+ * - snapshots/YYYY-MM-DD/predictions.json (yoksa {} oluşturur)
+ *
+ * İsteğe bağlı: belirli bir günü üretmek için env:
+ *   SNAPSHOT_DATE=YYYY-MM-DD node scripts/snapshot.js
+ */
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
@@ -6,14 +14,22 @@ const https = require('https');
 const API_BASE = 'https://v3.football.api-sports.io';
 const API_KEY = process.env.APISPORTS_KEY;
 
-// İstanbul tarihi (YYYY-MM-DD)
+// ---- Istanbul (IST) tarihinde YYYY-MM-DD ----
 function ymdIST(d = new Date()) {
-  const tzOffsetMin = -180; // Europe/Istanbul ~ UTC+3
-  const local = new Date(d.getTime() + (tzOffsetMin - d.getTimezoneOffset()) * 60000);
-  const y = local.getFullYear();
-  const m = String(local.getMonth() + 1).padStart(2, '0');
-  const day = String(local.getDate()).padStart(2, '0');
-  return `${y}-${m}-${day}`;
+  // Intl ile timezone doğru hesaplanır (yaz/kış saatinde de)
+  return new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Europe/Istanbul',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).format(d); // en-CA => YYYY-MM-DD
+}
+
+// Eğer manuel tarih verilmişse onu kullan
+function getTargetYmd() {
+  const fromEnv = process.env.SNAPSHOT_DATE; // ör: 2025-09-21
+  if (fromEnv && /^\d{4}-\d{2}-\d{2}$/.test(fromEnv)) return fromEnv;
+  return ymdIST();
 }
 
 function httpGetJSON(url, headers = {}) {
@@ -22,8 +38,12 @@ function httpGetJSON(url, headers = {}) {
       let data = '';
       res.on('data', (c) => (data += c));
       res.on('end', () => {
-        try { resolve(JSON.parse(data)); }
-        catch (e) { reject(new Error(`JSON parse error for ${url}: ${e.message}`)); }
+        try {
+          const json = JSON.parse(data);
+          resolve(json);
+        } catch (e) {
+          reject(new Error(`JSON parse error for ${url}: ${e.message}`));
+        }
       });
     });
     req.on('error', reject);
@@ -31,10 +51,13 @@ function httpGetJSON(url, headers = {}) {
   });
 }
 
+// Bugünün tüm fikstürleri (gerekirse lig filtresi ekleyebilirsin)
 async function fetchFixturesForDate(ymd) {
   const url = `${API_BASE}/fixtures?date=${ymd}`;
   const json = await httpGetJSON(url, { 'x-apisports-key': API_KEY });
   const list = json?.response || [];
+
+  // Uygulamanın ihtiyacı olan minimum alanlara düzleştir
   const fixtures = list.map((it) => ({
     fixtureId: it?.fixture?.id,
     leagueId: it?.league?.id,
@@ -43,32 +66,45 @@ async function fetchFixturesForDate(ymd) {
     awayTeamId: it?.teams?.away?.id,
     homeTeam: it?.teams?.home?.name,
     awayTeam: it?.teams?.away?.name,
+    // istersen ileride şunları da ekleyebilirsin:
+    // fixtureDate: it?.fixture?.date,
+    // leagueName: it?.league?.name,
+    // status: it?.fixture?.status?.short
   }));
-  return fixtures.filter(f =>
-    f.fixtureId && f.homeTeamId && f.awayTeamId && f.leagueId && f.season
+
+  // Null/undefined değerleri süz
+  return fixtures.filter(
+    (f) =>
+      f.fixtureId && f.homeTeamId && f.awayTeamId && f.leagueId && f.season
   );
 }
 
 async function main() {
-  if (!API_KEY) throw new Error('Missing APISPORTS_KEY secret.');
+  if (!API_KEY) {
+    throw new Error('Missing APISPORTS_KEY secret.');
+  }
 
-  const ymd = ymdIST();
+  const ymd = getTargetYmd();
   const dir = path.join('snapshots', ymd);
   fs.mkdirSync(dir, { recursive: true });
 
   // 1) fixtures.json
   const fixtures = await fetchFixturesForDate(ymd);
-  fs.writeFileSync(path.join(dir, 'fixtures.json'), JSON.stringify(fixtures, null, 2));
-  console.log(`Wrote ${fixtures.length} fixtures → snapshots/${ymd}/fixtures.json`);
+  const fixturesPath = path.join(dir, 'fixtures.json');
+  fs.writeFileSync(fixturesPath, JSON.stringify(fixtures, null, 2));
+  console.log(`Wrote ${fixtures.length} fixtures → ${fixturesPath}`);
 
-  // 2) predictions.json (şimdilik boş)
+  // 2) predictions.json (yoksa boş map)
   const predsPath = path.join(dir, 'predictions.json');
   if (!fs.existsSync(predsPath)) {
     fs.writeFileSync(predsPath, JSON.stringify({}, null, 2));
-    console.log(`Wrote empty predictions map → snapshots/${ymd}/predictions.json`);
+    console.log(`Wrote empty predictions map → ${predsPath}`);
   } else {
     console.log('predictions.json already exists, keeping as is.');
   }
 }
 
-main().catch((e) => { console.error(e); process.exit(1); });
+main().catch((e) => {
+  console.error(e);
+  process.exit(1);
+});
