@@ -1,0 +1,32 @@
+name: Daily Snapshots
+
+on:
+  schedule:
+    # GitHub Actions cron = UTC. İstanbul 05:35 → UTC 02:35
+    - cron: "35 2 * * *"
+  workflow_dispatch: {}  # Elle tetiklemek için
+
+jobs:
+  build-snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run snapshot script
+        env:
+          APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
+        run: node scripts/snapshot.js
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "snapshot-bot"
+          git config user.email "snapshot-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "No changes" || git commit -m "chore(snapshot): update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
