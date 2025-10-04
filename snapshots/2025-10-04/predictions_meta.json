@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-04T08:20:31.557Z",
+  "generatedAt": "2025-10-04T12:16:39.146Z",
   "mode": "api",
   "lastMatchesCount": 10,
   "teamStatWeights": [
@@ -41,19 +41,11 @@
     "MIN_TEAM_GOAL_FOR_BTTS": 0.8,
     "HOME_AWAY_15": 0.38
   },
-  "constants": {
-    "HOME_ATTACK_WEIGHT": 0.7,
-    "AWAY_DEFENSE_IMPACT": 0.3,
-    "BASE_DEFENSE_VALUE": 1.7,
-    "HOME_ADV": 0.12
-  },
   "fixturesCount": 156,
   "producedCount": 156,
-  "diagnostics": {
-    "apiOkCount": 249,
-    "apiEmptyCount": 63,
-    "apiErrorCount": 0,
-    "defaultUsedCount": 63,
-    "defaultUsedRate": 0.202
+  "sources": {
+    "apiStats": 312,
+    "apiStatsNoSeasonFallback": 0,
+    "defaultFallback": 0
   }
 }
