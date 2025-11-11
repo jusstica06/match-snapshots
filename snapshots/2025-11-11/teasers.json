@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2025-11-11T03:33:50.387Z",
+  "picks": [
+    {
+      "fixtureId": 1374274,
+      "leagueId": 128,
+      "season": 2025,
+      "kickoffTs": 1762820100,
+      "homeTeamId": 458,
+      "homeTeam": "Argentinos JRS",
+      "awayTeamId": 440,
+      "awayTeam": "Belgrano Cordoba",
+      "expectedHome": 1.443,
+      "expectedAway": 0.986,
+      "expectedTotal": 2.429,
+      "teamGoalsHomeLambda": 1.533,
+      "teamGoalsAwayLambda": 0.943,
+      "type": "btts",
+      "label": "Karşılıklı Gol Var",
+      "prob": 0.4989
+    },
+    {
+      "fixtureId": 1374278,
+      "leagueId": 128,
+      "season": 2025,
+      "kickoffTs": 1762820100,
+      "homeTeamId": 473,
+      "homeTeam": "Independ. Rivadavia",
+      "awayTeamId": 1065,
+      "awayTeam": "Central Cordoba de Santiago",
+      "expectedHome": 0.813,
+      "expectedAway": 0.785,
+      "expectedTotal": 1.598,
+      "teamGoalsHomeLambda": 0.773,
+      "teamGoalsAwayLambda": 0.786,
+      "type": "doubleChance",
+      "label": "Ev veya Beraberlik (1X)",
+      "prob": 0.681,
+      "dcPick": "1X"
+    }
+  ]
+}
