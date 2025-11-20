@@ -1,34 +1,4 @@
 {
-  "32": {
-    "id": 32,
-    "name": "World Cup - Qualification Europe",
-    "type": "Cup",
-    "logo": "https://media.api-sports.io/football/leagues/32.png",
-    "country": {
-      "name": "World",
-      "code": null,
-      "flag": null
-    },
-    "season": 2024,
-    "seasons": [
-      2018,
-      2020,
-      2024
-    ],
-    "coverage": {
-      "standings": true,
-      "players": true,
-      "topScorers": true,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": true,
-        "statistics_players": true
-      }
-    }
-  },
   "71": {
     "id": 71,
     "name": "Serie A",
@@ -69,6 +39,48 @@
         "lineups": true,
         "statistics_fixtures": true,
         "statistics_players": true
+      }
+    }
+  },
+  "120": {
+    "id": 120,
+    "name": "1. Division",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/120.png",
+    "country": {
+      "name": "Denmark",
+      "code": "DK",
+      "flag": "https://media.api-sports.io/flags/dk.svg"
+    },
+    "season": 2025,
+    "seasons": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": false,
+        "statistics_players": false
       }
     }
   }
