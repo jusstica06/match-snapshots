@@ -2354,7 +2354,7 @@
       {
         "fixture": {
           "id": 1382791,
-          "referee": null,
+          "referee": "Calum Scott, Scotland",
           "timezone": "UTC",
           "date": "2026-01-03T15:00:00+00:00",
           "timestamp": 1767452400,
@@ -3372,7 +3372,7 @@
       {
         "fixture": {
           "id": 1382788,
-          "referee": null,
+          "referee": "John Beaton, Scotland",
           "timezone": "UTC",
           "date": "2026-01-03T15:00:00+00:00",
           "timestamp": 1767452400,
@@ -4390,7 +4390,7 @@
       {
         "fixture": {
           "id": 1382789,
-          "referee": null,
+          "referee": "Chris Graham, Scotland",
           "timezone": "UTC",
           "date": "2026-01-03T15:00:00+00:00",
           "timestamp": 1767452400,
@@ -6098,6 +6098,2000 @@
           "fulltime": {
             "home": 0,
             "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
+  "352": {
+    "statistics": {
+      "league": {
+        "id": 110,
+        "name": "Premier League",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/leagues/110.png",
+        "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+        "season": 2025
+      },
+      "team": {
+        "id": 352,
+        "name": "Bala Town",
+        "logo": "https://media.api-sports.io/football/teams/352.png"
+      },
+      "form": "DWLWWDLDWLLLLDWLLDLL",
+      "fixtures": {
+        "played": {
+          "home": 11,
+          "away": 9,
+          "total": 20
+        },
+        "wins": {
+          "home": 2,
+          "away": 3,
+          "total": 5
+        },
+        "draws": {
+          "home": 5,
+          "away": 0,
+          "total": 5
+        },
+        "loses": {
+          "home": 4,
+          "away": 6,
+          "total": 10
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 8,
+            "away": 6,
+            "total": 14
+          },
+          "average": {
+            "home": "0.7",
+            "away": "0.7",
+            "total": "0.7"
+          },
+          "minute": {
+            "0-15": {
+              "total": 4,
+              "percentage": "26.67%"
+            },
+            "16-30": {
+              "total": 4,
+              "percentage": "26.67%"
+            },
+            "31-45": {
+              "total": 1,
+              "percentage": "6.67%"
+            },
+            "46-60": {
+              "total": 3,
+              "percentage": "20.00%"
+            },
+            "61-75": {
+              "total": 2,
+              "percentage": "13.33%"
+            },
+            "76-90": {
+              "total": 1,
+              "percentage": "6.67%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 10,
+              "under": 10
+            },
+            "1.5": {
+              "over": 3,
+              "under": 17
+            },
+            "2.5": {
+              "over": 1,
+              "under": 19
+            },
+            "3.5": {
+              "over": 0,
+              "under": 20
+            },
+            "4.5": {
+              "over": 0,
+              "under": 20
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 13,
+            "away": 15,
+            "total": 28
+          },
+          "average": {
+            "home": "1.2",
+            "away": "1.7",
+            "total": "1.4"
+          },
+          "minute": {
+            "0-15": {
+              "total": 5,
+              "percentage": "18.52%"
+            },
+            "16-30": {
+              "total": 4,
+              "percentage": "14.81%"
+            },
+            "31-45": {
+              "total": 4,
+              "percentage": "14.81%"
+            },
+            "46-60": {
+              "total": 5,
+              "percentage": "18.52%"
+            },
+            "61-75": {
+              "total": 7,
+              "percentage": "25.93%"
+            },
+            "76-90": {
+              "total": 2,
+              "percentage": "7.41%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 14,
+              "under": 6
+            },
+            "1.5": {
+              "over": 11,
+              "under": 9
+            },
+            "2.5": {
+              "over": 2,
+              "under": 18
+            },
+            "3.5": {
+              "over": 1,
+              "under": 19
+            },
+            "4.5": {
+              "over": 0,
+              "under": 20
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 2,
+          "draws": 1,
+          "loses": 4
+        },
+        "wins": {
+          "home": "1-0",
+          "away": "1-3"
+        },
+        "loses": {
+          "home": "1-3",
+          "away": "4-0"
+        },
+        "goals": {
+          "for": {
+            "home": 2,
+            "away": 3
+          },
+          "against": {
+            "home": 3,
+            "away": 4
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 4,
+        "away": 2,
+        "total": 6
+      },
+      "failed_to_score": {
+        "home": 5,
+        "away": 5,
+        "total": 10
+      },
+      "penalty": {
+        "scored": {
+          "total": 1,
+          "percentage": "100.00%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 1
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": 3,
+            "percentage": "11.54%"
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": 3,
+            "percentage": "11.54%"
+          },
+          "46-60": {
+            "total": 9,
+            "percentage": "34.62%"
+          },
+          "61-75": {
+            "total": 5,
+            "percentage": "19.23%"
+          },
+          "76-90": {
+            "total": 4,
+            "percentage": "15.38%"
+          },
+          "91-105": {
+            "total": 2,
+            "percentage": "7.69%"
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": 1,
+            "percentage": "33.33%"
+          },
+          "61-75": {
+            "total": 1,
+            "percentage": "33.33%"
+          },
+          "76-90": {
+            "total": 1,
+            "percentage": "33.33%"
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1401134,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-12-31T12:30:00+00:00",
+          "timestamp": 1767184200,
+          "periods": {
+            "first": 1767184200,
+            "second": 1767187800
+          },
+          "venue": {
+            "id": null,
+            "name": "Maes Tegid",
+            "city": "Bala"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 21",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 352,
+            "name": "Bala Town",
+            "logo": "https://media.api-sports.io/football/teams/352.png",
+            "winner": false
+          },
+          "away": {
+            "id": 356,
+            "name": "Caernarfon Town",
+            "logo": "https://media.api-sports.io/football/teams/356.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401123,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-12-05T19:45:00+00:00",
+          "timestamp": 1764963900,
+          "periods": {
+            "first": 1764963900,
+            "second": 1764967500
+          },
+          "venue": {
+            "id": null,
+            "name": "Maes Tegid",
+            "city": "Bala"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 19",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 352,
+            "name": "Bala Town",
+            "logo": "https://media.api-sports.io/football/teams/352.png",
+            "winner": false
+          },
+          "away": {
+            "id": 2194,
+            "name": "Haverfordwest County AFC",
+            "logo": "https://media.api-sports.io/football/teams/2194.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401117,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-29T14:30:00+00:00",
+          "timestamp": 1764426600,
+          "periods": {
+            "first": 1764426600,
+            "second": 1764430200
+          },
+          "venue": {
+            "id": null,
+            "name": "Maes Tegid",
+            "city": "Bala"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 18",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 352,
+            "name": "Bala Town",
+            "logo": "https://media.api-sports.io/football/teams/352.png",
+            "winner": null
+          },
+          "away": {
+            "id": 353,
+            "name": "Cardiff MET",
+            "logo": "https://media.api-sports.io/football/teams/353.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401113,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-15T14:30:00+00:00",
+          "timestamp": 1763217000,
+          "periods": {
+            "first": 1763217000,
+            "second": 1763220600
+          },
+          "venue": {
+            "id": null,
+            "name": "Bryntirion Park",
+            "city": "Bridgend"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 17",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2191,
+            "name": "Penybont",
+            "logo": "https://media.api-sports.io/football/teams/2191.png",
+            "winner": true
+          },
+          "away": {
+            "id": 352,
+            "name": "Bala Town",
+            "logo": "https://media.api-sports.io/football/teams/352.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401104,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-07T19:45:00+00:00",
+          "timestamp": 1762544700,
+          "periods": {
+            "first": 1762544700,
+            "second": 1762548300
+          },
+          "venue": {
+            "id": 1671,
+            "name": "Old Road",
+            "city": "Briton Ferry"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2201,
+            "name": "Briton Ferry",
+            "logo": "https://media.api-sports.io/football/teams/2201.png",
+            "winner": true
+          },
+          "away": {
+            "id": 352,
+            "name": "Bala Town",
+            "logo": "https://media.api-sports.io/football/teams/352.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401097,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-31T19:45:00+00:00",
+          "timestamp": 1761939900,
+          "periods": {
+            "first": 1761939900,
+            "second": 1761943500
+          },
+          "venue": {
+            "id": null,
+            "name": "Maes Tegid",
+            "city": "Bala"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 15",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 352,
+            "name": "Bala Town",
+            "logo": "https://media.api-sports.io/football/teams/352.png",
+            "winner": true
+          },
+          "away": {
+            "id": 355,
+            "name": "llanelli AFC",
+            "logo": "https://media.api-sports.io/football/teams/355.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401096,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-25T13:30:00+00:00",
+          "timestamp": 1761399000,
+          "periods": {
+            "first": 1761399000,
+            "second": 1761402600
+          },
+          "venue": {
+            "id": null,
+            "name": "Maes Tegid",
+            "city": "Bala"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 352,
+            "name": "Bala Town",
+            "logo": "https://media.api-sports.io/football/teams/352.png",
+            "winner": null
+          },
+          "away": {
+            "id": 361,
+            "name": "Barry Town",
+            "logo": "https://media.api-sports.io/football/teams/361.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401085,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-10T18:45:00+00:00",
+          "timestamp": 1760121900,
+          "periods": {
+            "first": 1760121900,
+            "second": 1760125500
+          },
+          "venue": {
+            "id": null,
+            "name": "Bridge Meadow Stadium",
+            "city": "Haverfordwest"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2194,
+            "name": "Haverfordwest County AFC",
+            "logo": "https://media.api-sports.io/football/teams/2194.png",
+            "winner": true
+          },
+          "away": {
+            "id": 352,
+            "name": "Bala Town",
+            "logo": "https://media.api-sports.io/football/teams/352.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401080,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-07T18:45:00+00:00",
+          "timestamp": 1759862700,
+          "periods": {
+            "first": 1759862700,
+            "second": 1759866300
+          },
+          "venue": {
+            "id": null,
+            "name": "Maes Tegid",
+            "city": "Bala"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 12",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 352,
+            "name": "Bala Town",
+            "logo": "https://media.api-sports.io/football/teams/352.png",
+            "winner": false
+          },
+          "away": {
+            "id": 357,
+            "name": "GAP Connah S Quay FC",
+            "logo": "https://media.api-sports.io/football/teams/357.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401076,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-04T13:30:00+00:00",
+          "timestamp": 1759584600,
+          "periods": {
+            "first": 1759584600,
+            "second": 1759588200
+          },
+          "venue": {
+            "id": null,
+            "name": "Cyncoed Campus",
+            "city": "Cardiff"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 353,
+            "name": "Cardiff MET",
+            "logo": "https://media.api-sports.io/football/teams/353.png",
+            "winner": true
+          },
+          "away": {
+            "id": 352,
+            "name": "Bala Town",
+            "logo": "https://media.api-sports.io/football/teams/352.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
+  "354": {
+    "statistics": {
+      "league": {
+        "id": 110,
+        "name": "Premier League",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/leagues/110.png",
+        "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+        "season": 2025
+      },
+      "team": {
+        "id": 354,
+        "name": "The New Saints",
+        "logo": "https://media.api-sports.io/football/teams/354.png"
+      },
+      "form": "LWWDDWWWWWWWWWWLWWWL",
+      "fixtures": {
+        "played": {
+          "home": 9,
+          "away": 11,
+          "total": 20
+        },
+        "wins": {
+          "home": 7,
+          "away": 8,
+          "total": 15
+        },
+        "draws": {
+          "home": 0,
+          "away": 2,
+          "total": 2
+        },
+        "loses": {
+          "home": 2,
+          "away": 1,
+          "total": 3
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 32,
+            "away": 24,
+            "total": 56
+          },
+          "average": {
+            "home": "3.6",
+            "away": "2.2",
+            "total": "2.8"
+          },
+          "minute": {
+            "0-15": {
+              "total": 8,
+              "percentage": "14.81%"
+            },
+            "16-30": {
+              "total": 7,
+              "percentage": "12.96%"
+            },
+            "31-45": {
+              "total": 9,
+              "percentage": "16.67%"
+            },
+            "46-60": {
+              "total": 12,
+              "percentage": "22.22%"
+            },
+            "61-75": {
+              "total": 9,
+              "percentage": "16.67%"
+            },
+            "76-90": {
+              "total": 9,
+              "percentage": "16.67%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 18,
+              "under": 2
+            },
+            "1.5": {
+              "over": 16,
+              "under": 4
+            },
+            "2.5": {
+              "over": 11,
+              "under": 9
+            },
+            "3.5": {
+              "over": 6,
+              "under": 14
+            },
+            "4.5": {
+              "over": 3,
+              "under": 17
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 10,
+            "away": 8,
+            "total": 18
+          },
+          "average": {
+            "home": "1.1",
+            "away": "0.7",
+            "total": "0.9"
+          },
+          "minute": {
+            "0-15": {
+              "total": 1,
+              "percentage": "5.00%"
+            },
+            "16-30": {
+              "total": 4,
+              "percentage": "20.00%"
+            },
+            "31-45": {
+              "total": 3,
+              "percentage": "15.00%"
+            },
+            "46-60": {
+              "total": 2,
+              "percentage": "10.00%"
+            },
+            "61-75": {
+              "total": 3,
+              "percentage": "15.00%"
+            },
+            "76-90": {
+              "total": 7,
+              "percentage": "35.00%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 9,
+              "under": 11
+            },
+            "1.5": {
+              "over": 6,
+              "under": 14
+            },
+            "2.5": {
+              "over": 3,
+              "under": 17
+            },
+            "3.5": {
+              "over": 0,
+              "under": 20
+            },
+            "4.5": {
+              "over": 0,
+              "under": 20
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 10,
+          "draws": 2,
+          "loses": 1
+        },
+        "wins": {
+          "home": "6-0",
+          "away": "0-4"
+        },
+        "loses": {
+          "home": "0-3",
+          "away": "3-1"
+        },
+        "goals": {
+          "for": {
+            "home": 6,
+            "away": 4
+          },
+          "against": {
+            "home": 3,
+            "away": 3
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 5,
+        "away": 6,
+        "total": 11
+      },
+      "failed_to_score": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      },
+      "penalty": {
+        "scored": {
+          "total": 2,
+          "percentage": "100.00%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 2
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": 2,
+            "percentage": "8.00%"
+          },
+          "16-30": {
+            "total": 3,
+            "percentage": "12.00%"
+          },
+          "31-45": {
+            "total": 7,
+            "percentage": "28.00%"
+          },
+          "46-60": {
+            "total": 2,
+            "percentage": "8.00%"
+          },
+          "61-75": {
+            "total": 5,
+            "percentage": "20.00%"
+          },
+          "76-90": {
+            "total": 6,
+            "percentage": "24.00%"
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": 1,
+            "percentage": "100.00%"
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1401136,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-12-31T14:30:00+00:00",
+          "timestamp": 1767191400,
+          "periods": {
+            "first": 1767191400,
+            "second": 1767195000
+          },
+          "venue": {
+            "id": null,
+            "name": "Essity Stadium",
+            "city": "Flint"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 21",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 357,
+            "name": "GAP Connah S Quay FC",
+            "logo": "https://media.api-sports.io/football/teams/357.png",
+            "winner": true
+          },
+          "away": {
+            "id": 354,
+            "name": "The New Saints",
+            "logo": "https://media.api-sports.io/football/teams/354.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401124,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-12-09T19:45:00+00:00",
+          "timestamp": 1765309500,
+          "periods": {
+            "first": 1765309500,
+            "second": 1765313100
+          },
+          "venue": {
+            "id": 1671,
+            "name": "Old Road",
+            "city": "Briton Ferry"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 19",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2201,
+            "name": "Briton Ferry",
+            "logo": "https://media.api-sports.io/football/teams/2201.png",
+            "winner": false
+          },
+          "away": {
+            "id": 354,
+            "name": "The New Saints",
+            "logo": "https://media.api-sports.io/football/teams/354.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401115,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-28T19:45:00+00:00",
+          "timestamp": 1764359100,
+          "periods": {
+            "first": 1764359100,
+            "second": 1764362700
+          },
+          "venue": {
+            "id": null,
+            "name": "Park Hall",
+            "city": "Oswestry"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 18",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 354,
+            "name": "The New Saints",
+            "logo": "https://media.api-sports.io/football/teams/354.png",
+            "winner": true
+          },
+          "away": {
+            "id": 356,
+            "name": "Caernarfon Town",
+            "logo": "https://media.api-sports.io/football/teams/356.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401110,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-14T19:45:00+00:00",
+          "timestamp": 1763149500,
+          "periods": {
+            "first": 1763149500,
+            "second": 1763153100
+          },
+          "venue": {
+            "id": null,
+            "name": "Essity Stadium",
+            "city": "Flint"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 2
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 17",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 5614,
+            "name": "Flint Town United",
+            "logo": "https://media.api-sports.io/football/teams/5614.png",
+            "winner": false
+          },
+          "away": {
+            "id": 354,
+            "name": "The New Saints",
+            "logo": "https://media.api-sports.io/football/teams/354.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401103,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-07T19:45:00+00:00",
+          "timestamp": 1762544700,
+          "periods": {
+            "first": 1762544700,
+            "second": 1762548300
+          },
+          "venue": {
+            "id": null,
+            "name": "Park Hall",
+            "city": "Oswestry"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 354,
+            "name": "The New Saints",
+            "logo": "https://media.api-sports.io/football/teams/354.png",
+            "winner": false
+          },
+          "away": {
+            "id": 353,
+            "name": "Cardiff MET",
+            "logo": "https://media.api-sports.io/football/teams/353.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401102,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-01T14:30:00+00:00",
+          "timestamp": 1762007400,
+          "periods": {
+            "first": 1762007400,
+            "second": 1762011000
+          },
+          "venue": {
+            "id": null,
+            "name": "Bridge Meadow Stadium",
+            "city": "Haverfordwest"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 15",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2194,
+            "name": "Haverfordwest County AFC",
+            "logo": "https://media.api-sports.io/football/teams/2194.png",
+            "winner": false
+          },
+          "away": {
+            "id": 354,
+            "name": "The New Saints",
+            "logo": "https://media.api-sports.io/football/teams/354.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401091,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-24T18:45:00+00:00",
+          "timestamp": 1761331500,
+          "periods": {
+            "first": 1761331500,
+            "second": 1761335100
+          },
+          "venue": {
+            "id": null,
+            "name": "Stebonheath Park",
+            "city": "Llanelli"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 355,
+            "name": "llanelli AFC",
+            "logo": "https://media.api-sports.io/football/teams/355.png",
+            "winner": false
+          },
+          "away": {
+            "id": 354,
+            "name": "The New Saints",
+            "logo": "https://media.api-sports.io/football/teams/354.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401087,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-11T16:15:00+00:00",
+          "timestamp": 1760199300,
+          "periods": {
+            "first": 1760199300,
+            "second": 1760202900
+          },
+          "venue": {
+            "id": null,
+            "name": "Park Hall",
+            "city": "Oswestry"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 354,
+            "name": "The New Saints",
+            "logo": "https://media.api-sports.io/football/teams/354.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2191,
+            "name": "Penybont",
+            "logo": "https://media.api-sports.io/football/teams/2191.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 6,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 6,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401084,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-07T18:45:00+00:00",
+          "timestamp": 1759862700,
+          "periods": {
+            "first": 1759862700,
+            "second": 1759866300
+          },
+          "venue": {
+            "id": null,
+            "name": "The Oval",
+            "city": "Caernarfon"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 12",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 356,
+            "name": "Caernarfon Town",
+            "logo": "https://media.api-sports.io/football/teams/356.png",
+            "winner": false
+          },
+          "away": {
+            "id": 354,
+            "name": "The New Saints",
+            "logo": "https://media.api-sports.io/football/teams/354.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1401077,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-04T13:30:00+00:00",
+          "timestamp": 1759584600,
+          "periods": {
+            "first": 1759584600,
+            "second": 1759588200
+          },
+          "venue": {
+            "id": null,
+            "name": "Park Hall",
+            "city": "Oswestry"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 110,
+          "name": "Premier League",
+          "country": "Wales",
+          "logo": "https://media.api-sports.io/football/leagues/110.png",
+          "flag": "https://media.api-sports.io/flags/gb-wls.svg",
+          "season": 2025,
+          "round": "Regular Season - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 354,
+            "name": "The New Saints",
+            "logo": "https://media.api-sports.io/football/teams/354.png",
+            "winner": true
+          },
+          "away": {
+            "id": 361,
+            "name": "Barry Town",
+            "logo": "https://media.api-sports.io/football/teams/361.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
           },
           "extratime": {
             "home": null,
@@ -13341,12 +15335,12 @@
               "percentage": "20.00%"
             },
             "76-90": {
-              "total": 3,
-              "percentage": "30.00%"
+              "total": 4,
+              "percentage": "40.00%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "10.00%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
