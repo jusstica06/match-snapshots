@@ -6470,7 +6470,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Decathlon Arena - Stade Pierre Mauroy",
+            "name": "Stade Pierre-Mauroy",
             "city": "Lille"
           },
           "status": {
@@ -11930,7 +11930,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Decathlon Arena - Stade Pierre Mauroy",
+            "name": "Stade Pierre-Mauroy",
             "city": "Lille"
           },
           "status": {
@@ -13884,7 +13884,7 @@
           },
           "venue": {
             "id": null,
-            "name": "LVM-Preußenstadion",
+            "name": "Preussenstadion",
             "city": "Munster"
           },
           "status": {
@@ -15042,7 +15042,7 @@
           },
           "venue": {
             "id": null,
-            "name": "MHP Arena",
+            "name": "MHPArena",
             "city": "Stuttgart"
           },
           "status": {
@@ -15566,7 +15566,7 @@
           },
           "venue": {
             "id": null,
-            "name": "MHP Arena",
+            "name": "MHPArena",
             "city": "Stuttgart"
           },
           "status": {
@@ -15776,7 +15776,7 @@
           },
           "venue": {
             "id": null,
-            "name": "MHP Arena",
+            "name": "MHPArena",
             "city": "Stuttgart"
           },
           "status": {
@@ -15986,7 +15986,7 @@
           },
           "venue": {
             "id": null,
-            "name": "MHP Arena",
+            "name": "MHPArena",
             "city": "Stuttgart"
           },
           "status": {
@@ -20058,7 +20058,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Avnet Arena",
+            "name": "Avnet-Arena",
             "city": "Magdeburg"
           },
           "status": {
@@ -20870,7 +20870,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Avnet Arena",
+            "name": "Avnet-Arena",
             "city": "Magdeburg"
           },
           "status": {
@@ -22677,76 +22677,6 @@
     "lastFixtures": [
       {
         "fixture": {
-          "id": 1382131,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-11T13:30:00+00:00",
-          "timestamp": 1768138200,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1121,
-            "name": "De Vijverberg",
-            "city": "Doetinchem"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2025,
-          "round": "Regular Season - 22",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 199,
-            "name": "De Graafschap",
-            "logo": "https://media.api-sports.io/football/teams/199.png",
-            "winner": null
-          },
-          "away": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1382120,
           "referee": "Martijn Vos, Netherlands",
           "timezone": "UTC",
@@ -23363,6 +23293,76 @@
           },
           "fulltime": {
             "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1477439,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-28T19:00:00+00:00",
+          "timestamp": 1761678000,
+          "periods": {
+            "first": 1761678000,
+            "second": 1761681600
+          },
+          "venue": {
+            "id": null,
+            "name": "Sportpark Panhuis",
+            "city": "Veenendaal"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 90,
+          "name": "KNVB Beker",
+          "country": "Netherlands",
+          "logo": "https://media.api-sports.io/football/leagues/90.png",
+          "flag": "https://media.api-sports.io/flags/nl.svg",
+          "season": 2025,
+          "round": "2nd Preliminary Round",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1261,
+            "name": "GVVV Veenendaal",
+            "logo": "https://media.api-sports.io/football/teams/1261.png",
+            "winner": true
+          },
+          "away": {
+            "id": 199,
+            "name": "De Graafschap",
+            "logo": "https://media.api-sports.io/football/teams/199.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 4,
             "away": 2
           },
           "extratime": {
@@ -35927,7 +35927,7 @@
           },
           "venue": {
             "id": 10514,
-            "name": "Stade Communal du Tivoli",
+            "name": "Easi Arena",
             "city": "La Louviere"
           },
           "status": {
@@ -35997,7 +35997,7 @@
           },
           "venue": {
             "id": null,
-            "name": "The King Power AT Den Dreef Stadium",
+            "name": "Den Dreef",
             "city": "Heverlee"
           },
           "status": {
@@ -36067,7 +36067,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Maurice Dufrasne",
+            "name": "Maurice Dufrasnestadion",
             "city": "Liege"
           },
           "status": {
@@ -36137,7 +36137,7 @@
           },
           "venue": {
             "id": null,
-            "name": "The King Power AT Den Dreef Stadium",
+            "name": "Den Dreef",
             "city": "Heverlee"
           },
           "status": {
@@ -36347,7 +36347,7 @@
           },
           "venue": {
             "id": null,
-            "name": "The King Power AT Den Dreef Stadium",
+            "name": "Den Dreef",
             "city": "Heverlee"
           },
           "status": {
@@ -36417,8 +36417,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Jan Breydel Stadium",
-            "city": "Bruges"
+            "name": "Jan Breydel Stadion",
+            "city": "Brugge"
           },
           "status": {
             "long": "Match Finished",
@@ -36487,7 +36487,7 @@
           },
           "venue": {
             "id": null,
-            "name": "The King Power AT Den Dreef Stadium",
+            "name": "Den Dreef",
             "city": "Heverlee"
           },
           "status": {
@@ -37882,76 +37882,6 @@
     "lastFixtures": [
       {
         "fixture": {
-          "id": 1382124,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-09T19:00:00+00:00",
-          "timestamp": 1767985200,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 20517,
-            "name": "M-Scores Stadion",
-            "city": "Dordrecht"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2025,
-          "round": "Regular Season - 22",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 409,
-            "name": "Dordrecht",
-            "logo": "https://media.api-sports.io/football/teams/409.png",
-            "winner": null
-          },
-          "away": {
-            "id": 424,
-            "name": "Helmond Sport",
-            "logo": "https://media.api-sports.io/football/teams/424.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1382119,
           "referee": "Rick Sturm, Netherlands",
           "timezone": "UTC",
@@ -38579,6 +38509,76 @@
             "away": null
           }
         }
+      },
+      {
+        "fixture": {
+          "id": 1382037,
+          "referee": "Martijn Vos, Netherlands",
+          "timezone": "UTC",
+          "date": "2025-10-24T18:00:00+00:00",
+          "timestamp": 1761328800,
+          "periods": {
+            "first": 1761328800,
+            "second": 1761332400
+          },
+          "venue": {
+            "id": 19214,
+            "name": "GS Staalwerken Stadion",
+            "city": "Helmond"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 89,
+          "name": "Eerste Divisie",
+          "country": "Netherlands",
+          "logo": "https://media.api-sports.io/football/leagues/89.png",
+          "flag": "https://media.api-sports.io/flags/nl.svg",
+          "season": 2025,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 424,
+            "name": "Helmond Sport",
+            "logo": "https://media.api-sports.io/football/teams/424.png",
+            "winner": false
+          },
+          "away": {
+            "id": 409,
+            "name": "Dordrecht",
+            "logo": "https://media.api-sports.io/football/teams/409.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     ]
   },
@@ -38894,76 +38894,6 @@
       }
     },
     "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1382126,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-09T19:00:00+00:00",
-          "timestamp": 1767985200,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1138,
-            "name": "De Geusselt",
-            "city": "Maastricht"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2025,
-          "round": "Regular Season - 22",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 412,
-            "name": "MVV",
-            "logo": "https://media.api-sports.io/football/teams/412.png",
-            "winner": null
-          },
-          "away": {
-            "id": 419,
-            "name": "Almere City FC",
-            "logo": "https://media.api-sports.io/football/teams/419.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
       {
         "fixture": {
           "id": 1382115,
@@ -39583,6 +39513,76 @@
           "fulltime": {
             "home": 3,
             "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1382043,
+          "referee": "Sander van der Eijk, Netherlands",
+          "timezone": "UTC",
+          "date": "2025-10-26T13:30:00+00:00",
+          "timestamp": 1761485400,
+          "periods": {
+            "first": 1761485400,
+            "second": 1761489000
+          },
+          "venue": {
+            "id": 1159,
+            "name": "Koning Willem II Stadion",
+            "city": "Tilburg"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 89,
+          "name": "Eerste Divisie",
+          "country": "Netherlands",
+          "logo": "https://media.api-sports.io/football/leagues/89.png",
+          "flag": "https://media.api-sports.io/flags/nl.svg",
+          "season": 2025,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 195,
+            "name": "Willem II",
+            "logo": "https://media.api-sports.io/football/teams/195.png",
+            "winner": null
+          },
+          "away": {
+            "id": 412,
+            "name": "MVV",
+            "logo": "https://media.api-sports.io/football/teams/412.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
           },
           "extratime": {
             "home": null,
@@ -42000,76 +42000,6 @@
       },
       {
         "fixture": {
-          "id": 1382129,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-10T15:30:00+00:00",
-          "timestamp": 1768059000,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1144,
-            "name": "Mandemakers Stadion",
-            "city": "Waalwijk"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2025,
-          "round": "Regular Season - 22",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 417,
-            "name": "Waalwijk",
-            "logo": "https://media.api-sports.io/football/teams/417.png",
-            "winner": null
-          },
-          "away": {
-            "id": 428,
-            "name": "Jong Utrecht",
-            "logo": "https://media.api-sports.io/football/teams/428.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1382122,
           "referee": null,
           "timezone": "UTC",
@@ -42627,6 +42557,76 @@
             "away": null
           }
         }
+      },
+      {
+        "fixture": {
+          "id": 1382047,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-02T13:30:00+00:00",
+          "timestamp": 1762090200,
+          "periods": {
+            "first": 1762090200,
+            "second": 1762093800
+          },
+          "venue": {
+            "id": 10504,
+            "name": "De Oude Meerdijk",
+            "city": "Emmen"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
+          }
+        },
+        "league": {
+          "id": 89,
+          "name": "Eerste Divisie",
+          "country": "Netherlands",
+          "logo": "https://media.api-sports.io/football/leagues/89.png",
+          "flag": "https://media.api-sports.io/flags/nl.svg",
+          "season": 2025,
+          "round": "Regular Season - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 208,
+            "name": "Emmen",
+            "logo": "https://media.api-sports.io/football/teams/208.png",
+            "winner": null
+          },
+          "away": {
+            "id": 417,
+            "name": "Waalwijk",
+            "logo": "https://media.api-sports.io/football/teams/417.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     ]
   },
@@ -43001,76 +43001,6 @@
           "fulltime": {
             "home": 1,
             "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1382126,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-09T19:00:00+00:00",
-          "timestamp": 1767985200,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1138,
-            "name": "De Geusselt",
-            "city": "Maastricht"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2025,
-          "round": "Regular Season - 22",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 412,
-            "name": "MVV",
-            "logo": "https://media.api-sports.io/football/teams/412.png",
-            "winner": null
-          },
-          "away": {
-            "id": 419,
-            "name": "Almere City FC",
-            "logo": "https://media.api-sports.io/football/teams/419.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
           },
           "extratime": {
             "home": null,
@@ -43641,6 +43571,76 @@
             "away": null
           }
         }
+      },
+      {
+        "fixture": {
+          "id": 1382046,
+          "referee": "Erwin Blank, Netherlands",
+          "timezone": "UTC",
+          "date": "2025-11-03T19:00:00+00:00",
+          "timestamp": 1762196400,
+          "periods": {
+            "first": 1762196400,
+            "second": 1762200000
+          },
+          "venue": {
+            "id": 20517,
+            "name": "M-Scores Stadion",
+            "city": "Dordrecht"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 89,
+          "name": "Eerste Divisie",
+          "country": "Netherlands",
+          "logo": "https://media.api-sports.io/football/leagues/89.png",
+          "flag": "https://media.api-sports.io/flags/nl.svg",
+          "season": 2025,
+          "round": "Regular Season - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 409,
+            "name": "Dordrecht",
+            "logo": "https://media.api-sports.io/football/teams/409.png",
+            "winner": false
+          },
+          "away": {
+            "id": 419,
+            "name": "Almere City FC",
+            "logo": "https://media.api-sports.io/football/teams/419.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     ]
   },
@@ -44019,76 +44019,6 @@
           "fulltime": {
             "home": 1,
             "away": 4
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1382131,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-11T13:30:00+00:00",
-          "timestamp": 1768138200,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1121,
-            "name": "De Vijverberg",
-            "city": "Doetinchem"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2025,
-          "round": "Regular Season - 22",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 199,
-            "name": "De Graafschap",
-            "logo": "https://media.api-sports.io/football/teams/199.png",
-            "winner": null
-          },
-          "away": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
           },
           "extratime": {
             "home": null,
@@ -44659,6 +44589,76 @@
             "away": null
           }
         }
+      },
+      {
+        "fixture": {
+          "id": 1382056,
+          "referee": "Ingmar Oostrom, Netherlands",
+          "timezone": "UTC",
+          "date": "2025-11-07T19:00:00+00:00",
+          "timestamp": 1762542000,
+          "periods": {
+            "first": 1762542000,
+            "second": 1762545600
+          },
+          "venue": {
+            "id": 1126,
+            "name": "Jan Louwers Stadion",
+            "city": "Eindhoven"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 89,
+          "name": "Eerste Divisie",
+          "country": "Netherlands",
+          "logo": "https://media.api-sports.io/football/leagues/89.png",
+          "flag": "https://media.api-sports.io/flags/nl.svg",
+          "season": 2025,
+          "round": "Regular Season - 15",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 422,
+            "name": "FC Eindhoven",
+            "logo": "https://media.api-sports.io/football/teams/422.png",
+            "winner": false
+          },
+          "away": {
+            "id": 421,
+            "name": "Den Bosch",
+            "logo": "https://media.api-sports.io/football/teams/421.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     ]
   },
@@ -44978,76 +44978,6 @@
       }
     },
     "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1382127,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-09T19:00:00+00:00",
-          "timestamp": 1767985200,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1155,
-            "name": "GelreDome",
-            "city": "Arnhem"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2025,
-          "round": "Regular Season - 22",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 200,
-            "name": "Vitesse",
-            "logo": "https://media.api-sports.io/football/teams/200.png",
-            "winner": null
-          },
-          "away": {
-            "id": 422,
-            "name": "FC Eindhoven",
-            "logo": "https://media.api-sports.io/football/teams/422.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
       {
         "fixture": {
           "id": 1502295,
@@ -45671,6 +45601,76 @@
           "extratime": {
             "home": null,
             "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1477442,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-29T19:00:00+00:00",
+          "timestamp": 1761764400,
+          "periods": {
+            "first": 1761764400,
+            "second": 1761768000
+          },
+          "venue": {
+            "id": 2888,
+            "name": "Sportpark Denoek",
+            "city": "Hoek"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "AET",
+            "elapsed": 120,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 90,
+          "name": "KNVB Beker",
+          "country": "Netherlands",
+          "logo": "https://media.api-sports.io/football/leagues/90.png",
+          "flag": "https://media.api-sports.io/flags/nl.svg",
+          "season": 2025,
+          "round": "2nd Preliminary Round",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1276,
+            "name": "Hoek",
+            "logo": "https://media.api-sports.io/football/teams/1276.png",
+            "winner": true
+          },
+          "away": {
+            "id": 422,
+            "name": "FC Eindhoven",
+            "logo": "https://media.api-sports.io/football/teams/422.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": 1,
+            "away": 0
           },
           "penalty": {
             "home": null,
@@ -47501,7 +47501,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Olimpico Grande Torino",
+            "name": "Stadio Olimpico di Torino",
             "city": "Turin"
           },
           "status": {
@@ -49179,7 +49179,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Via del Mare",
+            "name": "Stadio Via del Mare",
             "city": "Lecce"
           },
           "status": {
@@ -52245,7 +52245,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Olimpico Grande Torino",
+            "name": "Stadio Olimpico di Torino",
             "city": "Turin"
           },
           "status": {
@@ -52385,7 +52385,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Olimpico Grande Torino",
+            "name": "Stadio Olimpico di Torino",
             "city": "Turin"
           },
           "status": {
@@ -52525,7 +52525,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Olimpico Grande Torino",
+            "name": "Stadio Olimpico di Torino",
             "city": "Turin"
           },
           "status": {
@@ -52595,7 +52595,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Olimpico Grande Torino",
+            "name": "Stadio Olimpico di Torino",
             "city": "Turin"
           },
           "status": {
@@ -52665,7 +52665,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Via del Mare",
+            "name": "Stadio Via del Mare",
             "city": "Lecce"
           },
           "status": {
@@ -52735,7 +52735,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Olimpico Grande Torino",
+            "name": "Stadio Olimpico di Torino",
             "city": "Turin"
           },
           "status": {
@@ -53411,7 +53411,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -54557,7 +54557,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -55233,7 +55233,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Via del Mare",
+            "name": "Stadio Via del Mare",
             "city": "Lecce"
           },
           "status": {
@@ -57199,7 +57199,7 @@
           },
           "venue": {
             "id": null,
-            "name": "El Sardinero",
+            "name": "Estadio El Sardinero",
             "city": "Santander"
           },
           "status": {
@@ -57410,7 +57410,7 @@
           "venue": {
             "id": null,
             "name": "RCDE Stadium",
-            "city": "Cornella"
+            "city": "Cornella de Llobregat"
           },
           "status": {
             "long": "Match Finished",
@@ -57619,7 +57619,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Spotify Camp Nou",
+            "name": "Camp Nou",
             "city": "Barcelona"
           },
           "status": {
@@ -57759,8 +57759,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio de la Cartuja",
-            "city": "Seville"
+            "name": "Estadio de La Cartuja",
+            "city": "Sevilla"
           },
           "status": {
             "long": "Match Finished",
@@ -57829,7 +57829,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Spotify Camp Nou",
+            "name": "Camp Nou",
             "city": "Barcelona"
           },
           "status": {
@@ -58217,7 +58217,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Riazor",
+            "name": "Estadio Municipal de Riazor",
             "city": "La Coruña"
           },
           "status": {
@@ -58567,7 +58567,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Riyadh Air Metropolitano",
+            "name": "Metropolitano Stadium",
             "city": "Madrid"
           },
           "status": {
@@ -58777,7 +58777,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Spotify Camp Nou",
+            "name": "Camp Nou",
             "city": "Barcelona"
           },
           "status": {
@@ -58847,7 +58847,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Riyadh Air Metropolitano",
+            "name": "Metropolitano Stadium",
             "city": "Madrid"
           },
           "status": {
@@ -59581,7 +59581,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Riyadh Air Metropolitano",
+            "name": "Metropolitano Stadium",
             "city": "Madrid"
           },
           "status": {
@@ -60311,7 +60311,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Ibercaja Estadio",
+            "name": "Ibercaja Stadium",
             "city": "Zaragoza"
           },
           "status": {
@@ -60591,7 +60591,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Municipal Castalia",
+            "name": "Estadio Municipal de Castalia",
             "city": "Castellon"
           },
           "status": {
@@ -63303,7 +63303,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Polideportivo Mendizorrotza",
+            "name": "Estadio Mendizorrotza",
             "city": "Vitoria-Gasteiz"
           },
           "status": {
@@ -63863,7 +63863,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Spotify Camp Nou",
+            "name": "Camp Nou",
             "city": "Barcelona"
           },
           "status": {
@@ -64461,8 +64461,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio de la Cartuja",
-            "city": "Seville"
+            "name": "Estadio de La Cartuja",
+            "city": "Sevilla"
           },
           "status": {
             "long": "Match Finished",
@@ -65623,8 +65623,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Pepico Amat",
-            "city": "Alicante"
+            "name": "Estadio Nuevo Pepico Amat",
+            "city": "Elda"
           },
           "status": {
             "long": "Match Finished",
@@ -67520,7 +67520,7 @@
           "venue": {
             "id": null,
             "name": "Lotto Park",
-            "city": "Brussels"
+            "city": "Anderlecht"
           },
           "status": {
             "long": "Match Finished",
@@ -67660,7 +67660,7 @@
           "venue": {
             "id": null,
             "name": "Lotto Park",
-            "city": "Brussels"
+            "city": "Anderlecht"
           },
           "status": {
             "long": "Match Finished",
@@ -67870,7 +67870,7 @@
           "venue": {
             "id": null,
             "name": "Lotto Park",
-            "city": "Brussels"
+            "city": "Anderlecht"
           },
           "status": {
             "long": "Match Finished",
@@ -67939,7 +67939,7 @@
           },
           "venue": {
             "id": 10514,
-            "name": "Stade Communal du Tivoli",
+            "name": "Easi Arena",
             "city": "La Louviere"
           },
           "status": {
@@ -68010,7 +68010,7 @@
           "venue": {
             "id": null,
             "name": "Lotto Park",
-            "city": "Brussels"
+            "city": "Anderlecht"
           },
           "status": {
             "long": "Match Finished",
@@ -70647,8 +70647,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Jan Breydel Stadium",
-            "city": "Bruges"
+            "name": "Jan Breydel Stadion",
+            "city": "Brugge"
           },
           "status": {
             "long": "Match Finished",
@@ -74707,7 +74707,7 @@
           },
           "venue": {
             "id": null,
-            "name": "La Romareda",
+            "name": "Ibercaja Stadium",
             "city": "Zaragoza"
           },
           "status": {
@@ -75589,7 +75589,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Municipal Castalia",
+            "name": "Estadio Municipal de Castalia",
             "city": "Castellon"
           },
           "status": {
@@ -76149,7 +76149,7 @@
           },
           "venue": {
             "id": null,
-            "name": "La Romareda",
+            "name": "Ibercaja Stadium",
             "city": "Zaragoza"
           },
           "status": {
@@ -76541,7 +76541,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Polideportivo Mendizorrotza",
+            "name": "Estadio Mendizorrotza",
             "city": "Vitoria-Gasteiz"
           },
           "status": {
@@ -77102,7 +77102,7 @@
           "venue": {
             "id": null,
             "name": "RCDE Stadium",
-            "city": "Cornella"
+            "city": "Cornella de Llobregat"
           },
           "status": {
             "long": "Match Finished",
@@ -77629,7 +77629,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Maurice Dufrasne",
+            "name": "Maurice Dufrasnestadion",
             "city": "Liege"
           },
           "status": {
@@ -77769,7 +77769,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Maurice Dufrasne",
+            "name": "Maurice Dufrasnestadion",
             "city": "Liege"
           },
           "status": {
@@ -77839,8 +77839,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Jan Breydel Stadium",
-            "city": "Bruges"
+            "name": "Jan Breydel Stadion",
+            "city": "Brugge"
           },
           "status": {
             "long": "Match Finished",
@@ -77979,7 +77979,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Veoliastadion Achter De Kazerne",
+            "name": "Achter de Kazerne",
             "city": "Mechelen"
           },
           "status": {
@@ -78049,7 +78049,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Maurice Dufrasne",
+            "name": "Maurice Dufrasnestadion",
             "city": "Liege"
           },
           "status": {
@@ -78119,8 +78119,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stayen",
-            "city": "Sint- Truiden"
+            "name": "Daio Wasabi Stayen",
+            "city": "Sint-Truiden"
           },
           "status": {
             "long": "Match Finished",
@@ -78189,7 +78189,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Maurice Dufrasne",
+            "name": "Maurice Dufrasnestadion",
             "city": "Liege"
           },
           "status": {
@@ -78565,7 +78565,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Maurice Dufrasne",
+            "name": "Maurice Dufrasnestadion",
             "city": "Liege"
           },
           "status": {
@@ -78635,8 +78635,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stayen",
-            "city": "Sint- Truiden"
+            "name": "Daio Wasabi Stayen",
+            "city": "Sint-Truiden"
           },
           "status": {
             "long": "Match Finished",
@@ -78706,7 +78706,7 @@
           "venue": {
             "id": null,
             "name": "Lotto Park",
-            "city": "Brussels"
+            "city": "Anderlecht"
           },
           "status": {
             "long": "Match Finished",
@@ -78775,8 +78775,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stayen",
-            "city": "Sint- Truiden"
+            "name": "Daio Wasabi Stayen",
+            "city": "Sint-Truiden"
           },
           "status": {
             "long": "Match Finished",
@@ -78985,7 +78985,7 @@
           },
           "venue": {
             "id": null,
-            "name": "The King Power AT Den Dreef Stadium",
+            "name": "Den Dreef",
             "city": "Heverlee"
           },
           "status": {
@@ -79055,8 +79055,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stayen",
-            "city": "Sint- Truiden"
+            "name": "Daio Wasabi Stayen",
+            "city": "Sint-Truiden"
           },
           "status": {
             "long": "Match Finished",
@@ -79125,8 +79125,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stayen",
-            "city": "Sint- Truiden"
+            "name": "Daio Wasabi Stayen",
+            "city": "Sint-Truiden"
           },
           "status": {
             "long": "Match Finished",
@@ -79712,7 +79712,7 @@
           "venue": {
             "id": null,
             "name": "Lotto Park",
-            "city": "Brussels"
+            "city": "Anderlecht"
           },
           "status": {
             "long": "Match Finished",
@@ -79921,7 +79921,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Veoliastadion Achter De Kazerne",
+            "name": "Achter de Kazerne",
             "city": "Mechelen"
           },
           "status": {
@@ -80131,8 +80131,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Jan Breydel Stadium",
-            "city": "Bruges"
+            "name": "Jan Breydel Stadion",
+            "city": "Brugge"
           },
           "status": {
             "long": "Match Finished",
@@ -81013,8 +81013,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Jan Breydel Stadium",
-            "city": "Bruges"
+            "name": "Jan Breydel Stadion",
+            "city": "Brugge"
           },
           "status": {
             "long": "Match Finished",
@@ -81223,8 +81223,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stayen",
-            "city": "Sint- Truiden"
+            "name": "Daio Wasabi Stayen",
+            "city": "Sint-Truiden"
           },
           "status": {
             "long": "Match Finished",
@@ -83877,7 +83877,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Municipal Castalia",
+            "name": "Estadio Municipal de Castalia",
             "city": "Castellon"
           },
           "status": {
@@ -84747,7 +84747,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Via del Mare",
+            "name": "Stadio Via del Mare",
             "city": "Lecce"
           },
           "status": {
@@ -84817,7 +84817,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Via del Mare",
+            "name": "Stadio Via del Mare",
             "city": "Lecce"
           },
           "status": {
@@ -84957,7 +84957,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Via del Mare",
+            "name": "Stadio Via del Mare",
             "city": "Lecce"
           },
           "status": {
@@ -85027,7 +85027,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Via del Mare",
+            "name": "Stadio Via del Mare",
             "city": "Lecce"
           },
           "status": {
@@ -85167,7 +85167,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Via del Mare",
+            "name": "Stadio Via del Mare",
             "city": "Lecce"
           },
           "status": {
@@ -85307,7 +85307,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Via del Mare",
+            "name": "Stadio Via del Mare",
             "city": "Lecce"
           },
           "status": {
@@ -86690,6 +86690,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1469631,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-18T03:00:00+00:00",
+          "timestamp": 1768705200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Central Coast Stadium",
+            "city": "Gosford"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 22,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 188,
+          "name": "A-League",
+          "country": "Australia",
+          "logo": "https://media.api-sports.io/football/leagues/188.png",
+          "flag": "https://media.api-sports.io/flags/au.svg",
+          "season": 2025,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 941,
+            "name": "Central Coast Mariners",
+            "logo": "https://media.api-sports.io/football/teams/941.png",
+            "winner": null
+          },
+          "away": {
+            "id": 15550,
+            "name": "Macarthur",
+            "logo": "https://media.api-sports.io/football/teams/15550.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1469625,
           "referee": "Benjamin Abraham, Australia",
           "timezone": "UTC",
@@ -87306,76 +87376,6 @@
           },
           "fulltime": {
             "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1469575,
-          "referee": "Timothy Danaskos, Australia",
-          "timezone": "UTC",
-          "date": "2025-11-02T06:00:00+00:00",
-          "timestamp": 1762063200,
-          "periods": {
-            "first": 1762063200,
-            "second": 1762066800
-          },
-          "venue": {
-            "id": null,
-            "name": "Central Coast Stadium",
-            "city": "Gosford"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 188,
-          "name": "A-League",
-          "country": "Australia",
-          "logo": "https://media.api-sports.io/football/leagues/188.png",
-          "flag": "https://media.api-sports.io/flags/au.svg",
-          "season": 2025,
-          "round": "Regular Season - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 941,
-            "name": "Central Coast Mariners",
-            "logo": "https://media.api-sports.io/football/teams/941.png",
-            "winner": null
-          },
-          "away": {
-            "id": 942,
-            "name": "Wellington Phoenix",
-            "logo": "https://media.api-sports.io/football/teams/942.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
             "away": 1
           },
           "extratime": {
@@ -102185,8 +102185,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Alinma Stadium",
-            "city": "Buraidah"
+            "name": "Al-Hazem Club Stadium",
+            "city": "Ar Rass"
           },
           "status": {
             "long": "Match Finished",
@@ -103059,7 +103059,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Al-Awwal Park",
+            "name": "King Saud University Stadium",
             "city": "Riyadh"
           },
           "status": {
@@ -104221,7 +104221,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Alinma Stadium",
+            "name": "Al Taawon Arena",
             "city": "Buraidah"
           },
           "status": {
@@ -105453,8 +105453,8 @@
           },
           "venue": {
             "id": null,
-            "name": "King Abdullah Sport City Stadium",
-            "city": "Buraidah"
+            "name": "Al-Hazem Club Stadium",
+            "city": "Ar Rass"
           },
           "status": {
             "long": "Match Finished",
@@ -111105,7 +111105,7 @@
           },
           "venue": {
             "id": null,
-            "name": "El Sardinero",
+            "name": "Estadio El Sardinero",
             "city": "Santander"
           },
           "status": {
@@ -111385,7 +111385,7 @@
           },
           "venue": {
             "id": null,
-            "name": "El Sardinero",
+            "name": "Estadio El Sardinero",
             "city": "Santander"
           },
           "status": {
@@ -112259,7 +112259,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Veoliastadion Achter De Kazerne",
+            "name": "Achter de Kazerne",
             "city": "Mechelen"
           },
           "status": {
@@ -112469,7 +112469,7 @@
           },
           "venue": {
             "id": 10514,
-            "name": "Stade Communal du Tivoli",
+            "name": "Easi Arena",
             "city": "La Louviere"
           },
           "status": {
@@ -115514,8 +115514,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estádio Dr. Jorge Sampaio",
-            "city": "Pedroso"
+            "name": "Estadio Luis Filipe Menezes",
+            "city": "Vila Nova de Gaia"
           },
           "status": {
             "long": "Match Finished",
@@ -122294,7 +122294,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Al-Awwal Park",
+            "name": "Al-Shabab Club Stadium",
             "city": "Riyadh"
           },
           "status": {
@@ -122364,7 +122364,7 @@
           },
           "venue": {
             "id": null,
-            "name": "King Khalid Sport City Stadium",
+            "name": "King Khalid Sports City",
             "city": "Tabuk"
           },
           "status": {
@@ -122504,7 +122504,7 @@
           },
           "venue": {
             "id": null,
-            "name": "King Khalid Sport City Stadium",
+            "name": "King Khalid Sports City",
             "city": "Tabuk"
           },
           "status": {
@@ -122574,7 +122574,7 @@
           },
           "venue": {
             "id": null,
-            "name": "King Khalid Sport City Stadium",
+            "name": "King Khalid Sports City",
             "city": "Tabuk"
           },
           "status": {
@@ -122714,7 +122714,7 @@
           },
           "venue": {
             "id": null,
-            "name": "King Khalid Sport City Stadium",
+            "name": "King Khalid Sports City",
             "city": "Tabuk"
           },
           "status": {
@@ -122784,8 +122784,8 @@
           },
           "venue": {
             "id": null,
-            "name": "King Abdullah Sport City Stadium",
-            "city": "Buraidah"
+            "name": "Al-Hazem Club Stadium",
+            "city": "Ar Rass"
           },
           "status": {
             "long": "Match Finished",
@@ -122854,7 +122854,7 @@
           },
           "venue": {
             "id": null,
-            "name": "King Khalid Sport City Stadium",
+            "name": "King Khalid Sports City",
             "city": "Tabuk"
           },
           "status": {
@@ -122924,7 +122924,7 @@
           },
           "venue": {
             "id": null,
-            "name": "King Khalid Sport City Stadium",
+            "name": "King Khalid Sports City",
             "city": "Tabuk"
           },
           "status": {
@@ -125317,6 +125317,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1469631,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-18T03:00:00+00:00",
+          "timestamp": 1768705200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Central Coast Stadium",
+            "city": "Gosford"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 22,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 188,
+          "name": "A-League",
+          "country": "Australia",
+          "logo": "https://media.api-sports.io/football/leagues/188.png",
+          "flag": "https://media.api-sports.io/flags/au.svg",
+          "season": 2025,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 941,
+            "name": "Central Coast Mariners",
+            "logo": "https://media.api-sports.io/football/teams/941.png",
+            "winner": null
+          },
+          "away": {
+            "id": 15550,
+            "name": "Macarthur",
+            "logo": "https://media.api-sports.io/football/teams/15550.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1469624,
           "referee": "Shaun Evans, Australia",
           "timezone": "UTC",
@@ -125934,76 +126004,6 @@
           "fulltime": {
             "home": 0,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1438641,
-          "referee": "Hyeon Jeong Oh, South Korea",
-          "timezone": "UTC",
-          "date": "2025-11-27T07:45:00+00:00",
-          "timestamp": 1764229500,
-          "periods": {
-            "first": 1764229500,
-            "second": 1764233100
-          },
-          "venue": {
-            "id": null,
-            "name": "Campbelltown Stadium",
-            "city": "Sydney"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 18,
-          "name": "AFC Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/18.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Group Stage - 5",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 15550,
-            "name": "Macarthur",
-            "logo": "https://media.api-sports.io/football/teams/15550.png",
-            "winner": true
-          },
-          "away": {
-            "id": 4457,
-            "name": "Wofoo Tai Po",
-            "logo": "https://media.api-sports.io/football/teams/4457.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
           },
           "extratime": {
             "home": null,
