@@ -1,0 +1,150 @@
+{
+  "3": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "type": "Cup",
+    "logo": "https://media.api-sports.io/football/leagues/3.png",
+    "country": {
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "season": 2025,
+    "seasons": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "128": {
+    "id": 128,
+    "name": "Liga Profesional Argentina",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/128.png",
+    "country": {
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": false,
+      "players": false,
+      "topScorers": false,
+      "predictions": true,
+      "odds": false,
+      "fixtures": {
+        "events": false,
+        "lineups": false,
+        "statistics_fixtures": false,
+        "statistics_players": false
+      }
+    }
+  },
+  "307": {
+    "id": 307,
+    "name": "Pro League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/307.png",
+    "country": {
+      "name": "Saudi-Arabia",
+      "code": "SA",
+      "flag": "https://media.api-sports.io/flags/sa.svg"
+    },
+    "season": 2025,
+    "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "705": {
+    "id": 705,
+    "name": "Campionato Primavera - 1",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/705.png",
+    "country": {
+      "name": "Italy",
+      "code": "IT",
+      "flag": "https://media.api-sports.io/flags/it.svg"
+    },
+    "season": 2025,
+    "seasons": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "coverage": {
+      "standings": true,
+      "players": false,
+      "topScorers": false,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": false,
+        "statistics_players": false
+      }
+    }
+  }
+}

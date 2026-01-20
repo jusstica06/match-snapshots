@@ -18524,7 +18524,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Riyadh Air Metropolitano",
+            "name": "Metropolitano Stadium",
             "city": "Madrid"
           },
           "status": {
@@ -20591,6 +20591,76 @@
       },
       {
         "fixture": {
+          "id": 1509298,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-16T08:00:00+00:00",
+          "timestamp": 1768550400,
+          "periods": {
+            "first": 1768550400,
+            "second": 1768554000
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendly",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 616,
+            "name": "NK Osijek",
+            "logo": "https://media.api-sports.io/football/teams/616.png",
+            "winner": false
+          },
+          "away": {
+            "id": 556,
+            "name": "Qarabag",
+            "logo": "https://media.api-sports.io/football/teams/556.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1505772,
           "referee": null,
           "timezone": "UTC",
@@ -21123,76 +21193,6 @@
             "id": 11239,
             "name": "Karvan",
             "logo": "https://media.api-sports.io/football/teams/11239.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1451097,
-          "referee": "Szymon Marciniak, Poland",
-          "timezone": "UTC",
-          "date": "2025-11-25T20:00:00+00:00",
-          "timestamp": 1764100800,
-          "periods": {
-            "first": 1764100800,
-            "second": 1764104400
-          },
-          "venue": {
-            "id": 11904,
-            "name": "Stadio Diego Armando Maradona",
-            "city": "Naples"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 2,
-          "name": "UEFA Champions League",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/2.png",
-          "flag": null,
-          "season": 2025,
-          "round": "League Stage - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 492,
-            "name": "Napoli",
-            "logo": "https://media.api-sports.io/football/teams/492.png",
-            "winner": true
-          },
-          "away": {
-            "id": 556,
-            "name": "Qarabag",
-            "logo": "https://media.api-sports.io/football/teams/556.png",
             "winner": false
           }
         },
@@ -23463,12 +23463,7 @@
         },
         "total": 2
       },
-      "lineups": [
-        {
-          "formation": "4-2-3-1",
-          "played": 1
-        }
-      ],
+      "lineups": [],
       "cards": {
         "yellow": {
           "0-15": {
@@ -25722,8 +25717,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Jan Breydel Stadium",
-            "city": "Bruges"
+            "name": "Jan Breydel Stadion",
+            "city": "Brugge"
           },
           "status": {
             "long": "Match Finished",
@@ -26143,7 +26138,7 @@
           "venue": {
             "id": null,
             "name": "Lotto Park",
-            "city": "Brussels"
+            "city": "Anderlecht"
           },
           "status": {
             "long": "Match Finished",
@@ -29581,31 +29576,31 @@
         "yellow": {
           "0-15": {
             "total": 1,
-            "percentage": "2.78%"
+            "percentage": "2.70%"
           },
           "16-30": {
             "total": 4,
-            "percentage": "11.11%"
+            "percentage": "10.81%"
           },
           "31-45": {
             "total": 1,
-            "percentage": "2.78%"
+            "percentage": "2.70%"
           },
           "46-60": {
             "total": 6,
-            "percentage": "16.67%"
+            "percentage": "16.22%"
           },
           "61-75": {
             "total": 9,
-            "percentage": "25.00%"
+            "percentage": "24.32%"
           },
           "76-90": {
-            "total": 8,
-            "percentage": "22.22%"
+            "total": 9,
+            "percentage": "24.32%"
           },
           "91-105": {
             "total": 7,
-            "percentage": "19.44%"
+            "percentage": "18.92%"
           },
           "106-120": {
             "total": null,
@@ -31517,12 +31512,12 @@
               "percentage": "13.64%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "9.09%"
+              "total": 3,
+              "percentage": "13.64%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "4.55%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -31599,12 +31594,7 @@
         },
         "total": 0
       },
-      "lineups": [
-        {
-          "formation": "4-2-3-1",
-          "played": 1
-        }
-      ],
+      "lineups": [],
       "cards": {
         "yellow": {
           "0-15": {
@@ -32507,12 +32497,12 @@
               "percentage": "17.65%"
             },
             "31-45": {
-              "total": 3,
-              "percentage": "8.82%"
+              "total": 4,
+              "percentage": "11.76%"
             },
             "46-60": {
-              "total": 8,
-              "percentage": "23.53%"
+              "total": 7,
+              "percentage": "20.59%"
             },
             "61-75": {
               "total": 3,
@@ -33746,7 +33736,7 @@
           },
           "venue": {
             "id": null,
-            "name": "King Khalid Sport City Stadium",
+            "name": "King Khalid Sports City",
             "city": "Tabuk"
           },
           "status": {
@@ -39560,12 +39550,12 @@
               "percentage": "15.38%"
             },
             "76-90": {
-              "total": 3,
-              "percentage": "11.54%"
+              "total": 4,
+              "percentage": "15.38%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "3.85%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
