@@ -87655,19 +87655,19 @@
     "lastFixtures": [
       {
         "fixture": {
-          "id": 1502456,
+          "id": 1511814,
           "referee": null,
           "timezone": "UTC",
           "date": "2026-01-18T01:15:00+00:00",
           "timestamp": 1768698900,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1768698900,
+            "second": 1768702500
           },
           "venue": {
             "id": null,
             "name": null,
-            "city": null
+            "city": "Maldonado"
           },
           "status": {
             "long": "Match Finished",
@@ -87677,13 +87677,13 @@
           }
         },
         "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
+          "id": 1216,
+          "name": "Serie Rio De La Plata",
           "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "logo": "https://media.api-sports.io/football/leagues/1216.png",
           "flag": null,
           "season": 2026,
-          "round": "Club Friendlies",
+          "round": "Group Stage",
           "standings": false
         },
         "teams": {
@@ -87720,6 +87720,76 @@
           "penalty": {
             "home": 2,
             "away": 4
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1511803,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-12T00:00:00+00:00",
+          "timestamp": 1768176000,
+          "periods": {
+            "first": 1768176000,
+            "second": 1768179600
+          },
+          "venue": {
+            "id": null,
+            "name": "Gran Parque Central",
+            "city": "Montevideo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1216,
+          "name": "Serie Rio De La Plata",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1216.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Group Stage",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 435,
+            "name": "River Plate",
+            "logo": "https://media.api-sports.io/football/teams/435.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1125,
+            "name": "Millonarios",
+            "logo": "https://media.api-sports.io/football/teams/1125.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
           }
         }
       },
@@ -88271,76 +88341,6 @@
           },
           "fulltime": {
             "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374221,
-          "referee": "Yael Falcon Perez, Argentina",
-          "timezone": "UTC",
-          "date": "2025-10-06T00:15:00+00:00",
-          "timestamp": 1759709700,
-          "periods": {
-            "first": 1759709700,
-            "second": 1759713300
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Gigante de Arroyito",
-            "city": "Rosario"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 11",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 437,
-            "name": "Rosario Central",
-            "logo": "https://media.api-sports.io/football/teams/437.png",
-            "winner": true
-          },
-          "away": {
-            "id": 435,
-            "name": "River Plate",
-            "logo": "https://media.api-sports.io/football/teams/435.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
             "away": 1
           },
           "extratime": {
@@ -89649,6 +89649,216 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491826,
+          "referee": "Bryan Ferreyra,",
+          "timezone": "UTC",
+          "date": "2026-01-24T01:15:00+00:00",
+          "timestamp": 1769217300,
+          "periods": {
+            "first": 1769217300,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Bautista Gargantini",
+            "city": "Mendoza"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 473,
+            "name": "Independ. Rivadavia",
+            "logo": "https://media.api-sports.io/football/teams/473.png",
+            "winner": null
+          },
+          "away": {
+            "id": 455,
+            "name": "Atletico Tucuman",
+            "logo": "https://media.api-sports.io/football/teams/455.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1511809,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-15T21:15:00+00:00",
+          "timestamp": 1768511700,
+          "periods": {
+            "first": 1768511700,
+            "second": 1768515300
+          },
+          "venue": {
+            "id": null,
+            "name": "Parque Federico Omar Saroldi",
+            "city": "Montevideo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1216,
+          "name": "Serie Rio De La Plata",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1216.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Group Stage",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 2363,
+            "name": "Progreso",
+            "logo": "https://media.api-sports.io/football/teams/2363.png",
+            "winner": false
+          },
+          "away": {
+            "id": 455,
+            "name": "Atletico Tucuman",
+            "logo": "https://media.api-sports.io/football/teams/455.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1511804,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-13T00:00:00+00:00",
+          "timestamp": 1768262400,
+          "periods": {
+            "first": 1768262400,
+            "second": 1768266000
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": "Montevideo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1216,
+          "name": "Serie Rio De La Plata",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1216.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Group Stage",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 2369,
+            "name": "Cerro Largo",
+            "logo": "https://media.api-sports.io/football/teams/2369.png",
+            "winner": false
+          },
+          "away": {
+            "id": 455,
+            "name": "Atletico Tucuman",
+            "logo": "https://media.api-sports.io/football/teams/455.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1374295,
           "referee": "Pablo Dovalo, Argentina",
           "timezone": "UTC",
@@ -90136,216 +90346,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374192,
-          "referee": "Facundo Raul Tello Figueroa, Argentina",
-          "timezone": "UTC",
-          "date": "2025-09-21T00:15:00+00:00",
-          "timestamp": 1758413700,
-          "periods": {
-            "first": 1758413700,
-            "second": 1758417300
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Monumental Jose Fierro",
-            "city": "Tucuman"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 455,
-            "name": "Atletico Tucuman",
-            "logo": "https://media.api-sports.io/football/teams/455.png",
-            "winner": true
-          },
-          "away": {
-            "id": 435,
-            "name": "River Plate",
-            "logo": "https://media.api-sports.io/football/teams/435.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374173,
-          "referee": "Fernando Espinoza",
-          "timezone": "UTC",
-          "date": "2025-09-13T00:15:00+00:00",
-          "timestamp": 1757722500,
-          "periods": {
-            "first": 1757722500,
-            "second": 1757726100
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Marcelo Bielsa",
-            "city": "Rosario"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 457,
-            "name": "Newells Old Boys",
-            "logo": "https://media.api-sports.io/football/teams/457.png",
-            "winner": true
-          },
-          "away": {
-            "id": 455,
-            "name": "Atletico Tucuman",
-            "logo": "https://media.api-sports.io/football/teams/455.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374164,
-          "referee": "Pablo Dovalo, Argentina",
-          "timezone": "UTC",
-          "date": "2025-09-01T20:00:00+00:00",
-          "timestamp": 1756756800,
-          "periods": {
-            "first": 1756756800,
-            "second": 1756760400
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Juan Carmelo Zerillo",
-            "city": "La Plata"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 434,
-            "name": "Gimnasia L.P.",
-            "logo": "https://media.api-sports.io/football/teams/434.png",
-            "winner": true
-          },
-          "away": {
-            "id": 455,
-            "name": "Atletico Tucuman",
-            "logo": "https://media.api-sports.io/football/teams/455.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -90644,6 +90644,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1491830,
+          "referee": "Luis Lobo Medina, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-24T01:15:00+00:00",
+          "timestamp": 1769217300,
+          "periods": {
+            "first": 1769217300,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Mario Alberto Kempes",
+            "city": "Cordoba"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 456,
+            "name": "Talleres Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/456.png",
+            "winner": null
+          },
+          "away": {
+            "id": 457,
+            "name": "Newells Old Boys",
+            "logo": "https://media.api-sports.io/football/teams/457.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1486755,
@@ -91273,76 +91343,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374177,
-          "referee": "Sebastian Zunino, Argentina",
-          "timezone": "UTC",
-          "date": "2025-09-14T23:00:00+00:00",
-          "timestamp": 1757890800,
-          "periods": {
-            "first": 1757890800,
-            "second": 1757894400
-          },
-          "venue": {
-            "id": 112,
-            "name": "Estadio José Dellagiovanna",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 452,
-            "name": "Tigre",
-            "logo": "https://media.api-sports.io/football/teams/452.png",
-            "winner": null
-          },
-          "away": {
-            "id": 456,
-            "name": "Talleres Cordoba",
-            "logo": "https://media.api-sports.io/football/teams/456.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -91641,6 +91641,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1491830,
+          "referee": "Luis Lobo Medina, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-24T01:15:00+00:00",
+          "timestamp": 1769217300,
+          "periods": {
+            "first": 1769217300,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Mario Alberto Kempes",
+            "city": "Cordoba"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 456,
+            "name": "Talleres Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/456.png",
+            "winner": null
+          },
+          "away": {
+            "id": 457,
+            "name": "Newells Old Boys",
+            "logo": "https://media.api-sports.io/football/teams/457.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1374290,
@@ -92270,76 +92340,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374173,
-          "referee": "Fernando Espinoza",
-          "timezone": "UTC",
-          "date": "2025-09-13T00:15:00+00:00",
-          "timestamp": 1757722500,
-          "periods": {
-            "first": 1757722500,
-            "second": 1757726100
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Marcelo Bielsa",
-            "city": "Rosario"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 457,
-            "name": "Newells Old Boys",
-            "logo": "https://media.api-sports.io/football/teams/457.png",
-            "winner": true
-          },
-          "away": {
-            "id": 455,
-            "name": "Atletico Tucuman",
-            "logo": "https://media.api-sports.io/football/teams/455.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -92638,6 +92638,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1491826,
+          "referee": "Bryan Ferreyra,",
+          "timezone": "UTC",
+          "date": "2026-01-24T01:15:00+00:00",
+          "timestamp": 1769217300,
+          "periods": {
+            "first": 1769217300,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Bautista Gargantini",
+            "city": "Mendoza"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 473,
+            "name": "Independ. Rivadavia",
+            "logo": "https://media.api-sports.io/football/teams/473.png",
+            "winner": null
+          },
+          "away": {
+            "id": 455,
+            "name": "Atletico Tucuman",
+            "logo": "https://media.api-sports.io/football/teams/455.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1502446,
@@ -93242,76 +93312,6 @@
             "id": 473,
             "name": "Independ. Rivadavia",
             "logo": "https://media.api-sports.io/football/teams/473.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374198,
-          "referee": "Nazareno Arasa, Argentina",
-          "timezone": "UTC",
-          "date": "2025-09-28T22:30:00+00:00",
-          "timestamp": 1759098600,
-          "periods": {
-            "first": 1759098600,
-            "second": 1759102200
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Juan Bautista Gargantini",
-            "city": "Mendoza"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 9
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 473,
-            "name": "Independ. Rivadavia",
-            "logo": "https://media.api-sports.io/football/teams/473.png",
-            "winner": null
-          },
-          "away": {
-            "id": 445,
-            "name": "Huracan",
-            "logo": "https://media.api-sports.io/football/teams/445.png",
             "winner": null
           }
         },
