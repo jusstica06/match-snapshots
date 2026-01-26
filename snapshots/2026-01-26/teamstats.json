@@ -4111,12 +4111,12 @@
               "percentage": "9.09%"
             },
             "76-90": {
-              "total": 9,
-              "percentage": "20.45%"
+              "total": 10,
+              "percentage": "22.73%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.27%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -4354,7 +4354,7 @@
       {
         "fixture": {
           "id": 1382145,
-          "referee": null,
+          "referee": "Rob Dieperink, Netherlands",
           "timezone": "UTC",
           "date": "2026-01-23T19:00:00+00:00",
           "timestamp": 1769194800,
@@ -6394,7 +6394,7 @@
       {
         "fixture": {
           "id": 1382150,
-          "referee": null,
+          "referee": "Arne De Beuckelaer, Belgium",
           "timezone": "UTC",
           "date": "2026-01-23T19:00:00+00:00",
           "timestamp": 1769194800,
@@ -9420,7 +9420,7 @@
       {
         "fixture": {
           "id": 1382148,
-          "referee": null,
+          "referee": "Laurens Gerrets, Netherlands",
           "timezone": "UTC",
           "date": "2026-01-23T19:00:00+00:00",
           "timestamp": 1769194800,
@@ -10259,12 +10259,12 @@
               "percentage": "13.89%"
             },
             "76-90": {
-              "total": 10,
-              "percentage": "27.78%"
+              "total": 11,
+              "percentage": "30.56%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.78%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -10442,7 +10442,7 @@
       {
         "fixture": {
           "id": 1382145,
-          "referee": null,
+          "referee": "Rob Dieperink, Netherlands",
           "timezone": "UTC",
           "date": "2026-01-23T19:00:00+00:00",
           "timestamp": 1769194800,
@@ -13484,7 +13484,7 @@
       {
         "fixture": {
           "id": 1382146,
-          "referee": null,
+          "referee": "Wouter Wiersma, Netherlands",
           "timezone": "UTC",
           "date": "2026-01-23T19:00:00+00:00",
           "timestamp": 1769194800,
@@ -15341,12 +15341,12 @@
               "percentage": "23.26%"
             },
             "76-90": {
-              "total": 7,
-              "percentage": "16.28%"
+              "total": 8,
+              "percentage": "18.60%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.33%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -15512,7 +15512,7 @@
       {
         "fixture": {
           "id": 1382147,
-          "referee": null,
+          "referee": "Joshua Kuipers, Netherlands",
           "timezone": "UTC",
           "date": "2026-01-23T19:00:00+00:00",
           "timestamp": 1769194800,
@@ -16508,6 +16508,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491831,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-26T00:00:00+00:00",
+          "timestamp": 1769385600,
+          "periods": {
+            "first": 1769385600,
+            "second": 1769389200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 452,
+            "name": "Tigre",
+            "logo": "https://media.api-sports.io/football/teams/452.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2424,
+            "name": "Estudiantes de Rio Cuarto",
+            "logo": "https://media.api-sports.io/football/teams/2424.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1488406,
           "referee": "Andres Merlos, Argentina",
           "timezone": "UTC",
@@ -17135,76 +17205,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374186,
-          "referee": "Bryan Ferreyra,",
-          "timezone": "UTC",
-          "date": "2025-09-21T15:00:00+00:00",
-          "timestamp": 1758466800,
-          "periods": {
-            "first": 1758466800,
-            "second": 1758470400
-          },
-          "venue": {
-            "id": 112,
-            "name": "Estadio José Dellagiovanna",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 452,
-            "name": "Tigre",
-            "logo": "https://media.api-sports.io/football/teams/452.png",
-            "winner": true
-          },
-          "away": {
-            "id": 463,
-            "name": "Aldosivi",
-            "logo": "https://media.api-sports.io/football/teams/463.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -17503,6 +17503,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1491819,
+          "referee": "Carlos Andres Gariano, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-26T00:00:00+00:00",
+          "timestamp": 1769385600,
+          "periods": {
+            "first": 1769385600,
+            "second": 1769389200
+          },
+          "venue": {
+            "id": null,
+            "name": "Diego Armando Maradona",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 11
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 458,
+            "name": "Argentinos JRS",
+            "logo": "https://media.api-sports.io/football/teams/458.png",
+            "winner": true
+          },
+          "away": {
+            "id": 474,
+            "name": "Sarmiento Junin",
+            "logo": "https://media.api-sports.io/football/teams/474.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1502449,
@@ -18132,76 +18202,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374231,
-          "referee": "Juan Pafundi, Argentina",
-          "timezone": "UTC",
-          "date": "2025-10-10T19:15:00+00:00",
-          "timestamp": 1760123700,
-          "periods": {
-            "first": 1760123700,
-            "second": 1760127300
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Norberto Tito Tomaghello",
-            "city": "Gobernador Julio A. Costa"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 12",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 442,
-            "name": "Defensa Y Justicia",
-            "logo": "https://media.api-sports.io/football/teams/442.png",
-            "winner": true
-          },
-          "away": {
-            "id": 458,
-            "name": "Argentinos JRS",
-            "logo": "https://media.api-sports.io/football/teams/458.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -18500,6 +18500,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1491819,
+          "referee": "Carlos Andres Gariano, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-26T00:00:00+00:00",
+          "timestamp": 1769385600,
+          "periods": {
+            "first": 1769385600,
+            "second": 1769389200
+          },
+          "venue": {
+            "id": null,
+            "name": "Diego Armando Maradona",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 11
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 458,
+            "name": "Argentinos JRS",
+            "logo": "https://media.api-sports.io/football/teams/458.png",
+            "winner": true
+          },
+          "away": {
+            "id": 474,
+            "name": "Sarmiento Junin",
+            "logo": "https://media.api-sports.io/football/teams/474.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1374298,
@@ -19119,76 +19189,6 @@
           "fulltime": {
             "home": 0,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374182,
-          "referee": "Luis Lobo Medina",
-          "timezone": "UTC",
-          "date": "2025-09-14T00:15:00+00:00",
-          "timestamp": 1757808900,
-          "periods": {
-            "first": 1757808900,
-            "second": 1757812500
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Eva Peron",
-            "city": "Junin"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 474,
-            "name": "Sarmiento Junin",
-            "logo": "https://media.api-sports.io/football/teams/474.png",
-            "winner": true
-          },
-          "away": {
-            "id": 463,
-            "name": "Aldosivi",
-            "logo": "https://media.api-sports.io/football/teams/463.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -36720,6 +36720,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491831,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-26T00:00:00+00:00",
+          "timestamp": 1769385600,
+          "periods": {
+            "first": 1769385600,
+            "second": 1769389200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 452,
+            "name": "Tigre",
+            "logo": "https://media.api-sports.io/football/teams/452.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2424,
+            "name": "Estudiantes de Rio Cuarto",
+            "logo": "https://media.api-sports.io/football/teams/2424.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1486721,
           "referee": null,
           "timezone": "UTC",
@@ -37337,76 +37407,6 @@
           "fulltime": {
             "home": 1,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1331552,
-          "referee": "Jorge Nelson Sosa",
-          "timezone": "UTC",
-          "date": "2025-09-20T20:30:00+00:00",
-          "timestamp": 1758400200,
-          "periods": {
-            "first": 1758400200,
-            "second": 1758403800
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Juan Alberto Garcia",
-            "city": "Resistencia"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 129,
-          "name": "Primera Nacional",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/129.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "Regular Season - 32",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1946,
-            "name": "Chaco For Ever",
-            "logo": "https://media.api-sports.io/football/teams/1946.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2424,
-            "name": "Estudiantes de Rio Cuarto",
-            "logo": "https://media.api-sports.io/football/teams/2424.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -40275,7 +40275,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Alinma Stadium",
+            "name": "King Abdullah Sports City",
             "city": "Jeddah"
           },
           "status": {
