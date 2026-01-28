@@ -10376,7 +10376,7 @@
       {
         "fixture": {
           "id": 1500770,
-          "referee": null,
+          "referee": "L. Guimaraes",
           "timezone": "UTC",
           "date": "2026-01-25T23:00:00+00:00",
           "timestamp": 1769382000,
@@ -11373,7 +11373,7 @@
       {
         "fixture": {
           "id": 1500544,
-          "referee": "Matheus Delgado Candançan, Brazil",
+          "referee": "M. Delgado",
           "timezone": "UTC",
           "date": "2026-01-24T21:30:00+00:00",
           "timestamp": 1769290200,
@@ -12370,7 +12370,7 @@
       {
         "fixture": {
           "id": 1500872,
-          "referee": null,
+          "referee": "A. Gomes Stefano",
           "timezone": "UTC",
           "date": "2026-01-25T21:00:00+00:00",
           "timestamp": 1769374800,
@@ -12440,7 +12440,7 @@
       {
         "fixture": {
           "id": 1500869,
-          "referee": null,
+          "referee": "L. Almeida",
           "timezone": "UTC",
           "date": "2026-01-23T00:30:00+00:00",
           "timestamp": 1769128200,
@@ -13367,7 +13367,7 @@
       {
         "fixture": {
           "id": 1500545,
-          "referee": "Daiane Caroline Muniz Dos Santos, Brazil",
+          "referee": "D. C. Muniz dos Santos",
           "timezone": "UTC",
           "date": "2026-01-25T19:00:00+00:00",
           "timestamp": 1769367600,
@@ -14364,7 +14364,7 @@
       {
         "fixture": {
           "id": 1500770,
-          "referee": null,
+          "referee": "L. Guimaraes",
           "timezone": "UTC",
           "date": "2026-01-25T23:00:00+00:00",
           "timestamp": 1769382000,
@@ -15361,7 +15361,7 @@
       {
         "fixture": {
           "id": 1500548,
-          "referee": "Flavio Rodrigues De Souza, Brazil",
+          "referee": "F. Rodrigues",
           "timezone": "UTC",
           "date": "2026-01-25T23:30:00+00:00",
           "timestamp": 1769383800,
@@ -30443,7 +30443,7 @@
       {
         "fixture": {
           "id": 1491824,
-          "referee": "Leandro Rey Hilfer, Argentina",
+          "referee": "L. Rey Hilfer",
           "timezone": "UTC",
           "date": "2026-01-24T22:30:00+00:00",
           "timestamp": 1769293800,
@@ -31445,7 +31445,7 @@
       {
         "fixture": {
           "id": 1491821,
-          "referee": "Nicolas Ramirez, Argentina",
+          "referee": "N. Ramirez",
           "timezone": "UTC",
           "date": "2026-01-24T20:00:00+00:00",
           "timestamp": 1769284800,
@@ -31455,7 +31455,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Claudio Chiqui Tapia",
+            "name": "Claudio Fabian Tapia",
             "city": "Barracas"
           },
           "status": {
@@ -32447,7 +32447,7 @@
       {
         "fixture": {
           "id": 1491824,
-          "referee": "Leandro Rey Hilfer, Argentina",
+          "referee": "L. Rey Hilfer",
           "timezone": "UTC",
           "date": "2026-01-24T22:30:00+00:00",
           "timestamp": 1769293800,
@@ -33449,7 +33449,7 @@
       {
         "fixture": {
           "id": 1491828,
-          "referee": "Yael Falcon Perez, Argentina",
+          "referee": "Y. Perez",
           "timezone": "UTC",
           "date": "2026-01-25T01:00:00+00:00",
           "timestamp": 1769302800,
@@ -34450,8 +34450,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491842,
+          "referee": "Daniel Zamora, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-28T01:15:00+00:00",
+          "timestamp": 1769562900,
+          "periods": {
+            "first": 1769562900,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Marcelo Bielsa",
+            "city": "Rosario"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 457,
+            "name": "Newells Old Boys",
+            "logo": "https://media.api-sports.io/football/teams/457.png",
+            "winner": false
+          },
+          "away": {
+            "id": 453,
+            "name": "Independiente",
+            "logo": "https://media.api-sports.io/football/teams/453.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491825,
-          "referee": "Nazareno Arasa, Argentina",
+          "referee": "N. Arasa",
           "timezone": "UTC",
           "date": "2026-01-23T23:00:00+00:00",
           "timestamp": 1769209200,
@@ -34462,7 +34532,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Presidente Peron",
-            "city": "Cordoba"
+            "city": "Avellaneda"
           },
           "status": {
             "long": "Match Finished",
@@ -34590,76 +34660,6 @@
       },
       {
         "fixture": {
-          "id": 1511806,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-14T00:00:00+00:00",
-          "timestamp": 1768348800,
-          "periods": {
-            "first": 1768348800,
-            "second": 1768352400
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": "Montevideo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 1216,
-          "name": "Serie Rio De La Plata",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/1216.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 453,
-            "name": "Independiente",
-            "logo": "https://media.api-sports.io/football/teams/453.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2325,
-            "name": "Everton de Vina",
-            "logo": "https://media.api-sports.io/football/teams/2325.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 5,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 5,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1503530,
           "referee": null,
           "timezone": "UTC",
@@ -34717,6 +34717,76 @@
           "fulltime": {
             "home": null,
             "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1511806,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-14T00:00:00+00:00",
+          "timestamp": 1768348800,
+          "periods": {
+            "first": 1768348800,
+            "second": 1768352400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": "Montevideo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1216,
+          "name": "Serie Rio De La Plata",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1216.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Group Stage",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 453,
+            "name": "Independiente",
+            "logo": "https://media.api-sports.io/football/teams/453.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2325,
+            "name": "Everton de Vina",
+            "logo": "https://media.api-sports.io/football/teams/2325.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 3
           },
           "extratime": {
             "home": null,
@@ -35077,76 +35147,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374255,
-          "referee": "Andres Merlos, Argentina",
-          "timezone": "UTC",
-          "date": "2025-10-19T21:00:00+00:00",
-          "timestamp": 1760907600,
-          "periods": {
-            "first": 1760907600,
-            "second": 1760911200
-          },
-          "venue": {
-            "id": 104,
-            "name": "Estadio Ingeniero Hilario Sánchez",
-            "city": "San Juan"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 13",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 461,
-            "name": "San Martin S.J.",
-            "logo": "https://media.api-sports.io/football/teams/461.png",
-            "winner": true
-          },
-          "away": {
-            "id": 453,
-            "name": "Independiente",
-            "logo": "https://media.api-sports.io/football/teams/453.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -35452,8 +35452,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491834,
+          "referee": "Carlos Andres Gariano, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-28T01:15:00+00:00",
+          "timestamp": 1769562900,
+          "periods": {
+            "first": 1769562900,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Monumental Jose Fierro",
+            "city": "San Miguel de Tucuman"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 2
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 455,
+            "name": "Atletico Tucuman",
+            "logo": "https://media.api-sports.io/football/teams/455.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1065,
+            "name": "Central Cordoba de Santiago",
+            "logo": "https://media.api-sports.io/football/teams/1065.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491826,
-          "referee": "Bryan Ferreyra,",
+          "referee": "B. Ferreyra",
           "timezone": "UTC",
           "date": "2026-01-24T01:15:00+00:00",
           "timestamp": 1769217300,
@@ -36079,76 +36149,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374208,
-          "referee": "Leandro Rey Hilfer, Argentina",
-          "timezone": "UTC",
-          "date": "2025-09-29T23:00:00+00:00",
-          "timestamp": 1759186800,
-          "periods": {
-            "first": 1759186800,
-            "second": 1759190400
-          },
-          "venue": {
-            "id": 115,
-            "name": "Estadio José Amalfitani",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 438,
-            "name": "Velez Sarsfield",
-            "logo": "https://media.api-sports.io/football/teams/438.png",
-            "winner": true
-          },
-          "away": {
-            "id": 455,
-            "name": "Atletico Tucuman",
-            "logo": "https://media.api-sports.io/football/teams/455.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -36454,8 +36454,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491842,
+          "referee": "Daniel Zamora, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-28T01:15:00+00:00",
+          "timestamp": 1769562900,
+          "periods": {
+            "first": 1769562900,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Marcelo Bielsa",
+            "city": "Rosario"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 457,
+            "name": "Newells Old Boys",
+            "logo": "https://media.api-sports.io/football/teams/457.png",
+            "winner": false
+          },
+          "away": {
+            "id": 453,
+            "name": "Independiente",
+            "logo": "https://media.api-sports.io/football/teams/453.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491830,
-          "referee": "Luis Lobo Medina, Argentina",
+          "referee": "L. Lobo Medina",
           "timezone": "UTC",
           "date": "2026-01-24T01:15:00+00:00",
           "timestamp": 1769217300,
@@ -37071,76 +37141,6 @@
           "fulltime": {
             "home": 3,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1438717,
-          "referee": "Leandro Rey Hilfer",
-          "timezone": "UTC",
-          "date": "2025-09-17T21:00:00+00:00",
-          "timestamp": 1758142800,
-          "periods": {
-            "first": 1758142800,
-            "second": 1758146400
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio La Pedrera",
-            "city": "San Luis"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 130,
-          "name": "Copa Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/130.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "Quarter-finals",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 457,
-            "name": "Newells Old Boys",
-            "logo": "https://media.api-sports.io/football/teams/457.png",
-            "winner": false
-          },
-          "away": {
-            "id": 440,
-            "name": "Belgrano Cordoba",
-            "logo": "https://media.api-sports.io/football/teams/440.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 3
           },
           "extratime": {
             "home": null,
@@ -48531,7 +48531,7 @@
       {
         "fixture": {
           "id": 1445863,
-          "referee": null,
+          "referee": "R. Ahmadov",
           "timezone": "UTC",
           "date": "2026-01-24T12:30:00+00:00",
           "timestamp": 1769257800,
@@ -53494,7 +53494,7 @@
       "lineups": [
         {
           "formation": "4-1-3-2",
-          "played": 6
+          "played": 7
         },
         {
           "formation": "4-2-3-1",
@@ -53584,7 +53584,7 @@
       {
         "fixture": {
           "id": 1392712,
-          "referee": null,
+          "referee": "M. Ledda",
           "timezone": "UTC",
           "date": "2026-01-25T15:00:00+00:00",
           "timestamp": 1769353200,
@@ -54581,7 +54581,7 @@
       {
         "fixture": {
           "id": 1500545,
-          "referee": "Daiane Caroline Muniz Dos Santos, Brazil",
+          "referee": "D. C. Muniz dos Santos",
           "timezone": "UTC",
           "date": "2026-01-25T19:00:00+00:00",
           "timestamp": 1769367600,
@@ -55578,7 +55578,7 @@
       {
         "fixture": {
           "id": 1500723,
-          "referee": null,
+          "referee": "D. Lacerda",
           "timezone": "UTC",
           "date": "2026-01-25T21:00:00+00:00",
           "timestamp": 1769374800,
@@ -56574,8 +56574,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491834,
+          "referee": "Carlos Andres Gariano, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-28T01:15:00+00:00",
+          "timestamp": 1769562900,
+          "periods": {
+            "first": 1769562900,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Monumental Jose Fierro",
+            "city": "San Miguel de Tucuman"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 2
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 455,
+            "name": "Atletico Tucuman",
+            "logo": "https://media.api-sports.io/football/teams/455.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1065,
+            "name": "Central Cordoba de Santiago",
+            "logo": "https://media.api-sports.io/football/teams/1065.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491823,
-          "referee": null,
+          "referee": "H. Mastrangelo",
           "timezone": "UTC",
           "date": "2026-01-23T01:15:00+00:00",
           "timestamp": 1769130900,
@@ -57191,76 +57261,6 @@
           "fulltime": {
             "home": 0,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374201,
-          "referee": "Fernando Espinoza, Argentina",
-          "timezone": "UTC",
-          "date": "2025-09-27T00:15:00+00:00",
-          "timestamp": 1758932100,
-          "periods": {
-            "first": 1758932100,
-            "second": 1758935700
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Unico Madre de Ciudades",
-            "city": "Santiago del Estero"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1065,
-            "name": "Central Cordoba de Santiago",
-            "logo": "https://media.api-sports.io/football/teams/1065.png",
-            "winner": false
-          },
-          "away": {
-            "id": 452,
-            "name": "Tigre",
-            "logo": "https://media.api-sports.io/football/teams/452.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -59588,7 +59588,7 @@
       {
         "fixture": {
           "id": 1491821,
-          "referee": "Nicolas Ramirez, Argentina",
+          "referee": "N. Ramirez",
           "timezone": "UTC",
           "date": "2026-01-24T20:00:00+00:00",
           "timestamp": 1769284800,
@@ -59598,7 +59598,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Claudio Chiqui Tapia",
+            "name": "Claudio Fabian Tapia",
             "city": "Barracas"
           },
           "status": {
@@ -63565,6 +63565,10 @@
           "played": 5
         },
         {
+          "formation": "4-2-3-1",
+          "played": 3
+        },
+        {
           "formation": "4-3-3",
           "played": 3
         },
@@ -63573,19 +63577,15 @@
           "played": 2
         },
         {
-          "formation": "4-2-3-1",
-          "played": 2
-        },
-        {
-          "formation": "5-4-1",
-          "played": 2
-        },
-        {
           "formation": "3-5-2",
           "played": 1
         },
         {
           "formation": "4-5-1",
+          "played": 1
+        },
+        {
+          "formation": "5-4-1",
           "played": 1
         },
         {
@@ -65728,7 +65728,7 @@
       {
         "fixture": {
           "id": 1415715,
-          "referee": "Dimitris Solomou, Cyprus",
+          "referee": "D. Solomou",
           "timezone": "UTC",
           "date": "2026-01-25T17:00:00+00:00",
           "timestamp": 1769360400,
@@ -66651,12 +66651,12 @@
       },
       "lineups": [
         {
-          "formation": "4-4-2",
+          "formation": "4-3-3",
           "played": 3
         },
         {
-          "formation": "4-3-3",
-          "played": 2
+          "formation": "4-4-2",
+          "played": 3
         },
         {
           "formation": "4-2-3-1",
@@ -66754,7 +66754,7 @@
       {
         "fixture": {
           "id": 1392712,
-          "referee": null,
+          "referee": "M. Ledda",
           "timezone": "UTC",
           "date": "2026-01-25T15:00:00+00:00",
           "timestamp": 1769353200,
@@ -69734,7 +69734,7 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 12
+          "played": 13
         },
         {
           "formation": "5-4-1",
@@ -69816,7 +69816,7 @@
       {
         "fixture": {
           "id": 1392706,
-          "referee": null,
+          "referee": "T. De Keyzer",
           "timezone": "UTC",
           "date": "2026-01-25T15:00:00+00:00",
           "timestamp": 1769353200,
