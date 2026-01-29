@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T02:19:06.103Z",
+  "generatedAt": "2026-01-29T02:19:03.049Z",
   "ymd": "2026-01-29",
   "matches": [
     {
@@ -27,12 +27,12 @@
       "awayTeamId": 2932,
       "homeTeam": "Al-Qadisiyah FC",
       "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 2.261,
-      "expectedAway": 1.826,
-      "expectedTotal": 4.087,
-      "probOver25": 0.602956689521325,
-      "probOver35": 0.6132200000000001,
-      "probBTTS": 0.7683
+      "expectedHome": 2.238,
+      "expectedAway": 1.807,
+      "expectedTotal": 4.045,
+      "probOver25": 0.6012796883190499,
+      "probOver35": 0.60528,
+      "probBTTS": 0.76368
     },
     {
       "fixtureId": 1451285,
@@ -49,22 +49,6 @@
       "probOver25": 0.5792023934866041,
       "probOver35": 0.50946,
       "probBTTS": 0.7090200000000001
-    },
-    {
-      "fixtureId": 1492117,
-      "leagueId": 71,
-      "season": 2026,
-      "kickoffTs": 1769727600000,
-      "homeTeamId": 7848,
-      "awayTeamId": 133,
-      "homeTeam": "Mirassol",
-      "awayTeam": "Vasco DA Gama",
-      "expectedHome": 1.665,
-      "expectedAway": 1.814,
-      "expectedTotal": 3.479,
-      "probOver25": 0.5742163773176556,
-      "probOver35": 0.48958,
-      "probBTTS": 0.69764
     },
     {
       "fixtureId": 1451294,
@@ -97,6 +81,22 @@
       "probOver25": 0.5665097532793866,
       "probOver35": 0.45990000000000003,
       "probBTTS": 0.67844
+    },
+    {
+      "fixtureId": 1492117,
+      "leagueId": 71,
+      "season": 2026,
+      "kickoffTs": 1769727600000,
+      "homeTeamId": 7848,
+      "awayTeamId": 133,
+      "homeTeam": "Mirassol",
+      "awayTeam": "Vasco DA Gama",
+      "expectedHome": 1.591,
+      "expectedAway": 1.733,
+      "expectedTotal": 3.324,
+      "probOver25": 0.5653428986886496,
+      "probOver35": 0.45544000000000007,
+      "probBTTS": 0.675
     },
     {
       "fixtureId": 1451290,
@@ -155,12 +155,12 @@
       "awayTeamId": 2938,
       "homeTeam": "Al-Fateh",
       "awayTeam": "Al-Ittihad FC",
-      "expectedHome": 1.578,
-      "expectedAway": 1.532,
-      "expectedTotal": 3.11,
-      "probOver25": 0.5519493498118919,
-      "probOver35": 0.40698,
-      "probBTTS": 0.6421600000000001
+      "expectedHome": 1.557,
+      "expectedAway": 1.511,
+      "expectedTotal": 3.068,
+      "probOver25": 0.5491779921465879,
+      "probOver35": 0.39736,
+      "probBTTS": 0.63524
     },
     {
       "fixtureId": 1491837,
@@ -171,12 +171,12 @@
       "awayTeamId": 451,
       "homeTeam": "Estudiantes L.P.",
       "awayTeam": "Boca Juniors",
-      "expectedHome": 1.61,
-      "expectedAway": 1.403,
-      "expectedTotal": 3.013,
-      "probOver25": 0.5454492007896505,
-      "probOver35": 0.38472000000000006,
-      "probBTTS": 0.6236200000000001
+      "expectedHome": 1.543,
+      "expectedAway": 1.344,
+      "expectedTotal": 2.887,
+      "probOver25": 0.5366342339065413,
+      "probOver35": 0.35562000000000005,
+      "probBTTS": 0.60162
     },
     {
       "fixtureId": 1398141,
@@ -193,22 +193,6 @@
       "probOver25": 0.5287432744054574,
       "probOver35": 0.33062,
       "probBTTS": 0.55142
-    },
-    {
-      "fixtureId": 1491841,
-      "leagueId": 128,
-      "season": 2026,
-      "kickoffTs": 1769724900000,
-      "homeTeamId": 446,
-      "awayTeamId": 441,
-      "homeTeam": "Lanus",
-      "awayTeam": "Union Santa Fe",
-      "expectedHome": 1.641,
-      "expectedAway": 1.074,
-      "expectedTotal": 2.715,
-      "probOver25": 0.5239192283766811,
-      "probOver35": 0.31584,
-      "probBTTS": 0.5509600000000001
     },
     {
       "fixtureId": 1451299,
@@ -289,6 +273,22 @@
       "probOver25": 0.5146270752131934,
       "probOver35": 0.28830000000000006,
       "probBTTS": 0.5385
+    },
+    {
+      "fixtureId": 1491841,
+      "leagueId": 128,
+      "season": 2026,
+      "kickoffTs": 1769724900000,
+      "homeTeamId": 446,
+      "awayTeamId": 441,
+      "homeTeam": "Lanus",
+      "awayTeam": "Union Santa Fe",
+      "expectedHome": 1.566,
+      "expectedAway": 1.024,
+      "expectedTotal": 2.59,
+      "probOver25": 0.5142461430656132,
+      "probOver35": 0.28714,
+      "probBTTS": 0.52714
     },
     {
       "fixtureId": 1451289,
@@ -379,28 +379,28 @@
       "awayTeamId": 442,
       "homeTeam": "Deportivo Riestra",
       "awayTeam": "Defensa Y Justicia",
-      "expectedHome": 1.321,
-      "expectedAway": 0.688,
-      "expectedTotal": 2.009,
-      "probOver25": 0.46548000414837803,
-      "probOver35": 0.162,
-      "probBTTS": 0.38270000000000004
+      "expectedHome": 1.239,
+      "expectedAway": 0.646,
+      "expectedTotal": 1.885,
+      "probOver25": 0.45466857057644716,
+      "probOver35": 0.13828000000000001,
+      "probBTTS": 0.35540000000000005
     },
     {
-      "fixtureId": 1491835,
-      "leagueId": 128,
+      "fixtureId": 1492118,
+      "leagueId": 71,
       "season": 2026,
-      "kickoffTs": 1769724900000,
-      "homeTeamId": 440,
-      "awayTeamId": 452,
-      "homeTeam": "Belgrano Cordoba",
-      "awayTeam": "Tigre",
-      "expectedHome": 1.056,
-      "expectedAway": 0.799,
-      "expectedTotal": 1.855,
-      "probOver25": 0.4520602173625397,
-      "probOver35": 0.13280000000000003,
-      "probBTTS": 0.37724
+      "kickoffTs": 1769646600000,
+      "homeTeamId": 126,
+      "awayTeamId": 127,
+      "homeTeam": "Sao Paulo",
+      "awayTeam": "Flamengo",
+      "expectedHome": 1.253,
+      "expectedAway": 0.632,
+      "expectedTotal": 1.885,
+      "probOver25": 0.45466857057644716,
+      "probOver35": 0.13828000000000001,
+      "probBTTS": 0.35194000000000003
     },
     {
       "fixtureId": 1451287,
@@ -419,6 +419,22 @@
       "probBTTS": 0.35664
     },
     {
+      "fixtureId": 1491835,
+      "leagueId": 128,
+      "season": 2026,
+      "kickoffTs": 1769724900000,
+      "homeTeamId": 440,
+      "awayTeamId": 452,
+      "homeTeam": "Belgrano Cordoba",
+      "awayTeam": "Tigre",
+      "expectedHome": 0.985,
+      "expectedAway": 0.745,
+      "expectedTotal": 1.73,
+      "probOver25": 0.4412723220423236,
+      "probOver35": 0.11084000000000001,
+      "probBTTS": 0.34678000000000003
+    },
+    {
       "fixtureId": 1436081,
       "leagueId": 307,
       "season": 2025,
@@ -427,28 +443,12 @@
       "awayTeamId": 2940,
       "homeTeam": "Al-Hazm",
       "awayTeam": "Al Shabab",
-      "expectedHome": 1.389,
-      "expectedAway": 0.184,
-      "expectedTotal": 1.573,
-      "probOver25": 0.4280161079403857,
-      "probOver35": 0.0858,
-      "probBTTS": 0.13378
-    },
-    {
-      "fixtureId": 1492118,
-      "leagueId": 71,
-      "season": 2026,
-      "kickoffTs": 1769646600000,
-      "homeTeamId": 126,
-      "awayTeamId": 127,
-      "homeTeam": "Sao Paulo",
-      "awayTeam": "Flamengo",
-      "expectedHome": 1.038,
-      "expectedAway": 0.523,
-      "expectedTotal": 1.561,
-      "probOver25": 0.4270187672237264,
-      "probOver35": 0.08402,
-      "probBTTS": 0.27814000000000005
+      "expectedHome": 1.352,
+      "expectedAway": 0.179,
+      "expectedTotal": 1.531,
+      "probOver25": 0.4245555113301624,
+      "probOver35": 0.07964,
+      "probBTTS": 0.12890000000000001
     }
   ],
   "topOver25": [
@@ -477,12 +477,12 @@
       "awayTeamId": 2932,
       "homeTeam": "Al-Qadisiyah FC",
       "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 2.261,
-      "expectedAway": 1.826,
-      "expectedTotal": 4.087,
-      "probOver25": 0.602956689521325,
-      "probOver35": 0.6132200000000001,
-      "probBTTS": 0.7683
+      "expectedHome": 2.238,
+      "expectedAway": 1.807,
+      "expectedTotal": 4.045,
+      "probOver25": 0.6012796883190499,
+      "probOver35": 0.60528,
+      "probBTTS": 0.76368
     },
     {
       "fixtureId": 1451285,
@@ -499,22 +499,6 @@
       "probOver25": 0.5792023934866041,
       "probOver35": 0.50946,
       "probBTTS": 0.7090200000000001
-    },
-    {
-      "fixtureId": 1492117,
-      "leagueId": 71,
-      "season": 2026,
-      "kickoffTs": 1769727600000,
-      "homeTeamId": 7848,
-      "awayTeamId": 133,
-      "homeTeam": "Mirassol",
-      "awayTeam": "Vasco DA Gama",
-      "expectedHome": 1.665,
-      "expectedAway": 1.814,
-      "expectedTotal": 3.479,
-      "probOver25": 0.5742163773176556,
-      "probOver35": 0.48958,
-      "probBTTS": 0.69764
     },
     {
       "fixtureId": 1451294,
@@ -547,6 +531,22 @@
       "probOver25": 0.5665097532793866,
       "probOver35": 0.45990000000000003,
       "probBTTS": 0.67844
+    },
+    {
+      "fixtureId": 1492117,
+      "leagueId": 71,
+      "season": 2026,
+      "kickoffTs": 1769727600000,
+      "homeTeamId": 7848,
+      "awayTeamId": 133,
+      "homeTeam": "Mirassol",
+      "awayTeam": "Vasco DA Gama",
+      "expectedHome": 1.591,
+      "expectedAway": 1.733,
+      "expectedTotal": 3.324,
+      "probOver25": 0.5653428986886496,
+      "probOver35": 0.45544000000000007,
+      "probBTTS": 0.675
     },
     {
       "fixtureId": 1451290,
@@ -595,22 +595,6 @@
       "probOver25": 0.5544087058776257,
       "probOver35": 0.41568000000000005,
       "probBTTS": 0.64532
-    },
-    {
-      "fixtureId": 1436080,
-      "leagueId": 307,
-      "season": 2025,
-      "kickoffTs": 1769698800000,
-      "homeTeamId": 2931,
-      "awayTeamId": 2938,
-      "homeTeam": "Al-Fateh",
-      "awayTeam": "Al-Ittihad FC",
-      "expectedHome": 1.578,
-      "expectedAway": 1.532,
-      "expectedTotal": 3.11,
-      "probOver25": 0.5519493498118919,
-      "probOver35": 0.40698,
-      "probBTTS": 0.6421600000000001
     }
   ],
   "topBTTS": [
@@ -639,12 +623,12 @@
       "awayTeamId": 2932,
       "homeTeam": "Al-Qadisiyah FC",
       "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 2.261,
-      "expectedAway": 1.826,
-      "expectedTotal": 4.087,
-      "probOver25": 0.602956689521325,
-      "probOver35": 0.6132200000000001,
-      "probBTTS": 0.7683
+      "expectedHome": 2.238,
+      "expectedAway": 1.807,
+      "expectedTotal": 4.045,
+      "probOver25": 0.6012796883190499,
+      "probOver35": 0.60528,
+      "probBTTS": 0.76368
     },
     {
       "fixtureId": 1451285,
@@ -679,22 +663,6 @@
       "probBTTS": 0.69804
     },
     {
-      "fixtureId": 1492117,
-      "leagueId": 71,
-      "season": 2026,
-      "kickoffTs": 1769727600000,
-      "homeTeamId": 7848,
-      "awayTeamId": 133,
-      "homeTeam": "Mirassol",
-      "awayTeam": "Vasco DA Gama",
-      "expectedHome": 1.665,
-      "expectedAway": 1.814,
-      "expectedTotal": 3.479,
-      "probOver25": 0.5742163773176556,
-      "probOver35": 0.48958,
-      "probBTTS": 0.69764
-    },
-    {
       "fixtureId": 1451296,
       "leagueId": 3,
       "season": 2025,
@@ -709,6 +677,22 @@
       "probOver25": 0.5665097532793866,
       "probOver35": 0.45990000000000003,
       "probBTTS": 0.67844
+    },
+    {
+      "fixtureId": 1492117,
+      "leagueId": 71,
+      "season": 2026,
+      "kickoffTs": 1769727600000,
+      "homeTeamId": 7848,
+      "awayTeamId": 133,
+      "homeTeam": "Mirassol",
+      "awayTeam": "Vasco DA Gama",
+      "expectedHome": 1.591,
+      "expectedAway": 1.733,
+      "expectedTotal": 3.324,
+      "probOver25": 0.5653428986886496,
+      "probOver35": 0.45544000000000007,
+      "probBTTS": 0.675
     },
     {
       "fixtureId": 1451290,
@@ -767,12 +751,12 @@
       "awayTeamId": 2938,
       "homeTeam": "Al-Fateh",
       "awayTeam": "Al-Ittihad FC",
-      "expectedHome": 1.578,
-      "expectedAway": 1.532,
-      "expectedTotal": 3.11,
-      "probOver25": 0.5519493498118919,
-      "probOver35": 0.40698,
-      "probBTTS": 0.6421600000000001
+      "expectedHome": 1.557,
+      "expectedAway": 1.511,
+      "expectedTotal": 3.068,
+      "probOver25": 0.5491779921465879,
+      "probOver35": 0.39736,
+      "probBTTS": 0.63524
     },
     {
       "fixtureId": 1491837,
@@ -783,12 +767,12 @@
       "awayTeamId": 451,
       "homeTeam": "Estudiantes L.P.",
       "awayTeam": "Boca Juniors",
-      "expectedHome": 1.61,
-      "expectedAway": 1.403,
-      "expectedTotal": 3.013,
-      "probOver25": 0.5454492007896505,
-      "probOver35": 0.38472000000000006,
-      "probBTTS": 0.6236200000000001
+      "expectedHome": 1.543,
+      "expectedAway": 1.344,
+      "expectedTotal": 2.887,
+      "probOver25": 0.5366342339065413,
+      "probOver35": 0.35562000000000005,
+      "probBTTS": 0.60162
     },
     {
       "fixtureId": 1451299,
@@ -855,22 +839,6 @@
       "probBTTS": 0.55142
     },
     {
-      "fixtureId": 1491841,
-      "leagueId": 128,
-      "season": 2026,
-      "kickoffTs": 1769724900000,
-      "homeTeamId": 446,
-      "awayTeamId": 441,
-      "homeTeam": "Lanus",
-      "awayTeam": "Union Santa Fe",
-      "expectedHome": 1.641,
-      "expectedAway": 1.074,
-      "expectedTotal": 2.715,
-      "probOver25": 0.5239192283766811,
-      "probOver35": 0.31584,
-      "probBTTS": 0.5509600000000001
-    },
-    {
       "fixtureId": 1451297,
       "leagueId": 3,
       "season": 2025,
@@ -885,6 +853,22 @@
       "probOver25": 0.5146270752131934,
       "probOver35": 0.28830000000000006,
       "probBTTS": 0.5385
+    },
+    {
+      "fixtureId": 1491841,
+      "leagueId": 128,
+      "season": 2026,
+      "kickoffTs": 1769724900000,
+      "homeTeamId": 446,
+      "awayTeamId": 441,
+      "homeTeam": "Lanus",
+      "awayTeam": "Union Santa Fe",
+      "expectedHome": 1.566,
+      "expectedAway": 1.024,
+      "expectedTotal": 2.59,
+      "probOver25": 0.5142461430656132,
+      "probOver35": 0.28714,
+      "probBTTS": 0.52714
     },
     {
       "fixtureId": 1451302,
