@@ -1560,7 +1560,7 @@
           },
           "venue": {
             "id": 527,
-            "name": "Pride Park Stadium",
+            "name": "Pride Park",
             "city": "Derby"
           },
           "status": {
@@ -12496,6 +12496,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492111,
+          "referee": "Matheus Delgado Candançan, Brazil",
+          "timezone": "UTC",
+          "date": "2026-01-30T00:30:00+00:00",
+          "timestamp": 1769733000,
+          "periods": {
+            "first": 1769733000,
+            "second": 1769736600
+          },
+          "venue": {
+            "id": 218,
+            "name": "Estadio Olimpico Nilton Santos",
+            "city": "Rio de Janeiro"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 85,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 120,
+            "name": "Botafogo",
+            "logo": "https://media.api-sports.io/football/teams/120.png",
+            "winner": true
+          },
+          "away": {
+            "id": 135,
+            "name": "Cruzeiro",
+            "logo": "https://media.api-sports.io/football/teams/135.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1500871,
           "referee": "T. Caetano",
           "timezone": "UTC",
@@ -13123,76 +13193,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1351370,
-          "referee": "Anderson Daronco, Brazil",
-          "timezone": "UTC",
-          "date": "2025-11-09T19:00:00+00:00",
-          "timestamp": 1762714800,
-          "periods": {
-            "first": 1762714800,
-            "second": 1762718400
-          },
-          "venue": {
-            "id": null,
-            "name": "Barradao",
-            "city": "Salvador"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2025,
-          "round": "Regular Season - 33",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 136,
-            "name": "Vitoria",
-            "logo": "https://media.api-sports.io/football/teams/136.png",
-            "winner": null
-          },
-          "away": {
-            "id": 120,
-            "name": "Botafogo",
-            "logo": "https://media.api-sports.io/football/teams/120.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -13491,6 +13491,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1492111,
+          "referee": "Matheus Delgado Candançan, Brazil",
+          "timezone": "UTC",
+          "date": "2026-01-30T00:30:00+00:00",
+          "timestamp": 1769733000,
+          "periods": {
+            "first": 1769733000,
+            "second": 1769736600
+          },
+          "venue": {
+            "id": 218,
+            "name": "Estadio Olimpico Nilton Santos",
+            "city": "Rio de Janeiro"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 85,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 120,
+            "name": "Botafogo",
+            "logo": "https://media.api-sports.io/football/teams/120.png",
+            "winner": true
+          },
+          "away": {
+            "id": 135,
+            "name": "Cruzeiro",
+            "logo": "https://media.api-sports.io/football/teams/135.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1500723,
@@ -14110,76 +14180,6 @@
           "fulltime": {
             "home": 2,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1478029,
-          "referee": "Savio Pereira Sampaio, Brazil",
-          "timezone": "UTC",
-          "date": "2025-11-30T00:00:00+00:00",
-          "timestamp": 1764460800,
-          "periods": {
-            "first": 1764460800,
-            "second": 1764464400
-          },
-          "venue": {
-            "id": null,
-            "name": "Estádio Governador Plácido Castelo",
-            "city": "Fortaleza"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2025,
-          "round": "Regular Season - 36",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 129,
-            "name": "Ceara",
-            "logo": "https://media.api-sports.io/football/teams/129.png",
-            "winner": null
-          },
-          "away": {
-            "id": 135,
-            "name": "Cruzeiro",
-            "logo": "https://media.api-sports.io/football/teams/135.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -22675,146 +22675,6 @@
     "lastFixtures": [
       {
         "fixture": {
-          "id": 1382125,
-          "referee": "D. Higler",
-          "timezone": "UTC",
-          "date": "2026-01-27T19:00:00+00:00",
-          "timestamp": 1769540400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 10504,
-            "name": "De Oude Meerdijk",
-            "city": "Emmen"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2025,
-          "round": "Regular Season - 22",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": null
-          },
-          "away": {
-            "id": 420,
-            "name": "Cambuur",
-            "logo": "https://media.api-sports.io/football/teams/420.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1382151,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-24T15:30:00+00:00",
-          "timestamp": 1769268600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 10504,
-            "name": "De Oude Meerdijk",
-            "city": "Emmen"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2025,
-          "round": "Regular Season - 24",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": null
-          },
-          "away": {
-            "id": 425,
-            "name": "Jong Ajax",
-            "logo": "https://media.api-sports.io/football/teams/425.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1382140,
           "referee": "Stan Teuben, Netherlands",
           "timezone": "UTC",
@@ -23362,6 +23222,146 @@
           "fulltime": {
             "home": 1,
             "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1382047,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-02T13:30:00+00:00",
+          "timestamp": 1762090200,
+          "periods": {
+            "first": 1762090200,
+            "second": 1762093800
+          },
+          "venue": {
+            "id": 10504,
+            "name": "De Oude Meerdijk",
+            "city": "Emmen"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
+          }
+        },
+        "league": {
+          "id": 89,
+          "name": "Eerste Divisie",
+          "country": "Netherlands",
+          "logo": "https://media.api-sports.io/football/leagues/89.png",
+          "flag": "https://media.api-sports.io/flags/nl.svg",
+          "season": 2025,
+          "round": "Regular Season - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 208,
+            "name": "Emmen",
+            "logo": "https://media.api-sports.io/football/teams/208.png",
+            "winner": null
+          },
+          "away": {
+            "id": 417,
+            "name": "Waalwijk",
+            "logo": "https://media.api-sports.io/football/teams/417.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1477443,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-28T19:00:00+00:00",
+          "timestamp": 1761678000,
+          "periods": {
+            "first": 1761678000,
+            "second": 1761681600
+          },
+          "venue": {
+            "id": null,
+            "name": "Sportpark Bentinckspark",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 90,
+          "name": "KNVB Beker",
+          "country": "Netherlands",
+          "logo": "https://media.api-sports.io/football/leagues/90.png",
+          "flag": "https://media.api-sports.io/flags/nl.svg",
+          "season": 2025,
+          "round": "2nd Preliminary Round",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 14235,
+            "name": "Hoogeveen",
+            "logo": "https://media.api-sports.io/football/teams/14235.png",
+            "winner": true
+          },
+          "away": {
+            "id": 208,
+            "name": "Emmen",
+            "logo": "https://media.api-sports.io/football/teams/208.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
           },
           "extratime": {
             "home": null,
@@ -37851,76 +37851,6 @@
     "lastFixtures": [
       {
         "fixture": {
-          "id": 1382144,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-23T19:00:00+00:00",
-          "timestamp": 1769194800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 22721,
-            "name": "Kooi Stadion",
-            "city": "Leeuwarden"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2025,
-          "round": "Regular Season - 24",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 420,
-            "name": "Cambuur",
-            "logo": "https://media.api-sports.io/football/teams/420.png",
-            "winner": null
-          },
-          "away": {
-            "id": 422,
-            "name": "FC Eindhoven",
-            "logo": "https://media.api-sports.io/football/teams/422.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1382141,
           "referee": "Richard Martens, Netherlands",
           "timezone": "UTC",
@@ -38538,6 +38468,76 @@
           "fulltime": {
             "home": 1,
             "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1382052,
+          "referee": "Joshua Kuipers, Netherlands",
+          "timezone": "UTC",
+          "date": "2025-11-03T19:00:00+00:00",
+          "timestamp": 1762196400,
+          "periods": {
+            "first": 1762196400,
+            "second": 1762200000
+          },
+          "venue": {
+            "id": 1136,
+            "name": "AFAS Trainingscomplex",
+            "city": "Wijdewormer"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 89,
+          "name": "Eerste Divisie",
+          "country": "Netherlands",
+          "logo": "https://media.api-sports.io/football/leagues/89.png",
+          "flag": "https://media.api-sports.io/flags/nl.svg",
+          "season": 2025,
+          "round": "Regular Season - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 418,
+            "name": "Jong AZ",
+            "logo": "https://media.api-sports.io/football/teams/418.png",
+            "winner": false
+          },
+          "away": {
+            "id": 422,
+            "name": "FC Eindhoven",
+            "logo": "https://media.api-sports.io/football/teams/422.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
           },
           "extratime": {
             "home": null,
@@ -40885,6 +40885,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491846,
+          "referee": "Sebastian Nicolas Martinez, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-30T00:30:00+00:00",
+          "timestamp": 1769733000,
+          "periods": {
+            "first": 1769733000,
+            "second": 1769736600
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Eva Perón",
+            "city": "Junin"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 83,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 474,
+            "name": "Sarmiento Junin",
+            "logo": "https://media.api-sports.io/football/teams/474.png",
+            "winner": true
+          },
+          "away": {
+            "id": 449,
+            "name": "Banfield",
+            "logo": "https://media.api-sports.io/football/teams/449.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491820,
           "referee": "Bruno Amiconi, Argentina",
           "timezone": "UTC",
@@ -40896,7 +40966,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Florencio Sola",
+            "name": "Estadio Florencio Sola",
             "city": "Buenos Aires"
           },
           "status": {
@@ -41512,76 +41582,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374168,
-          "referee": "Andres Gariano, Argentina",
-          "timezone": "UTC",
-          "date": "2025-09-13T19:45:00+00:00",
-          "timestamp": 1757792700,
-          "periods": {
-            "first": 1757792700,
-            "second": 1757796300
-          },
-          "venue": {
-            "id": 7131,
-            "name": "Estadio Libertadores de América",
-            "city": "Avellaneda"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 453,
-            "name": "Independiente",
-            "logo": "https://media.api-sports.io/football/teams/453.png",
-            "winner": false
-          },
-          "away": {
-            "id": 449,
-            "name": "Banfield",
-            "logo": "https://media.api-sports.io/football/teams/449.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -41885,6 +41885,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1491838,
+          "referee": "Jorge Balino, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-30T00:30:00+00:00",
+          "timestamp": 1769733000,
+          "periods": {
+            "first": 1769733000,
+            "second": 1769736600
+          },
+          "venue": {
+            "id": null,
+            "name": "Antonio Candini",
+            "city": "Rio Cuarto"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2424,
+            "name": "Estudiantes de Rio Cuarto",
+            "logo": "https://media.api-sports.io/football/teams/2424.png",
+            "winner": null
+          },
+          "away": {
+            "id": 458,
+            "name": "Argentinos JRS",
+            "logo": "https://media.api-sports.io/football/teams/458.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1491819,
@@ -42514,76 +42584,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374245,
-          "referee": "Felipe Viola, Argentina",
-          "timezone": "UTC",
-          "date": "2025-10-18T00:15:00+00:00",
-          "timestamp": 1760746500,
-          "periods": {
-            "first": 1760746500,
-            "second": 1760750100
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Diego Armando Maradona",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 13",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 458,
-            "name": "Argentinos JRS",
-            "logo": "https://media.api-sports.io/football/teams/458.png",
-            "winner": true
-          },
-          "away": {
-            "id": 457,
-            "name": "Newells Old Boys",
-            "logo": "https://media.api-sports.io/football/teams/457.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -42887,6 +42887,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1491846,
+          "referee": "Sebastian Nicolas Martinez, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-30T00:30:00+00:00",
+          "timestamp": 1769733000,
+          "periods": {
+            "first": 1769733000,
+            "second": 1769736600
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Eva Perón",
+            "city": "Junin"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 83,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 474,
+            "name": "Sarmiento Junin",
+            "logo": "https://media.api-sports.io/football/teams/474.png",
+            "winner": true
+          },
+          "away": {
+            "id": 449,
+            "name": "Banfield",
+            "logo": "https://media.api-sports.io/football/teams/449.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1491819,
@@ -43506,76 +43576,6 @@
           "fulltime": {
             "home": 1,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374197,
-          "referee": "Nicolas Ramirez, Argentina",
-          "timezone": "UTC",
-          "date": "2025-09-20T17:30:00+00:00",
-          "timestamp": 1758389400,
-          "periods": {
-            "first": 1758389400,
-            "second": 1758393000
-          },
-          "venue": {
-            "id": null,
-            "name": "Claudio Fabian Tapia",
-            "city": "Barracas"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 10
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2432,
-            "name": "Barracas Central",
-            "logo": "https://media.api-sports.io/football/teams/2432.png",
-            "winner": false
-          },
-          "away": {
-            "id": 474,
-            "name": "Sarmiento Junin",
-            "logo": "https://media.api-sports.io/football/teams/474.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -72289,6 +72289,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491838,
+          "referee": "Jorge Balino, Argentina",
+          "timezone": "UTC",
+          "date": "2026-01-30T00:30:00+00:00",
+          "timestamp": 1769733000,
+          "periods": {
+            "first": 1769733000,
+            "second": 1769736600
+          },
+          "venue": {
+            "id": null,
+            "name": "Antonio Candini",
+            "city": "Rio Cuarto"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2424,
+            "name": "Estudiantes de Rio Cuarto",
+            "logo": "https://media.api-sports.io/football/teams/2424.png",
+            "winner": null
+          },
+          "away": {
+            "id": 458,
+            "name": "Argentinos JRS",
+            "logo": "https://media.api-sports.io/football/teams/458.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491831,
           "referee": "F. Viola",
           "timezone": "UTC",
@@ -72906,76 +72976,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1331570,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2025-09-28T22:00:00+00:00",
-          "timestamp": 1759096800,
-          "periods": {
-            "first": 1759096800,
-            "second": 1759100400
-          },
-          "venue": {
-            "id": 72,
-            "name": "Estadio Ciudad de Río Cuarto",
-            "city": "Cordoba"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 129,
-          "name": "Primera Nacional",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/129.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "Regular Season - 33",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2424,
-            "name": "Estudiantes de Rio Cuarto",
-            "logo": "https://media.api-sports.io/football/teams/2424.png",
-            "winner": null
-          },
-          "away": {
-            "id": 8375,
-            "name": "Almirante Brown",
-            "logo": "https://media.api-sports.io/football/teams/8375.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
