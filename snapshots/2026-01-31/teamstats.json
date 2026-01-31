@@ -314,7 +314,7 @@
       {
         "fixture": {
           "id": 1451149,
-          "referee": "S. Vincic",
+          "referee": "Slavko Vinčić, Slovenia",
           "timezone": "UTC",
           "date": "2026-01-28T20:00:00+00:00",
           "timestamp": 1769630400,
@@ -10454,7 +10454,7 @@
       {
         "fixture": {
           "id": 1451146,
-          "referee": "C. Turpin",
+          "referee": "Clement Turpin, France",
           "timezone": "UTC",
           "date": "2026-01-28T20:00:00+00:00",
           "timestamp": 1769630400,
@@ -71383,7 +71383,7 @@
       "lineups": [
         {
           "formation": "4-4-2",
-          "played": 12
+          "played": 13
         },
         {
           "formation": "4-2-3-1",
@@ -74739,7 +74739,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Polsat Plus Arena",
+            "name": "Polsat Plus Arena Gdańsk",
             "city": "Gdansk"
           },
           "status": {
@@ -75819,7 +75819,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Polsat Plus Arena",
+            "name": "Polsat Plus Arena Gdańsk",
             "city": "Gdansk"
           },
           "status": {
@@ -75959,7 +75959,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Polsat Plus Arena",
+            "name": "Polsat Plus Arena Gdańsk",
             "city": "Gdansk"
           },
           "status": {
@@ -76029,7 +76029,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Wojska Polskiego",
+            "name": "Stadion Wojska Polskiego w Warszawie",
             "city": "Warsaw"
           },
           "status": {
@@ -76099,7 +76099,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Polsat Plus Arena",
+            "name": "Polsat Plus Arena Gdańsk",
             "city": "Gdansk"
           },
           "status": {
@@ -76169,7 +76169,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Polsat Plus Arena",
+            "name": "Polsat Plus Arena Gdańsk",
             "city": "Gdansk"
           },
           "status": {
@@ -76903,7 +76903,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Cracovii im. Jozefa Pilsudskiego",
+            "name": "Marshal Jozef Pilsudski Stadium",
             "city": "Krakow"
           },
           "status": {
@@ -77043,7 +77043,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Orlen Stadion",
+            "name": "Stadion im. Kazimierza Gorskiego",
             "city": "Plock"
           },
           "status": {
@@ -77183,7 +77183,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Poznan",
+            "name": "Enea Poznań",
             "city": "Poznan"
           },
           "status": {
@@ -77455,14 +77455,14 @@
       },
       "penalty": {
         "scored": {
-          "total": 2,
+          "total": 3,
           "percentage": "100.00%"
         },
         "missed": {
           "total": 0,
           "percentage": "0%"
         },
-        "total": 2
+        "total": 3
       },
       "lineups": [
         {
@@ -77863,7 +77863,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Wojska Polskiego",
+            "name": "Stadion Wojska Polskiego w Warszawie",
             "city": "Warsaw"
           },
           "status": {
@@ -78213,7 +78213,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion miejski w Katowicach",
+            "name": "Stadion GKS Katowice",
             "city": "Katowice"
           },
           "status": {
@@ -99945,7 +99945,7 @@
       {
         "fixture": {
           "id": 1451161,
-          "referee": "B. Bastien",
+          "referee": "Benoît Bastien, France",
           "timezone": "UTC",
           "date": "2026-01-28T20:00:00+00:00",
           "timestamp": 1769630400,
@@ -99955,7 +99955,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Camp Nou",
+            "name": "Spotify Camp Nou",
             "city": "Barcelona"
           },
           "status": {
@@ -184387,6 +184387,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1502431,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-30T12:00:00+00:00",
+          "timestamp": 1769774400,
+          "periods": {
+            "first": 1769774400,
+            "second": 1769778000
+          },
+          "venue": {
+            "id": null,
+            "name": "Xaverov UMT",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1211,
+          "name": "Tipsport Liga",
+          "country": "Czech-Republic",
+          "logo": "https://media.api-sports.io/football/leagues/1211.png",
+          "flag": "https://media.api-sports.io/flags/cz.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 3720,
+            "name": "Teplice",
+            "logo": "https://media.api-sports.io/football/teams/3720.png",
+            "winner": false
+          },
+          "away": {
+            "id": 3730,
+            "name": "Vlašim",
+            "logo": "https://media.api-sports.io/football/teams/3730.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1502420,
           "referee": null,
           "timezone": "UTC",
@@ -185003,76 +185073,6 @@
           },
           "fulltime": {
             "home": 2,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1384762,
-          "referee": "Dominik Stary, Czechia",
-          "timezone": "UTC",
-          "date": "2025-11-02T17:30:00+00:00",
-          "timestamp": 1762104600,
-          "periods": {
-            "first": 1762104600,
-            "second": 1762108200
-          },
-          "venue": {
-            "id": 10575,
-            "name": "AGC Arena Na Stinadlech",
-            "city": "Teplice"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 11
-          }
-        },
-        "league": {
-          "id": 345,
-          "name": "Czech Liga",
-          "country": "Czech-Republic",
-          "logo": "https://media.api-sports.io/football/leagues/345.png",
-          "flag": "https://media.api-sports.io/flags/cz.svg",
-          "season": 2025,
-          "round": "Regular Season - 14",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 3720,
-            "name": "Teplice",
-            "logo": "https://media.api-sports.io/football/teams/3720.png",
-            "winner": false
-          },
-          "away": {
-            "id": 567,
-            "name": "Plzen",
-            "logo": "https://media.api-sports.io/football/teams/567.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
             "away": 2
           },
           "extratime": {
@@ -191348,12 +191348,12 @@
           "played": 8
         },
         {
-          "formation": "4-4-2",
+          "formation": "4-2-3-1",
           "played": 2
         },
         {
-          "formation": "4-2-3-1",
-          "played": 1
+          "formation": "4-4-2",
+          "played": 2
         },
         {
           "formation": "4-4-1-1",
@@ -192359,7 +192359,7 @@
       "lineups": [
         {
           "formation": "3-4-3",
-          "played": 5
+          "played": 6
         },
         {
           "formation": "4-4-2",
@@ -199119,7 +199119,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Polsat Plus Arena",
+            "name": "Polsat Plus Arena Gdańsk",
             "city": "Gdansk"
           },
           "status": {
@@ -204401,12 +204401,12 @@
               "percentage": "3.85%"
             },
             "76-90": {
-              "total": 8,
-              "percentage": "30.77%"
+              "total": 9,
+              "percentage": "34.62%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "3.85%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -204469,12 +204469,12 @@
               "percentage": "11.11%"
             },
             "76-90": {
-              "total": 10,
-              "percentage": "27.78%"
+              "total": 11,
+              "percentage": "30.56%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.78%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -204565,11 +204565,11 @@
           "played": 2
         },
         {
-          "formation": "4-2-3-1",
-          "played": 1
+          "formation": "4-4-2",
+          "played": 2
         },
         {
-          "formation": "4-4-2",
+          "formation": "4-2-3-1",
           "played": 1
         }
       ],
@@ -205576,7 +205576,7 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 13
+          "played": 14
         },
         {
           "formation": "5-4-1",
