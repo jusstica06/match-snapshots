@@ -6646,7 +6646,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Marshal Jozef Pilsudski Stadium",
+            "name": "Stadion Cracovii im. Jozefa Pilsudskiego",
             "city": "Krakow"
           },
           "status": {
@@ -6716,7 +6716,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion im. Kazimierza Gorskiego",
+            "name": "Orlen Stadion",
             "city": "Plock"
           },
           "status": {
@@ -6856,7 +6856,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Marshal Jozef Pilsudski Stadium",
+            "name": "Stadion Cracovii im. Jozefa Pilsudskiego",
             "city": "Krakow"
           },
           "status": {
@@ -7066,7 +7066,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Marshal Jozef Pilsudski Stadium",
+            "name": "Stadion Cracovii im. Jozefa Pilsudskiego",
             "city": "Krakow"
           },
           "status": {
@@ -15531,6 +15531,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491858,
+          "referee": "Facundo Raul Tello Figueroa, Argentina",
+          "timezone": "UTC",
+          "date": "2026-02-02T00:30:00+00:00",
+          "timestamp": 1769992200,
+          "periods": {
+            "first": 1769992200,
+            "second": 1769995800
+          },
+          "venue": {
+            "id": null,
+            "name": "Gigante de Arroyito",
+            "city": "Rosario"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 89,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 437,
+            "name": "Rosario Central",
+            "logo": "https://media.api-sports.io/football/teams/437.png",
+            "winner": null
+          },
+          "away": {
+            "id": 435,
+            "name": "River Plate",
+            "logo": "https://media.api-sports.io/football/teams/435.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491845,
           "referee": "P. Dovalo",
           "timezone": "UTC",
@@ -16156,76 +16226,6 @@
           "penalty": {
             "home": null,
             "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1480016,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2025-10-25T01:10:00+00:00",
-          "timestamp": 1761354600,
-          "periods": {
-            "first": 1761354600,
-            "second": 1761358200
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Mario Alberto Kempes",
-            "city": "Cordoba"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "PEN",
-            "elapsed": 120,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 130,
-          "name": "Copa Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/130.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "Semi-finals",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 473,
-            "name": "Independ. Rivadavia",
-            "logo": "https://media.api-sports.io/football/teams/473.png",
-            "winner": true
-          },
-          "away": {
-            "id": 435,
-            "name": "River Plate",
-            "logo": "https://media.api-sports.io/football/teams/435.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": 4,
-            "away": 3
           }
         }
       }
@@ -17539,6 +17539,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491858,
+          "referee": "Facundo Raul Tello Figueroa, Argentina",
+          "timezone": "UTC",
+          "date": "2026-02-02T00:30:00+00:00",
+          "timestamp": 1769992200,
+          "periods": {
+            "first": 1769992200,
+            "second": 1769995800
+          },
+          "venue": {
+            "id": null,
+            "name": "Gigante de Arroyito",
+            "city": "Rosario"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 89,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 437,
+            "name": "Rosario Central",
+            "logo": "https://media.api-sports.io/football/teams/437.png",
+            "winner": null
+          },
+          "away": {
+            "id": 435,
+            "name": "River Plate",
+            "logo": "https://media.api-sports.io/football/teams/435.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491844,
           "referee": "F. Echenique",
           "timezone": "UTC",
@@ -18156,76 +18226,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374221,
-          "referee": "Yael Falcon Perez, Argentina",
-          "timezone": "UTC",
-          "date": "2025-10-06T00:15:00+00:00",
-          "timestamp": 1759709700,
-          "periods": {
-            "first": 1759709700,
-            "second": 1759713300
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Gigante de Arroyito",
-            "city": "Rosario"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 11",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 437,
-            "name": "Rosario Central",
-            "logo": "https://media.api-sports.io/football/teams/437.png",
-            "winner": true
-          },
-          "away": {
-            "id": 435,
-            "name": "River Plate",
-            "logo": "https://media.api-sports.io/football/teams/435.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -22570,7 +22570,7 @@
       {
         "fixture": {
           "id": 1378083,
-          "referee": "G. Manganiello",
+          "referee": "Gianluca Manganiello, Italy",
           "timezone": "UTC",
           "date": "2026-01-26T19:45:00+00:00",
           "timestamp": 1769456700,
@@ -22790,7 +22790,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Olimpico di Torino",
+            "name": "Stadio Olimpico Grande Torino",
             "city": "Turin"
           },
           "status": {
@@ -23654,7 +23654,7 @@
       {
         "fixture": {
           "id": 1378081,
-          "referee": "A. Colombo",
+          "referee": "Andrea Colombo, Italy",
           "timezone": "UTC",
           "date": "2026-01-25T19:45:00+00:00",
           "timestamp": 1769370300,
@@ -23804,7 +23804,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Olimpico di Torino",
+            "name": "Stadio Olimpico Grande Torino",
             "city": "Turin"
           },
           "status": {
@@ -24014,7 +24014,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Via del Mare",
+            "name": "Via del Mare",
             "city": "Lecce"
           },
           "status": {
@@ -37268,7 +37268,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Polsat Plus Arena Gdańsk",
+            "name": "Polsat Plus Arena",
             "city": "Gdansk"
           },
           "status": {
@@ -37338,7 +37338,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Bruk-Bet",
+            "name": "Termalica Bruk-Bet Nieciecza",
             "city": "Nieciecza"
           },
           "status": {
@@ -37408,7 +37408,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Wojska Polskiego w Warszawie",
+            "name": "Stadion Wojska Polskiego",
             "city": "Warsaw"
           },
           "status": {
@@ -37478,7 +37478,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Bruk-Bet",
+            "name": "Termalica Bruk-Bet Nieciecza",
             "city": "Nieciecza"
           },
           "status": {
