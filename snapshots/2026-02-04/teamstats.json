@@ -8367,7 +8367,7 @@
           "played": 1
         },
         {
-          "formation": "4-3-3",
+          "formation": "4-2-3-1",
           "played": 1
         }
       ],
@@ -13240,12 +13240,12 @@
         "name": "Lanus",
         "logo": "https://media.api-sports.io/football/teams/446.png"
       },
-      "form": "WW",
+      "form": "WWD",
       "fixtures": {
         "played": {
           "home": 1,
-          "away": 1,
-          "total": 2
+          "away": 2,
+          "total": 3
         },
         "wins": {
           "home": 1,
@@ -13254,8 +13254,8 @@
         },
         "draws": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         },
         "loses": {
           "home": 0,
@@ -13267,13 +13267,13 @@
         "for": {
           "total": {
             "home": 2,
-            "away": 3,
-            "total": 5
+            "away": 5,
+            "total": 7
           },
           "average": {
             "home": "2.0",
-            "away": "3.0",
-            "total": "2.5"
+            "away": "2.5",
+            "total": "2.3"
           },
           "minute": {
             "0-15": {
@@ -13282,19 +13282,19 @@
             },
             "16-30": {
               "total": 2,
-              "percentage": "40.00%"
+              "percentage": "28.57%"
             },
             "31-45": {
               "total": 1,
-              "percentage": "20.00%"
+              "percentage": "14.29%"
             },
             "46-60": {
-              "total": 1,
-              "percentage": "20.00%"
+              "total": 2,
+              "percentage": "28.57%"
             },
             "61-75": {
-              "total": 1,
-              "percentage": "20.00%"
+              "total": 2,
+              "percentage": "28.57%"
             },
             "76-90": {
               "total": null,
@@ -13311,37 +13311,37 @@
           },
           "under_over": {
             "0.5": {
-              "over": 2,
+              "over": 3,
               "under": 0
             },
             "1.5": {
-              "over": 2,
+              "over": 3,
               "under": 0
             },
             "2.5": {
               "over": 1,
-              "under": 1
+              "under": 2
             },
             "3.5": {
               "over": 0,
-              "under": 2
+              "under": 3
             },
             "4.5": {
               "over": 0,
-              "under": 2
+              "under": 3
             }
           }
         },
         "against": {
           "total": {
             "home": 1,
-            "away": 2,
-            "total": 3
+            "away": 4,
+            "total": 5
           },
           "average": {
             "home": "1.0",
             "away": "2.0",
-            "total": "1.5"
+            "total": "1.7"
           },
           "minute": {
             "0-15": {
@@ -13349,8 +13349,8 @@
               "percentage": null
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "20.00%"
             },
             "31-45": {
               "total": null,
@@ -13358,19 +13358,19 @@
             },
             "46-60": {
               "total": 1,
-              "percentage": "33.33%"
+              "percentage": "20.00%"
             },
             "61-75": {
               "total": 1,
-              "percentage": "33.33%"
+              "percentage": "20.00%"
             },
             "76-90": {
               "total": 1,
-              "percentage": "33.33%"
+              "percentage": "20.00%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "20.00%"
             },
             "106-120": {
               "total": null,
@@ -13379,24 +13379,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 2,
+              "over": 3,
               "under": 0
             },
             "1.5": {
-              "over": 1,
+              "over": 2,
               "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 2
+              "under": 3
             },
             "3.5": {
               "over": 0,
-              "under": 2
+              "under": 3
             },
             "4.5": {
               "over": 0,
-              "under": 2
+              "under": 3
             }
           }
         }
@@ -13450,38 +13450,38 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 2
+          "played": 3
         }
       ],
       "cards": {
         "yellow": {
           "0-15": {
-            "total": null,
-            "percentage": null
+            "total": 1,
+            "percentage": "10.00%"
           },
           "16-30": {
-            "total": 1,
-            "percentage": "14.29%"
+            "total": 2,
+            "percentage": "20.00%"
           },
           "31-45": {
             "total": 1,
-            "percentage": "14.29%"
+            "percentage": "10.00%"
           },
           "46-60": {
-            "total": 1,
-            "percentage": "14.29%"
+            "total": 2,
+            "percentage": "20.00%"
           },
           "61-75": {
             "total": 1,
-            "percentage": "14.29%"
+            "percentage": "10.00%"
           },
           "76-90": {
             "total": 2,
-            "percentage": "28.57%"
+            "percentage": "20.00%"
           },
           "91-105": {
             "total": 1,
-            "percentage": "14.29%"
+            "percentage": "10.00%"
           },
           "106-120": {
             "total": null,
@@ -13525,6 +13525,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1491857,
+          "referee": "Bryan Ferreyra,",
+          "timezone": "UTC",
+          "date": "2026-02-04T00:15:00+00:00",
+          "timestamp": 1770164100,
+          "periods": {
+            "first": 1770164100,
+            "second": 1770167700
+          },
+          "venue": {
+            "id": null,
+            "name": "Mario Alberto Kempes",
+            "city": "Cordoba"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 478,
+            "name": "Instituto Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/478.png",
+            "winner": null
+          },
+          "away": {
+            "id": 446,
+            "name": "Lanus",
+            "logo": "https://media.api-sports.io/football/teams/446.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1491841,
@@ -14154,76 +14224,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1478058,
-          "referee": "Anderson Daronco, Brazil",
-          "timezone": "UTC",
-          "date": "2025-10-23T22:00:00+00:00",
-          "timestamp": 1761256800,
-          "periods": {
-            "first": 1761256800,
-            "second": 1761260400
-          },
-          "venue": {
-            "id": null,
-            "name": "Nacional Julio Martínez Prádanos",
-            "city": "Santiago"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 12
-          }
-        },
-        "league": {
-          "id": 11,
-          "name": "CONMEBOL Sudamericana",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/11.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Semi-Finals",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2323,
-            "name": "Universidad de Chile",
-            "logo": "https://media.api-sports.io/football/teams/2323.png",
-            "winner": null
-          },
-          "away": {
-            "id": 446,
-            "name": "Lanus",
-            "logo": "https://media.api-sports.io/football/teams/446.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -14527,6 +14527,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1491856,
+          "referee": "Luis Lobo Medina, Argentina",
+          "timezone": "UTC",
+          "date": "2026-02-04T00:15:00+00:00",
+          "timestamp": 1770164100,
+          "periods": {
+            "first": 1770164100,
+            "second": 1770167700
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Bautista Gargantini",
+            "city": "Mendoza"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 473,
+            "name": "Independ. Rivadavia",
+            "logo": "https://media.api-sports.io/football/teams/473.png",
+            "winner": true
+          },
+          "away": {
+            "id": 474,
+            "name": "Sarmiento Junin",
+            "logo": "https://media.api-sports.io/football/teams/474.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1491840,
@@ -15156,76 +15226,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374242,
-          "referee": "Facundo Raul Tello Figueroa, Argentina",
-          "timezone": "UTC",
-          "date": "2025-10-12T19:45:00+00:00",
-          "timestamp": 1760298300,
-          "periods": {
-            "first": 1760298300,
-            "second": 1760301900
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Juan Bautista Gargantini",
-            "city": "Mendoza"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 10
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 12",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 473,
-            "name": "Independ. Rivadavia",
-            "logo": "https://media.api-sports.io/football/teams/473.png",
-            "winner": null
-          },
-          "away": {
-            "id": 439,
-            "name": "Godoy Cruz",
-            "logo": "https://media.api-sports.io/football/teams/439.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -15533,6 +15533,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1491856,
+          "referee": "Luis Lobo Medina, Argentina",
+          "timezone": "UTC",
+          "date": "2026-02-04T00:15:00+00:00",
+          "timestamp": 1770164100,
+          "periods": {
+            "first": 1770164100,
+            "second": 1770167700
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Bautista Gargantini",
+            "city": "Mendoza"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 473,
+            "name": "Independ. Rivadavia",
+            "logo": "https://media.api-sports.io/football/teams/473.png",
+            "winner": true
+          },
+          "away": {
+            "id": 474,
+            "name": "Sarmiento Junin",
+            "logo": "https://media.api-sports.io/football/teams/474.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1491846,
@@ -16162,76 +16232,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374211,
-          "referee": "Pablo Dovalo, Argentina",
-          "timezone": "UTC",
-          "date": "2025-09-28T00:15:00+00:00",
-          "timestamp": 1759018500,
-          "periods": {
-            "first": 1759018500,
-            "second": 1759022100
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Mario Alberto Kempes",
-            "city": "Cordoba"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 456,
-            "name": "Talleres Cordoba",
-            "logo": "https://media.api-sports.io/football/teams/456.png",
-            "winner": true
-          },
-          "away": {
-            "id": 474,
-            "name": "Sarmiento Junin",
-            "logo": "https://media.api-sports.io/football/teams/474.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -16535,6 +16535,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1491857,
+          "referee": "Bryan Ferreyra,",
+          "timezone": "UTC",
+          "date": "2026-02-04T00:15:00+00:00",
+          "timestamp": 1770164100,
+          "periods": {
+            "first": 1770164100,
+            "second": 1770167700
+          },
+          "venue": {
+            "id": null,
+            "name": "Mario Alberto Kempes",
+            "city": "Cordoba"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 478,
+            "name": "Instituto Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/478.png",
+            "winner": null
+          },
+          "away": {
+            "id": 446,
+            "name": "Lanus",
+            "logo": "https://media.api-sports.io/football/teams/446.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1491843,
@@ -17154,76 +17224,6 @@
           "fulltime": {
             "home": 0,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374195,
-          "referee": "Jorge Balino, Argentina",
-          "timezone": "UTC",
-          "date": "2025-09-21T19:45:00+00:00",
-          "timestamp": 1758483900,
-          "periods": {
-            "first": 1758483900,
-            "second": 1758487500
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Feliciano Gambarte",
-            "city": "Mendoza"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 439,
-            "name": "Godoy Cruz",
-            "logo": "https://media.api-sports.io/football/teams/439.png",
-            "winner": null
-          },
-          "away": {
-            "id": 478,
-            "name": "Instituto Cordoba",
-            "logo": "https://media.api-sports.io/football/teams/478.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
