@@ -2382,7 +2382,7 @@
       {
         "fixture": {
           "id": 1506884,
-          "referee": "H. Ben El Hadj Salem",
+          "referee": "Hakim Ben el Salem Hadj, France",
           "timezone": "UTC",
           "date": "2026-02-04T19:30:00+00:00",
           "timestamp": 1770233400,
@@ -6353,7 +6353,12 @@
         },
         "total": 3
       },
-      "lineups": [],
+      "lineups": [
+        {
+          "formation": "3-4-3",
+          "played": 1
+        }
+      ],
       "cards": {
         "yellow": {
           "0-15": {
@@ -7443,7 +7448,7 @@
       {
         "fixture": {
           "id": 1494404,
-          "referee": "A. Narciso",
+          "referee": "Andre Filipe Domingues Narciso, Portugal",
           "timezone": "UTC",
           "date": "2026-02-05T20:45:00+00:00",
           "timestamp": 1770324300,
@@ -35777,7 +35782,7 @@
       {
         "fixture": {
           "id": 1385955,
-          "referee": "Florin Andrei, Romania",
+          "referee": "F. Andrei",
           "timezone": "UTC",
           "date": "2026-02-05T16:00:00+00:00",
           "timestamp": 1770307200,
@@ -35847,7 +35852,7 @@
       {
         "fixture": {
           "id": 1385947,
-          "referee": "Rares George Vidican, Romania",
+          "referee": "R. Vidican",
           "timezone": "UTC",
           "date": "2026-02-01T15:15:00+00:00",
           "timestamp": 1769958900,
@@ -35917,7 +35922,7 @@
       {
         "fixture": {
           "id": 1385939,
-          "referee": "Marcel Birsan, Romania",
+          "referee": "M. Birsan",
           "timezone": "UTC",
           "date": "2026-01-24T18:00:00+00:00",
           "timestamp": 1769277600,
@@ -36787,7 +36792,7 @@
       {
         "fixture": {
           "id": 1385954,
-          "referee": "Horatiu Fesnic, Romania",
+          "referee": "H. Fesnic",
           "timezone": "UTC",
           "date": "2026-02-04T18:30:00+00:00",
           "timestamp": 1770229800,
@@ -36857,7 +36862,7 @@
       {
         "fixture": {
           "id": 1385945,
-          "referee": "Iulian Calin, Romania",
+          "referee": "I. Calin",
           "timezone": "UTC",
           "date": "2026-01-30T18:00:00+00:00",
           "timestamp": 1769796000,
@@ -36927,7 +36932,7 @@
       {
         "fixture": {
           "id": 1385936,
-          "referee": "Florin Andrei, Romania",
+          "referee": "F. Andrei",
           "timezone": "UTC",
           "date": "2026-01-23T18:00:00+00:00",
           "timestamp": 1769191200,
@@ -52993,6 +52998,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1520316,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-02-07T11:30:00+00:00",
+          "timestamp": 1770463800,
+          "periods": {
+            "first": 1770463800,
+            "second": 1770467400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 342,
+            "name": "Zaglebie Sosnowiec",
+            "logo": "https://media.api-sports.io/football/teams/342.png",
+            "winner": true
+          },
+          "away": {
+            "id": 6957,
+            "name": "Stal Rzeszów",
+            "logo": "https://media.api-sports.io/football/teams/6957.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1502370,
           "referee": null,
           "timezone": "UTC",
@@ -53610,76 +53685,6 @@
           "fulltime": {
             "home": 1,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1381670,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2025-11-22T18:30:00+00:00",
-          "timestamp": 1763836200,
-          "periods": {
-            "first": 1763836200,
-            "second": 1763839800
-          },
-          "venue": {
-            "id": 5075,
-            "name": "Stadion Miejski w Rzeszowie",
-            "city": "Rzeszow"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 9
-          }
-        },
-        "league": {
-          "id": 107,
-          "name": "I Liga",
-          "country": "Poland",
-          "logo": "https://media.api-sports.io/football/leagues/107.png",
-          "flag": "https://media.api-sports.io/flags/pl.svg",
-          "season": 2025,
-          "round": "Regular Season - 17",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 6957,
-            "name": "Stal Rzeszów",
-            "logo": "https://media.api-sports.io/football/teams/6957.png",
-            "winner": true
-          },
-          "away": {
-            "id": 3495,
-            "name": "Tychy 71",
-            "logo": "https://media.api-sports.io/football/teams/3495.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -56031,7 +56036,7 @@
       {
         "fixture": {
           "id": 1494404,
-          "referee": "A. Narciso",
+          "referee": "Andre Filipe Domingues Narciso, Portugal",
           "timezone": "UTC",
           "date": "2026-02-05T20:45:00+00:00",
           "timestamp": 1770324300,
