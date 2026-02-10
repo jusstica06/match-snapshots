@@ -16512,6 +16512,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491868,
+          "referee": "Carlos Andres Gariano, Argentina",
+          "timezone": "UTC",
+          "date": "2026-02-10T00:30:00+00:00",
+          "timestamp": 1770683400,
+          "periods": {
+            "first": 1770683400,
+            "second": 1770687000
+          },
+          "venue": {
+            "id": null,
+            "name": "Antonio Candini",
+            "city": "Rio Cuarto"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 90,
+            "extra": 1
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 4",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2424,
+            "name": "Estudiantes de Rio Cuarto",
+            "logo": "https://media.api-sports.io/football/teams/2424.png",
+            "winner": false
+          },
+          "away": {
+            "id": 473,
+            "name": "Independ. Rivadavia",
+            "logo": "https://media.api-sports.io/football/teams/473.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491856,
           "referee": "L. Lobo Medina",
           "timezone": "UTC",
@@ -17139,76 +17209,6 @@
             "away": 3
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1374249,
-          "referee": "Yael Falcon Perez, Argentina",
-          "timezone": "UTC",
-          "date": "2025-10-18T18:45:00+00:00",
-          "timestamp": 1760813100,
-          "periods": {
-            "first": 1760813100,
-            "second": 1760816700
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Juan Bautista Gargantini",
-            "city": "Mendoza"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 13",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 473,
-            "name": "Independ. Rivadavia",
-            "logo": "https://media.api-sports.io/football/teams/473.png",
-            "winner": false
-          },
-          "away": {
-            "id": 449,
-            "name": "Banfield",
-            "logo": "https://media.api-sports.io/football/teams/449.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -17543,7 +17543,7 @@
       {
         "fixture": {
           "id": 1419811,
-          "referee": "Ivano Pezzuto, Italy",
+          "referee": "I. Pezzuto",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -17613,7 +17613,7 @@
       {
         "fixture": {
           "id": 1419802,
-          "referee": "Marco Di Bello, Italy",
+          "referee": "M. Di Bello",
           "timezone": "UTC",
           "date": "2026-01-31T18:30:00+00:00",
           "timestamp": 1769884200,
@@ -17683,7 +17683,7 @@
       {
         "fixture": {
           "id": 1419792,
-          "referee": "Simone Sozza, Italy",
+          "referee": "S. Sozza",
           "timezone": "UTC",
           "date": "2026-01-25T16:15:00+00:00",
           "timestamp": 1769357700,
@@ -18557,7 +18557,7 @@
       {
         "fixture": {
           "id": 1419813,
-          "referee": "Valerio Crezzini, Italy",
+          "referee": "V. Crezzini",
           "timezone": "UTC",
           "date": "2026-02-06T19:30:00+00:00",
           "timestamp": 1770406200,
@@ -18627,7 +18627,7 @@
       {
         "fixture": {
           "id": 1419806,
-          "referee": "Davide Di Marco, Italy",
+          "referee": "D. Di Marco",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -18697,7 +18697,7 @@
       {
         "fixture": {
           "id": 1419791,
-          "referee": "Livio Marinelli, Italy",
+          "referee": "L. Marinelli",
           "timezone": "UTC",
           "date": "2026-01-24T14:00:00+00:00",
           "timestamp": 1769263200,
@@ -19571,7 +19571,7 @@
       {
         "fixture": {
           "id": 1419815,
-          "referee": "Maurizio Mariani, Italy",
+          "referee": "M. Mariani",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -19641,7 +19641,7 @@
       {
         "fixture": {
           "id": 1419805,
-          "referee": "Maria Sole Ferrieri Caputi, Italy",
+          "referee": "M. Caputi",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -19711,7 +19711,7 @@
       {
         "fixture": {
           "id": 1419799,
-          "referee": "Marco Piccinini, Italy",
+          "referee": "M. Piccinini",
           "timezone": "UTC",
           "date": "2026-01-24T14:00:00+00:00",
           "timestamp": 1769263200,
@@ -20577,7 +20577,7 @@
       {
         "fixture": {
           "id": 1419819,
-          "referee": "Paride Tremolada, Italy",
+          "referee": "P. Tremolada",
           "timezone": "UTC",
           "date": "2026-02-07T16:15:00+00:00",
           "timestamp": 1770480900,
@@ -20647,7 +20647,7 @@
       {
         "fixture": {
           "id": 1419809,
-          "referee": "Antonio Rapuano, Italy",
+          "referee": "A. Rapuano",
           "timezone": "UTC",
           "date": "2026-01-30T19:30:00+00:00",
           "timestamp": 1769801400,
@@ -20717,7 +20717,7 @@
       {
         "fixture": {
           "id": 1419793,
-          "referee": "Federico Dionisi, Italy",
+          "referee": "F. Dionisi",
           "timezone": "UTC",
           "date": "2026-01-24T16:15:00+00:00",
           "timestamp": 1769271300,
@@ -21607,7 +21607,7 @@
       {
         "fixture": {
           "id": 1419813,
-          "referee": "Valerio Crezzini, Italy",
+          "referee": "V. Crezzini",
           "timezone": "UTC",
           "date": "2026-02-06T19:30:00+00:00",
           "timestamp": 1770406200,
@@ -21677,7 +21677,7 @@
       {
         "fixture": {
           "id": 1419808,
-          "referee": "Rosario Abisso, Italy",
+          "referee": "R. Abisso",
           "timezone": "UTC",
           "date": "2026-01-31T16:15:00+00:00",
           "timestamp": 1769876100,
@@ -21747,7 +21747,7 @@
       {
         "fixture": {
           "id": 1419795,
-          "referee": "Ivano Pezzuto, Italy",
+          "referee": "I. Pezzuto",
           "timezone": "UTC",
           "date": "2026-01-24T14:00:00+00:00",
           "timestamp": 1769263200,
@@ -22629,7 +22629,7 @@
       {
         "fixture": {
           "id": 1419812,
-          "referee": "Giovanni Ayroldi, Italy",
+          "referee": "G. Ayroldi",
           "timezone": "UTC",
           "date": "2026-02-07T18:30:00+00:00",
           "timestamp": 1770489000,
@@ -22699,7 +22699,7 @@
       {
         "fixture": {
           "id": 1419801,
-          "referee": "Simone Galipo, Italy",
+          "referee": "S. Galipo",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -22709,7 +22709,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -22769,7 +22769,7 @@
       {
         "fixture": {
           "id": 1419797,
-          "referee": "Giuseppe Mucera, Italy",
+          "referee": "G. Mucera",
           "timezone": "UTC",
           "date": "2026-01-24T14:00:00+00:00",
           "timestamp": 1769263200,
@@ -22919,7 +22919,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -23059,7 +23059,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -23199,7 +23199,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -28662,7 +28662,7 @@
       {
         "fixture": {
           "id": 1419816,
-          "referee": "Andrea Zanotti, Italy",
+          "referee": "A. Zanotti",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -28732,7 +28732,7 @@
       {
         "fixture": {
           "id": 1419804,
-          "referee": "Luca Massimi, Italy",
+          "referee": "L. Massimi",
           "timezone": "UTC",
           "date": "2026-02-01T16:15:00+00:00",
           "timestamp": 1769962500,
@@ -28802,7 +28802,7 @@
       {
         "fixture": {
           "id": 1419796,
-          "referee": "Claudio Giuseppe Allegretta, Italy",
+          "referee": "C. G. Allegretta",
           "timezone": "UTC",
           "date": "2026-01-25T14:00:00+00:00",
           "timestamp": 1769349600,
@@ -29684,7 +29684,7 @@
       {
         "fixture": {
           "id": 1419814,
-          "referee": "Mario Perri, Italy",
+          "referee": "M. Perri",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -29754,7 +29754,7 @@
       {
         "fixture": {
           "id": 1419807,
-          "referee": "Ermanno Feliciani, Italy",
+          "referee": "E. Feliciani",
           "timezone": "UTC",
           "date": "2026-02-01T14:00:00+00:00",
           "timestamp": 1769954400,
@@ -29824,7 +29824,7 @@
       {
         "fixture": {
           "id": 1419798,
-          "referee": "Maria Sole Ferrieri Caputi, Italy",
+          "referee": "M. Caputi",
           "timezone": "UTC",
           "date": "2026-01-24T14:00:00+00:00",
           "timestamp": 1769263200,
@@ -30690,7 +30690,7 @@
       {
         "fixture": {
           "id": 1419811,
-          "referee": "Ivano Pezzuto, Italy",
+          "referee": "I. Pezzuto",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -30760,7 +30760,7 @@
       {
         "fixture": {
           "id": 1419803,
-          "referee": "Giuseppe Mucera, Italy",
+          "referee": "G. Mucera",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -30830,7 +30830,7 @@
       {
         "fixture": {
           "id": 1419793,
-          "referee": "Federico Dionisi, Italy",
+          "referee": "F. Dionisi",
           "timezone": "UTC",
           "date": "2026-01-24T16:15:00+00:00",
           "timestamp": 1769271300,
@@ -33752,7 +33752,7 @@
       {
         "fixture": {
           "id": 1419817,
-          "referee": "Andrea Calzavara, Italy",
+          "referee": "A. Calzavara",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -33822,7 +33822,7 @@
       {
         "fixture": {
           "id": 1419805,
-          "referee": "Maria Sole Ferrieri Caputi, Italy",
+          "referee": "M. Caputi",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -33892,7 +33892,7 @@
       {
         "fixture": {
           "id": 1419800,
-          "referee": "Mario Perri, Italy",
+          "referee": "M. Perri",
           "timezone": "UTC",
           "date": "2026-01-23T19:30:00+00:00",
           "timestamp": 1769196600,
@@ -34778,7 +34778,7 @@
       {
         "fixture": {
           "id": 1419814,
-          "referee": "Mario Perri, Italy",
+          "referee": "M. Perri",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -34848,7 +34848,7 @@
       {
         "fixture": {
           "id": 1419810,
-          "referee": "Niccolo Turrini, Italy",
+          "referee": "N. Turrini",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -34918,7 +34918,7 @@
       {
         "fixture": {
           "id": 1419792,
-          "referee": "Simone Sozza, Italy",
+          "referee": "S. Sozza",
           "timezone": "UTC",
           "date": "2026-01-25T16:15:00+00:00",
           "timestamp": 1769357700,
@@ -35800,7 +35800,7 @@
       {
         "fixture": {
           "id": 1419820,
-          "referee": "Federico Dionisi, Italy",
+          "referee": "F. Dionisi",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -35870,7 +35870,7 @@
       {
         "fixture": {
           "id": 1419808,
-          "referee": "Rosario Abisso, Italy",
+          "referee": "R. Abisso",
           "timezone": "UTC",
           "date": "2026-01-31T16:15:00+00:00",
           "timestamp": 1769876100,
@@ -35940,7 +35940,7 @@
       {
         "fixture": {
           "id": 1419799,
-          "referee": "Marco Piccinini, Italy",
+          "referee": "M. Piccinini",
           "timezone": "UTC",
           "date": "2026-01-24T14:00:00+00:00",
           "timestamp": 1769263200,
@@ -37802,6 +37802,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491868,
+          "referee": "Carlos Andres Gariano, Argentina",
+          "timezone": "UTC",
+          "date": "2026-02-10T00:30:00+00:00",
+          "timestamp": 1770683400,
+          "periods": {
+            "first": 1770683400,
+            "second": 1770687000
+          },
+          "venue": {
+            "id": null,
+            "name": "Antonio Candini",
+            "city": "Rio Cuarto"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 4",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2424,
+            "name": "Estudiantes de Rio Cuarto",
+            "logo": "https://media.api-sports.io/football/teams/2424.png",
+            "winner": false
+          },
+          "away": {
+            "id": 473,
+            "name": "Independ. Rivadavia",
+            "logo": "https://media.api-sports.io/football/teams/473.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491850,
           "referee": "S. Zunino",
           "timezone": "UTC",
@@ -38419,76 +38489,6 @@
           "fulltime": {
             "home": 0,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1480962,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2025-10-12T22:10:00+00:00",
-          "timestamp": 1760307000,
-          "periods": {
-            "first": 1760307000,
-            "second": 1760310600
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": "Cordoba"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 129,
-          "name": "Primera Nacional",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/129.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "Round of 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2424,
-            "name": "Estudiantes de Rio Cuarto",
-            "logo": "https://media.api-sports.io/football/teams/2424.png",
-            "winner": true
-          },
-          "away": {
-            "id": 444,
-            "name": "Patronato",
-            "logo": "https://media.api-sports.io/football/teams/444.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
           },
           "extratime": {
             "home": null,

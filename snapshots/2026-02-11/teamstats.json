@@ -2167,12 +2167,12 @@
               "percentage": "16.67%"
             },
             "76-90": {
-              "total": 12,
-              "percentage": "33.33%"
+              "total": 13,
+              "percentage": "36.11%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.78%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -2338,7 +2338,7 @@
       {
         "fixture": {
           "id": 1379215,
-          "referee": "Craig Pawson, England",
+          "referee": "C. Pawson",
           "timezone": "UTC",
           "date": "2026-02-08T16:30:00+00:00",
           "timestamp": 1770568200,
@@ -4139,12 +4139,12 @@
               "percentage": "18.75%"
             },
             "76-90": {
-              "total": 7,
-              "percentage": "14.58%"
+              "total": 8,
+              "percentage": "16.67%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.08%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -4382,7 +4382,7 @@
       {
         "fixture": {
           "id": 1379215,
-          "referee": "Craig Pawson, England",
+          "referee": "C. Pawson",
           "timezone": "UTC",
           "date": "2026-02-08T16:30:00+00:00",
           "timestamp": 1770568200,
@@ -14446,7 +14446,7 @@
       {
         "fixture": {
           "id": 1513687,
-          "referee": null,
+          "referee": "R. Marques",
           "timezone": "UTC",
           "date": "2026-02-08T21:30:00+00:00",
           "timestamp": 1770586200,
@@ -17496,7 +17496,7 @@
       {
         "fixture": {
           "id": 1509664,
-          "referee": "Ryan Lee, Scotland",
+          "referee": "R. Lee",
           "timezone": "UTC",
           "date": "2026-02-07T17:30:00+00:00",
           "timestamp": 1770485400,
@@ -20581,76 +20581,6 @@
     "lastFixtures": [
       {
         "fixture": {
-          "id": 1509662,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-02-07T19:30:00+00:00",
-          "timestamp": 1770492600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1383,
-            "name": "Pittodrie Stadium",
-            "city": "Aberdeen"
-          },
-          "status": {
-            "long": "Not Started",
-            "short": "NS",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 181,
-          "name": "FA Cup",
-          "country": "Scotland",
-          "logo": "https://media.api-sports.io/football/leagues/181.png",
-          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-          "season": 2025,
-          "round": "Round of 16",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 252,
-            "name": "Aberdeen",
-            "logo": "https://media.api-sports.io/football/teams/252.png",
-            "winner": null
-          },
-          "away": {
-            "id": 256,
-            "name": "Motherwell",
-            "logo": "https://media.api-sports.io/football/teams/256.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1382807,
           "referee": "L. Wilson",
           "timezone": "UTC",
@@ -21278,6 +21208,76 @@
             "away": null
           }
         }
+      },
+      {
+        "fixture": {
+          "id": 1451451,
+          "referee": "David Smajc, Slovenia",
+          "timezone": "UTC",
+          "date": "2025-12-18T20:00:00+00:00",
+          "timestamp": 1766088000,
+          "periods": {
+            "first": 1766088000,
+            "second": 1766091600
+          },
+          "venue": {
+            "id": null,
+            "name": "epet ARENA",
+            "city": "Prague"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 848,
+          "name": "UEFA Europa Conference League",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/848.png",
+          "flag": null,
+          "season": 2025,
+          "round": "League Stage - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 628,
+            "name": "Sparta Praha",
+            "logo": "https://media.api-sports.io/football/teams/628.png",
+            "winner": true
+          },
+          "away": {
+            "id": 252,
+            "name": "Aberdeen",
+            "logo": "https://media.api-sports.io/football/teams/252.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     ]
   },
@@ -21616,7 +21616,7 @@
       {
         "fixture": {
           "id": 1509664,
-          "referee": "Ryan Lee, Scotland",
+          "referee": "R. Lee",
           "timezone": "UTC",
           "date": "2026-02-07T17:30:00+00:00",
           "timestamp": 1770485400,
@@ -23659,76 +23659,6 @@
     "lastFixtures": [
       {
         "fixture": {
-          "id": 1509662,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-02-07T19:30:00+00:00",
-          "timestamp": 1770492600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1383,
-            "name": "Pittodrie Stadium",
-            "city": "Aberdeen"
-          },
-          "status": {
-            "long": "Not Started",
-            "short": "NS",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 181,
-          "name": "FA Cup",
-          "country": "Scotland",
-          "logo": "https://media.api-sports.io/football/leagues/181.png",
-          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-          "season": 2025,
-          "round": "Round of 16",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 252,
-            "name": "Aberdeen",
-            "logo": "https://media.api-sports.io/football/teams/252.png",
-            "winner": null
-          },
-          "away": {
-            "id": 256,
-            "name": "Motherwell",
-            "logo": "https://media.api-sports.io/football/teams/256.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1382811,
           "referee": "D. McFarlane",
           "timezone": "UTC",
@@ -24345,6 +24275,76 @@
           },
           "fulltime": {
             "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1382763,
+          "referee": "Duncan Nicolson, Scotland",
+          "timezone": "UTC",
+          "date": "2025-12-13T15:00:00+00:00",
+          "timestamp": 1765638000,
+          "periods": {
+            "first": 1765638000,
+            "second": 1765641600
+          },
+          "venue": {
+            "id": 1388,
+            "name": "Tannadice Park",
+            "city": "Dundee"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 179,
+          "name": "Premiership",
+          "country": "Scotland",
+          "logo": "https://media.api-sports.io/football/leagues/179.png",
+          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+          "season": 2025,
+          "round": "1st Phase - 17",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1386,
+            "name": "Dundee Utd",
+            "logo": "https://media.api-sports.io/football/teams/1386.png",
+            "winner": null
+          },
+          "away": {
+            "id": 256,
+            "name": "Motherwell",
+            "logo": "https://media.api-sports.io/football/teams/256.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
             "away": 0
           },
           "extratime": {
@@ -25521,12 +25521,12 @@
               "percentage": "11.76%"
             },
             "76-90": {
-              "total": 6,
-              "percentage": "17.65%"
+              "total": 7,
+              "percentage": "20.59%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.94%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -27744,7 +27744,7 @@
       {
         "fixture": {
           "id": 1419820,
-          "referee": "Federico Dionisi, Italy",
+          "referee": "F. Dionisi",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -27814,7 +27814,7 @@
       {
         "fixture": {
           "id": 1419809,
-          "referee": "Antonio Rapuano, Italy",
+          "referee": "A. Rapuano",
           "timezone": "UTC",
           "date": "2026-01-30T19:30:00+00:00",
           "timestamp": 1769801400,
@@ -27884,7 +27884,7 @@
       {
         "fixture": {
           "id": 1419791,
-          "referee": "Livio Marinelli, Italy",
+          "referee": "L. Marinelli",
           "timezone": "UTC",
           "date": "2026-01-24T14:00:00+00:00",
           "timestamp": 1769263200,
@@ -28766,7 +28766,7 @@
       {
         "fixture": {
           "id": 1419819,
-          "referee": "Paride Tremolada, Italy",
+          "referee": "P. Tremolada",
           "timezone": "UTC",
           "date": "2026-02-07T16:15:00+00:00",
           "timestamp": 1770480900,
@@ -28836,7 +28836,7 @@
       {
         "fixture": {
           "id": 1419803,
-          "referee": "Giuseppe Mucera, Italy",
+          "referee": "G. Mucera",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -28906,7 +28906,7 @@
       {
         "fixture": {
           "id": 1419800,
-          "referee": "Mario Perri, Italy",
+          "referee": "M. Perri",
           "timezone": "UTC",
           "date": "2026-01-23T19:30:00+00:00",
           "timestamp": 1769196600,
@@ -29780,7 +29780,7 @@
       {
         "fixture": {
           "id": 1419815,
-          "referee": "Maurizio Mariani, Italy",
+          "referee": "M. Mariani",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -29850,7 +29850,7 @@
       {
         "fixture": {
           "id": 1419801,
-          "referee": "Simone Galipo, Italy",
+          "referee": "S. Galipo",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -29860,7 +29860,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -29920,7 +29920,7 @@
       {
         "fixture": {
           "id": 1419798,
-          "referee": "Maria Sole Ferrieri Caputi, Italy",
+          "referee": "M. Caputi",
           "timezone": "UTC",
           "date": "2026-01-24T14:00:00+00:00",
           "timestamp": 1769263200,
@@ -30806,7 +30806,7 @@
       {
         "fixture": {
           "id": 1419812,
-          "referee": "Giovanni Ayroldi, Italy",
+          "referee": "G. Ayroldi",
           "timezone": "UTC",
           "date": "2026-02-07T18:30:00+00:00",
           "timestamp": 1770489000,
@@ -30876,7 +30876,7 @@
       {
         "fixture": {
           "id": 1419802,
-          "referee": "Marco Di Bello, Italy",
+          "referee": "M. Di Bello",
           "timezone": "UTC",
           "date": "2026-01-31T18:30:00+00:00",
           "timestamp": 1769884200,
@@ -30946,7 +30946,7 @@
       {
         "fixture": {
           "id": 1419794,
-          "referee": "Paride Tremolada, Italy",
+          "referee": "P. Tremolada",
           "timezone": "UTC",
           "date": "2026-01-24T18:30:00+00:00",
           "timestamp": 1769279400,
@@ -31376,7 +31376,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -31836,7 +31836,7 @@
       {
         "fixture": {
           "id": 1419818,
-          "referee": "Livio Marinelli, Italy",
+          "referee": "L. Marinelli",
           "timezone": "UTC",
           "date": "2026-02-08T14:00:00+00:00",
           "timestamp": 1770559200,
@@ -31906,7 +31906,7 @@
       {
         "fixture": {
           "id": 1419806,
-          "referee": "Davide Di Marco, Italy",
+          "referee": "D. Di Marco",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -31976,7 +31976,7 @@
       {
         "fixture": {
           "id": 1419794,
-          "referee": "Paride Tremolada, Italy",
+          "referee": "P. Tremolada",
           "timezone": "UTC",
           "date": "2026-01-24T18:30:00+00:00",
           "timestamp": 1769279400,
@@ -33774,7 +33774,7 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 10
+          "played": 11
         },
         {
           "formation": "4-4-1-1",
@@ -33790,7 +33790,7 @@
         },
         {
           "formation": "3-5-2",
-          "played": 2
+          "played": 1
         },
         {
           "formation": "4-3-2-1",
@@ -35920,7 +35920,7 @@
       {
         "fixture": {
           "id": 1494534,
-          "referee": "Urs Schnyder, Switzerland",
+          "referee": "U. Schnyder",
           "timezone": "UTC",
           "date": "2026-02-08T15:30:00+00:00",
           "timestamp": 1770564600,
@@ -36946,7 +36946,7 @@
       {
         "fixture": {
           "id": 1419816,
-          "referee": "Andrea Zanotti, Italy",
+          "referee": "A. Zanotti",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -37016,7 +37016,7 @@
       {
         "fixture": {
           "id": 1419807,
-          "referee": "Ermanno Feliciani, Italy",
+          "referee": "E. Feliciani",
           "timezone": "UTC",
           "date": "2026-02-01T14:00:00+00:00",
           "timestamp": 1769954400,
@@ -37086,7 +37086,7 @@
       {
         "fixture": {
           "id": 1419797,
-          "referee": "Giuseppe Mucera, Italy",
+          "referee": "G. Mucera",
           "timezone": "UTC",
           "date": "2026-01-24T14:00:00+00:00",
           "timestamp": 1769263200,
@@ -37960,7 +37960,7 @@
       {
         "fixture": {
           "id": 1494535,
-          "referee": "Nico Gianforte, Switzerland",
+          "referee": "N. Gianforte",
           "timezone": "UTC",
           "date": "2026-02-08T15:30:00+00:00",
           "timestamp": 1770564600,
@@ -42031,76 +42031,6 @@
     "lastFixtures": [
       {
         "fixture": {
-          "id": 1509665,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-02-07T15:00:00+00:00",
-          "timestamp": 1770476400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1388,
-            "name": "Tannadice Park",
-            "city": "Dundee"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 181,
-          "name": "FA Cup",
-          "country": "Scotland",
-          "logo": "https://media.api-sports.io/football/leagues/181.png",
-          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-          "season": 2025,
-          "round": "Round of 16",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 1386,
-            "name": "Dundee Utd",
-            "logo": "https://media.api-sports.io/football/teams/1386.png",
-            "winner": null
-          },
-          "away": {
-            "id": 6781,
-            "name": "Spartans",
-            "logo": "https://media.api-sports.io/football/teams/6781.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1382812,
           "referee": "C. Steven",
           "timezone": "UTC",
@@ -42728,6 +42658,76 @@
             "away": null
           }
         }
+      },
+      {
+        "fixture": {
+          "id": 1382726,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-12-17T20:00:00+00:00",
+          "timestamp": 1766001600,
+          "periods": {
+            "first": 1766001600,
+            "second": 1766005200
+          },
+          "venue": {
+            "id": 1388,
+            "name": "Tannadice Park",
+            "city": "Dundee"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 179,
+          "name": "Premiership",
+          "country": "Scotland",
+          "logo": "https://media.api-sports.io/football/leagues/179.png",
+          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+          "season": 2025,
+          "round": "1st Phase - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1386,
+            "name": "Dundee Utd",
+            "logo": "https://media.api-sports.io/football/teams/1386.png",
+            "winner": true
+          },
+          "away": {
+            "id": 247,
+            "name": "Celtic",
+            "logo": "https://media.api-sports.io/football/teams/247.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     ]
   },
@@ -43038,7 +43038,7 @@
       {
         "fixture": {
           "id": 1509668,
-          "referee": null,
+          "referee": "D. Nicolson",
           "timezone": "UTC",
           "date": "2026-02-08T19:30:00+00:00",
           "timestamp": 1770579000,
@@ -44048,7 +44048,7 @@
       {
         "fixture": {
           "id": 1419817,
-          "referee": "Andrea Calzavara, Italy",
+          "referee": "A. Calzavara",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -44118,7 +44118,7 @@
       {
         "fixture": {
           "id": 1419810,
-          "referee": "Niccolo Turrini, Italy",
+          "referee": "N. Turrini",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -44188,7 +44188,7 @@
       {
         "fixture": {
           "id": 1419796,
-          "referee": "Claudio Giuseppe Allegretta, Italy",
+          "referee": "C. G. Allegretta",
           "timezone": "UTC",
           "date": "2026-01-25T14:00:00+00:00",
           "timestamp": 1769349600,
@@ -44478,7 +44478,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -45058,7 +45058,7 @@
       {
         "fixture": {
           "id": 1419818,
-          "referee": "Livio Marinelli, Italy",
+          "referee": "L. Marinelli",
           "timezone": "UTC",
           "date": "2026-02-08T14:00:00+00:00",
           "timestamp": 1770559200,
@@ -45128,7 +45128,7 @@
       {
         "fixture": {
           "id": 1419804,
-          "referee": "Luca Massimi, Italy",
+          "referee": "L. Massimi",
           "timezone": "UTC",
           "date": "2026-02-01T16:15:00+00:00",
           "timestamp": 1769962500,
@@ -45198,7 +45198,7 @@
       {
         "fixture": {
           "id": 1419795,
-          "referee": "Ivano Pezzuto, Italy",
+          "referee": "I. Pezzuto",
           "timezone": "UTC",
           "date": "2026-01-24T14:00:00+00:00",
           "timestamp": 1769263200,
@@ -45348,7 +45348,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -48120,7 +48120,7 @@
       {
         "fixture": {
           "id": 1500563,
-          "referee": "Fabiano Monteiro dos Santos, Brazil",
+          "referee": "F. dos Santos",
           "timezone": "UTC",
           "date": "2026-02-08T21:30:00+00:00",
           "timestamp": 1770586200,
@@ -48260,7 +48260,7 @@
       {
         "fixture": {
           "id": 1500556,
-          "referee": "Murilo Tarrega Victor, Brazil",
+          "referee": "V. Murilo",
           "timezone": "UTC",
           "date": "2026-02-02T18:00:00+00:00",
           "timestamp": 1770055200,
@@ -48400,7 +48400,7 @@
       {
         "fixture": {
           "id": 1500542,
-          "referee": "Marianna Nanni Batalha, Brazil",
+          "referee": "M. Batalha",
           "timezone": "UTC",
           "date": "2026-01-24T18:00:00+00:00",
           "timestamp": 1769277600,
@@ -48410,8 +48410,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estádio Primeiro de Maio",
-            "city": "São Bernardo do Campo"
+            "name": "Estadio Primeiro de Maio",
+            "city": "Sao Bernardo"
           },
           "status": {
             "long": "Match Finished",
@@ -48551,7 +48551,7 @@
           "venue": {
             "id": null,
             "name": "Allianz Parque",
-            "city": "São Paulo"
+            "city": "Sao Paulo"
           },
           "status": {
             "long": "Match Finished",
