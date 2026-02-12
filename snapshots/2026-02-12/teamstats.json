@@ -2317,6 +2317,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492138,
+          "referee": "Paulo Cesar Zanovelli da Silva, Brazil",
+          "timezone": "UTC",
+          "date": "2026-02-12T00:30:00+00:00",
+          "timestamp": 1770856200,
+          "periods": {
+            "first": 1770856200,
+            "second": 1770859800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estádio São Januário",
+            "city": "Rio de Janeiro"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 81,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 133,
+            "name": "Vasco DA Gama",
+            "logo": "https://media.api-sports.io/football/teams/133.png",
+            "winner": false
+          },
+          "away": {
+            "id": 118,
+            "name": "Bahia",
+            "logo": "https://media.api-sports.io/football/teams/118.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1500682,
           "referee": null,
           "timezone": "UTC",
@@ -2934,76 +3004,6 @@
           "fulltime": {
             "home": 4,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1478051,
-          "referee": "Matheus Delgado Candançan, Brazil",
-          "timezone": "UTC",
-          "date": "2025-12-07T19:00:00+00:00",
-          "timestamp": 1765134000,
-          "periods": {
-            "first": 1765134000,
-            "second": 1765137600
-          },
-          "venue": {
-            "id": null,
-            "name": "Estádio do Maracanã",
-            "city": "Rio de Janeiro"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2025,
-          "round": "Regular Season - 38",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 124,
-            "name": "Fluminense",
-            "logo": "https://media.api-sports.io/football/teams/124.png",
-            "winner": true
-          },
-          "away": {
-            "id": 118,
-            "name": "Bahia",
-            "logo": "https://media.api-sports.io/football/teams/118.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -5323,6 +5323,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492137,
+          "referee": "Savio Pereira Sampaio, Brazil",
+          "timezone": "UTC",
+          "date": "2026-02-12T00:30:00+00:00",
+          "timestamp": 1770856200,
+          "periods": {
+            "first": 1770856200,
+            "second": 1770859800
+          },
+          "venue": {
+            "id": null,
+            "name": "MorumBIS",
+            "city": "São Paulo"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 81,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 126,
+            "name": "Sao Paulo",
+            "logo": "https://media.api-sports.io/football/teams/126.png",
+            "winner": true
+          },
+          "away": {
+            "id": 130,
+            "name": "Gremio",
+            "logo": "https://media.api-sports.io/football/teams/130.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1500561,
           "referee": "V. Murilo",
           "timezone": "UTC",
@@ -5939,76 +6009,6 @@
           },
           "fulltime": {
             "home": 3,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1478056,
-          "referee": "Wilton Pereira Sampaio, Brazil",
-          "timezone": "UTC",
-          "date": "2025-12-07T19:00:00+00:00",
-          "timestamp": 1765134000,
-          "periods": {
-            "first": 1765134000,
-            "second": 1765137600
-          },
-          "venue": {
-            "id": null,
-            "name": "Barradao",
-            "city": "Salvador"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2025,
-          "round": "Regular Season - 38",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 136,
-            "name": "Vitoria",
-            "logo": "https://media.api-sports.io/football/teams/136.png",
-            "winner": true
-          },
-          "away": {
-            "id": 126,
-            "name": "Sao Paulo",
-            "logo": "https://media.api-sports.io/football/teams/126.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
             "away": 0
           },
           "extratime": {
@@ -7331,6 +7331,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492137,
+          "referee": "Savio Pereira Sampaio, Brazil",
+          "timezone": "UTC",
+          "date": "2026-02-12T00:30:00+00:00",
+          "timestamp": 1770856200,
+          "periods": {
+            "first": 1770856200,
+            "second": 1770859800
+          },
+          "venue": {
+            "id": null,
+            "name": "MorumBIS",
+            "city": "São Paulo"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 81,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 126,
+            "name": "Sao Paulo",
+            "logo": "https://media.api-sports.io/football/teams/126.png",
+            "winner": true
+          },
+          "away": {
+            "id": 130,
+            "name": "Gremio",
+            "logo": "https://media.api-sports.io/football/teams/130.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1516218,
           "referee": "R. Klein",
           "timezone": "UTC",
@@ -7944,76 +8014,6 @@
           "halftime": {
             "home": 0,
             "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 4
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1478055,
-          "referee": "Edina Alves Batista, Brazil",
-          "timezone": "UTC",
-          "date": "2025-12-07T19:00:00+00:00",
-          "timestamp": 1765134000,
-          "periods": {
-            "first": 1765134000,
-            "second": 1765137600
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Adelmar da Costa Carvalho",
-            "city": "Recife"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 2
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2025,
-          "round": "Regular Season - 38",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 123,
-            "name": "Sport Recife",
-            "logo": "https://media.api-sports.io/football/teams/123.png",
-            "winner": false
-          },
-          "away": {
-            "id": 130,
-            "name": "Gremio",
-            "logo": "https://media.api-sports.io/football/teams/130.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 4
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 3
           },
           "fulltime": {
             "home": 0,
@@ -9335,6 +9335,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492138,
+          "referee": "Paulo Cesar Zanovelli da Silva, Brazil",
+          "timezone": "UTC",
+          "date": "2026-02-12T00:30:00+00:00",
+          "timestamp": 1770856200,
+          "periods": {
+            "first": 1770856200,
+            "second": 1770859800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estádio São Januário",
+            "city": "Rio de Janeiro"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 81,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 133,
+            "name": "Vasco DA Gama",
+            "logo": "https://media.api-sports.io/football/teams/133.png",
+            "winner": false
+          },
+          "away": {
+            "id": 118,
+            "name": "Bahia",
+            "logo": "https://media.api-sports.io/football/teams/118.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1500886,
           "referee": "Y. Ferreira",
           "timezone": "UTC",
@@ -9952,76 +10022,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1491726,
-          "referee": "Rafael Rodrigo Klein, Brazil",
-          "timezone": "UTC",
-          "date": "2025-12-18T00:30:00+00:00",
-          "timestamp": 1766017800,
-          "periods": {
-            "first": 1766017800,
-            "second": 1766021400
-          },
-          "venue": {
-            "id": null,
-            "name": "Neo Quimica Arena",
-            "city": "Sao Paulo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 73,
-          "name": "Copa Do Brasil",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/73.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2025,
-          "round": "Final",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 131,
-            "name": "Corinthians",
-            "logo": "https://media.api-sports.io/football/teams/131.png",
-            "winner": null
-          },
-          "away": {
-            "id": 133,
-            "name": "Vasco DA Gama",
-            "logo": "https://media.api-sports.io/football/teams/133.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -13376,7 +13376,7 @@
       {
         "fixture": {
           "id": 1491875,
-          "referee": "Sebastian Zunino, Argentina",
+          "referee": "S. Zunino",
           "timezone": "UTC",
           "date": "2026-02-07T23:00:00+00:00",
           "timestamp": 1770505200,
@@ -13386,7 +13386,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Mâs Monumental",
+            "name": "Estadio Monumental",
             "city": "Buenos Aires"
           },
           "status": {
@@ -13446,7 +13446,7 @@
       {
         "fixture": {
           "id": 1491861,
-          "referee": "Pablo Echavarria, Argentina",
+          "referee": "P. Echavarria",
           "timezone": "UTC",
           "date": "2026-02-02T22:45:00+00:00",
           "timestamp": 1770072300,
@@ -13516,7 +13516,7 @@
       {
         "fixture": {
           "id": 1491835,
-          "referee": "Andres Merlos, Argentina",
+          "referee": "A. Merlos",
           "timezone": "UTC",
           "date": "2026-01-29T22:15:00+00:00",
           "timestamp": 1769724900,
@@ -13526,7 +13526,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Julio César Villagra",
+            "name": "Estadio Julio Cesar Villagra",
             "city": "Cordoba"
           },
           "status": {
@@ -14386,7 +14386,7 @@
       {
         "fixture": {
           "id": 1491863,
-          "referee": "Fernando Espinoza, Argentina",
+          "referee": "F. Espinoza",
           "timezone": "UTC",
           "date": "2026-02-07T20:00:00+00:00",
           "timestamp": 1770494400,
@@ -14456,7 +14456,7 @@
       {
         "fixture": {
           "id": 1491854,
-          "referee": "Juan Pafundi, Argentina",
+          "referee": "J. Pafundi",
           "timezone": "UTC",
           "date": "2026-02-02T20:30:00+00:00",
           "timestamp": 1770064200,
@@ -14526,7 +14526,7 @@
       {
         "fixture": {
           "id": 1491833,
-          "referee": "Luis Lobo Medina, Argentina",
+          "referee": "L. Lobo Medina",
           "timezone": "UTC",
           "date": "2026-01-28T20:00:00+00:00",
           "timestamp": 1769630400,
