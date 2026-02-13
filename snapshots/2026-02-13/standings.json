@@ -691,9 +691,66 @@
     {
       "rank": 1,
       "team": {
-        "id": 794,
-        "name": "RB Bragantino",
-        "logo": "https://media.api-sports.io/football/teams/794.png"
+        "id": 126,
+        "name": "Sao Paulo",
+        "logo": "https://media.api-sports.io/football/teams/126.png"
+      },
+      "points": 7,
+      "all": {
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goals": {
+          "for": 5,
+          "against": 2
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": 124,
+        "name": "Fluminense",
+        "logo": "https://media.api-sports.io/football/teams/124.png"
+      },
+      "points": 7,
+      "all": {
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goals": {
+          "for": 4,
+          "against": 2
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": 118,
+        "name": "Bahia",
+        "logo": "https://media.api-sports.io/football/teams/118.png"
+      },
+      "points": 7,
+      "all": {
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goals": {
+          "for": 4,
+          "against": 2
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": 134,
+        "name": "Atletico Paranaense",
+        "logo": "https://media.api-sports.io/football/teams/134.png"
       },
       "points": 6,
       "all": {
@@ -702,13 +759,32 @@
         "draw": 0,
         "lose": 0,
         "goals": {
-          "for": 2,
-          "against": 0
+          "for": 3,
+          "against": 1
         }
       }
     },
     {
-      "rank": 2,
+      "rank": 5,
+      "team": {
+        "id": 794,
+        "name": "RB Bragantino",
+        "logo": "https://media.api-sports.io/football/teams/794.png"
+      },
+      "points": 6,
+      "all": {
+        "played": 3,
+        "win": 2,
+        "draw": 0,
+        "lose": 1,
+        "goals": {
+          "for": 2,
+          "against": 2
+        }
+      }
+    },
+    {
+      "rank": 6,
       "team": {
         "id": 132,
         "name": "Chapecoense-sc",
@@ -727,7 +803,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 7,
       "team": {
         "id": 7848,
         "name": "Mirassol",
@@ -746,7 +822,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 8,
       "team": {
         "id": 121,
         "name": "Palmeiras",
@@ -765,64 +841,7 @@
       }
     },
     {
-      "rank": 5,
-      "team": {
-        "id": 126,
-        "name": "Sao Paulo",
-        "logo": "https://media.api-sports.io/football/teams/126.png"
-      },
-      "points": 4,
-      "all": {
-        "played": 2,
-        "win": 1,
-        "draw": 1,
-        "lose": 0,
-        "goals": {
-          "for": 3,
-          "against": 2
-        }
-      }
-    },
-    {
-      "rank": 6,
-      "team": {
-        "id": 124,
-        "name": "Fluminense",
-        "logo": "https://media.api-sports.io/football/teams/124.png"
-      },
-      "points": 4,
-      "all": {
-        "played": 2,
-        "win": 1,
-        "draw": 1,
-        "lose": 0,
-        "goals": {
-          "for": 3,
-          "against": 2
-        }
-      }
-    },
-    {
-      "rank": 7,
-      "team": {
-        "id": 118,
-        "name": "Bahia",
-        "logo": "https://media.api-sports.io/football/teams/118.png"
-      },
-      "points": 4,
-      "all": {
-        "played": 2,
-        "win": 1,
-        "draw": 1,
-        "lose": 0,
-        "goals": {
-          "for": 3,
-          "against": 2
-        }
-      }
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "team": {
         "id": 147,
         "name": "Coritiba",
@@ -841,7 +860,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "team": {
         "id": 127,
         "name": "Flamengo",
@@ -860,7 +879,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "team": {
         "id": 120,
         "name": "Botafogo",
@@ -868,18 +887,37 @@
       },
       "points": 3,
       "all": {
+        "played": 3,
+        "win": 1,
+        "draw": 0,
+        "lose": 2,
+        "goals": {
+          "for": 7,
+          "against": 6
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": 131,
+        "name": "Corinthians",
+        "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "points": 3,
+      "all": {
         "played": 2,
         "win": 1,
         "draw": 0,
         "lose": 1,
         "goals": {
-          "for": 7,
-          "against": 5
+          "for": 3,
+          "against": 2
         }
       }
     },
     {
-      "rank": 11,
+      "rank": 13,
       "team": {
         "id": 130,
         "name": "Gremio",
@@ -887,37 +925,18 @@
       },
       "points": 3,
       "all": {
-        "played": 2,
+        "played": 3,
         "win": 1,
         "draw": 0,
-        "lose": 1,
+        "lose": 2,
         "goals": {
           "for": 6,
-          "against": 5
+          "against": 7
         }
       }
     },
     {
-      "rank": 12,
-      "team": {
-        "id": 134,
-        "name": "Atletico Paranaense",
-        "logo": "https://media.api-sports.io/football/teams/134.png"
-      },
-      "points": 3,
-      "all": {
-        "played": 1,
-        "win": 1,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 1,
-          "against": 0
-        }
-      }
-    },
-    {
-      "rank": 13,
+      "rank": 14,
       "team": {
         "id": 136,
         "name": "Vitoria",
@@ -936,7 +955,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "team": {
         "id": 1062,
         "name": "Atletico-MG",
@@ -955,7 +974,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "team": {
         "id": 1198,
         "name": "remo",
@@ -970,25 +989,6 @@
         "goals": {
           "for": 5,
           "against": 7
-        }
-      }
-    },
-    {
-      "rank": 16,
-      "team": {
-        "id": 133,
-        "name": "Vasco DA Gama",
-        "logo": "https://media.api-sports.io/football/teams/133.png"
-      },
-      "points": 1,
-      "all": {
-        "played": 2,
-        "win": 0,
-        "draw": 1,
-        "lose": 1,
-        "goals": {
-          "for": 2,
-          "against": 3
         }
       }
     },
@@ -1014,24 +1014,43 @@
     {
       "rank": 18,
       "team": {
+        "id": 133,
+        "name": "Vasco DA Gama",
+        "logo": "https://media.api-sports.io/football/teams/133.png"
+      },
+      "points": 1,
+      "all": {
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goals": {
+          "for": 2,
+          "against": 4
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "team": {
         "id": 128,
         "name": "Santos",
         "logo": "https://media.api-sports.io/football/teams/128.png"
       },
       "points": 1,
       "all": {
-        "played": 2,
+        "played": 3,
         "win": 0,
         "draw": 1,
-        "lose": 1,
+        "lose": 2,
         "goals": {
-          "for": 3,
-          "against": 5
+          "for": 4,
+          "against": 7
         }
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "team": {
         "id": 135,
         "name": "Cruzeiro",
@@ -1046,25 +1065,6 @@
         "goals": {
           "for": 3,
           "against": 8
-        }
-      }
-    },
-    {
-      "rank": 20,
-      "team": {
-        "id": 131,
-        "name": "Corinthians",
-        "logo": "https://media.api-sports.io/football/teams/131.png"
-      },
-      "points": 0,
-      "all": {
-        "played": 1,
-        "win": 0,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 1,
-          "against": 2
         }
       }
     }
@@ -2276,6 +2276,25 @@
     {
       "rank": 10,
       "team": {
+        "id": 421,
+        "name": "Den Bosch",
+        "logo": "https://media.api-sports.io/football/teams/421.png"
+      },
+      "points": 37,
+      "all": {
+        "played": 27,
+        "win": 11,
+        "draw": 4,
+        "lose": 12,
+        "goals": {
+          "for": 47,
+          "against": 49
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "team": {
         "id": 204,
         "name": "VVV Venlo",
         "logo": "https://media.api-sports.io/football/teams/204.png"
@@ -2289,25 +2308,6 @@
         "goals": {
           "for": 35,
           "against": 39
-        }
-      }
-    },
-    {
-      "rank": 11,
-      "team": {
-        "id": 421,
-        "name": "Den Bosch",
-        "logo": "https://media.api-sports.io/football/teams/421.png"
-      },
-      "points": 34,
-      "all": {
-        "played": 26,
-        "win": 10,
-        "draw": 4,
-        "lose": 12,
-        "goals": {
-          "for": 45,
-          "against": 48
         }
       }
     },
@@ -2339,13 +2339,13 @@
       },
       "points": 30,
       "all": {
-        "played": 24,
+        "played": 25,
         "win": 9,
         "draw": 3,
-        "lose": 12,
+        "lose": 13,
         "goals": {
-          "for": 34,
-          "against": 44
+          "for": 35,
+          "against": 46
         }
       }
     },
@@ -8645,6 +8645,25 @@
     {
       "rank": 3,
       "team": {
+        "id": 2933,
+        "name": "Al-Qadisiyah FC",
+        "logo": "https://media.api-sports.io/football/teams/2933.png"
+      },
+      "points": 47,
+      "all": {
+        "played": 21,
+        "win": 14,
+        "draw": 5,
+        "lose": 2,
+        "goals": {
+          "for": 46,
+          "against": 19
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "team": {
         "id": 2929,
         "name": "Al-Ahli Jeddah",
         "logo": "https://media.api-sports.io/football/teams/2929.png"
@@ -8662,25 +8681,6 @@
       }
     },
     {
-      "rank": 4,
-      "team": {
-        "id": 2933,
-        "name": "Al-Qadisiyah FC",
-        "logo": "https://media.api-sports.io/football/teams/2933.png"
-      },
-      "points": 44,
-      "all": {
-        "played": 20,
-        "win": 13,
-        "draw": 5,
-        "lose": 2,
-        "goals": {
-          "for": 45,
-          "against": 19
-        }
-      }
-    },
-    {
       "rank": 5,
       "team": {
         "id": 2936,
@@ -8689,13 +8689,13 @@
       },
       "points": 39,
       "all": {
-        "played": 20,
+        "played": 21,
         "win": 12,
         "draw": 3,
-        "lose": 5,
+        "lose": 6,
         "goals": {
-          "for": 37,
-          "against": 22
+          "for": 38,
+          "against": 24
         }
       }
     },
@@ -8746,13 +8746,13 @@
       },
       "points": 28,
       "all": {
-        "played": 20,
+        "played": 21,
         "win": 8,
         "draw": 4,
-        "lose": 8,
+        "lose": 9,
         "goals": {
           "for": 26,
-          "against": 29
+          "against": 30
         }
       }
     },
@@ -8797,6 +8797,25 @@
     {
       "rank": 11,
       "team": {
+        "id": 2945,
+        "name": "Al-Hazm",
+        "logo": "https://media.api-sports.io/football/teams/2945.png"
+      },
+      "points": 24,
+      "all": {
+        "played": 21,
+        "win": 6,
+        "draw": 6,
+        "lose": 9,
+        "goals": {
+          "for": 22,
+          "against": 38
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "team": {
         "id": 2944,
         "name": "Al-Fayha",
         "logo": "https://media.api-sports.io/football/teams/2944.png"
@@ -8810,25 +8829,6 @@
         "goals": {
           "for": 22,
           "against": 33
-        }
-      }
-    },
-    {
-      "rank": 12,
-      "team": {
-        "id": 2945,
-        "name": "Al-Hazm",
-        "logo": "https://media.api-sports.io/football/teams/2945.png"
-      },
-      "points": 21,
-      "all": {
-        "played": 20,
-        "win": 5,
-        "draw": 6,
-        "lose": 9,
-        "goals": {
-          "for": 20,
-          "against": 37
         }
       }
     },
@@ -8877,15 +8877,15 @@
         "name": "Damac",
         "logo": "https://media.api-sports.io/football/teams/2956.png"
       },
-      "points": 12,
+      "points": 15,
       "all": {
-        "played": 20,
-        "win": 1,
+        "played": 21,
+        "win": 2,
         "draw": 9,
         "lose": 10,
         "goals": {
-          "for": 14,
-          "against": 35
+          "for": 16,
+          "against": 36
         }
       }
     },
@@ -8917,13 +8917,13 @@
       },
       "points": 10,
       "all": {
-        "played": 20,
+        "played": 21,
         "win": 2,
         "draw": 4,
-        "lose": 14,
+        "lose": 15,
         "goals": {
-          "for": 15,
-          "against": 41
+          "for": 16,
+          "against": 43
         }
       }
     },
