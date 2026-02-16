@@ -41,57 +41,15 @@
       }
     }
   },
-  "40": {
-    "id": 40,
-    "name": "Championship",
+  "39": {
+    "id": 39,
+    "name": "Premier League",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/40.png",
+    "logo": "https://media.api-sports.io/football/leagues/39.png",
     "country": {
       "name": "England",
       "code": "GB-ENG",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg"
-    },
-    "season": 2025,
-    "seasons": [
-      2011,
-      2012,
-      2013,
-      2014,
-      2015,
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ],
-    "coverage": {
-      "standings": true,
-      "players": true,
-      "topScorers": true,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": true,
-        "statistics_players": true
-      }
-    }
-  },
-  "88": {
-    "id": 88,
-    "name": "Eredivisie",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/88.png",
-    "country": {
-      "name": "Netherlands",
-      "code": "NL",
-      "flag": "https://media.api-sports.io/flags/nl.svg"
     },
     "season": 2025,
     "seasons": [
@@ -126,18 +84,62 @@
       }
     }
   },
-  "188": {
-    "id": 188,
-    "name": "A-League",
+  "135": {
+    "id": 135,
+    "name": "Serie A",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/188.png",
+    "logo": "https://media.api-sports.io/football/leagues/135.png",
     "country": {
-      "name": "Australia",
-      "code": "AU",
-      "flag": "https://media.api-sports.io/flags/au.svg"
+      "name": "Italy",
+      "code": "IT",
+      "flag": "https://media.api-sports.io/flags/it.svg"
     },
     "season": 2025,
     "seasons": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "140": {
+    "id": 140,
+    "name": "La Liga",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/140.png",
+    "country": {
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "season": 2025,
+    "seasons": [
+      2010,
       2011,
       2012,
       2013,
@@ -185,6 +187,43 @@
       2013,
       2014,
       2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "207": {
+    "id": 207,
+    "name": "Super League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/207.png",
+    "country": {
+      "name": "Switzerland",
+      "code": "CH",
+      "flag": "https://media.api-sports.io/flags/ch.svg"
+    },
+    "season": 2025,
+    "seasons": [
       2016,
       2017,
       2018,
