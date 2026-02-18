@@ -8381,6 +8381,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1523488,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-02-13T15:00:00+00:00",
+          "timestamp": 1770994800,
+          "periods": {
+            "first": 1770994800,
+            "second": 1770998400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendly",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 319,
+            "name": "Brann",
+            "logo": "https://media.api-sports.io/football/teams/319.png",
+            "winner": true
+          },
+          "away": {
+            "id": 330,
+            "name": "ODD Ballklubb",
+            "logo": "https://media.api-sports.io/football/teams/330.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 6,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 6,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1451287,
           "referee": "J. Xhaja",
           "timezone": "UTC",
@@ -8998,76 +9068,6 @@
           "fulltime": {
             "home": 1,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1451225,
-          "referee": "Daniel Schlager, Germany",
-          "timezone": "UTC",
-          "date": "2025-11-06T20:00:00+00:00",
-          "timestamp": 1762459200,
-          "periods": {
-            "first": 1762459200,
-            "second": 1762462800
-          },
-          "venue": {
-            "id": 881,
-            "name": "Stadio Renato Dall'Ara",
-            "city": "Bologna"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 3,
-          "name": "UEFA Europa League",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/3.png",
-          "flag": null,
-          "season": 2025,
-          "round": "League Stage - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 500,
-            "name": "Bologna",
-            "logo": "https://media.api-sports.io/football/teams/500.png",
-            "winner": null
-          },
-          "away": {
-            "id": 319,
-            "name": "Brann",
-            "logo": "https://media.api-sports.io/football/teams/319.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -18551,7 +18551,7 @@
       {
         "fixture": {
           "id": 1489254,
-          "referee": "Daniele Chiffi, Italy",
+          "referee": "D. Chiffi",
           "timezone": "UTC",
           "date": "2026-02-11T20:00:00+00:00",
           "timestamp": 1770840000,
@@ -19701,7 +19701,7 @@
       {
         "fixture": {
           "id": 1477050,
-          "referee": "Giovanni Ayroldi, Italy",
+          "referee": "G. Ayroldi",
           "timezone": "UTC",
           "date": "2026-01-27T20:00:00+00:00",
           "timestamp": 1769544000,
@@ -22520,7 +22520,7 @@
       {
         "fixture": {
           "id": 1451546,
-          "referee": "V. Minev",
+          "referee": "Vasil Minev, Bulgaria",
           "timezone": "UTC",
           "date": "2026-02-15T12:30:00+00:00",
           "timestamp": 1771158600,
@@ -22660,7 +22660,7 @@
       {
         "fixture": {
           "id": 1451542,
-          "referee": "D. Draganov",
+          "referee": "Dragomir Draganov, Bulgaria",
           "timezone": "UTC",
           "date": "2026-02-07T13:00:00+00:00",
           "timestamp": 1770469200,
@@ -25974,7 +25974,7 @@
       {
         "fixture": {
           "id": 1501874,
-          "referee": null,
+          "referee": "M. Bodur",
           "timezone": "UTC",
           "date": "2026-01-15T14:00:00+00:00",
           "timestamp": 1768485600,
@@ -27714,7 +27714,7 @@
       {
         "fixture": {
           "id": 1489334,
-          "referee": "O. Turtay",
+          "referee": "Omer Faruk Turtay, Türkiye",
           "timezone": "UTC",
           "date": "2026-02-05T17:30:00+00:00",
           "timestamp": 1770312600,
@@ -38704,7 +38704,7 @@
       {
         "fixture": {
           "id": 1438761,
-          "referee": "Ahmad Alali, Kuwait",
+          "referee": "A. Al Ali",
           "timezone": "UTC",
           "date": "2026-02-16T16:00:00+00:00",
           "timestamp": 1771257600,
@@ -38714,7 +38714,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Prince Abdullah al-Faisal Stadium",
+            "name": "King Abdullah Sports City",
             "city": "Jeddah"
           },
           "status": {
@@ -42820,7 +42820,7 @@
       {
         "fixture": {
           "id": 1415741,
-          "referee": "Konstantinos Photiou, Cyprus",
+          "referee": "K. Fotiou",
           "timezone": "UTC",
           "date": "2026-02-14T15:00:00+00:00",
           "timestamp": 1771081200,
@@ -42890,7 +42890,7 @@
       {
         "fixture": {
           "id": 1415732,
-          "referee": "Marios Christoforou, Cyprus",
+          "referee": "M. Christoforou",
           "timezone": "UTC",
           "date": "2026-02-08T17:00:00+00:00",
           "timestamp": 1770570000,
@@ -43030,7 +43030,7 @@
       {
         "fixture": {
           "id": 1415721,
-          "referee": "Konstantinos Photiou, Cyprus",
+          "referee": "K. Fotiou",
           "timezone": "UTC",
           "date": "2026-02-01T14:00:00+00:00",
           "timestamp": 1769954400,
@@ -43100,7 +43100,7 @@
       {
         "fixture": {
           "id": 1415717,
-          "referee": "Constantinos Fellas, Cyprus",
+          "referee": "K. Fellas",
           "timezone": "UTC",
           "date": "2026-01-25T17:00:00+00:00",
           "timestamp": 1769360400,
