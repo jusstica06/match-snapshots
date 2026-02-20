@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T02:22:26.660Z",
+  "generatedAt": "2026-02-20T02:20:33.909Z",
   "picks": [
     {
       "fixtureId": 1469658,
@@ -614,14 +614,14 @@
       "homeTeam": "Al Okhdood",
       "awayTeamId": 2933,
       "awayTeam": "Al-Qadisiyah FC",
-      "expectedHome": 0.908,
-      "expectedAway": 1.552,
-      "expectedTotal": 2.46,
-      "teamGoalsHomeLambda": 0.934,
-      "teamGoalsAwayLambda": 1.87,
+      "expectedHome": 0.977,
+      "expectedAway": 1.67,
+      "expectedTotal": 2.647,
+      "teamGoalsHomeLambda": 1.005,
+      "teamGoalsAwayLambda": 2.013,
       "type": "home15",
       "label": "Al Okhdood 1.5 Üst",
-      "prob": 0.24,
+      "prob": 0.2661,
       "side": "home"
     },
     {
@@ -633,14 +633,14 @@
       "homeTeam": "Al Taawon",
       "awayTeamId": 2944,
       "awayTeam": "Al-Fayha",
-      "expectedHome": 1.193,
-      "expectedAway": 0.857,
-      "expectedTotal": 2.05,
-      "teamGoalsHomeLambda": 1.516,
-      "teamGoalsAwayLambda": 0.824,
+      "expectedHome": 1.302,
+      "expectedAway": 0.936,
+      "expectedTotal": 2.238,
+      "teamGoalsHomeLambda": 1.655,
+      "teamGoalsAwayLambda": 0.9,
       "type": "btts",
       "label": "Karşılıklı Gol Var",
-      "prob": 0.4202
+      "prob": 0.4623
     },
     {
       "fixtureId": 1436117,
@@ -651,14 +651,14 @@
       "homeTeam": "Damac",
       "awayTeamId": 2940,
       "awayTeam": "Al Shabab",
-      "expectedHome": 0.955,
-      "expectedAway": 0.999,
-      "expectedTotal": 1.954,
-      "teamGoalsHomeLambda": 0.993,
-      "teamGoalsAwayLambda": 1.063,
+      "expectedHome": 1.047,
+      "expectedAway": 1.095,
+      "expectedTotal": 2.142,
+      "teamGoalsHomeLambda": 1.089,
+      "teamGoalsAwayLambda": 1.165,
       "type": "doubleChance",
       "label": "Ev veya Deplasman (12)",
-      "prob": 0.6942
+      "prob": 0.7107
     },
     {
       "fixtureId": 1491380,
@@ -921,6 +921,24 @@
       "side": "home"
     },
     {
+      "fixtureId": 1491897,
+      "leagueId": 128,
+      "season": 2026,
+      "kickoffTs": 1771618500,
+      "homeTeamId": 442,
+      "homeTeam": "Defensa Y Justicia",
+      "awayTeamId": 440,
+      "awayTeam": "Belgrano Cordoba",
+      "expectedHome": 0.868,
+      "expectedAway": 0.979,
+      "expectedTotal": 1.847,
+      "teamGoalsHomeLambda": 0.767,
+      "teamGoalsAwayLambda": 0.955,
+      "type": "over25",
+      "label": "Toplam 2.5 Üst",
+      "prob": 0.4514
+    },
+    {
       "fixtureId": 1396440,
       "leagueId": 94,
       "season": 2025,
@@ -942,7 +960,7 @@
       "fixtureId": 1491899,
       "leagueId": 128,
       "season": 2026,
-      "kickoffTs": 1771621200,
+      "kickoffTs": 1771620300,
       "homeTeamId": 450,
       "homeTeam": "Estudiantes L.P.",
       "awayTeamId": 474,
@@ -973,6 +991,24 @@
       "type": "doubleChance",
       "label": "Beraberlik veya Deplasman (X2)",
       "prob": 0.7747
+    },
+    {
+      "fixtureId": 1491902,
+      "leagueId": 128,
+      "season": 2026,
+      "kickoffTs": 1771628400,
+      "homeTeamId": 478,
+      "homeTeam": "Instituto Cordoba",
+      "awayTeamId": 455,
+      "awayTeam": "Atletico Tucuman",
+      "expectedHome": 1.051,
+      "expectedAway": 1.127,
+      "expectedTotal": 2.178,
+      "teamGoalsHomeLambda": 1.191,
+      "teamGoalsAwayLambda": 1.204,
+      "type": "over35",
+      "label": "Toplam 3.5 Üst",
+      "prob": 0.1963
     }
   ]
 }
