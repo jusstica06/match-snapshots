@@ -1,13 +1,15 @@
 {
-  "generatedAt": "2026-02-22T16:09:43.913Z",
+  "generatedAt": "2026-02-23T00:17:27.510Z",
   "totalTeams": 58,
   "totalLeagues": 19,
+  "teamsWithFallback": 36,
   "data": {
     "33": {
       "teamId": 33,
       "teamName": "Manchester United",
       "season": 2025,
       "leagueId": 39,
+      "leagueName": "Premier League",
       "keyPlayers": {
         "topScorer": {
           "id": 20589,
@@ -55,8 +57,15 @@
       "teamName": "Everton",
       "season": 2025,
       "leagueId": 39,
+      "leagueName": "Premier League",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 18929,
+          "name": "D. McNeil",
+          "photo": "https://media.api-sports.io/football/players/18929.png",
+          "goals": 1,
+          "appearances": 2
+        },
         "topAssist": {
           "id": 19187,
           "name": "J. Grealish",
@@ -69,7 +78,7 @@
           "name": "T. Iroegbunam",
           "photo": "https://media.api-sports.io/football/players/284500.png",
           "yellowCards": 8,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [],
@@ -88,6 +97,7 @@
       "teamName": "Guingamp",
       "season": 2025,
       "leagueId": 62,
+      "leagueName": "Ligue 2",
       "keyPlayers": {
         "topScorer": {
           "id": 85558,
@@ -103,13 +113,7 @@
           "assists": 5,
           "appearances": 13
         },
-        "mostCards": {
-          "id": 23402,
-          "name": "D. Gomis",
-          "photo": "https://media.api-sports.io/football/players/23402.png",
-          "yellowCards": 6,
-          "redCards": 0
-        }
+        "mostCards": null
       },
       "topScorers": [
         {
@@ -142,6 +146,7 @@
       "teamName": "Emmen",
       "season": 2025,
       "leagueId": 89,
+      "leagueName": "Eerste Divisie",
       "keyPlayers": {
         "topScorer": {
           "id": 135882,
@@ -162,7 +167,7 @@
           "name": "P. Mulder",
           "photo": "https://media.api-sports.io/football/players/272857.png",
           "yellowCards": 6,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [
@@ -189,6 +194,7 @@
       "teamName": "Pacos Ferreira",
       "season": 2025,
       "leagueId": 95,
+      "leagueName": "Segunda Liga",
       "keyPlayers": {
         "topScorer": {
           "id": 323571,
@@ -205,10 +211,10 @@
           "appearances": 20
         },
         "mostCards": {
-          "id": 162333,
-          "name": "João Pinto",
-          "photo": "https://media.api-sports.io/football/players/162333.png",
-          "yellowCards": 0,
+          "id": 195978,
+          "name": "Kauan",
+          "photo": "https://media.api-sports.io/football/players/195978.png",
+          "yellowCards": 5,
           "redCards": 1
         }
       },
@@ -236,8 +242,15 @@
       "teamName": "Famalicao",
       "season": 2025,
       "leagueId": 94,
+      "leagueName": "Primeira Liga",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 379985,
+          "name": "Gustavo Sá",
+          "photo": "https://media.api-sports.io/football/players/379985.png",
+          "goals": 4,
+          "appearances": 22
+        },
         "topAssist": {
           "id": 1615,
           "name": "Gil Dias",
@@ -250,7 +263,7 @@
           "name": "Gil Dias",
           "photo": "https://media.api-sports.io/football/players/1615.png",
           "yellowCards": 6,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [],
@@ -269,13 +282,26 @@
       "teamName": "FC Porto B",
       "season": 2025,
       "leagueId": 95,
+      "leagueName": "Segunda Liga",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 237165,
+          "name": "Domingos Andrade",
+          "photo": "https://media.api-sports.io/football/players/237165.png",
+          "goals": 1,
+          "appearances": 17
+        },
+        "topAssist": {
+          "id": 336683,
+          "name": "Gabriel Brás",
+          "photo": "https://media.api-sports.io/football/players/336683.png",
+          "assists": 1,
+          "appearances": 19
+        },
         "mostCards": {
-          "id": 321845,
-          "name": "Felipe Silva",
-          "photo": "https://media.api-sports.io/football/players/321845.png",
+          "id": 237165,
+          "name": "Domingos Andrade",
+          "photo": "https://media.api-sports.io/football/players/237165.png",
           "yellowCards": 7,
           "redCards": 1
         }
@@ -288,6 +314,7 @@
       "teamName": "Lechia Gdansk",
       "season": 2025,
       "leagueId": 106,
+      "leagueName": "Ekstraklasa",
       "keyPlayers": {
         "topScorer": {
           "id": 61211,
@@ -304,11 +331,11 @@
           "appearances": 20
         },
         "mostCards": {
-          "id": 324545,
-          "name": "T. Neugebauer",
-          "photo": "https://media.api-sports.io/football/players/324545.png",
+          "id": 76863,
+          "name": "R. Kapič",
+          "photo": "https://media.api-sports.io/football/players/76863.png",
           "yellowCards": 5,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [
@@ -349,6 +376,7 @@
       "teamName": "Zaglebie Lubin",
       "season": 2025,
       "leagueId": 106,
+      "leagueName": "Ekstraklasa",
       "keyPlayers": {
         "topScorer": {
           "id": 8853,
@@ -368,7 +396,7 @@
           "id": 305452,
           "name": "L. Lučić",
           "photo": "https://media.api-sports.io/football/players/305452.png",
-          "yellowCards": 0,
+          "yellowCards": 3,
           "redCards": 0
         }
       },
@@ -396,6 +424,7 @@
       "teamName": "Sonderjyske",
       "season": 2025,
       "leagueId": 119,
+      "leagueName": "Superliga",
       "keyPlayers": {
         "topScorer": {
           "id": 89768,
@@ -404,7 +433,13 @@
           "goals": 6,
           "appearances": 14
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 16044,
+          "name": "A. Oggesen",
+          "photo": "https://media.api-sports.io/football/players/16044.png",
+          "assists": 3,
+          "appearances": 18
+        },
         "mostCards": {
           "id": 144624,
           "name": "E. Duru",
@@ -429,6 +464,7 @@
       "teamName": "Brondby",
       "season": 2025,
       "leagueId": 119,
+      "leagueName": "Superliga",
       "keyPlayers": {
         "topScorer": {
           "id": 16176,
@@ -449,7 +485,7 @@
           "name": "L. Binks",
           "photo": "https://media.api-sports.io/football/players/154799.png",
           "yellowCards": 7,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [
@@ -483,6 +519,7 @@
       "teamName": "Jong AZ",
       "season": 2025,
       "leagueId": 89,
+      "leagueName": "Eerste Divisie",
       "keyPlayers": {
         "topScorer": {
           "id": 330261,
@@ -503,7 +540,7 @@
           "name": "Mathijs Menu",
           "photo": "https://media.api-sports.io/football/players/446287.png",
           "yellowCards": 6,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [
@@ -530,6 +567,7 @@
       "teamName": "Den Bosch",
       "season": 2025,
       "leagueId": 89,
+      "leagueName": "Eerste Divisie",
       "keyPlayers": {
         "topScorer": {
           "id": 56299,
@@ -577,9 +615,22 @@
       "teamName": "Jong Ajax",
       "season": 2025,
       "leagueId": 89,
+      "leagueName": "Eerste Divisie",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 467685,
+          "name": "Don O`Niel",
+          "photo": "https://media.api-sports.io/football/players/467685.png",
+          "goals": 5,
+          "appearances": 27
+        },
+        "topAssist": {
+          "id": 396202,
+          "name": "Rayane Bounida",
+          "photo": "https://media.api-sports.io/football/players/396202.png",
+          "assists": 3,
+          "appearances": 10
+        },
         "mostCards": {
           "id": 380781,
           "name": "E. Butera",
@@ -596,9 +647,22 @@
       "teamName": "Union Santa Fe",
       "season": 2026,
       "leagueId": 128,
+      "leagueName": "Liga Profesional Argentina",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 5312,
+          "name": "C. Tarragona",
+          "photo": "https://media.api-sports.io/football/players/5312.png",
+          "goals": 1,
+          "appearances": 5
+        },
+        "topAssist": {
+          "id": 167652,
+          "name": "J. Palacios",
+          "photo": "https://media.api-sports.io/football/players/167652.png",
+          "assists": 1,
+          "appearances": 5
+        },
         "mostCards": {
           "id": 425741,
           "name": "V. Fascendini",
@@ -615,13 +679,20 @@
       "teamName": "Aldosivi",
       "season": 2026,
       "leagueId": 128,
+      "leagueName": "Liga Profesional Argentina",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 6269,
+          "name": "F. Gino",
+          "photo": "https://media.api-sports.io/football/players/6269.png",
+          "goals": 1,
+          "appearances": 5
+        },
         "topAssist": null,
         "mostCards": {
-          "id": 58770,
-          "name": "R. Bochi",
-          "photo": "https://media.api-sports.io/football/players/58770.png",
+          "id": 30783,
+          "name": "E. Rolón",
+          "photo": "https://media.api-sports.io/football/players/30783.png",
           "yellowCards": 3,
           "redCards": 0
         }
@@ -634,6 +705,7 @@
       "teamName": "Udinese",
       "season": 2025,
       "leagueId": 135,
+      "leagueName": "Serie A",
       "keyPlayers": {
         "topScorer": {
           "id": 19185,
@@ -643,7 +715,13 @@
           "appearances": 22
         },
         "topAssist": null,
-        "mostCards": null
+        "mostCards": {
+          "id": 19824,
+          "name": "J. Zemura",
+          "photo": "https://media.api-sports.io/football/players/19824.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {
@@ -661,6 +739,7 @@
       "teamName": "Bologna",
       "season": 2025,
       "leagueId": 135,
+      "leagueName": "Serie A",
       "keyPlayers": {
         "topScorer": {
           "id": 311067,
@@ -680,7 +759,7 @@
           "id": 30438,
           "name": "N. Cambiaghi",
           "photo": "https://media.api-sports.io/football/players/30438.png",
-          "yellowCards": 0,
+          "yellowCards": 3,
           "redCards": 1
         }
       },
@@ -715,6 +794,7 @@
       "teamName": "Fiorentina",
       "season": 2025,
       "leagueId": 135,
+      "leagueName": "Serie A",
       "keyPlayers": {
         "topScorer": {
           "id": 877,
@@ -723,7 +803,13 @@
           "goals": 7,
           "appearances": 22
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 1014,
+          "name": "S. Sohm",
+          "photo": "https://media.api-sports.io/football/players/1014.png",
+          "assists": 4,
+          "appearances": 35
+        },
         "mostCards": {
           "id": 1084,
           "name": "M. Pongračić",
@@ -745,13 +831,32 @@
     },
     "542": {
       "teamId": 542,
-      "teamName": null,
+      "teamName": "Alaves",
       "season": 2025,
       "leagueId": 140,
+      "leagueName": "La Liga",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
+        "topScorer": {
+          "id": 47181,
+          "name": "Toni Martínez",
+          "photo": "https://media.api-sports.io/football/players/47181.png",
+          "goals": 3,
+          "appearances": 5
+        },
+        "topAssist": {
+          "id": 187214,
+          "name": "Carlos Vicente",
+          "photo": "https://media.api-sports.io/football/players/187214.png",
+          "assists": 1,
+          "appearances": 4
+        },
+        "mostCards": {
+          "id": 47309,
+          "name": "Guevara",
+          "photo": "https://media.api-sports.io/football/players/47309.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
@@ -761,6 +866,7 @@
       "teamName": "Girona",
       "season": 2025,
       "leagueId": 140,
+      "leagueName": "La Liga",
       "keyPlayers": {
         "topScorer": {
           "id": 161670,
@@ -769,12 +875,18 @@
           "goals": 7,
           "appearances": 21
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 155,
+          "name": "Abel Ruiz",
+          "photo": "https://media.api-sports.io/football/players/155.png",
+          "assists": 1,
+          "appearances": 2
+        },
         "mostCards": {
-          "id": 414359,
-          "name": "Vitor Nunes",
-          "photo": "https://media.api-sports.io/football/players/414359.png",
-          "yellowCards": 0,
+          "id": 158,
+          "name": "P. Gazzaniga",
+          "photo": "https://media.api-sports.io/football/players/158.png",
+          "yellowCards": 4,
           "redCards": 1
         }
       },
@@ -794,6 +906,7 @@
       "teamName": "FCSB",
       "season": 2025,
       "leagueId": 283,
+      "leagueName": "Liga I",
       "keyPlayers": {
         "topScorer": {
           "id": 43038,
@@ -813,7 +926,7 @@
           "id": 42589,
           "name": "Ș. Târnovanu",
           "photo": "https://media.api-sports.io/football/players/42589.png",
-          "yellowCards": 0,
+          "yellowCards": 2,
           "redCards": 1
         }
       },
@@ -848,6 +961,7 @@
       "teamName": "Ludogorets",
       "season": 2025,
       "leagueId": 172,
+      "leagueName": "First League",
       "keyPlayers": {
         "topScorer": {
           "id": 31552,
@@ -863,7 +977,13 @@
           "assists": 5,
           "appearances": 18
         },
-        "mostCards": null
+        "mostCards": {
+          "id": 24835,
+          "name": "B. Tekpetey",
+          "photo": "https://media.api-sports.io/football/players/24835.png",
+          "yellowCards": 3,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {
@@ -917,6 +1037,7 @@
       "teamName": "Fenerbahçe",
       "season": 2025,
       "leagueId": 203,
+      "leagueName": "Süper Lig",
       "keyPlayers": {
         "topScorer": {
           "id": 12724,
@@ -985,6 +1106,7 @@
       "teamName": "Botev Plovdiv",
       "season": 2025,
       "leagueId": 172,
+      "leagueName": "First League",
       "keyPlayers": {
         "topScorer": {
           "id": 1131,
@@ -1039,8 +1161,15 @@
       "teamName": "Cadiz",
       "season": 2025,
       "leagueId": 141,
+      "leagueName": "Segunda División",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 486472,
+          "name": "Álvaro García",
+          "photo": "https://media.api-sports.io/football/players/486472.png",
+          "goals": 4,
+          "appearances": 25
+        },
         "topAssist": {
           "id": 486472,
           "name": "Álvaro García",
@@ -1053,7 +1182,7 @@
           "name": "Mario Climent",
           "photo": "https://media.api-sports.io/football/players/297745.png",
           "yellowCards": 12,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [],
@@ -1072,6 +1201,7 @@
       "teamName": "Pisa",
       "season": 2025,
       "leagueId": 135,
+      "leagueName": "Serie A",
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
@@ -1079,7 +1209,7 @@
           "id": 56293,
           "name": "I. Touré",
           "photo": "https://media.api-sports.io/football/players/56293.png",
-          "yellowCards": 0,
+          "yellowCards": 3,
           "redCards": 1
         }
       },
@@ -1091,15 +1221,28 @@
       "teamName": "Sivasspor",
       "season": 2025,
       "leagueId": 204,
+      "leagueName": "1. Lig",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 1732,
+          "name": "A. Badji",
+          "photo": "https://media.api-sports.io/football/players/1732.png",
+          "goals": 2,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 50082,
+          "name": "U. Çiftçi",
+          "photo": "https://media.api-sports.io/football/players/50082.png",
+          "assists": 3,
+          "appearances": 20
+        },
         "mostCards": {
           "id": 8532,
           "name": "C. Charisis",
           "photo": "https://media.api-sports.io/football/players/8532.png",
           "yellowCards": 7,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [],
@@ -1110,8 +1253,15 @@
       "teamName": "Kasımpaşa",
       "season": 2025,
       "leagueId": 203,
+      "leagueName": "Süper Lig",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 57163,
+          "name": "P. Guèye",
+          "photo": "https://media.api-sports.io/football/players/57163.png",
+          "goals": 5,
+          "appearances": 20
+        },
         "topAssist": {
           "id": 49469,
           "name": "M. Ben Ouanes",
@@ -1123,7 +1273,7 @@
           "id": 40401,
           "name": "Cafú",
           "photo": "https://media.api-sports.io/football/players/40401.png",
-          "yellowCards": 0,
+          "yellowCards": 3,
           "redCards": 1
         }
       },
@@ -1143,6 +1293,7 @@
       "teamName": "Le Mans",
       "season": 2025,
       "leagueId": 62,
+      "leagueName": "Ligue 2",
       "keyPlayers": {
         "topScorer": {
           "id": 4743,
@@ -1187,9 +1338,10 @@
     },
     "1595": {
       "teamId": 1595,
-      "teamName": null,
+      "teamName": "Seattle Sounders",
       "season": 2026,
       "leagueId": 253,
+      "leagueName": "Major League Soccer",
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
@@ -1200,9 +1352,10 @@
     },
     "1604": {
       "teamId": 1604,
-      "teamName": null,
+      "teamName": "New York City FC",
       "season": 2026,
       "leagueId": 253,
+      "leagueName": "Major League Soccer",
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
@@ -1213,9 +1366,10 @@
     },
     "1605": {
       "teamId": 1605,
-      "teamName": null,
+      "teamName": "Los Angeles Galaxy",
       "season": 2026,
       "leagueId": 253,
+      "leagueName": "Major League Soccer",
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
@@ -1226,9 +1380,10 @@
     },
     "1610": {
       "teamId": 1610,
-      "teamName": null,
+      "teamName": "Colorado Rapids",
       "season": 2026,
       "leagueId": 253,
+      "leagueName": "Major League Soccer",
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
@@ -1242,8 +1397,15 @@
       "teamName": "AFC Hermannstadt",
       "season": 2025,
       "leagueId": 283,
+      "leagueName": "Liga I",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 11034,
+          "name": "S. Buș",
+          "photo": "https://media.api-sports.io/football/players/11034.png",
+          "goals": 4,
+          "appearances": 25
+        },
         "topAssist": {
           "id": 43111,
           "name": "S. Balaure",
@@ -1275,15 +1437,28 @@
       "teamName": "Metaloglobus",
       "season": 2025,
       "leagueId": 283,
+      "leagueName": "Liga I",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 130646,
+          "name": "Y. Zakir",
+          "photo": "https://media.api-sports.io/football/players/130646.png",
+          "goals": 5,
+          "appearances": 20
+        },
+        "topAssist": {
+          "id": 105059,
+          "name": "Damià Sabater",
+          "photo": "https://media.api-sports.io/football/players/105059.png",
+          "assists": 3,
+          "appearances": 26
+        },
         "mostCards": {
           "id": 409152,
           "name": "D. Irimia",
           "photo": "https://media.api-sports.io/football/players/409152.png",
           "yellowCards": 6,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [],
@@ -1294,6 +1469,7 @@
       "teamName": "Al-Ahli Jeddah",
       "season": 2025,
       "leagueId": 307,
+      "leagueName": "Pro League",
       "keyPlayers": {
         "topScorer": {
           "id": 19974,
@@ -1314,7 +1490,7 @@
           "name": "E. Millot",
           "photo": "https://media.api-sports.io/football/players/162887.png",
           "yellowCards": 8,
-          "redCards": 2
+          "redCards": 0
         }
       },
       "topScorers": [
@@ -1348,6 +1524,7 @@
       "teamName": "Al-Fateh",
       "season": 2025,
       "leagueId": 307,
+      "leagueName": "Pro League",
       "keyPlayers": {
         "topScorer": {
           "id": 6066,
@@ -1395,6 +1572,7 @@
       "teamName": "Al-Qadisiyah FC",
       "season": 2025,
       "leagueId": 307,
+      "leagueName": "Pro League",
       "keyPlayers": {
         "topScorer": {
           "id": 35532,
@@ -1456,6 +1634,7 @@
       "teamName": "Al-Ettifaq",
       "season": 2025,
       "leagueId": 307,
+      "leagueName": "Pro League",
       "keyPlayers": {
         "topScorer": {
           "id": 300,
@@ -1464,7 +1643,13 @@
           "goals": 12,
           "appearances": 21
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 2636,
+          "name": "Madallah Al Olayan",
+          "photo": "https://media.api-sports.io/football/players/2636.png",
+          "assists": 2,
+          "appearances": 20
+        },
         "mostCards": {
           "id": 442314,
           "name": "Faris Al Ghamdi",
@@ -1496,6 +1681,7 @@
       "teamName": "Al Shabab",
       "season": 2025,
       "leagueId": 307,
+      "leagueName": "Pro League",
       "keyPlayers": {
         "topScorer": {
           "id": 2923,
@@ -1512,10 +1698,10 @@
           "appearances": 18
         },
         "mostCards": {
-          "id": 348539,
-          "name": "Unai Hernández",
-          "photo": "https://media.api-sports.io/football/players/348539.png",
-          "yellowCards": 6,
+          "id": 431623,
+          "name": "Mohammed Al Shwirekh",
+          "photo": "https://media.api-sports.io/football/players/431623.png",
+          "yellowCards": 4,
           "redCards": 2
         }
       },
@@ -1543,14 +1729,27 @@
       "teamName": "Damac",
       "season": 2025,
       "leagueId": 307,
+      "leagueName": "Pro League",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 50858,
+          "name": "J. Medina",
+          "photo": "https://media.api-sports.io/football/players/50858.png",
+          "goals": 8,
+          "appearances": 28
+        },
+        "topAssist": {
+          "id": 50858,
+          "name": "J. Medina",
+          "photo": "https://media.api-sports.io/football/players/50858.png",
+          "assists": 7,
+          "appearances": 28
+        },
         "mostCards": {
           "id": 4476,
           "name": "A. Bedrane",
           "photo": "https://media.api-sports.io/football/players/4476.png",
-          "yellowCards": 0,
+          "yellowCards": 3,
           "redCards": 2
         }
       },
@@ -1562,8 +1761,15 @@
       "teamName": "Al Okhdood",
       "season": 2025,
       "leagueId": 307,
+      "leagueName": "Pro League",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 44564,
+          "name": "Saeed Al Rubaie",
+          "photo": "https://media.api-sports.io/football/players/44564.png",
+          "goals": 4,
+          "appearances": 0
+        },
         "topAssist": {
           "id": 3408,
           "name": "C. Bassogog",
@@ -1576,7 +1782,7 @@
           "name": "Naif Asiri",
           "photo": "https://media.api-sports.io/football/players/353543.png",
           "yellowCards": 8,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [],
@@ -1592,9 +1798,10 @@
     },
     "3493": {
       "teamId": 3493,
-      "teamName": null,
+      "teamName": "Stal Mielec",
       "season": 2025,
       "leagueId": 107,
+      "leagueName": "I Liga",
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
@@ -1608,6 +1815,7 @@
       "teamName": "ŁKS Łódź",
       "season": 2025,
       "leagueId": 107,
+      "leagueName": "I Liga",
       "keyPlayers": {
         "topScorer": {
           "id": 56060,
@@ -1669,14 +1877,27 @@
       "teamName": "Adana Demirspor",
       "season": 2025,
       "leagueId": 204,
+      "leagueName": "1. Lig",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 273763,
+          "name": "S. Kavrazlı",
+          "photo": "https://media.api-sports.io/football/players/273763.png",
+          "goals": 7,
+          "appearances": 13
+        },
+        "topAssist": {
+          "id": 452774,
+          "name": "Caner Kaban",
+          "photo": "https://media.api-sports.io/football/players/452774.png",
+          "assists": 2,
+          "appearances": 0
+        },
         "mostCards": {
           "id": 522691,
           "name": "Ali Fidan",
           "photo": "https://media.api-sports.io/football/players/522691.png",
-          "yellowCards": 0,
+          "yellowCards": 4,
           "redCards": 1
         }
       },
@@ -1688,6 +1909,7 @@
       "teamName": "Amed",
       "season": 2025,
       "leagueId": 204,
+      "leagueName": "1. Lig",
       "keyPlayers": {
         "topScorer": {
           "id": 458,
@@ -1703,7 +1925,13 @@
           "assists": 9,
           "appearances": 25
         },
-        "mostCards": null
+        "mostCards": {
+          "id": 12939,
+          "name": "D. Sabia",
+          "photo": "https://media.api-sports.io/football/players/12939.png",
+          "yellowCards": 5,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {
@@ -1736,6 +1964,7 @@
       "teamName": "Keçiörengücü",
       "season": 2025,
       "leagueId": 204,
+      "leagueName": "1. Lig",
       "keyPlayers": {
         "topScorer": {
           "id": 19511,
@@ -1797,6 +2026,7 @@
       "teamName": "Pendikspor",
       "season": 2025,
       "leagueId": 204,
+      "leagueName": "1. Lig",
       "keyPlayers": {
         "topScorer": {
           "id": 19948,
@@ -1851,6 +2081,7 @@
       "teamName": "Sakaryaspor",
       "season": 2025,
       "leagueId": 204,
+      "leagueName": "1. Lig",
       "keyPlayers": {
         "topScorer": {
           "id": 47545,
@@ -1859,13 +2090,19 @@
           "goals": 8,
           "appearances": 20
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 1978,
+          "name": "C. Erkin",
+          "photo": "https://media.api-sports.io/football/players/1978.png",
+          "assists": 3,
+          "appearances": 11
+        },
         "mostCards": {
           "id": 41280,
           "name": "J. Vuković",
           "photo": "https://media.api-sports.io/football/players/41280.png",
           "yellowCards": 10,
-          "redCards": 3
+          "redCards": 0
         }
       },
       "topScorers": [
@@ -1884,9 +2121,22 @@
       "teamName": "Sarıyer",
       "season": 2025,
       "leagueId": 204,
+      "leagueName": "1. Lig",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 20977,
+          "name": "J. Anziani",
+          "photo": "https://media.api-sports.io/football/players/20977.png",
+          "goals": 4,
+          "appearances": 21
+        },
+        "topAssist": {
+          "id": 332142,
+          "name": "M. Camara",
+          "photo": "https://media.api-sports.io/football/players/332142.png",
+          "assists": 3,
+          "appearances": 21
+        },
         "mostCards": {
           "id": 62009,
           "name": "H. Traoré",
@@ -1903,6 +2153,7 @@
       "teamName": "Grafičar",
       "season": 2025,
       "leagueId": 287,
+      "leagueName": "Prva Liga",
       "keyPlayers": {
         "topScorer": {
           "id": 76894,
@@ -1950,8 +2201,15 @@
       "teamName": "Casa Pia",
       "season": 2025,
       "leagueId": 94,
+      "leagueName": "Primeira Liga",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 10470,
+          "name": "Cassiano",
+          "photo": "https://media.api-sports.io/football/players/10470.png",
+          "goals": 4,
+          "appearances": 22
+        },
         "topAssist": {
           "id": 20834,
           "name": "J. Livolant",
@@ -1964,7 +2222,7 @@
           "name": "David Sousa",
           "photo": "https://media.api-sports.io/football/players/197320.png",
           "yellowCards": 10,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [],
@@ -1983,6 +2241,7 @@
       "teamName": "Csikszereda",
       "season": 2025,
       "leagueId": 283,
+      "leagueName": "Liga I",
       "keyPlayers": {
         "topScorer": {
           "id": 70341,
@@ -1991,13 +2250,19 @@
           "goals": 7,
           "appearances": 22
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 157039,
+          "name": "Anderson Ceará",
+          "photo": "https://media.api-sports.io/football/players/157039.png",
+          "assists": 3,
+          "appearances": 25
+        },
         "mostCards": {
           "id": 336462,
           "name": "B. Végh",
           "photo": "https://media.api-sports.io/football/players/336462.png",
           "yellowCards": 8,
-          "redCards": 1
+          "redCards": 0
         }
       },
       "topScorers": [
@@ -2016,6 +2281,7 @@
       "teamName": "Van BB",
       "season": 2025,
       "leagueId": 204,
+      "leagueName": "1. Lig",
       "keyPlayers": {
         "topScorer": {
           "id": 285506,
@@ -2063,6 +2329,7 @@
       "teamName": "Real Sociedad II",
       "season": 2025,
       "leagueId": 141,
+      "leagueName": "Segunda División",
       "keyPlayers": {
         "topScorer": {
           "id": 403561,
@@ -2071,7 +2338,13 @@
           "goals": 11,
           "appearances": 24
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 441218,
+          "name": "Gorka Gorosabel",
+          "photo": "https://media.api-sports.io/football/players/441218.png",
+          "assists": 4,
+          "appearances": 21
+        },
         "mostCards": {
           "id": 389022,
           "name": "Mikel Rodriguez",
@@ -2096,8 +2369,15 @@
       "teamName": "Al Riyadh",
       "season": 2025,
       "leagueId": 307,
+      "leagueName": "Pro League",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 8518,
+          "name": "M. Sylla",
+          "photo": "https://media.api-sports.io/football/players/8518.png",
+          "goals": 6,
+          "appearances": 20
+        },
         "topAssist": {
           "id": 22230,
           "name": "T. Okou",
@@ -2126,9 +2406,10 @@
     },
     "19845": {
       "teamId": 19845,
-      "teamName": null,
+      "teamName": "FAP",
       "season": 2025,
       "leagueId": 287,
+      "leagueName": "Prva Liga",
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,

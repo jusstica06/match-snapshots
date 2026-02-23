@@ -23739,6 +23739,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491905,
+          "referee": "Sebastian Nicolas Martinez, Argentina",
+          "timezone": "UTC",
+          "date": "2026-02-22T20:00:00+00:00",
+          "timestamp": 1771790400,
+          "periods": {
+            "first": 1771790400,
+            "second": 1771794000
+          },
+          "venue": {
+            "id": null,
+            "name": "Pedro Bidegain",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 460,
+            "name": "San Lorenzo",
+            "logo": "https://media.api-sports.io/football/teams/460.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2424,
+            "name": "Estudiantes de Rio Cuarto",
+            "logo": "https://media.api-sports.io/football/teams/2424.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491892,
           "referee": "A. Penel",
           "timezone": "UTC",
@@ -24356,76 +24426,6 @@
           "fulltime": {
             "home": 1,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374283,
-          "referee": "Facundo Raul Tello Figueroa, Argentina",
-          "timezone": "UTC",
-          "date": "2025-11-08T00:00:00+00:00",
-          "timestamp": 1762560000,
-          "periods": {
-            "first": 1762560000,
-            "second": 1762563600
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Gigante de Arroyito",
-            "city": "Rosario"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 15",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 437,
-            "name": "Rosario Central",
-            "logo": "https://media.api-sports.io/football/teams/437.png",
-            "winner": null
-          },
-          "away": {
-            "id": 460,
-            "name": "San Lorenzo",
-            "logo": "https://media.api-sports.io/football/teams/460.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
           },
           "extratime": {
             "home": null,
