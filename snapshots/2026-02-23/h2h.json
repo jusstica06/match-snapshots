@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-23T00:17:02.301Z",
+  "generatedAt": "2026-02-23T02:19:45.242Z",
   "totalFixtures": 29,
   "uniquePairs": 29,
   "data": {
@@ -2858,12 +2858,12 @@
           "leagueName": "Major League Soccer",
           "homeTeamId": 1605,
           "homeTeam": "Los Angeles Galaxy",
-          "homeWinner": true,
+          "homeWinner": null,
           "awayTeamId": 1604,
           "awayTeam": "New York City FC",
-          "awayWinner": false,
+          "awayWinner": null,
           "homeGoals": 1,
-          "awayGoals": 0
+          "awayGoals": 1
         },
         {
           "fixtureId": 1339796,
@@ -2994,11 +2994,11 @@
       ],
       "summary": {
         "total": 10,
-        "homeWins": 3,
+        "homeWins": 2,
         "awayWins": 5,
-        "draws": 2,
+        "draws": 3,
         "homeGoals": 8,
-        "awayGoals": 12
+        "awayGoals": 13
       }
     },
     "1490789": {
@@ -3156,6 +3156,20 @@
     "1491906": {
       "matches": [
         {
+          "fixtureId": 1491906,
+          "date": "2026-02-23T00:30:00+00:00",
+          "venue": "Estadio 15 de Abril",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 441,
+          "homeTeam": "Union Santa Fe",
+          "homeWinner": true,
+          "awayTeamId": 463,
+          "awayTeam": "Aldosivi",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
           "fixtureId": 1374217,
           "date": "2025-10-04T00:15:00+00:00",
           "venue": "Estadio 15 de Abril",
@@ -3280,29 +3294,15 @@
           "awayWinner": true,
           "homeGoals": 1,
           "awayGoals": 2
-        },
-        {
-          "fixtureId": 187931,
-          "date": "2015-03-23T21:10:00+00:00",
-          "venue": "Estadio Jose Maria Minella",
-          "leagueName": "Liga Profesional Argentina",
-          "homeTeamId": 463,
-          "homeTeam": "Aldosivi",
-          "homeWinner": null,
-          "awayTeamId": 441,
-          "awayTeam": "Union Santa Fe",
-          "awayWinner": null,
-          "homeGoals": 3,
-          "awayGoals": 3
         }
       ],
       "summary": {
         "total": 10,
-        "homeWins": 4,
+        "homeWins": 5,
         "awayWins": 3,
-        "draws": 3,
-        "homeGoals": 13,
-        "awayGoals": 12
+        "draws": 2,
+        "homeGoals": 11,
+        "awayGoals": 9
       }
     }
   }
