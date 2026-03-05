@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T02:22:54.306Z",
+  "generatedAt": "2026-03-05T02:20:28.335Z",
   "picks": [
     {
       "fixtureId": 1469670,
@@ -66,14 +66,14 @@
       "homeTeam": "Slavia Sofia",
       "awayTeamId": 4660,
       "awayTeam": "Spartak Varna",
-      "expectedHome": 1.296,
-      "expectedAway": 0.544,
-      "expectedTotal": 1.84,
-      "teamGoalsHomeLambda": 1.363,
-      "teamGoalsAwayLambda": 0.543,
+      "expectedHome": 1.252,
+      "expectedAway": 0.526,
+      "expectedTotal": 1.778,
+      "teamGoalsHomeLambda": 1.316,
+      "teamGoalsAwayLambda": 0.525,
       "type": "over25",
       "label": "Toplam 2.5 Üst",
-      "prob": 0.4508
+      "prob": 0.4454
     },
     {
       "fixtureId": 1381731,
@@ -693,14 +693,14 @@
       "homeTeam": "Bayern München",
       "awayTeamId": 163,
       "awayTeam": "Borussia Mönchengladbach",
-      "expectedHome": 2.374,
-      "expectedAway": 0.77,
-      "expectedTotal": 3.144,
-      "teamGoalsHomeLambda": 2.775,
-      "teamGoalsAwayLambda": 0.802,
+      "expectedHome": 2.343,
+      "expectedAway": 0.759,
+      "expectedTotal": 3.102,
+      "teamGoalsHomeLambda": 2.738,
+      "teamGoalsAwayLambda": 0.791,
       "type": "home15",
       "label": "Bayern München 1.5 Üst",
-      "prob": 0.7646,
+      "prob": 0.7582,
       "side": "home"
     },
     {
@@ -813,43 +813,6 @@
       "prob": 0.7622
     },
     {
-      "fixtureId": 1491939,
-      "leagueId": 128,
-      "season": 2026,
-      "kickoffTs": 1772827200,
-      "homeTeamId": 2432,
-      "homeTeam": "Barracas Central",
-      "awayTeamId": 449,
-      "awayTeam": "Banfield",
-      "expectedHome": 1.148,
-      "expectedAway": 0.596,
-      "expectedTotal": 1.744,
-      "teamGoalsHomeLambda": 1.329,
-      "teamGoalsAwayLambda": 0.519,
-      "type": "over25",
-      "label": "Toplam 2.5 Üst",
-      "prob": 0.4425
-    },
-    {
-      "fixtureId": 1491946,
-      "leagueId": 128,
-      "season": 2026,
-      "kickoffTs": 1772827200,
-      "homeTeamId": 1064,
-      "homeTeam": "Platense",
-      "awayTeamId": 450,
-      "awayTeam": "Estudiantes L.P.",
-      "expectedHome": 1.077,
-      "expectedAway": 0.979,
-      "expectedTotal": 2.056,
-      "teamGoalsHomeLambda": 0.981,
-      "teamGoalsAwayLambda": 0.91,
-      "type": "home15",
-      "label": "Platense 1.5 Üst",
-      "prob": 0.2573,
-      "side": "home"
-    },
-    {
       "fixtureId": 1396458,
       "leagueId": 94,
       "season": 2025,
@@ -866,24 +829,6 @@
       "type": "btts",
       "label": "Karşılıklı Gol Var",
       "prob": 0.5968
-    },
-    {
-      "fixtureId": 1491952,
-      "leagueId": 128,
-      "season": 2026,
-      "kickoffTs": 1772837100,
-      "homeTeamId": 438,
-      "homeTeam": "Velez Sarsfield",
-      "awayTeamId": 457,
-      "awayTeam": "Newells Old Boys",
-      "expectedHome": 0.91,
-      "expectedAway": 0.78,
-      "expectedTotal": 1.69,
-      "teamGoalsHomeLambda": 1.105,
-      "teamGoalsAwayLambda": 0.677,
-      "type": "over35",
-      "label": "Toplam 3.5 Üst",
-      "prob": 0.1042
     }
   ]
 }
