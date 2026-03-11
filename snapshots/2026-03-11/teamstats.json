@@ -15539,6 +15539,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492156,
+          "referee": "Raphael Claus, Brazil",
+          "timezone": "UTC",
+          "date": "2026-03-11T00:30:00+00:00",
+          "timestamp": 1773189000,
+          "periods": {
+            "first": 1773189000,
+            "second": 1773192600
+          },
+          "venue": {
+            "id": null,
+            "name": "Estádio José Maria de Campos Maia",
+            "city": "Mirassol"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 86,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 5",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 7848,
+            "name": "Mirassol",
+            "logo": "https://media.api-sports.io/football/teams/7848.png",
+            "winner": true
+          },
+          "away": {
+            "id": 128,
+            "name": "Santos",
+            "logo": "https://media.api-sports.io/football/teams/128.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492149,
           "referee": "R. Klein",
           "timezone": "UTC",
@@ -15610,7 +15680,7 @@
       {
         "fixture": {
           "id": 1523395,
-          "referee": "Flavio Rodrigues De Souza, Brazil",
+          "referee": "F. Rodrigues",
           "timezone": "UTC",
           "date": "2026-02-22T19:00:00+00:00",
           "timestamp": 1771786800,
@@ -15620,7 +15690,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estádio Dr. Jorge Ismael de Biasi",
+            "name": "Estadio Dr. Jorge Ismael de Biasi",
             "city": "Novo Horizonte"
           },
           "status": {
@@ -15680,7 +15750,7 @@
       {
         "fixture": {
           "id": 1500572,
-          "referee": "Raphael Claus, Brazil",
+          "referee": "R. Claus",
           "timezone": "UTC",
           "date": "2026-02-15T23:30:00+00:00",
           "timestamp": 1771198200,
@@ -15690,7 +15760,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estádio Urbano Caldeira",
+            "name": "Estadio Urbano Caldeira",
             "city": "Santos"
           },
           "status": {
@@ -15820,7 +15890,7 @@
       {
         "fixture": {
           "id": 1500562,
-          "referee": "Flavio Rodrigues De Souza, Brazil",
+          "referee": "F. Rodrigues",
           "timezone": "UTC",
           "date": "2026-02-08T19:00:00+00:00",
           "timestamp": 1770577200,
@@ -15830,7 +15900,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estádio Alfredo de Castilho",
+            "name": "Estadio Alfredo de Castilho",
             "city": "Bauru"
           },
           "status": {
@@ -15960,7 +16030,7 @@
       {
         "fixture": {
           "id": 1500557,
-          "referee": "Joao Vitor Gobi, Brazil",
+          "referee": "J. Vitor Gobi",
           "timezone": "UTC",
           "date": "2026-01-31T23:30:00+00:00",
           "timestamp": 1769902200,
@@ -15970,8 +16040,8 @@
           },
           "venue": {
             "id": null,
-            "name": "MorumBIS",
-            "city": "São Paulo"
+            "name": "Estadio Do MorumBIS",
+            "city": "Sao Paulo"
           },
           "status": {
             "long": "Match Finished",
@@ -16100,7 +16170,7 @@
       {
         "fixture": {
           "id": 1500545,
-          "referee": "Daiane Caroline Muniz Dos Santos, Brazil",
+          "referee": "D. C. Muniz dos Santos",
           "timezone": "UTC",
           "date": "2026-01-25T19:00:00+00:00",
           "timestamp": 1769367600,
@@ -16110,7 +16180,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estádio Urbano Caldeira",
+            "name": "Estadio Urbano Caldeira",
             "city": "Santos"
           },
           "status": {
@@ -16156,76 +16226,6 @@
           "fulltime": {
             "home": 0,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1500539,
-          "referee": "Lucas Canetto Bellote, Brazil",
-          "timezone": "UTC",
-          "date": "2026-01-22T22:30:00+00:00",
-          "timestamp": 1769121000,
-          "periods": {
-            "first": 1769121000,
-            "second": 1769124600
-          },
-          "venue": {
-            "id": null,
-            "name": "Estádio Urbano Caldeira",
-            "city": "Santos"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 9
-          }
-        },
-        "league": {
-          "id": 475,
-          "name": "Paulista - A1",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/475.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 128,
-            "name": "Santos",
-            "logo": "https://media.api-sports.io/football/teams/128.png",
-            "winner": null
-          },
-          "away": {
-            "id": 131,
-            "name": "Corinthians",
-            "logo": "https://media.api-sports.io/football/teams/131.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -19486,7 +19486,7 @@
         },
         {
           "formation": "4-2-3-1",
-          "played": 5
+          "played": 6
         }
       ],
       "cards": {
@@ -22589,6 +22589,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491965,
+          "referee": "Nazareno Arasa, Argentina",
+          "timezone": "UTC",
+          "date": "2026-03-11T01:00:00+00:00",
+          "timestamp": 1773190800,
+          "periods": {
+            "first": 1773190800,
+            "second": 1773194400
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Eva Perón",
+            "city": "Junin"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 58,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 10",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 474,
+            "name": "Sarmiento Junin",
+            "logo": "https://media.api-sports.io/football/teams/474.png",
+            "winner": null
+          },
+          "away": {
+            "id": 436,
+            "name": "Racing Club",
+            "logo": "https://media.api-sports.io/football/teams/436.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491924,
           "referee": "F. Echenique",
           "timezone": "UTC",
@@ -23214,76 +23284,6 @@
           "penalty": {
             "home": null,
             "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490750,
-          "referee": "Nicolas Ramirez, Argentina",
-          "timezone": "UTC",
-          "date": "2025-12-14T00:00:00+00:00",
-          "timestamp": 1765670400,
-          "periods": {
-            "first": 1765670400,
-            "second": 1765674000
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Unico Madre de Ciudades",
-            "city": "Santiago del Estero"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "PEN",
-            "elapsed": 120,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "Final",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 436,
-            "name": "Racing Club",
-            "logo": "https://media.api-sports.io/football/teams/436.png",
-            "winner": false
-          },
-          "away": {
-            "id": 450,
-            "name": "Estudiantes L.P.",
-            "logo": "https://media.api-sports.io/football/teams/450.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": 4,
-            "away": 5
           }
         }
       }
@@ -26641,6 +26641,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491964,
+          "referee": "Luis Lobo Medina, Argentina",
+          "timezone": "UTC",
+          "date": "2026-03-11T01:00:00+00:00",
+          "timestamp": 1773190800,
+          "periods": {
+            "first": 1773190800,
+            "second": 1773194400
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Marcelo Bielsa",
+            "city": "Rosario"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 57,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 10",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 457,
+            "name": "Newells Old Boys",
+            "logo": "https://media.api-sports.io/football/teams/457.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1064,
+            "name": "Platense",
+            "logo": "https://media.api-sports.io/football/teams/1064.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491934,
           "referee": "Y. Perez",
           "timezone": "UTC",
@@ -27258,76 +27328,6 @@
           "fulltime": {
             "home": 0,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374276,
-          "referee": "Jorge Balino, Argentina",
-          "timezone": "UTC",
-          "date": "2025-11-08T20:00:00+00:00",
-          "timestamp": 1762632000,
-          "periods": {
-            "first": 1762632000,
-            "second": 1762635600
-          },
-          "venue": {
-            "id": 82,
-            "name": "Estadio Tomás Adolfo Ducó",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 15",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 445,
-            "name": "Huracan",
-            "logo": "https://media.api-sports.io/football/teams/445.png",
-            "winner": false
-          },
-          "away": {
-            "id": 457,
-            "name": "Newells Old Boys",
-            "logo": "https://media.api-sports.io/football/teams/457.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
           },
           "extratime": {
             "home": null,
@@ -29687,6 +29687,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491965,
+          "referee": "Nazareno Arasa, Argentina",
+          "timezone": "UTC",
+          "date": "2026-03-11T01:00:00+00:00",
+          "timestamp": 1773190800,
+          "periods": {
+            "first": 1773190800,
+            "second": 1773194400
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Eva Perón",
+            "city": "Junin"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 58,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 10",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 474,
+            "name": "Sarmiento Junin",
+            "logo": "https://media.api-sports.io/football/teams/474.png",
+            "winner": null
+          },
+          "away": {
+            "id": 436,
+            "name": "Racing Club",
+            "logo": "https://media.api-sports.io/football/teams/436.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491935,
           "referee": "J. C. Loustau",
           "timezone": "UTC",
@@ -30303,76 +30373,6 @@
           },
           "fulltime": {
             "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1374282,
-          "referee": "Ariel Penel, Argentina",
-          "timezone": "UTC",
-          "date": "2025-11-09T22:20:00+00:00",
-          "timestamp": 1762726800,
-          "periods": {
-            "first": 1762726800,
-            "second": 1762730400
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Eva Peron",
-            "city": "Junin"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2025,
-          "round": "2nd Phase - 15",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 474,
-            "name": "Sarmiento Junin",
-            "logo": "https://media.api-sports.io/football/teams/474.png",
-            "winner": true
-          },
-          "away": {
-            "id": 478,
-            "name": "Instituto Cordoba",
-            "logo": "https://media.api-sports.io/football/teams/478.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
             "away": 1
           },
           "extratime": {
@@ -31626,7 +31626,7 @@
       "lineups": [
         {
           "formation": "4-1-3-2",
-          "played": 12
+          "played": 13
         },
         {
           "formation": "4-2-3-1",
@@ -31645,31 +31645,31 @@
         "yellow": {
           "0-15": {
             "total": 1,
-            "percentage": "2.04%"
+            "percentage": "2.00%"
           },
           "16-30": {
             "total": 1,
-            "percentage": "2.04%"
+            "percentage": "2.00%"
           },
           "31-45": {
             "total": 11,
-            "percentage": "22.45%"
+            "percentage": "22.00%"
           },
           "46-60": {
             "total": 8,
-            "percentage": "16.33%"
+            "percentage": "16.00%"
           },
           "61-75": {
             "total": 11,
-            "percentage": "22.45%"
+            "percentage": "22.00%"
           },
           "76-90": {
             "total": 14,
-            "percentage": "28.57%"
+            "percentage": "28.00%"
           },
           "91-105": {
-            "total": 3,
-            "percentage": "6.12%"
+            "total": 4,
+            "percentage": "8.00%"
           },
           "106-120": {
             "total": null,
@@ -35759,6 +35759,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1491964,
+          "referee": "Luis Lobo Medina, Argentina",
+          "timezone": "UTC",
+          "date": "2026-03-11T01:00:00+00:00",
+          "timestamp": 1773190800,
+          "periods": {
+            "first": 1773190800,
+            "second": 1773194400
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Marcelo Bielsa",
+            "city": "Rosario"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 57,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Regular Season - 10",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 457,
+            "name": "Newells Old Boys",
+            "logo": "https://media.api-sports.io/football/teams/457.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1064,
+            "name": "Platense",
+            "logo": "https://media.api-sports.io/football/teams/1064.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1491928,
           "referee": "N. Arasa",
           "timezone": "UTC",
@@ -36376,76 +36446,6 @@
           "fulltime": {
             "home": 0,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492804,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2025-12-20T21:00:00+00:00",
-          "timestamp": 1766264400,
-          "periods": {
-            "first": 1766264400,
-            "second": 1766268000
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 517,
-          "name": "Trofeo de Campeones de la Superliga",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/517.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Final",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 450,
-            "name": "Estudiantes L.P.",
-            "logo": "https://media.api-sports.io/football/teams/450.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1064,
-            "name": "Platense",
-            "logo": "https://media.api-sports.io/football/teams/1064.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -39770,18 +39770,18 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 10
+          "played": 11
         },
         {
           "formation": "3-4-3",
           "played": 5
         },
         {
-          "formation": "4-1-4-1",
-          "played": 4
+          "formation": "5-4-1",
+          "played": 3
         },
         {
-          "formation": "5-4-1",
+          "formation": "4-1-4-1",
           "played": 3
         },
         {
@@ -41826,7 +41826,7 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 11
+          "played": 12
         },
         {
           "formation": "4-1-4-1",
@@ -41837,11 +41837,11 @@
           "played": 3
         },
         {
-          "formation": "4-3-3",
-          "played": 3
+          "formation": "3-4-1-2",
+          "played": 2
         },
         {
-          "formation": "3-4-1-2",
+          "formation": "4-3-3",
           "played": 2
         },
         {
@@ -44919,31 +44919,31 @@
         "yellow": {
           "0-15": {
             "total": 7,
-            "percentage": "8.97%"
+            "percentage": "8.75%"
           },
           "16-30": {
             "total": 8,
-            "percentage": "10.26%"
+            "percentage": "10.00%"
           },
           "31-45": {
             "total": 9,
-            "percentage": "11.54%"
+            "percentage": "11.25%"
           },
           "46-60": {
             "total": 11,
-            "percentage": "14.10%"
+            "percentage": "13.75%"
           },
           "61-75": {
             "total": 12,
-            "percentage": "15.38%"
+            "percentage": "15.00%"
           },
           "76-90": {
             "total": 21,
-            "percentage": "26.92%"
+            "percentage": "26.25%"
           },
           "91-105": {
-            "total": 9,
-            "percentage": "11.54%"
+            "total": 11,
+            "percentage": "13.75%"
           },
           "106-120": {
             "total": null,
@@ -44951,13 +44951,13 @@
           },
           "": {
             "total": 1,
-            "percentage": "1.28%"
+            "percentage": "1.25%"
           }
         },
         "red": {
           "0-15": {
             "total": 1,
-            "percentage": "14.29%"
+            "percentage": "12.50%"
           },
           "16-30": {
             "total": null,
@@ -44969,7 +44969,7 @@
           },
           "46-60": {
             "total": 3,
-            "percentage": "42.86%"
+            "percentage": "37.50%"
           },
           "61-75": {
             "total": null,
@@ -44977,11 +44977,11 @@
           },
           "76-90": {
             "total": 2,
-            "percentage": "28.57%"
+            "percentage": "25.00%"
           },
           "91-105": {
-            "total": 1,
-            "percentage": "14.29%"
+            "total": 2,
+            "percentage": "25.00%"
           },
           "106-120": {
             "total": null,
@@ -45922,7 +45922,7 @@
         },
         {
           "formation": "4-4-2",
-          "played": 5
+          "played": 6
         },
         {
           "formation": "3-4-2-1",
@@ -46951,12 +46951,12 @@
           "played": 3
         },
         {
-          "formation": "5-4-1",
+          "formation": "4-1-4-1",
           "played": 2
         },
         {
-          "formation": "4-1-4-1",
-          "played": 1
+          "formation": "5-4-1",
+          "played": 2
         },
         {
           "formation": "4-1-3-2",
@@ -48047,6 +48047,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492156,
+          "referee": "Raphael Claus, Brazil",
+          "timezone": "UTC",
+          "date": "2026-03-11T00:30:00+00:00",
+          "timestamp": 1773189000,
+          "periods": {
+            "first": 1773189000,
+            "second": 1773192600
+          },
+          "venue": {
+            "id": null,
+            "name": "Estádio José Maria de Campos Maia",
+            "city": "Mirassol"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 86,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 5",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 7848,
+            "name": "Mirassol",
+            "logo": "https://media.api-sports.io/football/teams/7848.png",
+            "winner": true
+          },
+          "away": {
+            "id": 128,
+            "name": "Santos",
+            "logo": "https://media.api-sports.io/football/teams/128.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492145,
           "referee": null,
           "timezone": "UTC",
@@ -48118,7 +48188,7 @@
       {
         "fixture": {
           "id": 1500568,
-          "referee": "Marianna Nanni Batalha, Brazil",
+          "referee": "M. Batalha",
           "timezone": "UTC",
           "date": "2026-02-15T23:30:00+00:00",
           "timestamp": 1771198200,
@@ -48258,7 +48328,7 @@
       {
         "fixture": {
           "id": 1500563,
-          "referee": "Fabiano Monteiro dos Santos, Brazil",
+          "referee": "F. dos Santos",
           "timezone": "UTC",
           "date": "2026-02-08T21:30:00+00:00",
           "timestamp": 1770586200,
@@ -48398,7 +48468,7 @@
       {
         "fixture": {
           "id": 1500556,
-          "referee": "Murilo Tarrega Victor, Brazil",
+          "referee": "V. Murilo",
           "timezone": "UTC",
           "date": "2026-02-02T18:00:00+00:00",
           "timestamp": 1770055200,
@@ -48538,7 +48608,7 @@
       {
         "fixture": {
           "id": 1500542,
-          "referee": "Marianna Nanni Batalha, Brazil",
+          "referee": "M. Batalha",
           "timezone": "UTC",
           "date": "2026-01-24T18:00:00+00:00",
           "timestamp": 1769277600,
@@ -48548,8 +48618,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estádio Primeiro de Maio",
-            "city": "São Bernardo do Campo"
+            "name": "Estadio Primeiro de Maio",
+            "city": "Sao Bernardo"
           },
           "status": {
             "long": "Match Finished",
@@ -48663,76 +48733,6 @@
           },
           "fulltime": {
             "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1500529,
-          "referee": "Lucas Canetto Bellote, Brazil",
-          "timezone": "UTC",
-          "date": "2026-01-17T23:30:00+00:00",
-          "timestamp": 1768692600,
-          "periods": {
-            "first": 1768692600,
-            "second": 1768696200
-          },
-          "venue": {
-            "id": null,
-            "name": "Allianz Parque",
-            "city": "São Paulo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 475,
-          "name": "Paulista - A1",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/475.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 121,
-            "name": "Palmeiras",
-            "logo": "https://media.api-sports.io/football/teams/121.png",
-            "winner": true
-          },
-          "away": {
-            "id": 7848,
-            "name": "Mirassol",
-            "logo": "https://media.api-sports.io/football/teams/7848.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
             "away": 0
           },
           "extratime": {
@@ -48976,7 +48976,7 @@
         },
         {
           "formation": "4-2-3-1",
-          "played": 6
+          "played": 7
         },
         {
           "formation": "3-1-4-2",
@@ -49986,7 +49986,7 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 18
+          "played": 19
         },
         {
           "formation": "5-4-1",
