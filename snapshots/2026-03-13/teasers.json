@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T02:24:47.325Z",
+  "generatedAt": "2026-03-12T02:22:45.599Z",
   "picks": [
     {
       "fixtureId": 1491961,
@@ -10,14 +10,14 @@
       "homeTeam": "Huracan",
       "awayTeamId": 435,
       "awayTeam": "River Plate",
-      "expectedHome": 1.841,
-      "expectedAway": 0.627,
-      "expectedTotal": 2.468,
-      "teamGoalsHomeLambda": 1.955,
-      "teamGoalsAwayLambda": 0.541,
+      "expectedHome": 1.81,
+      "expectedAway": 0.616,
+      "expectedTotal": 2.426,
+      "teamGoalsHomeLambda": 1.922,
+      "teamGoalsAwayLambda": 0.531,
       "type": "away15",
       "label": "River Plate 1.5 Üst",
-      "prob": 0.1029,
+      "prob": 0.0997,
       "side": "away"
     },
     {
@@ -29,14 +29,14 @@
       "homeTeam": "Gremio",
       "awayTeamId": 794,
       "awayTeam": "RB Bragantino",
-      "expectedHome": 2.013,
-      "expectedAway": 0.6,
-      "expectedTotal": 2.613,
-      "teamGoalsHomeLambda": 2.157,
-      "teamGoalsAwayLambda": 0.554,
+      "expectedHome": 2.029,
+      "expectedAway": 0.605,
+      "expectedTotal": 2.634,
+      "teamGoalsHomeLambda": 2.174,
+      "teamGoalsAwayLambda": 0.559,
       "type": "btts",
       "label": "Karşılıklı Gol Var",
-      "prob": 0.4076
+      "prob": 0.411
     },
     {
       "fixtureId": 1469676,
@@ -130,22 +130,23 @@
       "prob": 0.7077
     },
     {
-      "fixtureId": 1530914,
+      "fixtureId": 1530917,
       "leagueId": 283,
       "season": 2025,
       "kickoffTs": 1773415800,
-      "homeTeamId": 6886,
-      "homeTeam": "Oţelul",
-      "awayTeamId": 6230,
-      "awayTeam": "Csikszereda",
-      "expectedHome": 1.262,
-      "expectedAway": 0.941,
-      "expectedTotal": 2.203,
-      "teamGoalsHomeLambda": 1.504,
-      "teamGoalsAwayLambda": 1.091,
-      "type": "btts",
-      "label": "Karşılıklı Gol Var",
-      "prob": 0.4569
+      "homeTeamId": 2589,
+      "homeTeam": "Uta Arad",
+      "awayTeamId": 2579,
+      "awayTeam": "AFC Hermannstadt",
+      "expectedHome": 1.157,
+      "expectedAway": 0.977,
+      "expectedTotal": 2.134,
+      "teamGoalsHomeLambda": 1.329,
+      "teamGoalsAwayLambda": 1.104,
+      "type": "home15",
+      "label": "Uta Arad 1.5 Üst",
+      "prob": 0.3834,
+      "side": "home"
     },
     {
       "fixtureId": 1419564,
@@ -461,25 +462,6 @@
       "prob": 0.7048
     },
     {
-      "fixtureId": 1530915,
-      "leagueId": 283,
-      "season": 2025,
-      "kickoffTs": 1773426600,
-      "homeTeamId": 559,
-      "homeTeam": "FCSB",
-      "awayTeamId": 2604,
-      "awayTeam": "Metaloglobus",
-      "expectedHome": 1.141,
-      "expectedAway": 0.755,
-      "expectedTotal": 1.896,
-      "teamGoalsHomeLambda": 1.532,
-      "teamGoalsAwayLambda": 0.862,
-      "type": "away15",
-      "label": "Metaloglobus 1.5 Üst",
-      "prob": 0.2136,
-      "side": "away"
-    },
-    {
       "fixtureId": 1531166,
       "leagueId": 218,
       "season": 2025,
@@ -497,6 +479,24 @@
       "label": "TSV Hartberg 1.5 Üst",
       "prob": 0.2911,
       "side": "away"
+    },
+    {
+      "fixtureId": 1531620,
+      "leagueId": 283,
+      "season": 2025,
+      "kickoffTs": 1773426600,
+      "homeTeamId": 632,
+      "homeTeam": "Universitatea Craiova",
+      "awayTeamId": 2592,
+      "awayTeam": "Arges Pitesti",
+      "expectedHome": 1.477,
+      "expectedAway": 1.168,
+      "expectedTotal": 2.645,
+      "teamGoalsHomeLambda": 1.625,
+      "teamGoalsAwayLambda": 1.205,
+      "type": "btts",
+      "label": "Karşılıklı Gol Var",
+      "prob": 0.5522
     },
     {
       "fixtureId": 1381109,
@@ -783,14 +783,14 @@
       "homeTeam": "K. Lierse S.K.",
       "awayTeamId": 6222,
       "awayTeam": "Patro Eisden",
-      "expectedHome": 1.104,
-      "expectedAway": 1.078,
-      "expectedTotal": 2.182,
-      "teamGoalsHomeLambda": 1.188,
-      "teamGoalsAwayLambda": 1.22,
+      "expectedHome": 1.178,
+      "expectedAway": 1.15,
+      "expectedTotal": 2.328,
+      "teamGoalsHomeLambda": 1.268,
+      "teamGoalsAwayLambda": 1.302,
       "type": "away15",
       "label": "Patro Eisden 1.5 Üst",
-      "prob": 0.3446,
+      "prob": 0.3739,
       "side": "away"
     },
     {
@@ -802,14 +802,14 @@
       "homeTeam": "RSC Anderlecht II",
       "awayTeamId": 739,
       "awayTeam": "AS Eupen",
-      "expectedHome": 1.045,
-      "expectedAway": 1.051,
-      "expectedTotal": 2.096,
-      "teamGoalsHomeLambda": 1.176,
-      "teamGoalsAwayLambda": 1.107,
+      "expectedHome": 1.118,
+      "expectedAway": 1.125,
+      "expectedTotal": 2.243,
+      "teamGoalsHomeLambda": 1.258,
+      "teamGoalsAwayLambda": 1.184,
       "type": "over25",
       "label": "Toplam 2.5 Üst",
-      "prob": 0.473
+      "prob": 0.4857
     },
     {
       "fixtureId": 1436138,
@@ -1113,14 +1113,14 @@
       "homeTeam": "Wrexham",
       "awayTeamId": 76,
       "awayTeam": "Swansea",
-      "expectedHome": 1.55,
-      "expectedAway": 0.74,
-      "expectedTotal": 2.29,
-      "teamGoalsHomeLambda": 1.766,
-      "teamGoalsAwayLambda": 0.852,
+      "expectedHome": 1.494,
+      "expectedAway": 0.713,
+      "expectedTotal": 2.207,
+      "teamGoalsHomeLambda": 1.702,
+      "teamGoalsAwayLambda": 0.821,
       "type": "over25",
       "label": "Toplam 2.5 Üst",
-      "prob": 0.4896
+      "prob": 0.4826
     },
     {
       "fixtureId": 1391089,
@@ -1149,14 +1149,14 @@
       "homeTeam": "Estudiantes L.P.",
       "awayTeamId": 446,
       "awayTeam": "Lanus",
-      "expectedHome": 1.22,
-      "expectedAway": 1.438,
-      "expectedTotal": 2.658,
-      "teamGoalsHomeLambda": 1.408,
-      "teamGoalsAwayLambda": 1.461,
+      "expectedHome": 1.201,
+      "expectedAway": 1.416,
+      "expectedTotal": 2.617,
+      "teamGoalsHomeLambda": 1.386,
+      "teamGoalsAwayLambda": 1.438,
       "type": "btts",
       "label": "Karşılıklı Gol Var",
-      "prob": 0.5581
+      "prob": 0.55
     }
   ]
 }
