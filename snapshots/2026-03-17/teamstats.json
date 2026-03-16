@@ -334,7 +334,7 @@
       {
         "fixture": {
           "id": 1387005,
-          "referee": "Leigh Doughty, England",
+          "referee": "L. Doughty",
           "timezone": "UTC",
           "date": "2026-03-14T15:00:00+00:00",
           "timestamp": 1773500400,
@@ -1340,7 +1340,7 @@
       {
         "fixture": {
           "id": 1379259,
-          "referee": "Andy Madley, England",
+          "referee": "A. Madley",
           "timezone": "UTC",
           "date": "2026-03-14T17:30:00+00:00",
           "timestamp": 1773509400,
@@ -2346,7 +2346,7 @@
       {
         "fixture": {
           "id": 1379262,
-          "referee": "Paul Tierney, England",
+          "referee": "P. Tierney",
           "timezone": "UTC",
           "date": "2026-03-14T17:30:00+00:00",
           "timestamp": 1773509400,
@@ -3360,7 +3360,7 @@
       {
         "fixture": {
           "id": 1379268,
-          "referee": "Michael Oliver, England",
+          "referee": "M. Oliver",
           "timezone": "UTC",
           "date": "2026-03-14T20:00:00+00:00",
           "timestamp": 1773518400,
@@ -4361,6 +4361,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1387929,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-15T16:00:00+00:00",
+          "timestamp": 1773590400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 671,
+            "name": "Parc des Princes",
+            "city": "Paris"
+          },
+          "status": {
+            "long": "Match Postponed",
+            "short": "PST",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2025,
+          "round": "Regular Season - 26",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 85,
+            "name": "Paris Saint Germain",
+            "logo": "https://media.api-sports.io/football/teams/85.png",
+            "winner": null
+          },
+          "away": {
+            "id": 83,
+            "name": "Nantes",
+            "logo": "https://media.api-sports.io/football/teams/83.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1528320,
           "referee": "A. Hernandez",
           "timezone": "UTC",
@@ -4978,76 +5048,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1451149,
-          "referee": "S. Vincic",
-          "timezone": "UTC",
-          "date": "2026-01-28T20:00:00+00:00",
-          "timestamp": 1769630400,
-          "periods": {
-            "first": 1769630400,
-            "second": 1769634000
-          },
-          "venue": {
-            "id": null,
-            "name": "Parc des Princes",
-            "city": "Paris"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 2,
-          "name": "UEFA Champions League",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/2.png",
-          "flag": null,
-          "season": 2025,
-          "round": "League Stage - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 85,
-            "name": "Paris Saint Germain",
-            "logo": "https://media.api-sports.io/football/teams/85.png",
-            "winner": null
-          },
-          "away": {
-            "id": 34,
-            "name": "Newcastle",
-            "logo": "https://media.api-sports.io/football/teams/34.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -8425,6 +8425,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1396469,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-15T15:30:00+00:00",
+          "timestamp": 1773588600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1293,
+            "name": "Estádio José Alvalade",
+            "city": "Lisbon"
+          },
+          "status": {
+            "long": "Match Postponed",
+            "short": "PST",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2025,
+          "round": "Regular Season - 26",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 228,
+            "name": "Sporting CP",
+            "logo": "https://media.api-sports.io/football/teams/228.png",
+            "winner": null
+          },
+          "away": {
+            "id": 218,
+            "name": "Tondela",
+            "logo": "https://media.api-sports.io/football/teams/218.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1528325,
           "referee": "I. Kruzliak",
           "timezone": "UTC",
@@ -9042,76 +9112,6 @@
           "fulltime": {
             "home": 2,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1451156,
-          "referee": "F. Zwayer",
-          "timezone": "UTC",
-          "date": "2026-01-28T20:00:00+00:00",
-          "timestamp": 1769630400,
-          "periods": {
-            "first": 1769630400,
-            "second": 1769634000
-          },
-          "venue": {
-            "id": null,
-            "name": "San Mamés",
-            "city": "Bilbao"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 2,
-          "name": "UEFA Champions League",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/2.png",
-          "flag": null,
-          "season": 2025,
-          "round": "League Stage - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 531,
-            "name": "Athletic Club",
-            "logo": "https://media.api-sports.io/football/teams/531.png",
-            "winner": false
-          },
-          "away": {
-            "id": 228,
-            "name": "Sporting CP",
-            "logo": "https://media.api-sports.io/football/teams/228.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 3
           },
           "extratime": {
             "home": null,
@@ -21523,13 +21523,13 @@
       "penalty": {
         "scored": {
           "total": 4,
-          "percentage": "80.00%"
+          "percentage": "100.00%"
         },
         "missed": {
-          "total": 1,
-          "percentage": "20.00%"
+          "total": 0,
+          "percentage": "0%"
         },
-        "total": 5
+        "total": 4
       },
       "lineups": [
         {
@@ -24694,7 +24694,7 @@
       {
         "fixture": {
           "id": 1419881,
-          "referee": "Ermanno Feliciani, Italy",
+          "referee": "E. Feliciani",
           "timezone": "UTC",
           "date": "2026-03-14T18:30:00+00:00",
           "timestamp": 1773513000,
@@ -25700,7 +25700,7 @@
       {
         "fixture": {
           "id": 1419887,
-          "referee": "Daniele Doveri, Italy",
+          "referee": "D. Doveri",
           "timezone": "UTC",
           "date": "2026-03-14T16:15:00+00:00",
           "timestamp": 1773504900,
@@ -26714,7 +26714,7 @@
       {
         "fixture": {
           "id": 1391096,
-          "referee": "Jesus Gil Manzano, Spain",
+          "referee": "J. Manzano",
           "timezone": "UTC",
           "date": "2026-03-14T20:00:00+00:00",
           "timestamp": 1773518400,
@@ -30551,12 +30551,12 @@
               "percentage": "16.13%"
             },
             "76-90": {
-              "total": 8,
-              "percentage": "25.81%"
+              "total": 9,
+              "percentage": "29.03%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "3.23%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -30619,12 +30619,12 @@
               "percentage": "15.38%"
             },
             "76-90": {
-              "total": 7,
-              "percentage": "17.95%"
+              "total": 8,
+              "percentage": "20.51%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.56%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -36918,7 +36918,7 @@
       {
         "fixture": {
           "id": 1419887,
-          "referee": "Daniele Doveri, Italy",
+          "referee": "D. Doveri",
           "timezone": "UTC",
           "date": "2026-03-14T16:15:00+00:00",
           "timestamp": 1773504900,
@@ -37689,12 +37689,12 @@
               "percentage": "17.02%"
             },
             "76-90": {
-              "total": 8,
-              "percentage": "17.02%"
+              "total": 9,
+              "percentage": "19.15%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.13%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -37757,12 +37757,12 @@
               "percentage": "19.44%"
             },
             "76-90": {
-              "total": 6,
-              "percentage": "16.67%"
+              "total": 7,
+              "percentage": "19.44%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.78%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -42000,7 +42000,7 @@
       {
         "fixture": {
           "id": 1506909,
-          "referee": "Ko Hyung-jin, South Korea",
+          "referee": "Ko Hyung-Jin",
           "timezone": "UTC",
           "date": "2026-03-14T07:30:00+00:00",
           "timestamp": 1773473400,
@@ -43010,7 +43010,7 @@
       {
         "fixture": {
           "id": 1380602,
-          "referee": "Marcin Kochanek, Poland",
+          "referee": "M. Kochanek",
           "timezone": "UTC",
           "date": "2026-03-14T16:30:00+00:00",
           "timestamp": 1773505800,
@@ -43020,7 +43020,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion GKS Katowice",
+            "name": "Stadion miejski w Katowicach",
             "city": "Katowice"
           },
           "status": {
