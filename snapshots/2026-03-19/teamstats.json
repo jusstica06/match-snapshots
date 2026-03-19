@@ -6393,6 +6393,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492178,
+          "referee": "Davi de Oliveira Lacerda, Brazil",
+          "timezone": "UTC",
+          "date": "2026-03-19T00:30:00+00:00",
+          "timestamp": 1773880200,
+          "periods": {
+            "first": 1773880200,
+            "second": 1773883800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estádio Urbano Caldeira",
+            "city": "Santos"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 81,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 128,
+            "name": "Santos",
+            "logo": "https://media.api-sports.io/football/teams/128.png",
+            "winner": null
+          },
+          "away": {
+            "id": 119,
+            "name": "Internacional",
+            "logo": "https://media.api-sports.io/football/teams/119.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492166,
           "referee": "F. Mendes",
           "timezone": "UTC",
@@ -7020,76 +7090,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1492124,
-          "referee": "R. Pereira",
-          "timezone": "UTC",
-          "date": "2026-02-04T22:00:00+00:00",
-          "timestamp": 1770242400,
-          "periods": {
-            "first": 1770242400,
-            "second": 1770246000
-          },
-          "venue": {
-            "id": null,
-            "name": "Estádio do Maracanã",
-            "city": "Rio de Janeiro"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 12
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 2",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 127,
-            "name": "Flamengo",
-            "logo": "https://media.api-sports.io/football/teams/127.png",
-            "winner": null
-          },
-          "away": {
-            "id": 119,
-            "name": "Internacional",
-            "logo": "https://media.api-sports.io/football/teams/119.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -7393,6 +7393,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1492179,
+          "referee": "Raphael Claus, Brazil",
+          "timezone": "UTC",
+          "date": "2026-03-19T00:30:00+00:00",
+          "timestamp": 1773880200,
+          "periods": {
+            "first": 1773880200,
+            "second": 1773883800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estádio do Maracanã",
+            "city": "Rio de Janeiro"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 86,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 133,
+            "name": "Vasco DA Gama",
+            "logo": "https://media.api-sports.io/football/teams/133.png",
+            "winner": false
+          },
+          "away": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1492165,
@@ -8012,76 +8082,6 @@
           "fulltime": {
             "home": 1,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492121,
-          "referee": "M. Delgado",
-          "timezone": "UTC",
-          "date": "2026-02-05T22:00:00+00:00",
-          "timestamp": 1770328800,
-          "periods": {
-            "first": 1770328800,
-            "second": 1770332400
-          },
-          "venue": {
-            "id": null,
-            "name": "Arena Fonte Nova",
-            "city": "Salvador"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 11
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 2",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 118,
-            "name": "Bahia",
-            "logo": "https://media.api-sports.io/football/teams/118.png",
-            "winner": null
-          },
-          "away": {
-            "id": 124,
-            "name": "Fluminense",
-            "logo": "https://media.api-sports.io/football/teams/124.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -9411,6 +9411,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492178,
+          "referee": "Davi de Oliveira Lacerda, Brazil",
+          "timezone": "UTC",
+          "date": "2026-03-19T00:30:00+00:00",
+          "timestamp": 1773880200,
+          "periods": {
+            "first": 1773880200,
+            "second": 1773883800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estádio Urbano Caldeira",
+            "city": "Santos"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 81,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 128,
+            "name": "Santos",
+            "logo": "https://media.api-sports.io/football/teams/128.png",
+            "winner": null
+          },
+          "away": {
+            "id": 119,
+            "name": "Internacional",
+            "logo": "https://media.api-sports.io/football/teams/119.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492168,
           "referee": "F. Rodrigues",
           "timezone": "UTC",
@@ -10038,76 +10108,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1492112,
-          "referee": "S. Sampaio",
-          "timezone": "UTC",
-          "date": "2026-01-28T23:00:00+00:00",
-          "timestamp": 1769641200,
-          "periods": {
-            "first": 1769641200,
-            "second": 1769644800
-          },
-          "venue": {
-            "id": null,
-            "name": "Arena Condá",
-            "city": "Chapecó"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 1",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 132,
-            "name": "Chapecoense-sc",
-            "logo": "https://media.api-sports.io/football/teams/132.png",
-            "winner": true
-          },
-          "away": {
-            "id": 128,
-            "name": "Santos",
-            "logo": "https://media.api-sports.io/football/teams/128.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 4,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -10171,12 +10171,12 @@
               "percentage": "10.00%"
             },
             "31-45": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "10.00%"
             },
             "46-60": {
-              "total": 5,
-              "percentage": "50.00%"
+              "total": 4,
+              "percentage": "40.00%"
             },
             "61-75": {
               "total": 2,
@@ -11427,6 +11427,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492179,
+          "referee": "Raphael Claus, Brazil",
+          "timezone": "UTC",
+          "date": "2026-03-19T00:30:00+00:00",
+          "timestamp": 1773880200,
+          "periods": {
+            "first": 1773880200,
+            "second": 1773883800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estádio do Maracanã",
+            "city": "Rio de Janeiro"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 86,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 133,
+            "name": "Vasco DA Gama",
+            "logo": "https://media.api-sports.io/football/teams/133.png",
+            "winner": false
+          },
+          "away": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492164,
           "referee": "L. Torezin",
           "timezone": "UTC",
@@ -12044,76 +12114,6 @@
           "fulltime": {
             "home": 1,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1500878,
-          "referee": "L. Coelho",
-          "timezone": "UTC",
-          "date": "2026-02-02T23:00:00+00:00",
-          "timestamp": 1770073200,
-          "periods": {
-            "first": 1770073200,
-            "second": 1770076800
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Conselheiro Galvao",
-            "city": "Rio de Janeiro"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 11
-          }
-        },
-        "league": {
-          "id": 624,
-          "name": "Carioca - 1",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/624.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 7780,
-            "name": "Madureira",
-            "logo": "https://media.api-sports.io/football/teams/7780.png",
-            "winner": null
-          },
-          "away": {
-            "id": 133,
-            "name": "Vasco DA Gama",
-            "logo": "https://media.api-sports.io/football/teams/133.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -46904,6 +46904,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1394675,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-18T18:00:00+00:00",
+          "timestamp": 1773856800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1580,
+            "name": "Çaykur Didi Stadyumu",
+            "city": "Rize"
+          },
+          "status": {
+            "long": "Match Postponed",
+            "short": "PST",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2025,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1007,
+            "name": "Rizespor",
+            "logo": "https://media.api-sports.io/football/teams/1007.png",
+            "winner": null
+          },
+          "away": {
+            "id": 3603,
+            "name": "Samsunspor",
+            "logo": "https://media.api-sports.io/football/teams/3603.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1394665,
           "referee": "A. D. Kayatepe",
           "timezone": "UTC",
@@ -47521,76 +47591,6 @@
           "fulltime": {
             "home": 3,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1394621,
-          "referee": "A. Akarsu",
-          "timezone": "UTC",
-          "date": "2026-02-07T17:00:00+00:00",
-          "timestamp": 1770483600,
-          "periods": {
-            "first": 1770483600,
-            "second": 1770487200
-          },
-          "venue": {
-            "id": 11925,
-            "name": "Samsun 19 Mayis Stadyumu",
-            "city": "Samsun"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 203,
-          "name": "Süper Lig",
-          "country": "Turkey",
-          "logo": "https://media.api-sports.io/football/leagues/203.png",
-          "flag": "https://media.api-sports.io/flags/tr.svg",
-          "season": 2025,
-          "round": "Regular Season - 21",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 3603,
-            "name": "Samsunspor",
-            "logo": "https://media.api-sports.io/football/teams/3603.png",
-            "winner": false
-          },
-          "away": {
-            "id": 998,
-            "name": "Trabzonspor",
-            "logo": "https://media.api-sports.io/football/teams/998.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 3
           },
           "extratime": {
             "home": null,

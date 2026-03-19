@@ -480,6 +480,25 @@
     {
       "rank": 6,
       "team": {
+        "id": 41,
+        "name": "Southampton",
+        "logo": "https://media.api-sports.io/football/teams/41.png"
+      },
+      "points": 60,
+      "all": {
+        "played": 38,
+        "win": 16,
+        "draw": 12,
+        "lose": 10,
+        "goals": {
+          "for": 61,
+          "against": 48
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "team": {
         "id": 1837,
         "name": "Wrexham",
         "logo": "https://media.api-sports.io/football/teams/1837.png"
@@ -493,25 +512,6 @@
         "goals": {
           "for": 58,
           "against": 50
-        }
-      }
-    },
-    {
-      "rank": 7,
-      "team": {
-        "id": 41,
-        "name": "Southampton",
-        "logo": "https://media.api-sports.io/football/teams/41.png"
-      },
-      "points": 57,
-      "all": {
-        "played": 37,
-        "win": 15,
-        "draw": 12,
-        "lose": 10,
-        "goals": {
-          "for": 60,
-          "against": 48
         }
       }
     },
@@ -600,13 +600,13 @@
       },
       "points": 51,
       "all": {
-        "played": 37,
+        "played": 38,
         "win": 15,
         "draw": 6,
-        "lose": 16,
+        "lose": 17,
         "goals": {
           "for": 51,
-          "against": 45
+          "against": 46
         }
       }
     },
@@ -1531,6 +1531,25 @@
     {
       "rank": 1,
       "team": {
+        "id": 121,
+        "name": "Palmeiras",
+        "logo": "https://media.api-sports.io/football/teams/121.png"
+      },
+      "points": 16,
+      "all": {
+        "played": 7,
+        "win": 5,
+        "draw": 1,
+        "lose": 1,
+        "goals": {
+          "for": 16,
+          "against": 8
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "team": {
         "id": 126,
         "name": "Sao Paulo",
         "logo": "https://media.api-sports.io/football/teams/126.png"
@@ -1548,26 +1567,26 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "team": {
-        "id": 121,
-        "name": "Palmeiras",
-        "logo": "https://media.api-sports.io/football/teams/121.png"
+        "id": 118,
+        "name": "Bahia",
+        "logo": "https://media.api-sports.io/football/teams/118.png"
       },
-      "points": 13,
+      "points": 14,
       "all": {
         "played": 6,
         "win": 4,
-        "draw": 1,
-        "lose": 1,
+        "draw": 2,
+        "lose": 0,
         "goals": {
-          "for": 14,
-          "against": 7
+          "for": 8,
+          "against": 3
         }
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "team": {
         "id": 124,
         "name": "Fluminense",
@@ -1582,25 +1601,6 @@
         "goals": {
           "for": 10,
           "against": 6
-        }
-      }
-    },
-    {
-      "rank": 4,
-      "team": {
-        "id": 118,
-        "name": "Bahia",
-        "logo": "https://media.api-sports.io/football/teams/118.png"
-      },
-      "points": 11,
-      "all": {
-        "played": 5,
-        "win": 3,
-        "draw": 2,
-        "lose": 0,
-        "goals": {
-          "for": 6,
-          "against": 3
         }
       }
     },
@@ -1689,13 +1689,13 @@
       },
       "points": 8,
       "all": {
-        "played": 6,
+        "played": 7,
         "win": 2,
         "draw": 2,
-        "lose": 2,
+        "lose": 3,
         "goals": {
           "for": 5,
-          "against": 6
+          "against": 8
         }
       }
     },
@@ -1841,13 +1841,13 @@
       },
       "points": 3,
       "all": {
-        "played": 4,
+        "played": 5,
         "win": 1,
         "draw": 0,
-        "lose": 3,
+        "lose": 4,
         "goals": {
-          "for": 7,
-          "against": 9
+          "for": 8,
+          "against": 11
         }
       }
     },
@@ -6619,7 +6619,7 @@
         "name": "Hangzhou Greentown",
         "logo": "https://media.api-sports.io/football/teams/848.png"
       },
-      "points": 0,
+      "points": -1,
       "all": {
         "played": 2,
         "win": 1,
@@ -6638,7 +6638,7 @@
         "name": "SHANGHAI SIPG",
         "logo": "https://media.api-sports.io/football/teams/836.png"
       },
-      "points": 0,
+      "points": -2,
       "all": {
         "played": 2,
         "win": 1,
@@ -6657,7 +6657,7 @@
         "name": "Wuhan Three Towns",
         "logo": "https://media.api-sports.io/football/teams/5695.png"
       },
-      "points": 0,
+      "points": -2,
       "all": {
         "played": 2,
         "win": 1,
@@ -6676,7 +6676,7 @@
         "name": "Beijing Guoan",
         "logo": "https://media.api-sports.io/football/teams/830.png"
       },
-      "points": 0,
+      "points": -2,
       "all": {
         "played": 2,
         "win": 1,
@@ -6695,7 +6695,7 @@
         "name": "Shanghai Shenhua",
         "logo": "https://media.api-sports.io/football/teams/833.png"
       },
-      "points": 0,
+      "points": -6,
       "all": {
         "played": 2,
         "win": 1,
@@ -6714,7 +6714,7 @@
         "name": "Qingdao Jonoon",
         "logo": "https://media.api-sports.io/football/teams/1431.png"
       },
-      "points": 0,
+      "points": -7,
       "all": {
         "played": 2,
         "win": 0,
@@ -6733,7 +6733,7 @@
         "name": "Tianjin Teda",
         "logo": "https://media.api-sports.io/football/teams/837.png"
       },
-      "points": 0,
+      "points": -9,
       "all": {
         "played": 2,
         "win": 0,
@@ -8172,14 +8172,14 @@
         "name": "Araz",
         "logo": "https://media.api-sports.io/football/teams/11238.png"
       },
-      "points": 36,
+      "points": 39,
       "all": {
-        "played": 24,
-        "win": 10,
+        "played": 25,
+        "win": 11,
         "draw": 6,
         "lose": 8,
         "goals": {
-          "for": 33,
+          "for": 34,
           "against": 43
         }
       }
@@ -8231,13 +8231,13 @@
       },
       "points": 30,
       "all": {
-        "played": 24,
+        "played": 25,
         "win": 7,
         "draw": 9,
-        "lose": 8,
+        "lose": 9,
         "goals": {
           "for": 24,
-          "against": 26
+          "against": 27
         }
       }
     },
