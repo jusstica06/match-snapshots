@@ -528,7 +528,7 @@
       {
         "fixture": {
           "id": 1523413,
-          "referee": "Samuel Barrott, England",
+          "referee": "S. Barrott",
           "timezone": "UTC",
           "date": "2026-03-07T20:00:00+00:00",
           "timestamp": 1772913600,
@@ -948,7 +948,7 @@
       {
         "fixture": {
           "id": 1506252,
-          "referee": "Chris Kavanagh, England",
+          "referee": "C. Kavanagh",
           "timezone": "UTC",
           "date": "2026-02-14T17:45:00+00:00",
           "timestamp": 1771091100,
@@ -2452,7 +2452,7 @@
       {
         "fixture": {
           "id": 1523414,
-          "referee": "Andy Madley, England",
+          "referee": "A. Madley",
           "timezone": "UTC",
           "date": "2026-03-09T19:30:00+00:00",
           "timestamp": 1773084600,
@@ -2732,7 +2732,7 @@
       {
         "fixture": {
           "id": 1506255,
-          "referee": "Lewis Smith, England",
+          "referee": "L. Smith",
           "timezone": "UTC",
           "date": "2026-02-14T12:15:00+00:00",
           "timestamp": 1771071300,
@@ -3396,7 +3396,7 @@
       {
         "fixture": {
           "id": 1528347,
-          "referee": "Felix Zwayer, Germany",
+          "referee": "F. Zwayer",
           "timezone": "UTC",
           "date": "2026-03-19T17:45:00+00:00",
           "timestamp": 1773942300,
@@ -4557,7 +4557,7 @@
           "venue": {
             "id": null,
             "name": "Stade Pierre-Mauroy",
-            "city": "Lille"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -4826,7 +4826,7 @@
       {
         "fixture": {
           "id": 1506252,
-          "referee": "Chris Kavanagh, England",
+          "referee": "C. Kavanagh",
           "timezone": "UTC",
           "date": "2026-02-14T17:45:00+00:00",
           "timestamp": 1771091100,
@@ -5424,7 +5424,7 @@
       {
         "fixture": {
           "id": 1528342,
-          "referee": "Davide Massa, Italy",
+          "referee": "D. Massa",
           "timezone": "UTC",
           "date": "2026-03-19T20:00:00+00:00",
           "timestamp": 1773950400,
@@ -5575,7 +5575,7 @@
           "venue": {
             "id": null,
             "name": "Stade Pierre-Mauroy",
-            "city": "Lille"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -5925,7 +5925,7 @@
           "venue": {
             "id": null,
             "name": "Stade Pierre-Mauroy",
-            "city": "Lille"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -6450,7 +6450,7 @@
       {
         "fixture": {
           "id": 1528346,
-          "referee": "Irfan Peljto, Bosnia & Herzegovina",
+          "referee": "I. Peljto",
           "timezone": "UTC",
           "date": "2026-03-19T17:45:00+00:00",
           "timestamp": 1773942300,
@@ -6460,7 +6460,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Groupama Stadium",
+            "name": "Parc Olympique Lyonnais",
             "city": "Lyon"
           },
           "status": {
@@ -11592,7 +11592,7 @@
       {
         "fixture": {
           "id": 1528362,
-          "referee": "Mykola Balakin, Ukraine",
+          "referee": "M. Balakin",
           "timezone": "UTC",
           "date": "2026-03-19T20:00:00+00:00",
           "timestamp": 1773950400,
@@ -11601,7 +11601,7 @@
             "second": 1773954000
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Stade de la Meinau",
             "city": "Strasbourg"
           },
@@ -11741,7 +11741,7 @@
             "second": 1773341100
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Stadion HNK Rijeka",
             "city": "Rijeka"
           },
@@ -16459,12 +16459,12 @@
               "percentage": null
             },
             "76-90": {
-              "total": null,
-              "percentage": null
-            },
-            "91-105": {
               "total": 1,
               "percentage": "25.00%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -19436,17 +19436,17 @@
         "name": "Flamengo",
         "logo": "https://media.api-sports.io/football/teams/127.png"
       },
-      "form": "LDWWW",
+      "form": "LDWWWW",
       "fixtures": {
         "played": {
-          "home": 2,
+          "home": 3,
           "away": 3,
-          "total": 5
+          "total": 6
         },
         "wins": {
-          "home": 1,
+          "home": 2,
           "away": 2,
-          "total": 3
+          "total": 4
         },
         "draws": {
           "home": 1,
@@ -19462,39 +19462,39 @@
       "goals": {
         "for": {
           "total": {
-            "home": 3,
+            "home": 6,
             "away": 6,
-            "total": 9
+            "total": 12
           },
           "average": {
-            "home": "1.5",
+            "home": "2.0",
             "away": "2.0",
-            "total": "1.8"
+            "total": "2.0"
           },
           "minute": {
             "0-15": {
               "total": 3,
-              "percentage": "33.33%"
+              "percentage": "25.00%"
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "8.33%"
             },
             "31-45": {
               "total": 2,
-              "percentage": "22.22%"
+              "percentage": "16.67%"
             },
             "46-60": {
-              "total": 2,
-              "percentage": "22.22%"
+              "total": 4,
+              "percentage": "33.33%"
             },
             "61-75": {
               "total": 1,
-              "percentage": "11.11%"
+              "percentage": "8.33%"
             },
             "76-90": {
               "total": 1,
-              "percentage": "11.11%"
+              "percentage": "8.33%"
             },
             "91-105": {
               "total": null,
@@ -19507,24 +19507,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 5,
+              "over": 6,
               "under": 0
             },
             "1.5": {
-              "over": 3,
+              "over": 4,
               "under": 2
             },
             "2.5": {
-              "over": 1,
+              "over": 2,
               "under": 4
             },
             "3.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             },
             "4.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             }
           }
         },
@@ -19535,9 +19535,9 @@
             "total": 4
           },
           "average": {
-            "home": "0.5",
+            "home": "0.3",
             "away": "1.0",
-            "total": "0.8"
+            "total": "0.7"
           },
           "minute": {
             "0-15": {
@@ -19576,23 +19576,23 @@
           "under_over": {
             "0.5": {
               "over": 3,
-              "under": 2
+              "under": 3
             },
             "1.5": {
               "over": 1,
-              "under": 4
+              "under": 5
             },
             "2.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             },
             "3.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             },
             "4.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             }
           }
         }
@@ -19604,7 +19604,7 @@
           "loses": 1
         },
         "wins": {
-          "home": "2-0",
+          "home": "3-0",
           "away": "0-3"
         },
         "loses": {
@@ -19613,7 +19613,7 @@
         },
         "goals": {
           "for": {
-            "home": 2,
+            "home": 3,
             "away": 3
           },
           "against": {
@@ -19623,9 +19623,9 @@
         }
       },
       "clean_sheet": {
-        "home": 1,
+        "home": 2,
         "away": 1,
-        "total": 2
+        "total": 3
       },
       "failed_to_score": {
         "home": 0,
@@ -19646,38 +19646,38 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 5
+          "played": 6
         }
       ],
       "cards": {
         "yellow": {
           "0-15": {
             "total": 1,
-            "percentage": "8.33%"
+            "percentage": "7.14%"
           },
           "16-30": {
-            "total": 1,
-            "percentage": "8.33%"
+            "total": 2,
+            "percentage": "14.29%"
           },
           "31-45": {
             "total": 1,
-            "percentage": "8.33%"
+            "percentage": "7.14%"
           },
           "46-60": {
             "total": 3,
-            "percentage": "25.00%"
+            "percentage": "21.43%"
           },
           "61-75": {
-            "total": 2,
-            "percentage": "16.67%"
+            "total": 3,
+            "percentage": "21.43%"
           },
           "76-90": {
             "total": 2,
-            "percentage": "16.67%"
+            "percentage": "14.29%"
           },
           "91-105": {
             "total": 2,
-            "percentage": "16.67%"
+            "percentage": "14.29%"
           },
           "106-120": {
             "total": null,
@@ -19724,7 +19724,7 @@
       {
         "fixture": {
           "id": 1492174,
-          "referee": "Paulo Cesar Zanovelli da Silva, Brazil",
+          "referee": "P. Zanovelli",
           "timezone": "UTC",
           "date": "2026-03-19T23:00:00+00:00",
           "timestamp": 1773961200,
@@ -20563,12 +20563,12 @@
               "percentage": "25.00%"
             },
             "76-90": {
-              "total": 3,
-              "percentage": "25.00%"
+              "total": 4,
+              "percentage": "33.33%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "8.33%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -21456,17 +21456,17 @@
         "name": "Gremio",
         "logo": "https://media.api-sports.io/football/teams/130.png"
       },
-      "form": "LWLWDD",
+      "form": "LWLWDDW",
       "fixtures": {
         "played": {
-          "home": 3,
+          "home": 4,
           "away": 3,
-          "total": 6
+          "total": 7
         },
         "wins": {
-          "home": 2,
+          "home": 3,
           "away": 0,
-          "total": 2
+          "total": 3
         },
         "draws": {
           "home": 1,
@@ -21482,107 +21482,39 @@
       "goals": {
         "for": {
           "total": {
-            "home": 8,
+            "home": 10,
             "away": 2,
-            "total": 10
+            "total": 12
           },
           "average": {
-            "home": "2.7",
+            "home": "2.5",
             "away": "0.7",
             "total": "1.7"
           },
           "minute": {
             "0-15": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "9.09%"
             },
             "16-30": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "9.09%"
             },
             "31-45": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "9.09%"
             },
             "46-60": {
-              "total": 4,
-              "percentage": "40.00%"
+              "total": 5,
+              "percentage": "45.45%"
             },
             "61-75": {
               "total": 2,
-              "percentage": "20.00%"
+              "percentage": "18.18%"
             },
             "76-90": {
               "total": 1,
-              "percentage": "10.00%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 5,
-              "under": 1
-            },
-            "1.5": {
-              "over": 2,
-              "under": 4
-            },
-            "2.5": {
-              "over": 1,
-              "under": 5
-            },
-            "3.5": {
-              "over": 1,
-              "under": 5
-            },
-            "4.5": {
-              "over": 1,
-              "under": 5
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 5,
-            "away": 5,
-            "total": 10
-          },
-          "average": {
-            "home": "1.7",
-            "away": "1.7",
-            "total": "1.7"
-          },
-          "minute": {
-            "0-15": {
-              "total": null,
-              "percentage": null
-            },
-            "16-30": {
-              "total": 3,
-              "percentage": "30.00%"
-            },
-            "31-45": {
-              "total": 1,
-              "percentage": "10.00%"
-            },
-            "46-60": {
-              "total": 4,
-              "percentage": "40.00%"
-            },
-            "61-75": {
-              "total": 1,
-              "percentage": "10.00%"
-            },
-            "76-90": {
-              "total": 1,
-              "percentage": "10.00%"
+              "percentage": "9.09%"
             },
             "91-105": {
               "total": null,
@@ -21596,23 +21528,91 @@
           "under_over": {
             "0.5": {
               "over": 6,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 3,
-              "under": 3
+              "under": 4
             },
             "2.5": {
               "over": 1,
-              "under": 5
+              "under": 6
             },
             "3.5": {
-              "over": 0,
+              "over": 1,
               "under": 6
             },
             "4.5": {
-              "over": 0,
+              "over": 1,
               "under": 6
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 5,
+            "away": 5,
+            "total": 10
+          },
+          "average": {
+            "home": "1.3",
+            "away": "1.7",
+            "total": "1.4"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": 4,
+              "percentage": "36.36%"
+            },
+            "31-45": {
+              "total": 1,
+              "percentage": "9.09%"
+            },
+            "46-60": {
+              "total": 4,
+              "percentage": "36.36%"
+            },
+            "61-75": {
+              "total": 1,
+              "percentage": "9.09%"
+            },
+            "76-90": {
+              "total": 1,
+              "percentage": "9.09%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 6,
+              "under": 1
+            },
+            "1.5": {
+              "over": 3,
+              "under": 4
+            },
+            "2.5": {
+              "over": 1,
+              "under": 6
+            },
+            "3.5": {
+              "over": 0,
+              "under": 7
+            },
+            "4.5": {
+              "over": 0,
+              "under": 7
             }
           }
         }
@@ -21620,7 +21620,7 @@
       "biggest": {
         "streak": {
           "wins": 1,
-          "draws": 0,
+          "draws": 2,
           "loses": 1
         },
         "wins": {
@@ -21643,9 +21643,9 @@
         }
       },
       "clean_sheet": {
-        "home": 0,
+        "home": 1,
         "away": 0,
-        "total": 0
+        "total": 1
       },
       "failed_to_score": {
         "home": 0,
@@ -21666,7 +21666,7 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 2
+          "played": 3
         },
         {
           "formation": "4-3-3",
@@ -21681,31 +21681,31 @@
         "yellow": {
           "0-15": {
             "total": 1,
-            "percentage": "7.14%"
+            "percentage": "6.67%"
           },
           "16-30": {
             "total": 2,
-            "percentage": "14.29%"
+            "percentage": "13.33%"
           },
           "31-45": {
             "total": 1,
-            "percentage": "7.14%"
+            "percentage": "6.67%"
           },
           "46-60": {
             "total": 6,
-            "percentage": "42.86%"
+            "percentage": "40.00%"
           },
           "61-75": {
             "total": 1,
-            "percentage": "7.14%"
+            "percentage": "6.67%"
           },
           "76-90": {
-            "total": 1,
-            "percentage": "7.14%"
+            "total": 2,
+            "percentage": "13.33%"
           },
           "91-105": {
             "total": 2,
-            "percentage": "14.29%"
+            "percentage": "13.33%"
           },
           "106-120": {
             "total": null,
@@ -21752,7 +21752,7 @@
       {
         "fixture": {
           "id": 1492175,
-          "referee": "Alex Gomes Stefano, Brazil",
+          "referee": "A. Gomes Stefano",
           "timezone": "UTC",
           "date": "2026-03-19T22:00:00+00:00",
           "timestamp": 1773957600,
@@ -22466,12 +22466,12 @@
         "name": "Corinthians",
         "logo": "https://media.api-sports.io/football/teams/131.png"
       },
-      "form": "LWWDLD",
+      "form": "LWWDLDD",
       "fixtures": {
         "played": {
           "home": 3,
-          "away": 3,
-          "total": 6
+          "away": 4,
+          "total": 7
         },
         "wins": {
           "home": 1,
@@ -22480,8 +22480,8 @@
         },
         "draws": {
           "home": 0,
-          "away": 2,
-          "total": 2
+          "away": 3,
+          "total": 3
         },
         "loses": {
           "home": 2,
@@ -22498,8 +22498,8 @@
           },
           "average": {
             "home": "1.0",
-            "away": "1.0",
-            "total": "1.0"
+            "away": "0.8",
+            "total": "0.9"
           },
           "minute": {
             "0-15": {
@@ -22538,23 +22538,23 @@
           "under_over": {
             "0.5": {
               "over": 5,
-              "under": 1
+              "under": 2
             },
             "1.5": {
               "over": 1,
-              "under": 5
+              "under": 6
             },
             "2.5": {
               "over": 0,
-              "under": 6
+              "under": 7
             },
             "3.5": {
               "over": 0,
-              "under": 6
+              "under": 7
             },
             "4.5": {
               "over": 0,
-              "under": 6
+              "under": 7
             }
           }
         },
@@ -22566,8 +22566,8 @@
           },
           "average": {
             "home": "1.3",
-            "away": "0.7",
-            "total": "1.0"
+            "away": "0.5",
+            "total": "0.9"
           },
           "minute": {
             "0-15": {
@@ -22606,23 +22606,23 @@
           "under_over": {
             "0.5": {
               "over": 4,
-              "under": 2
+              "under": 3
             },
             "1.5": {
               "over": 2,
-              "under": 4
+              "under": 5
             },
             "2.5": {
               "over": 0,
-              "under": 6
+              "under": 7
             },
             "3.5": {
               "over": 0,
-              "under": 6
+              "under": 7
             },
             "4.5": {
               "over": 0,
-              "under": 6
+              "under": 7
             }
           }
         }
@@ -22654,13 +22654,13 @@
       },
       "clean_sheet": {
         "home": 1,
-        "away": 1,
-        "total": 2
+        "away": 2,
+        "total": 3
       },
       "failed_to_score": {
         "home": 1,
-        "away": 0,
-        "total": 1
+        "away": 1,
+        "total": 2
       },
       "penalty": {
         "scored": {
@@ -22676,7 +22676,7 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 2
+          "played": 3
         },
         {
           "formation": "3-4-1-2",
@@ -22699,31 +22699,31 @@
         "yellow": {
           "0-15": {
             "total": 2,
-            "percentage": "11.11%"
+            "percentage": "9.09%"
           },
           "16-30": {
             "total": 2,
-            "percentage": "11.11%"
+            "percentage": "9.09%"
           },
           "31-45": {
-            "total": 1,
-            "percentage": "5.56%"
+            "total": 3,
+            "percentage": "13.64%"
           },
           "46-60": {
-            "total": 1,
-            "percentage": "5.56%"
+            "total": 2,
+            "percentage": "9.09%"
           },
           "61-75": {
             "total": 3,
-            "percentage": "16.67%"
+            "percentage": "13.64%"
           },
           "76-90": {
-            "total": 5,
-            "percentage": "27.78%"
+            "total": 6,
+            "percentage": "27.27%"
           },
           "91-105": {
             "total": 4,
-            "percentage": "22.22%"
+            "percentage": "18.18%"
           },
           "106-120": {
             "total": null,
@@ -22770,7 +22770,7 @@
       {
         "fixture": {
           "id": 1492173,
-          "referee": "Wilton Pereira Sampaio, Brazil",
+          "referee": "W. Sampaio",
           "timezone": "UTC",
           "date": "2026-03-20T00:30:00+00:00",
           "timestamp": 1773966600,
@@ -23484,12 +23484,12 @@
         "name": "Chapecoense-sc",
         "logo": "https://media.api-sports.io/football/teams/132.png"
       },
-      "form": "WDDLD",
+      "form": "WDDLDD",
       "fixtures": {
         "played": {
-          "home": 3,
+          "home": 4,
           "away": 2,
-          "total": 5
+          "total": 6
         },
         "wins": {
           "home": 1,
@@ -23497,9 +23497,9 @@
           "total": 1
         },
         "draws": {
-          "home": 2,
+          "home": 3,
           "away": 1,
-          "total": 3
+          "total": 4
         },
         "loses": {
           "home": 0,
@@ -23515,9 +23515,9 @@
             "total": 9
           },
           "average": {
-            "home": "2.7",
+            "home": "2.0",
             "away": "0.5",
-            "total": "1.8"
+            "total": "1.5"
           },
           "minute": {
             "0-15": {
@@ -23556,23 +23556,23 @@
           "under_over": {
             "0.5": {
               "over": 4,
-              "under": 1
+              "under": 2
             },
             "1.5": {
               "over": 2,
-              "under": 3
+              "under": 4
             },
             "2.5": {
               "over": 2,
-              "under": 3
+              "under": 4
             },
             "3.5": {
               "over": 1,
-              "under": 4
+              "under": 5
             },
             "4.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             }
           }
         },
@@ -23583,9 +23583,9 @@
             "total": 9
           },
           "average": {
-            "home": "2.0",
+            "home": "1.5",
             "away": "1.5",
-            "total": "1.8"
+            "total": "1.5"
           },
           "minute": {
             "0-15": {
@@ -23624,23 +23624,23 @@
           "under_over": {
             "0.5": {
               "over": 5,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 3,
-              "under": 2
+              "under": 3
             },
             "2.5": {
               "over": 1,
-              "under": 4
+              "under": 5
             },
             "3.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             },
             "4.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             }
           }
         }
@@ -23671,14 +23671,14 @@
         }
       },
       "clean_sheet": {
-        "home": 0,
+        "home": 1,
         "away": 0,
-        "total": 0
+        "total": 1
       },
       "failed_to_score": {
-        "home": 0,
+        "home": 1,
         "away": 1,
-        "total": 1
+        "total": 2
       },
       "penalty": {
         "scored": {
@@ -23707,6 +23707,10 @@
         {
           "formation": "4-3-3",
           "played": 1
+        },
+        {
+          "formation": "4-3-1-2",
+          "played": 1
         }
       ],
       "cards": {
@@ -23717,23 +23721,23 @@
           },
           "16-30": {
             "total": 1,
-            "percentage": "12.50%"
+            "percentage": "9.09%"
           },
           "31-45": {
-            "total": 3,
-            "percentage": "37.50%"
+            "total": 5,
+            "percentage": "45.45%"
           },
           "46-60": {
             "total": null,
             "percentage": null
           },
           "61-75": {
-            "total": 2,
-            "percentage": "25.00%"
+            "total": 3,
+            "percentage": "27.27%"
           },
           "76-90": {
             "total": 2,
-            "percentage": "25.00%"
+            "percentage": "18.18%"
           },
           "91-105": {
             "total": null,
@@ -23784,7 +23788,7 @@
       {
         "fixture": {
           "id": 1492173,
-          "referee": "Wilton Pereira Sampaio, Brazil",
+          "referee": "W. Sampaio",
           "timezone": "UTC",
           "date": "2026-03-20T00:30:00+00:00",
           "timestamp": 1773966600,
@@ -24555,12 +24559,12 @@
               "percentage": "16.67%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "16.67%"
+              "total": 3,
+              "percentage": "25.00%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "8.33%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -27520,12 +27524,12 @@
         "name": "Vitoria",
         "logo": "https://media.api-sports.io/football/teams/136.png"
       },
-      "form": "WLLDW",
+      "form": "WLLDWL",
       "fixtures": {
         "played": {
           "home": 3,
-          "away": 2,
-          "total": 5
+          "away": 3,
+          "total": 6
         },
         "wins": {
           "home": 2,
@@ -27539,8 +27543,8 @@
         },
         "loses": {
           "home": 1,
-          "away": 1,
-          "total": 2
+          "away": 2,
+          "total": 3
         }
       },
       "goals": {
@@ -27552,8 +27556,8 @@
           },
           "average": {
             "home": "1.7",
-            "away": "1.0",
-            "total": "1.4"
+            "away": "0.7",
+            "total": "1.2"
           },
           "minute": {
             "0-15": {
@@ -27561,24 +27565,24 @@
               "percentage": null
             },
             "16-30": {
-              "total": 1,
-              "percentage": "14.29%"
+              "total": 2,
+              "percentage": "25.00%"
             },
             "31-45": {
               "total": 1,
-              "percentage": "14.29%"
+              "percentage": "12.50%"
             },
             "46-60": {
               "total": 3,
-              "percentage": "42.86%"
+              "percentage": "37.50%"
             },
             "61-75": {
               "total": 1,
-              "percentage": "14.29%"
+              "percentage": "12.50%"
             },
             "76-90": {
               "total": 1,
-              "percentage": "14.29%"
+              "percentage": "12.50%"
             },
             "91-105": {
               "total": null,
@@ -27592,61 +27596,61 @@
           "under_over": {
             "0.5": {
               "over": 5,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 2,
-              "under": 3
+              "under": 4
             },
             "2.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             },
             "3.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             },
             "4.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             }
           }
         },
         "against": {
           "total": {
             "home": 2,
-            "away": 6,
-            "total": 8
+            "away": 8,
+            "total": 10
           },
           "average": {
             "home": "0.7",
-            "away": "3.0",
-            "total": "1.6"
+            "away": "2.7",
+            "total": "1.7"
           },
           "minute": {
             "0-15": {
               "total": 1,
-              "percentage": "12.50%"
+              "percentage": "11.11%"
             },
             "16-30": {
               "total": 2,
-              "percentage": "25.00%"
+              "percentage": "22.22%"
             },
             "31-45": {
               "total": 3,
-              "percentage": "37.50%"
+              "percentage": "33.33%"
             },
             "46-60": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "11.11%"
             },
             "61-75": {
               "total": 1,
-              "percentage": "12.50%"
+              "percentage": "11.11%"
             },
             "76-90": {
               "total": 1,
-              "percentage": "12.50%"
+              "percentage": "11.11%"
             },
             "91-105": {
               "total": null,
@@ -27659,24 +27663,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 3,
+              "over": 4,
               "under": 2
             },
             "1.5": {
-              "over": 2,
+              "over": 3,
               "under": 3
             },
             "2.5": {
               "over": 1,
-              "under": 4
+              "under": 5
             },
             "3.5": {
               "over": 1,
-              "under": 4
+              "under": 5
             },
             "4.5": {
               "over": 1,
-              "under": 4
+              "under": 5
             }
           }
         }
@@ -27713,8 +27717,8 @@
       },
       "failed_to_score": {
         "home": 0,
-        "away": 0,
-        "total": 0
+        "away": 1,
+        "total": 1
       },
       "penalty": {
         "scored": {
@@ -27734,38 +27738,38 @@
         },
         {
           "formation": "4-3-3",
-          "played": 2
+          "played": 3
         }
       ],
       "cards": {
         "yellow": {
           "0-15": {
             "total": 1,
-            "percentage": "7.69%"
+            "percentage": "6.25%"
           },
           "16-30": {
             "total": 3,
-            "percentage": "23.08%"
+            "percentage": "18.75%"
           },
           "31-45": {
             "total": 2,
-            "percentage": "15.38%"
+            "percentage": "12.50%"
           },
           "46-60": {
-            "total": 4,
-            "percentage": "30.77%"
+            "total": 5,
+            "percentage": "31.25%"
           },
           "61-75": {
-            "total": 1,
-            "percentage": "7.69%"
+            "total": 2,
+            "percentage": "12.50%"
           },
           "76-90": {
             "total": 2,
-            "percentage": "15.38%"
+            "percentage": "12.50%"
           },
           "91-105": {
-            "total": null,
-            "percentage": null
+            "total": 1,
+            "percentage": "6.25%"
           },
           "106-120": {
             "total": null,
@@ -27812,7 +27816,7 @@
       {
         "fixture": {
           "id": 1492175,
-          "referee": "Alex Gomes Stefano, Brazil",
+          "referee": "A. Gomes Stefano",
           "timezone": "UTC",
           "date": "2026-03-19T22:00:00+00:00",
           "timestamp": 1773957600,
@@ -31900,7 +31904,7 @@
       {
         "fixture": {
           "id": 1528349,
-          "referee": "Michael Oliver, England",
+          "referee": "M. Oliver",
           "timezone": "UTC",
           "date": "2026-03-19T17:45:00+00:00",
           "timestamp": 1773942300,
@@ -31910,8 +31914,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Europa-Park-Stadion",
-            "city": "Freiburg im Breisgau"
+            "name": "Europa-Park Stadion",
+            "city": "Freiburg"
           },
           "status": {
             "long": "Match Finished",
@@ -32922,7 +32926,7 @@
       {
         "fixture": {
           "id": 1528365,
-          "referee": "Andris Treimanis, Latvia",
+          "referee": "A. Treimanis",
           "timezone": "UTC",
           "date": "2026-03-19T17:45:00+00:00",
           "timestamp": 1773942300,
@@ -32931,7 +32935,7 @@
             "second": 1773945900
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Mewa Arena",
             "city": "Mainz"
           },
@@ -33071,7 +33075,7 @@
             "second": 1773349200
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Andruv stadion",
             "city": "Olomouc"
           },
@@ -35992,7 +35996,7 @@
       {
         "fixture": {
           "id": 1528344,
-          "referee": "Anthony Taylor, England",
+          "referee": "A. Taylor",
           "timezone": "UTC",
           "date": "2026-03-19T20:00:00+00:00",
           "timestamp": 1773950400,
@@ -46213,7 +46217,7 @@
             "second": 1773954000
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "epet ARENA",
             "city": "Prague"
           },
@@ -46353,7 +46357,7 @@
             "second": 1773341100
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "AFAS Stadion",
             "city": "Alkmaar"
           },
@@ -51254,7 +51258,7 @@
       {
         "fixture": {
           "id": 1528344,
-          "referee": "Anthony Taylor, England",
+          "referee": "A. Taylor",
           "timezone": "UTC",
           "date": "2026-03-19T20:00:00+00:00",
           "timestamp": 1773950400,
@@ -81553,7 +81557,7 @@
       {
         "fixture": {
           "id": 1530937,
-          "referee": null,
+          "referee": "M. Grotta",
           "timezone": "UTC",
           "date": "2026-03-19T19:00:00+00:00",
           "timestamp": 1773946800,
@@ -91673,7 +91677,7 @@
             "second": 1773954000
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Synerise Arena - Stadion Miejski im. Henryka Reymana",
             "city": null
           },
@@ -91813,7 +91817,7 @@
             "second": 1773341100
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Stadion Poznan",
             "city": null
           },
@@ -92095,7 +92099,7 @@
           "venue": {
             "id": null,
             "name": "Stadion Poznan",
-            "city": "Poznan"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -93716,7 +93720,7 @@
       {
         "fixture": {
           "id": 1528347,
-          "referee": "Felix Zwayer, Germany",
+          "referee": "F. Zwayer",
           "timezone": "UTC",
           "date": "2026-03-19T17:45:00+00:00",
           "timestamp": 1773942300,
@@ -111964,7 +111968,7 @@
       {
         "fixture": {
           "id": 1528343,
-          "referee": "Istvan Kovacs, Romania",
+          "referee": "I. Kovacs",
           "timezone": "UTC",
           "date": "2026-03-19T20:00:00+00:00",
           "timestamp": 1773950400,
@@ -112994,7 +112998,7 @@
       {
         "fixture": {
           "id": 1419892,
-          "referee": "Rosario Abisso, Italy",
+          "referee": "R. Abisso",
           "timezone": "UTC",
           "date": "2026-03-18T19:00:00+00:00",
           "timestamp": 1773860400,
@@ -113064,7 +113068,7 @@
       {
         "fixture": {
           "id": 1419881,
-          "referee": "Ermanno Feliciani, Italy",
+          "referee": "E. Feliciani",
           "timezone": "UTC",
           "date": "2026-03-14T18:30:00+00:00",
           "timestamp": 1773513000,
@@ -113134,7 +113138,7 @@
       {
         "fixture": {
           "id": 1419871,
-          "referee": "Federico La Penna, Italy",
+          "referee": "F. La Penna",
           "timezone": "UTC",
           "date": "2026-03-08T14:00:00+00:00",
           "timestamp": 1772978400,
@@ -113204,7 +113208,7 @@
       {
         "fixture": {
           "id": 1419862,
-          "referee": "Giuseppe Collu, Italy",
+          "referee": "G. Collu",
           "timezone": "UTC",
           "date": "2026-03-04T19:00:00+00:00",
           "timestamp": 1772650800,
@@ -113274,7 +113278,7 @@
       {
         "fixture": {
           "id": 1419855,
-          "referee": "Daniele Perenzoni, Italy",
+          "referee": "D. Perenzoni",
           "timezone": "UTC",
           "date": "2026-02-27T20:00:00+00:00",
           "timestamp": 1772222400,
@@ -113344,7 +113348,7 @@
       {
         "fixture": {
           "id": 1419844,
-          "referee": "Kevin Bonacina, Italy",
+          "referee": "K. Bonacina",
           "timezone": "UTC",
           "date": "2026-02-21T14:00:00+00:00",
           "timestamp": 1771682400,
@@ -113414,7 +113418,7 @@
       {
         "fixture": {
           "id": 1419833,
-          "referee": "Luca Zufferli, Italy",
+          "referee": "L. Zufferli",
           "timezone": "UTC",
           "date": "2026-02-14T14:00:00+00:00",
           "timestamp": 1771077600,
@@ -113484,7 +113488,7 @@
       {
         "fixture": {
           "id": 1419821,
-          "referee": "Davide Di Marco, Italy",
+          "referee": "D. Di Marco",
           "timezone": "UTC",
           "date": "2026-02-10T18:00:00+00:00",
           "timestamp": 1770746400,
@@ -113554,7 +113558,7 @@
       {
         "fixture": {
           "id": 1419811,
-          "referee": "Ivano Pezzuto, Italy",
+          "referee": "I. Pezzuto",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -113624,7 +113628,7 @@
       {
         "fixture": {
           "id": 1419802,
-          "referee": "Marco Di Bello, Italy",
+          "referee": "M. Di Bello",
           "timezone": "UTC",
           "date": "2026-01-31T18:30:00+00:00",
           "timestamp": 1769884200,
@@ -116060,7 +116064,7 @@
       {
         "fixture": {
           "id": 1528359,
-          "referee": "Juan Martinez Munuera, Spain",
+          "referee": "J. Martinez",
           "timezone": "UTC",
           "date": "2026-03-19T17:45:00+00:00",
           "timestamp": 1773942300,
@@ -116069,7 +116073,7 @@
             "second": 1773945900
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "ArcelorMittal Park",
             "city": "Sosnowiec"
           },
@@ -116209,7 +116213,7 @@
             "second": 1773349200
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Stadio Artemio Franchi",
             "city": "Florence"
           },
@@ -119110,7 +119114,7 @@
       {
         "fixture": {
           "id": 1419896,
-          "referee": "Fabio Maresca, Italy",
+          "referee": "F. Maresca",
           "timezone": "UTC",
           "date": "2026-03-18T18:00:00+00:00",
           "timestamp": 1773856800,
@@ -119180,7 +119184,7 @@
       {
         "fixture": {
           "id": 1419882,
-          "referee": "Luca Pairetto, Italy",
+          "referee": "L. Pairetto",
           "timezone": "UTC",
           "date": "2026-03-14T14:00:00+00:00",
           "timestamp": 1773496800,
@@ -119250,7 +119254,7 @@
       {
         "fixture": {
           "id": 1419879,
-          "referee": "Simone Galipo, Italy",
+          "referee": "S. Galipo",
           "timezone": "UTC",
           "date": "2026-03-08T18:30:00+00:00",
           "timestamp": 1772994600,
@@ -119320,7 +119324,7 @@
       {
         "fixture": {
           "id": 1419861,
-          "referee": "Maria Sole Ferrieri Caputi, Italy",
+          "referee": "M. Caputi",
           "timezone": "UTC",
           "date": "2026-03-04T19:00:00+00:00",
           "timestamp": 1772650800,
@@ -119390,7 +119394,7 @@
       {
         "fixture": {
           "id": 1419855,
-          "referee": "Daniele Perenzoni, Italy",
+          "referee": "D. Perenzoni",
           "timezone": "UTC",
           "date": "2026-02-27T20:00:00+00:00",
           "timestamp": 1772222400,
@@ -119460,7 +119464,7 @@
       {
         "fixture": {
           "id": 1419841,
-          "referee": "Giuseppe Collu, Italy",
+          "referee": "G. Collu",
           "timezone": "UTC",
           "date": "2026-02-21T14:00:00+00:00",
           "timestamp": 1771682400,
@@ -119530,7 +119534,7 @@
       {
         "fixture": {
           "id": 1419838,
-          "referee": "Luca Massimi, Italy",
+          "referee": "L. Massimi",
           "timezone": "UTC",
           "date": "2026-02-15T14:00:00+00:00",
           "timestamp": 1771164000,
@@ -119600,7 +119604,7 @@
       {
         "fixture": {
           "id": 1419823,
-          "referee": "Daniele Doveri, Italy",
+          "referee": "D. Doveri",
           "timezone": "UTC",
           "date": "2026-02-11T19:00:00+00:00",
           "timestamp": 1770836400,
@@ -119670,7 +119674,7 @@
       {
         "fixture": {
           "id": 1419820,
-          "referee": "Federico Dionisi, Italy",
+          "referee": "F. Dionisi",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -119740,7 +119744,7 @@
       {
         "fixture": {
           "id": 1419809,
-          "referee": "Antonio Rapuano, Italy",
+          "referee": "A. Rapuano",
           "timezone": "UTC",
           "date": "2026-01-30T19:30:00+00:00",
           "timestamp": 1769801400,
@@ -120136,7 +120140,7 @@
       {
         "fixture": {
           "id": 1419895,
-          "referee": "Luca Massimi, Italy",
+          "referee": "L. Massimi",
           "timezone": "UTC",
           "date": "2026-03-17T19:00:00+00:00",
           "timestamp": 1773774000,
@@ -120206,7 +120210,7 @@
       {
         "fixture": {
           "id": 1419883,
-          "referee": "Matteo Marcenaro, Italy",
+          "referee": "M. Marcenaro",
           "timezone": "UTC",
           "date": "2026-03-14T14:00:00+00:00",
           "timestamp": 1773496800,
@@ -120276,7 +120280,7 @@
       {
         "fixture": {
           "id": 1419876,
-          "referee": "Valerio Crezzini, Italy",
+          "referee": "V. Crezzini",
           "timezone": "UTC",
           "date": "2026-03-08T14:00:00+00:00",
           "timestamp": 1772978400,
@@ -120346,7 +120350,7 @@
       {
         "fixture": {
           "id": 1419861,
-          "referee": "Maria Sole Ferrieri Caputi, Italy",
+          "referee": "M. Caputi",
           "timezone": "UTC",
           "date": "2026-03-04T19:00:00+00:00",
           "timestamp": 1772650800,
@@ -120416,7 +120420,7 @@
       {
         "fixture": {
           "id": 1419851,
-          "referee": "Ivano Pezzuto, Italy",
+          "referee": "I. Pezzuto",
           "timezone": "UTC",
           "date": "2026-02-28T14:00:00+00:00",
           "timestamp": 1772287200,
@@ -120486,7 +120490,7 @@
       {
         "fixture": {
           "id": 1419842,
-          "referee": "Giuseppe Mucera, Italy",
+          "referee": "G. Mucera",
           "timezone": "UTC",
           "date": "2026-02-20T19:30:00+00:00",
           "timestamp": 1771615800,
@@ -120556,7 +120560,7 @@
       {
         "fixture": {
           "id": 1419839,
-          "referee": "Daniele Perenzoni, Italy",
+          "referee": "D. Perenzoni",
           "timezone": "UTC",
           "date": "2026-02-15T16:15:00+00:00",
           "timestamp": 1771172100,
@@ -120626,7 +120630,7 @@
       {
         "fixture": {
           "id": 1419822,
-          "referee": "Valerio Crezzini, Italy",
+          "referee": "V. Crezzini",
           "timezone": "UTC",
           "date": "2026-02-11T19:00:00+00:00",
           "timestamp": 1770836400,
@@ -120696,7 +120700,7 @@
       {
         "fixture": {
           "id": 1419819,
-          "referee": "Paride Tremolada, Italy",
+          "referee": "P. Tremolada",
           "timezone": "UTC",
           "date": "2026-02-07T16:15:00+00:00",
           "timestamp": 1770480900,
@@ -120766,7 +120770,7 @@
       {
         "fixture": {
           "id": 1419803,
-          "referee": "Giuseppe Mucera, Italy",
+          "referee": "G. Mucera",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -121150,7 +121154,7 @@
       {
         "fixture": {
           "id": 1419896,
-          "referee": "Fabio Maresca, Italy",
+          "referee": "F. Maresca",
           "timezone": "UTC",
           "date": "2026-03-18T18:00:00+00:00",
           "timestamp": 1773856800,
@@ -121220,7 +121224,7 @@
       {
         "fixture": {
           "id": 1419890,
-          "referee": "Luca Massimi, Italy",
+          "referee": "L. Massimi",
           "timezone": "UTC",
           "date": "2026-03-14T14:00:00+00:00",
           "timestamp": 1773496800,
@@ -121290,7 +121294,7 @@
       {
         "fixture": {
           "id": 1419871,
-          "referee": "Federico La Penna, Italy",
+          "referee": "F. La Penna",
           "timezone": "UTC",
           "date": "2026-03-08T14:00:00+00:00",
           "timestamp": 1772978400,
@@ -121360,7 +121364,7 @@
       {
         "fixture": {
           "id": 1419867,
-          "referee": "Davide Di Marco, Italy",
+          "referee": "D. Di Marco",
           "timezone": "UTC",
           "date": "2026-03-04T19:00:00+00:00",
           "timestamp": 1772650800,
@@ -121430,7 +121434,7 @@
       {
         "fixture": {
           "id": 1419858,
-          "referee": "Simone Galipo, Italy",
+          "referee": "S. Galipo",
           "timezone": "UTC",
           "date": "2026-03-01T14:00:00+00:00",
           "timestamp": 1772373600,
@@ -121500,7 +121504,7 @@
       {
         "fixture": {
           "id": 1419842,
-          "referee": "Giuseppe Mucera, Italy",
+          "referee": "G. Mucera",
           "timezone": "UTC",
           "date": "2026-02-20T19:30:00+00:00",
           "timestamp": 1771615800,
@@ -121570,7 +121574,7 @@
       {
         "fixture": {
           "id": 1419840,
-          "referee": "Federico Dionisi, Italy",
+          "referee": "F. Dionisi",
           "timezone": "UTC",
           "date": "2026-02-15T14:00:00+00:00",
           "timestamp": 1771164000,
@@ -121640,7 +121644,7 @@
       {
         "fixture": {
           "id": 1419826,
-          "referee": "Alberto Ruben Arena, Italy",
+          "referee": "A. Arena",
           "timezone": "UTC",
           "date": "2026-02-11T19:00:00+00:00",
           "timestamp": 1770836400,
@@ -121710,7 +121714,7 @@
       {
         "fixture": {
           "id": 1419815,
-          "referee": "Maurizio Mariani, Italy",
+          "referee": "M. Mariani",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -121780,7 +121784,7 @@
       {
         "fixture": {
           "id": 1419801,
-          "referee": "Simone Galipo, Italy",
+          "referee": "S. Galipo",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -121790,7 +121794,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -122200,7 +122204,7 @@
       {
         "fixture": {
           "id": 1419894,
-          "referee": "Ivano Pezzuto, Italy",
+          "referee": "I. Pezzuto",
           "timezone": "UTC",
           "date": "2026-03-18T19:00:00+00:00",
           "timestamp": 1773860400,
@@ -122270,7 +122274,7 @@
       {
         "fixture": {
           "id": 1419886,
-          "referee": "Claudio Giuseppe Allegretta, Italy",
+          "referee": "C. G. Allegretta",
           "timezone": "UTC",
           "date": "2026-03-15T16:15:00+00:00",
           "timestamp": 1773591300,
@@ -122340,7 +122344,7 @@
       {
         "fixture": {
           "id": 1419879,
-          "referee": "Simone Galipo, Italy",
+          "referee": "S. Galipo",
           "timezone": "UTC",
           "date": "2026-03-08T18:30:00+00:00",
           "timestamp": 1772994600,
@@ -122410,7 +122414,7 @@
       {
         "fixture": {
           "id": 1419867,
-          "referee": "Davide Di Marco, Italy",
+          "referee": "D. Di Marco",
           "timezone": "UTC",
           "date": "2026-03-04T19:00:00+00:00",
           "timestamp": 1772650800,
@@ -122480,7 +122484,7 @@
       {
         "fixture": {
           "id": 1419859,
-          "referee": "Fabio Maresca, Italy",
+          "referee": "F. Maresca",
           "timezone": "UTC",
           "date": "2026-03-01T14:00:00+00:00",
           "timestamp": 1772373600,
@@ -122550,7 +122554,7 @@
       {
         "fixture": {
           "id": 1419843,
-          "referee": "Alberto Ruben Arena, Italy",
+          "referee": "A. Arena",
           "timezone": "UTC",
           "date": "2026-02-21T14:00:00+00:00",
           "timestamp": 1771682400,
@@ -122620,7 +122624,7 @@
       {
         "fixture": {
           "id": 1419835,
-          "referee": "Andrea Calzavara, Italy",
+          "referee": "A. Calzavara",
           "timezone": "UTC",
           "date": "2026-02-15T18:30:00+00:00",
           "timestamp": 1771180200,
@@ -122690,7 +122694,7 @@
       {
         "fixture": {
           "id": 1419827,
-          "referee": "Simone Galipo, Italy",
+          "referee": "S. Galipo",
           "timezone": "UTC",
           "date": "2026-02-10T19:00:00+00:00",
           "timestamp": 1770750000,
@@ -122760,7 +122764,7 @@
       {
         "fixture": {
           "id": 1419813,
-          "referee": "Valerio Crezzini, Italy",
+          "referee": "V. Crezzini",
           "timezone": "UTC",
           "date": "2026-02-06T19:30:00+00:00",
           "timestamp": 1770406200,
@@ -122830,7 +122834,7 @@
       {
         "fixture": {
           "id": 1419808,
-          "referee": "Rosario Abisso, Italy",
+          "referee": "R. Abisso",
           "timezone": "UTC",
           "date": "2026-01-31T16:15:00+00:00",
           "timestamp": 1769876100,
@@ -123226,7 +123230,7 @@
       {
         "fixture": {
           "id": 1419894,
-          "referee": "Ivano Pezzuto, Italy",
+          "referee": "I. Pezzuto",
           "timezone": "UTC",
           "date": "2026-03-18T19:00:00+00:00",
           "timestamp": 1773860400,
@@ -123296,7 +123300,7 @@
       {
         "fixture": {
           "id": 1419888,
-          "referee": "Mario Perri, Italy",
+          "referee": "M. Perri",
           "timezone": "UTC",
           "date": "2026-03-15T14:00:00+00:00",
           "timestamp": 1773583200,
@@ -123306,7 +123310,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -123366,7 +123370,7 @@
       {
         "fixture": {
           "id": 1419878,
-          "referee": "Andrea Calzavara, Italy",
+          "referee": "A. Calzavara",
           "timezone": "UTC",
           "date": "2026-03-07T14:00:00+00:00",
           "timestamp": 1772892000,
@@ -123436,7 +123440,7 @@
       {
         "fixture": {
           "id": 1419865,
-          "referee": "Paride Tremolada, Italy",
+          "referee": "P. Tremolada",
           "timezone": "UTC",
           "date": "2026-03-03T19:00:00+00:00",
           "timestamp": 1772564400,
@@ -123446,7 +123450,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -123506,7 +123510,7 @@
       {
         "fixture": {
           "id": 1419852,
-          "referee": "Claudio Giuseppe Allegretta, Italy",
+          "referee": "C. G. Allegretta",
           "timezone": "UTC",
           "date": "2026-02-27T18:00:00+00:00",
           "timestamp": 1772215200,
@@ -123576,7 +123580,7 @@
       {
         "fixture": {
           "id": 1419846,
-          "referee": "Daniele Perenzoni, Italy",
+          "referee": "D. Perenzoni",
           "timezone": "UTC",
           "date": "2026-02-21T14:00:00+00:00",
           "timestamp": 1771682400,
@@ -123586,7 +123590,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -123646,7 +123650,7 @@
       {
         "fixture": {
           "id": 1419834,
-          "referee": "Ivano Pezzuto, Italy",
+          "referee": "I. Pezzuto",
           "timezone": "UTC",
           "date": "2026-02-14T14:00:00+00:00",
           "timestamp": 1771077600,
@@ -123716,7 +123720,7 @@
       {
         "fixture": {
           "id": 1419828,
-          "referee": "Luca Massimi, Italy",
+          "referee": "L. Massimi",
           "timezone": "UTC",
           "date": "2026-02-10T19:00:00+00:00",
           "timestamp": 1770750000,
@@ -123726,7 +123730,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -123786,7 +123790,7 @@
       {
         "fixture": {
           "id": 1419812,
-          "referee": "Giovanni Ayroldi, Italy",
+          "referee": "G. Ayroldi",
           "timezone": "UTC",
           "date": "2026-02-07T18:30:00+00:00",
           "timestamp": 1770489000,
@@ -123856,7 +123860,7 @@
       {
         "fixture": {
           "id": 1419801,
-          "referee": "Simone Galipo, Italy",
+          "referee": "S. Galipo",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -123866,7 +123870,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -124256,7 +124260,7 @@
       {
         "fixture": {
           "id": 1419900,
-          "referee": "Simone Galipo, Italy",
+          "referee": "S. Galipo",
           "timezone": "UTC",
           "date": "2026-03-18T19:00:00+00:00",
           "timestamp": 1773860400,
@@ -124326,7 +124330,7 @@
       {
         "fixture": {
           "id": 1419888,
-          "referee": "Mario Perri, Italy",
+          "referee": "M. Perri",
           "timezone": "UTC",
           "date": "2026-03-15T14:00:00+00:00",
           "timestamp": 1773583200,
@@ -124336,7 +124340,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Comunale di Chiavari",
+            "name": "Stadio Comunale",
             "city": "Chiavari"
           },
           "status": {
@@ -124396,7 +124400,7 @@
       {
         "fixture": {
           "id": 1419875,
-          "referee": "Daniele Perenzoni, Italy",
+          "referee": "D. Perenzoni",
           "timezone": "UTC",
           "date": "2026-03-07T14:00:00+00:00",
           "timestamp": 1772892000,
@@ -124466,7 +124470,7 @@
       {
         "fixture": {
           "id": 1419863,
-          "referee": "Giuseppe Mucera, Italy",
+          "referee": "G. Mucera",
           "timezone": "UTC",
           "date": "2026-03-03T19:00:00+00:00",
           "timestamp": 1772564400,
@@ -124536,7 +124540,7 @@
       {
         "fixture": {
           "id": 1419853,
-          "referee": "Maria Sole Ferrieri Caputi, Italy",
+          "referee": "M. Caputi",
           "timezone": "UTC",
           "date": "2026-02-28T18:30:00+00:00",
           "timestamp": 1772303400,
@@ -124606,7 +124610,7 @@
       {
         "fixture": {
           "id": 1419848,
-          "referee": "Paride Tremolada, Italy",
+          "referee": "P. Tremolada",
           "timezone": "UTC",
           "date": "2026-02-22T16:15:00+00:00",
           "timestamp": 1771776900,
@@ -124676,7 +124680,7 @@
       {
         "fixture": {
           "id": 1419835,
-          "referee": "Andrea Calzavara, Italy",
+          "referee": "A. Calzavara",
           "timezone": "UTC",
           "date": "2026-02-15T18:30:00+00:00",
           "timestamp": 1771180200,
@@ -124746,7 +124750,7 @@
       {
         "fixture": {
           "id": 1419826,
-          "referee": "Alberto Ruben Arena, Italy",
+          "referee": "A. Arena",
           "timezone": "UTC",
           "date": "2026-02-11T19:00:00+00:00",
           "timestamp": 1770836400,
@@ -124816,7 +124820,7 @@
       {
         "fixture": {
           "id": 1419818,
-          "referee": "Livio Marinelli, Italy",
+          "referee": "L. Marinelli",
           "timezone": "UTC",
           "date": "2026-02-08T14:00:00+00:00",
           "timestamp": 1770559200,
@@ -124886,7 +124890,7 @@
       {
         "fixture": {
           "id": 1419806,
-          "referee": "Davide Di Marco, Italy",
+          "referee": "D. Di Marco",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -129334,7 +129338,7 @@
       {
         "fixture": {
           "id": 1528346,
-          "referee": "Irfan Peljto, Bosnia & Herzegovina",
+          "referee": "I. Peljto",
           "timezone": "UTC",
           "date": "2026-03-19T17:45:00+00:00",
           "timestamp": 1773942300,
@@ -129344,7 +129348,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Groupama Stadium",
+            "name": "Parc Olympique Lyonnais",
             "city": "Lyon"
           },
           "status": {
@@ -132400,7 +132404,7 @@
       {
         "fixture": {
           "id": 1528345,
-          "referee": "Tobias Stieler, Germany",
+          "referee": "T. Stieler",
           "timezone": "UTC",
           "date": "2026-03-19T20:00:00+00:00",
           "timestamp": 1773950400,
@@ -132410,8 +132414,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio de la Cartuja",
-            "city": "Seville"
+            "name": "Estadio de La Cartuja",
+            "city": "Sevilla"
           },
           "status": {
             "long": "Match Finished",
@@ -136496,7 +136500,7 @@
       {
         "fixture": {
           "id": 1528362,
-          "referee": "Mykola Balakin, Ukraine",
+          "referee": "M. Balakin",
           "timezone": "UTC",
           "date": "2026-03-19T20:00:00+00:00",
           "timestamp": 1773950400,
@@ -136505,7 +136509,7 @@
             "second": 1773954000
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Stade de la Meinau",
             "city": "Strasbourg"
           },
@@ -136645,7 +136649,7 @@
             "second": 1773341100
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Stadion HNK Rijeka",
             "city": "Rijeka"
           },
@@ -140630,8 +140634,8 @@
             "away": 2
           },
           "extratime": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
           },
           "penalty": {
             "home": 5,
@@ -150825,7 +150829,7 @@
             "second": 1773954000
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Campo de Futbol de Vallecas",
             "city": "Madrid"
           },
@@ -150965,7 +150969,7 @@
             "second": 1773341100
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Samsun 19 Mayis Stadyumu",
             "city": "Samsun"
           },
@@ -157942,7 +157946,7 @@
       {
         "fixture": {
           "id": 1528349,
-          "referee": "Michael Oliver, England",
+          "referee": "M. Oliver",
           "timezone": "UTC",
           "date": "2026-03-19T17:45:00+00:00",
           "timestamp": 1773942300,
@@ -157952,8 +157956,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Europa-Park-Stadion",
-            "city": "Freiburg im Breisgau"
+            "name": "Europa-Park Stadion",
+            "city": "Freiburg"
           },
           "status": {
             "long": "Match Finished",
@@ -159034,7 +159038,7 @@
       {
         "fixture": {
           "id": 1529058,
-          "referee": "Anthony Taylor, England",
+          "referee": "A. Taylor",
           "timezone": "UTC",
           "date": "2026-03-08T13:30:00+00:00",
           "timestamp": 1772976600,
@@ -159314,7 +159318,7 @@
       {
         "fixture": {
           "id": 1506261,
-          "referee": "Thomas Kirk, England",
+          "referee": "T. Kirk",
           "timezone": "UTC",
           "date": "2026-02-15T14:00:00+00:00",
           "timestamp": 1771164000,
@@ -169140,7 +169144,7 @@
       {
         "fixture": {
           "id": 1419898,
-          "referee": "Giuseppe Mucera, Italy",
+          "referee": "G. Mucera",
           "timezone": "UTC",
           "date": "2026-03-17T19:00:00+00:00",
           "timestamp": 1773774000,
@@ -169210,7 +169214,7 @@
       {
         "fixture": {
           "id": 1419882,
-          "referee": "Luca Pairetto, Italy",
+          "referee": "L. Pairetto",
           "timezone": "UTC",
           "date": "2026-03-14T14:00:00+00:00",
           "timestamp": 1773496800,
@@ -169280,7 +169284,7 @@
       {
         "fixture": {
           "id": 1419877,
-          "referee": "Daniele Chiffi, Italy",
+          "referee": "D. Chiffi",
           "timezone": "UTC",
           "date": "2026-03-07T16:15:00+00:00",
           "timestamp": 1772900100,
@@ -169350,7 +169354,7 @@
       {
         "fixture": {
           "id": 1419868,
-          "referee": "Andrea Zanotti, Italy",
+          "referee": "A. Zanotti",
           "timezone": "UTC",
           "date": "2026-03-03T19:00:00+00:00",
           "timestamp": 1772564400,
@@ -169420,7 +169424,7 @@
       {
         "fixture": {
           "id": 1419856,
-          "referee": "Luca Zufferli, Italy",
+          "referee": "L. Zufferli",
           "timezone": "UTC",
           "date": "2026-02-28T16:15:00+00:00",
           "timestamp": 1772295300,
@@ -169490,7 +169494,7 @@
       {
         "fixture": {
           "id": 1419848,
-          "referee": "Paride Tremolada, Italy",
+          "referee": "P. Tremolada",
           "timezone": "UTC",
           "date": "2026-02-22T16:15:00+00:00",
           "timestamp": 1771776900,
@@ -169560,7 +169564,7 @@
       {
         "fixture": {
           "id": 1419839,
-          "referee": "Daniele Perenzoni, Italy",
+          "referee": "D. Perenzoni",
           "timezone": "UTC",
           "date": "2026-02-15T16:15:00+00:00",
           "timestamp": 1771172100,
@@ -169630,7 +169634,7 @@
       {
         "fixture": {
           "id": 1419830,
-          "referee": "Claudio Giuseppe Allegretta, Italy",
+          "referee": "C. G. Allegretta",
           "timezone": "UTC",
           "date": "2026-02-10T19:00:00+00:00",
           "timestamp": 1770750000,
@@ -169700,7 +169704,7 @@
       {
         "fixture": {
           "id": 1419814,
-          "referee": "Mario Perri, Italy",
+          "referee": "M. Perri",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -169770,7 +169774,7 @@
       {
         "fixture": {
           "id": 1419807,
-          "referee": "Ermanno Feliciani, Italy",
+          "referee": "E. Feliciani",
           "timezone": "UTC",
           "date": "2026-02-01T14:00:00+00:00",
           "timestamp": 1769954400,
@@ -181390,8 +181394,8 @@
             "away": 2
           },
           "extratime": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
           },
           "penalty": {
             "home": 5,
@@ -185424,7 +185428,7 @@
       {
         "fixture": {
           "id": 1492174,
-          "referee": "Paulo Cesar Zanovelli da Silva, Brazil",
+          "referee": "P. Zanovelli",
           "timezone": "UTC",
           "date": "2026-03-19T23:00:00+00:00",
           "timestamp": 1773961200,
@@ -191524,7 +191528,7 @@
       {
         "fixture": {
           "id": 1419900,
-          "referee": "Simone Galipo, Italy",
+          "referee": "S. Galipo",
           "timezone": "UTC",
           "date": "2026-03-18T19:00:00+00:00",
           "timestamp": 1773860400,
@@ -191594,7 +191598,7 @@
       {
         "fixture": {
           "id": 1419886,
-          "referee": "Claudio Giuseppe Allegretta, Italy",
+          "referee": "C. G. Allegretta",
           "timezone": "UTC",
           "date": "2026-03-15T16:15:00+00:00",
           "timestamp": 1773591300,
@@ -191664,7 +191668,7 @@
       {
         "fixture": {
           "id": 1419878,
-          "referee": "Andrea Calzavara, Italy",
+          "referee": "A. Calzavara",
           "timezone": "UTC",
           "date": "2026-03-07T14:00:00+00:00",
           "timestamp": 1772892000,
@@ -191734,7 +191738,7 @@
       {
         "fixture": {
           "id": 1419868,
-          "referee": "Andrea Zanotti, Italy",
+          "referee": "A. Zanotti",
           "timezone": "UTC",
           "date": "2026-03-03T19:00:00+00:00",
           "timestamp": 1772564400,
@@ -191804,7 +191808,7 @@
       {
         "fixture": {
           "id": 1419857,
-          "referee": "Federico La Penna, Italy",
+          "referee": "F. La Penna",
           "timezone": "UTC",
           "date": "2026-02-28T14:00:00+00:00",
           "timestamp": 1772287200,
@@ -191874,7 +191878,7 @@
       {
         "fixture": {
           "id": 1419847,
-          "referee": "Valerio Crezzini, Italy",
+          "referee": "V. Crezzini",
           "timezone": "UTC",
           "date": "2026-02-21T14:00:00+00:00",
           "timestamp": 1771682400,
@@ -191944,7 +191948,7 @@
       {
         "fixture": {
           "id": 1419838,
-          "referee": "Luca Massimi, Italy",
+          "referee": "L. Massimi",
           "timezone": "UTC",
           "date": "2026-02-15T14:00:00+00:00",
           "timestamp": 1771164000,
@@ -192014,7 +192018,7 @@
       {
         "fixture": {
           "id": 1419829,
-          "referee": "Giuseppe Mucera, Italy",
+          "referee": "G. Mucera",
           "timezone": "UTC",
           "date": "2026-02-11T18:00:00+00:00",
           "timestamp": 1770832800,
@@ -192084,7 +192088,7 @@
       {
         "fixture": {
           "id": 1419817,
-          "referee": "Andrea Calzavara, Italy",
+          "referee": "A. Calzavara",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -192154,7 +192158,7 @@
       {
         "fixture": {
           "id": 1419810,
-          "referee": "Niccolo Turrini, Italy",
+          "referee": "N. Turrini",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -192554,7 +192558,7 @@
       {
         "fixture": {
           "id": 1419892,
-          "referee": "Rosario Abisso, Italy",
+          "referee": "R. Abisso",
           "timezone": "UTC",
           "date": "2026-03-18T19:00:00+00:00",
           "timestamp": 1773860400,
@@ -192624,7 +192628,7 @@
       {
         "fixture": {
           "id": 1419889,
-          "referee": "Paride Tremolada, Italy",
+          "referee": "P. Tremolada",
           "timezone": "UTC",
           "date": "2026-03-14T14:00:00+00:00",
           "timestamp": 1773496800,
@@ -192694,7 +192698,7 @@
       {
         "fixture": {
           "id": 1419874,
-          "referee": "Marco Piccinini, Italy",
+          "referee": "M. Piccinini",
           "timezone": "UTC",
           "date": "2026-03-08T16:15:00+00:00",
           "timestamp": 1772986500,
@@ -192764,7 +192768,7 @@
       {
         "fixture": {
           "id": 1419866,
-          "referee": "Federico Dionisi, Italy",
+          "referee": "F. Dionisi",
           "timezone": "UTC",
           "date": "2026-03-04T18:00:00+00:00",
           "timestamp": 1772647200,
@@ -192834,7 +192838,7 @@
       {
         "fixture": {
           "id": 1419860,
-          "referee": "Niccolo Turrini, Italy",
+          "referee": "N. Turrini",
           "timezone": "UTC",
           "date": "2026-03-01T16:15:00+00:00",
           "timestamp": 1772381700,
@@ -192904,7 +192908,7 @@
       {
         "fixture": {
           "id": 1419845,
-          "referee": "Rosario Abisso, Italy",
+          "referee": "R. Abisso",
           "timezone": "UTC",
           "date": "2026-02-21T18:30:00+00:00",
           "timestamp": 1771698600,
@@ -192974,7 +192978,7 @@
       {
         "fixture": {
           "id": 1419837,
-          "referee": "Mario Perri, Italy",
+          "referee": "M. Perri",
           "timezone": "UTC",
           "date": "2026-02-14T14:00:00+00:00",
           "timestamp": 1771077600,
@@ -193044,7 +193048,7 @@
       {
         "fixture": {
           "id": 1419825,
-          "referee": "Niccolo Turrini, Italy",
+          "referee": "N. Turrini",
           "timezone": "UTC",
           "date": "2026-02-10T19:00:00+00:00",
           "timestamp": 1770750000,
@@ -193114,7 +193118,7 @@
       {
         "fixture": {
           "id": 1419817,
-          "referee": "Andrea Calzavara, Italy",
+          "referee": "A. Calzavara",
           "timezone": "UTC",
           "date": "2026-02-07T14:00:00+00:00",
           "timestamp": 1770472800,
@@ -193184,7 +193188,7 @@
       {
         "fixture": {
           "id": 1419805,
-          "referee": "Maria Sole Ferrieri Caputi, Italy",
+          "referee": "M. Caputi",
           "timezone": "UTC",
           "date": "2026-01-31T14:00:00+00:00",
           "timestamp": 1769868000,
@@ -193556,7 +193560,7 @@
       {
         "fixture": {
           "id": 1528138,
-          "referee": "Oshane Nation, Jamaica",
+          "referee": "O. Nation",
           "timezone": "UTC",
           "date": "2026-03-19T03:00:00+00:00",
           "timestamp": 1773889200,
@@ -193567,7 +193571,7 @@
           "venue": {
             "id": null,
             "name": "Lumen Field",
-            "city": "Seattle"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -197576,7 +197580,7 @@
       {
         "fixture": {
           "id": 1528138,
-          "referee": "Oshane Nation, Jamaica",
+          "referee": "O. Nation",
           "timezone": "UTC",
           "date": "2026-03-19T03:00:00+00:00",
           "timestamp": 1773889200,
@@ -197587,7 +197591,7 @@
           "venue": {
             "id": null,
             "name": "Lumen Field",
-            "city": "Seattle"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -211672,7 +211676,7 @@
       {
         "fixture": {
           "id": 1530938,
-          "referee": null,
+          "referee": "U. Aslam",
           "timezone": "UTC",
           "date": "2026-03-19T17:00:00+00:00",
           "timestamp": 1773939600,
@@ -212674,7 +212678,7 @@
       {
         "fixture": {
           "id": 1530938,
-          "referee": null,
+          "referee": "U. Aslam",
           "timezone": "UTC",
           "date": "2026-03-19T17:00:00+00:00",
           "timestamp": 1773939600,
@@ -215717,10 +215721,10 @@
             "city": "Monterrey"
           },
           "status": {
-            "long": "Second Half",
-            "short": "2H",
-            "elapsed": 65,
-            "extra": null
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 13
           }
         },
         "league": {
@@ -215748,8 +215752,8 @@
           }
         },
         "goals": {
-          "home": 4,
-          "away": 0
+          "home": 5,
+          "away": 1
         },
         "score": {
           "halftime": {
@@ -215757,8 +215761,8 @@
             "away": 0
           },
           "fulltime": {
-            "home": null,
-            "away": null
+            "home": 5,
+            "away": 1
           },
           "extratime": {
             "home": null,
@@ -234846,7 +234850,7 @@
             "second": 1773945900
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "ArcelorMittal Park",
             "city": "Sosnowiec"
           },
@@ -234986,7 +234990,7 @@
             "second": 1773349200
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": "Stadio Artemio Franchi",
             "city": "Florence"
           },
@@ -258149,7 +258153,7 @@
       {
         "fixture": {
           "id": 1526643,
-          "referee": "Adonai Escobedo Gonzalez, Mexico",
+          "referee": "A. Escobedo Gonzalez",
           "timezone": "UTC",
           "date": "2026-03-18T23:00:00+00:00",
           "timestamp": 1773874800,
@@ -258160,7 +258164,7 @@
           "venue": {
             "id": null,
             "name": "Chase Stadium",
-            "city": "Fort Lauderdale"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -278191,7 +278195,7 @@
       {
         "fixture": {
           "id": 1521524,
-          "referee": "Ismael Cornejo, El Salvador",
+          "referee": "I. A. Cornejo Melendez",
           "timezone": "UTC",
           "date": "2026-03-19T03:00:00+00:00",
           "timestamp": 1773889200,
