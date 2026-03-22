@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T02:34:59.160Z",
+  "generatedAt": "2026-03-22T02:25:36.456Z",
   "totalFixtures": 138,
   "uniquePairs": 138,
   "data": {
@@ -1334,7 +1334,7 @@
         {
           "fixtureId": 1380463,
           "date": "2025-09-20T15:30:00+00:00",
-          "venue": "Termalica Bruk-Bet Nieciecza",
+          "venue": "Stadion Bruk-Bet",
           "leagueName": "Ekstraklasa",
           "homeTeamId": 3487,
           "homeTeam": "Nieciecza",
@@ -4212,7 +4212,7 @@
         {
           "fixtureId": 1387827,
           "date": "2025-12-05T20:00:00+00:00",
-          "venue": "Stade Pierre-Mauroy",
+          "venue": "Decathlon Arena - Stade Pierre Mauroy",
           "leagueName": "Ligue 1",
           "homeTeamId": 79,
           "homeTeam": "Lille",
@@ -5704,7 +5704,7 @@
         {
           "fixtureId": 1390840,
           "date": "2025-08-31T17:00:00+00:00",
-          "venue": "Estadio de La Cartuja",
+          "venue": "Benito Villamarin",
           "leagueName": "La Liga",
           "homeTeamId": 543,
           "homeTeam": "Real Betis",
@@ -6460,14 +6460,127 @@
       }
     },
     "1392097": {
-      "matches": [],
+      "matches": [
+        {
+          "fixtureId": 1391331,
+          "date": "2025-10-05T16:30:00+00:00",
+          "venue": "Estadio Municipal José Zorrilla",
+          "leagueName": "Segunda División",
+          "homeTeamId": 720,
+          "homeTeam": "Valladolid",
+          "homeWinner": null,
+          "awayTeamId": 799,
+          "awayTeam": "Mirandes",
+          "awayWinner": null,
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1045597,
+          "date": "2024-05-04T12:00:00+00:00",
+          "venue": "Estadio Municipal de Anduva",
+          "leagueName": "Segunda División",
+          "homeTeamId": 799,
+          "homeTeam": "Mirandes",
+          "homeWinner": false,
+          "awayTeamId": 720,
+          "awayTeam": "Valladolid",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1045296,
+          "date": "2023-10-08T14:15:00+00:00",
+          "venue": "Estadio Municipal José Zorrilla",
+          "leagueName": "Segunda División",
+          "homeTeamId": 720,
+          "homeTeam": "Valladolid",
+          "homeWinner": true,
+          "awayTeamId": 799,
+          "awayTeam": "Mirandes",
+          "awayWinner": false,
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 1041032,
+          "date": "2023-07-29T17:00:00+00:00",
+          "venue": "Estadio Municipal de Anduva",
+          "leagueName": "Friendlies Clubs",
+          "homeTeamId": 799,
+          "homeTeam": "Mirandes",
+          "homeWinner": true,
+          "awayTeamId": 720,
+          "awayTeam": "Valladolid",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 721660,
+          "date": "2022-04-24T14:15:00+00:00",
+          "venue": "Estadio Municipal de Anduva",
+          "leagueName": "Segunda División",
+          "homeTeamId": 799,
+          "homeTeam": "Mirandes",
+          "homeWinner": false,
+          "awayTeamId": 720,
+          "awayTeam": "Valladolid",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 721419,
+          "date": "2021-11-06T17:15:00+00:00",
+          "venue": "Estadio Municipal José Zorrilla",
+          "leagueName": "Segunda División",
+          "homeTeamId": 720,
+          "homeTeam": "Valladolid",
+          "homeWinner": true,
+          "awayTeamId": 799,
+          "awayTeam": "Mirandes",
+          "awayWinner": false,
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 20858,
+          "date": "2017-05-21T10:00:00+00:00",
+          "venue": "Estadio Municipal de Anduva",
+          "leagueName": "Segunda División",
+          "homeTeamId": 799,
+          "homeTeam": "Mirandes",
+          "homeWinner": null,
+          "awayTeamId": 720,
+          "awayTeam": "Valladolid",
+          "awayWinner": null,
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 21092,
+          "date": "2016-12-11T17:00:00+00:00",
+          "venue": "José Zorrilla",
+          "leagueName": "Segunda División",
+          "homeTeamId": 720,
+          "homeTeam": "Valladolid",
+          "homeWinner": true,
+          "awayTeamId": 799,
+          "awayTeam": "Mirandes",
+          "awayWinner": false,
+          "homeGoals": 5,
+          "awayGoals": 0
+        }
+      ],
       "summary": {
-        "total": 0,
-        "homeWins": 0,
-        "awayWins": 0,
-        "draws": 0,
-        "homeGoals": 0,
-        "awayGoals": 0
+        "total": 8,
+        "homeWins": 1,
+        "awayWins": 5,
+        "draws": 2,
+        "homeGoals": 7,
+        "awayGoals": 16
       }
     },
     "1392099": {
@@ -9797,6 +9910,20 @@
     "1490171": {
       "matches": [
         {
+          "fixtureId": 1490171,
+          "date": "2026-03-22T00:45:00+00:00",
+          "venue": "Q2 Stadium",
+          "leagueName": "Major League Soccer",
+          "homeTeamId": 16489,
+          "homeTeam": "Austin",
+          "homeWinner": null,
+          "awayTeamId": 1616,
+          "awayTeam": "Los Angeles FC",
+          "awayWinner": null,
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
           "fixtureId": 1482409,
           "date": "2025-11-03T01:45:00+00:00",
           "venue": "Q2 Stadium",
@@ -9921,33 +10048,33 @@
           "awayWinner": false,
           "homeGoals": 3,
           "awayGoals": 0
-        },
-        {
-          "fixtureId": 968153,
-          "date": "2022-10-30T19:00:00+00:00",
-          "venue": "Banc of California Stadium",
-          "leagueName": "Major League Soccer",
-          "homeTeamId": 1616,
-          "homeTeam": "Los Angeles FC",
-          "homeWinner": true,
-          "awayTeamId": 16489,
-          "awayTeam": "Austin",
-          "awayWinner": false,
-          "homeGoals": 3,
-          "awayGoals": 0
         }
       ],
       "summary": {
         "total": 10,
         "homeWins": 2,
-        "awayWins": 6,
-        "draws": 2,
+        "awayWins": 5,
+        "draws": 3,
         "homeGoals": 8,
-        "awayGoals": 20
+        "awayGoals": 17
       }
     },
     "1490172": {
       "matches": [
+        {
+          "fixtureId": 1490172,
+          "date": "2026-03-22T00:30:00+00:00",
+          "venue": "Toyota Stadium",
+          "leagueName": "Major League Soccer",
+          "homeTeamId": 1597,
+          "homeTeam": "FC Dallas",
+          "homeWinner": null,
+          "awayTeamId": 1600,
+          "awayTeam": "Houston Dynamo",
+          "awayWinner": null,
+          "homeGoals": 3,
+          "awayGoals": 3
+        },
         {
           "fixtureId": 1523557,
           "date": "2026-02-11T17:00:00+00:00",
@@ -10073,20 +10200,6 @@
           "awayWinner": false,
           "homeGoals": 2,
           "awayGoals": 0
-        },
-        {
-          "fixtureId": 816979,
-          "date": "2022-07-10T00:30:00+00:00",
-          "venue": "PNC Stadium",
-          "leagueName": "Major League Soccer",
-          "homeTeamId": 1600,
-          "homeTeam": "Houston Dynamo",
-          "homeWinner": null,
-          "awayTeamId": 1597,
-          "awayTeam": "FC Dallas",
-          "awayWinner": null,
-          "homeGoals": 2,
-          "awayGoals": 2
         }
       ],
       "summary": {
@@ -10094,12 +10207,26 @@
         "homeWins": 2,
         "awayWins": 3,
         "draws": 5,
-        "homeGoals": 11,
-        "awayGoals": 13
+        "homeGoals": 12,
+        "awayGoals": 14
       }
     },
     "1490173": {
       "matches": [
+        {
+          "fixtureId": 1490173,
+          "date": "2026-03-22T00:30:00+00:00",
+          "venue": null,
+          "leagueName": "Major League Soccer",
+          "homeTeamId": 1611,
+          "homeTeam": "Sporting Kansas City",
+          "homeWinner": false,
+          "awayTeamId": 1610,
+          "awayTeam": "Colorado Rapids",
+          "awayWinner": true,
+          "homeGoals": 1,
+          "awayGoals": 4
+        },
         {
           "fixtureId": 1326628,
           "date": "2025-08-31T00:30:00+00:00",
@@ -10225,29 +10352,15 @@
           "awayWinner": null,
           "homeGoals": 0,
           "awayGoals": 0
-        },
-        {
-          "fixtureId": 695425,
-          "date": "2021-08-29T01:00:00+00:00",
-          "venue": "Children's Mercy Park",
-          "leagueName": "Major League Soccer",
-          "homeTeamId": 1611,
-          "homeTeam": "Sporting Kansas City",
-          "homeWinner": null,
-          "awayTeamId": 1610,
-          "awayTeam": "Colorado Rapids",
-          "awayWinner": null,
-          "homeGoals": 1,
-          "awayGoals": 1
         }
       ],
       "summary": {
         "total": 10,
         "homeWins": 4,
-        "awayWins": 3,
-        "draws": 3,
+        "awayWins": 4,
+        "draws": 2,
         "homeGoals": 14,
-        "awayGoals": 11
+        "awayGoals": 14
       }
     },
     "1490174": {
@@ -12011,6 +12124,20 @@
     "1492187": {
       "matches": [
         {
+          "fixtureId": 1492187,
+          "date": "2026-03-22T00:00:00+00:00",
+          "venue": "MorumBIS",
+          "leagueName": "Serie A",
+          "homeTeamId": 126,
+          "homeTeam": "Sao Paulo",
+          "homeWinner": false,
+          "awayTeamId": 121,
+          "awayTeam": "Palmeiras",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
           "fixtureId": 1526432,
           "date": "2026-03-01T23:30:00+00:00",
           "venue": "Arena Barueri",
@@ -12135,29 +12262,15 @@
           "awayWinner": null,
           "homeGoals": 1,
           "awayGoals": 1
-        },
-        {
-          "fixtureId": 1146262,
-          "date": "2024-02-04T19:00:00+00:00",
-          "venue": "Estádio Governador Magalhães Pinto",
-          "leagueName": "Supercopa do Brasil",
-          "homeTeamId": 121,
-          "homeTeam": "Palmeiras",
-          "homeWinner": false,
-          "awayTeamId": 126,
-          "awayTeam": "Sao Paulo",
-          "awayWinner": true,
-          "homeGoals": 0,
-          "awayGoals": 0
         }
       ],
       "summary": {
         "total": 10,
-        "homeWins": 1,
-        "awayWins": 6,
+        "homeWins": 0,
+        "awayWins": 7,
         "draws": 3,
         "homeGoals": 6,
-        "awayGoals": 13
+        "awayGoals": 14
       }
     },
     "1492188": {
@@ -15194,7 +15307,7 @@
         {
           "fixtureId": 1379397,
           "date": "2025-09-21T16:00:00+00:00",
-          "venue": "New Vejlby Stadium",
+          "venue": "Vejlby Stadion",
           "leagueName": "Superliga",
           "homeTeamId": 406,
           "homeTeam": "Aarhus",
