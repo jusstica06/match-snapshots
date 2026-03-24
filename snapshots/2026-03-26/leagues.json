@@ -1,0 +1,32 @@
+{
+  "32": {
+    "id": 32,
+    "name": "World Cup - Qualification Europe",
+    "type": "Cup",
+    "logo": "https://media.api-sports.io/football/leagues/32.png",
+    "country": {
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "season": 2024,
+    "seasons": [
+      2018,
+      2020,
+      2024
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  }
+}
