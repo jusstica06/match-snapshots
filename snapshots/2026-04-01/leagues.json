@@ -43,18 +43,22 @@
       }
     }
   },
-  "95": {
-    "id": 95,
-    "name": "Segunda Liga",
+  "98": {
+    "id": 98,
+    "name": "J1 League",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/95.png",
+    "logo": "https://media.api-sports.io/football/leagues/98.png",
     "country": {
-      "name": "Portugal",
-      "code": "PT",
-      "flag": "https://media.api-sports.io/flags/pt.svg"
+      "name": "Japan",
+      "code": "JP",
+      "flag": "https://media.api-sports.io/flags/jp.svg"
     },
-    "season": 2025,
+    "season": 2026,
     "seasons": [
+      2012,
+      2013,
+      2014,
+      2015,
       2016,
       2017,
       2018,
@@ -64,7 +68,8 @@
       2022,
       2023,
       2024,
-      2025
+      2025,
+      2026
     ],
     "coverage": {
       "standings": true,
@@ -80,22 +85,18 @@
       }
     }
   },
-  "110": {
-    "id": 110,
-    "name": "Premier League",
+  "128": {
+    "id": 128,
+    "name": "Liga Profesional Argentina",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/110.png",
+    "logo": "https://media.api-sports.io/football/leagues/128.png",
     "country": {
-      "name": "Wales",
-      "code": "GB-WLS",
-      "flag": "https://media.api-sports.io/flags/gb-wls.svg"
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
     },
-    "season": 2025,
+    "season": 2026,
     "seasons": [
-      2011,
-      2012,
-      2013,
-      2014,
       2015,
       2016,
       2017,
@@ -106,19 +107,20 @@
       2022,
       2023,
       2024,
-      2025
+      2025,
+      2026
     ],
     "coverage": {
       "standings": true,
-      "players": false,
-      "topScorers": false,
+      "players": true,
+      "topScorers": true,
       "predictions": true,
       "odds": true,
       "fixtures": {
         "events": true,
         "lineups": true,
-        "statistics_fixtures": false,
-        "statistics_players": false
+        "statistics_fixtures": true,
+        "statistics_players": true
       }
     }
   },
