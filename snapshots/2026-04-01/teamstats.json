@@ -59,12 +59,12 @@
               "percentage": "33.33%"
             },
             "31-45": {
-              "total": 5,
-              "percentage": "55.56%"
+              "total": 3,
+              "percentage": "33.33%"
             },
             "46-60": {
-              "total": null,
-              "percentage": null
+              "total": 2,
+              "percentage": "22.22%"
             },
             "61-75": {
               "total": null,
@@ -127,12 +127,12 @@
               "percentage": "14.29%"
             },
             "31-45": {
-              "total": 2,
-              "percentage": "28.57%"
+              "total": 1,
+              "percentage": "14.29%"
             },
             "46-60": {
-              "total": 2,
-              "percentage": "28.57%"
+              "total": 3,
+              "percentage": "42.86%"
             },
             "61-75": {
               "total": null,
@@ -213,13 +213,13 @@
       "penalty": {
         "scored": {
           "total": 1,
-          "percentage": "100.00%"
+          "percentage": "50.00%"
         },
         "missed": {
-          "total": 0,
-          "percentage": "0%"
+          "total": 1,
+          "percentage": "50.00%"
         },
-        "total": 1
+        "total": 2
       },
       "lineups": [
         {
@@ -310,7 +310,7 @@
       {
         "fixture": {
           "id": 1492186,
-          "referee": "J. Vitor Gobi",
+          "referee": "Joao Vitor Gobi, Brazil",
           "timezone": "UTC",
           "date": "2026-03-22T19:00:00+00:00",
           "timestamp": 1774206000,
@@ -321,7 +321,7 @@
           "venue": {
             "id": null,
             "name": "Mangueirão",
-            "city": "Belem"
+            "city": "Belém"
           },
           "status": {
             "long": "Match Finished",
@@ -380,7 +380,7 @@
       {
         "fixture": {
           "id": 1492172,
-          "referee": "R. Abatti",
+          "referee": "Ramon Abatti Abel, Brazil",
           "timezone": "UTC",
           "date": "2026-03-18T22:00:00+00:00",
           "timestamp": 1773871200,
@@ -450,7 +450,7 @@
       {
         "fixture": {
           "id": 1492166,
-          "referee": "F. Mendes",
+          "referee": "Fernando Antonio Mendes de Salles Nascimento Filho, Brazil",
           "timezone": "UTC",
           "date": "2026-03-15T19:00:00+00:00",
           "timestamp": 1773601200,
@@ -520,7 +520,7 @@
       {
         "fixture": {
           "id": 1492152,
-          "referee": "R. Klein",
+          "referee": "Rafael Rodrigo Klein, Brazil",
           "timezone": "UTC",
           "date": "2026-03-11T23:00:00+00:00",
           "timestamp": 1773270000,
@@ -1069,12 +1069,12 @@
               "percentage": "16.67%"
             },
             "31-45": {
-              "total": 2,
-              "percentage": "33.33%"
-            },
-            "46-60": {
               "total": 1,
               "percentage": "16.67%"
+            },
+            "46-60": {
+              "total": 2,
+              "percentage": "33.33%"
             },
             "61-75": {
               "total": null,
@@ -1328,7 +1328,7 @@
       {
         "fixture": {
           "id": 1492185,
-          "referee": "B. Arleu",
+          "referee": "Bruno Arleu de Araujo, Brazil",
           "timezone": "UTC",
           "date": "2026-03-22T21:30:00+00:00",
           "timestamp": 1774215000,
@@ -1468,7 +1468,7 @@
       {
         "fixture": {
           "id": 1492166,
-          "referee": "F. Mendes",
+          "referee": "Fernando Antonio Mendes de Salles Nascimento Filho, Brazil",
           "timezone": "UTC",
           "date": "2026-03-15T19:00:00+00:00",
           "timestamp": 1773601200,
@@ -1538,7 +1538,7 @@
       {
         "fixture": {
           "id": 1492151,
-          "referee": "R. Abatti",
+          "referee": "Ramon Abatti Abel, Brazil",
           "timezone": "UTC",
           "date": "2026-03-11T22:00:00+00:00",
           "timestamp": 1773266400,
@@ -1548,7 +1548,7 @@
           },
           "venue": {
             "id": null,
-            "name": "MRV Arena",
+            "name": "Arena MRV",
             "city": "Belo Horizonte"
           },
           "status": {
@@ -1748,7 +1748,7 @@
       {
         "fixture": {
           "id": 1492148,
-          "referee": "B. Arleu",
+          "referee": "Bruno Arleu de Araujo, Brazil",
           "timezone": "UTC",
           "date": "2026-02-25T22:00:00+00:00",
           "timestamp": 1772056800,
@@ -1758,8 +1758,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Olimpico do Para",
-            "city": "Belem"
+            "name": "Mangueirão",
+            "city": "Belém"
           },
           "status": {
             "long": "Match Finished",
@@ -1958,7 +1958,7 @@
       {
         "fixture": {
           "id": 1492135,
-          "referee": "D. Lacerda",
+          "referee": "Davi de Oliveira Lacerda, Brazil",
           "timezone": "UTC",
           "date": "2026-02-13T00:30:00+00:00",
           "timestamp": 1770942600,
@@ -2042,12 +2042,12 @@
         "name": "Botafogo",
         "logo": "https://media.api-sports.io/football/teams/120.png"
       },
-      "form": "WLLLLW",
+      "form": "WLLLLWL",
       "fixtures": {
         "played": {
           "home": 2,
-          "away": 4,
-          "total": 6
+          "away": 5,
+          "total": 7
         },
         "wins": {
           "home": 1,
@@ -2061,118 +2061,50 @@
         },
         "loses": {
           "home": 1,
-          "away": 3,
-          "total": 4
+          "away": 4,
+          "total": 5
         }
       },
       "goals": {
         "for": {
           "total": {
             "home": 4,
-            "away": 6,
-            "total": 10
+            "away": 7,
+            "total": 11
           },
           "average": {
             "home": "2.0",
-            "away": "1.5",
-            "total": "1.7"
+            "away": "1.4",
+            "total": "1.6"
           },
           "minute": {
             "0-15": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "9.09%"
             },
             "16-30": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "9.09%"
             },
             "31-45": {
-              "total": 1,
-              "percentage": "10.00%"
+              "total": 2,
+              "percentage": "18.18%"
             },
             "46-60": {
               "total": 2,
-              "percentage": "20.00%"
+              "percentage": "18.18%"
             },
             "61-75": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "9.09%"
             },
             "76-90": {
-              "total": 4,
-              "percentage": "40.00%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 4,
-              "under": 2
-            },
-            "1.5": {
-              "over": 3,
-              "under": 3
-            },
-            "2.5": {
-              "over": 2,
-              "under": 4
-            },
-            "3.5": {
-              "over": 1,
-              "under": 5
-            },
-            "4.5": {
-              "over": 0,
-              "under": 6
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 3,
-            "away": 9,
-            "total": 12
-          },
-          "average": {
-            "home": "1.5",
-            "away": "2.3",
-            "total": "2.0"
-          },
-          "minute": {
-            "0-15": {
               "total": 3,
-              "percentage": "25.00%"
-            },
-            "16-30": {
-              "total": 1,
-              "percentage": "8.33%"
-            },
-            "31-45": {
-              "total": 1,
-              "percentage": "8.33%"
-            },
-            "46-60": {
-              "total": 6,
-              "percentage": "50.00%"
-            },
-            "61-75": {
-              "total": null,
-              "percentage": null
-            },
-            "76-90": {
-              "total": 1,
-              "percentage": "8.33%"
+              "percentage": "27.27%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "9.09%"
             },
             "106-120": {
               "total": null,
@@ -2182,23 +2114,91 @@
           "under_over": {
             "0.5": {
               "over": 5,
-              "under": 1
+              "under": 2
             },
             "1.5": {
               "over": 3,
-              "under": 3
+              "under": 4
             },
             "2.5": {
               "over": 2,
-              "under": 4
+              "under": 5
             },
             "3.5": {
               "over": 1,
+              "under": 6
+            },
+            "4.5": {
+              "over": 0,
+              "under": 7
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 3,
+            "away": 13,
+            "total": 16
+          },
+          "average": {
+            "home": "1.5",
+            "away": "2.6",
+            "total": "2.3"
+          },
+          "minute": {
+            "0-15": {
+              "total": 4,
+              "percentage": "25.00%"
+            },
+            "16-30": {
+              "total": 1,
+              "percentage": "6.25%"
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": 9,
+              "percentage": "56.25%"
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": 2,
+              "percentage": "12.50%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 6,
+              "under": 1
+            },
+            "1.5": {
+              "over": 4,
+              "under": 3
+            },
+            "2.5": {
+              "over": 3,
+              "under": 4
+            },
+            "3.5": {
+              "over": 2,
               "under": 5
             },
             "4.5": {
               "over": 1,
-              "under": 5
+              "under": 6
             }
           }
         }
@@ -2215,7 +2215,7 @@
         },
         "loses": {
           "home": "0-3",
-          "away": "5-3"
+          "away": "4-1"
         },
         "goals": {
           "for": {
@@ -2255,43 +2255,39 @@
           "played": 3
         },
         {
-          "formation": "4-1-3-2",
-          "played": 2
-        },
-        {
           "formation": "4-2-3-1",
-          "played": 1
+          "played": 2
         }
       ],
       "cards": {
         "yellow": {
           "0-15": {
             "total": 1,
-            "percentage": "6.25%"
+            "percentage": "5.26%"
           },
           "16-30": {
             "total": 2,
-            "percentage": "12.50%"
+            "percentage": "10.53%"
           },
           "31-45": {
-            "total": 2,
-            "percentage": "12.50%"
+            "total": 3,
+            "percentage": "15.79%"
           },
           "46-60": {
-            "total": 5,
-            "percentage": "31.25%"
+            "total": 6,
+            "percentage": "31.58%"
           },
           "61-75": {
             "total": 1,
-            "percentage": "6.25%"
+            "percentage": "5.26%"
           },
           "76-90": {
             "total": 3,
-            "percentage": "18.75%"
+            "percentage": "15.79%"
           },
           "91-105": {
-            "total": 2,
-            "percentage": "12.50%"
+            "total": 3,
+            "percentage": "15.79%"
           },
           "106-120": {
             "total": null,
@@ -2408,7 +2404,7 @@
       {
         "fixture": {
           "id": 1492181,
-          "referee": "L. Casagrande",
+          "referee": "Lucas Casagrande, Brazil",
           "timezone": "UTC",
           "date": "2026-03-21T19:00:00+00:00",
           "timestamp": 1774119600,
@@ -2478,7 +2474,7 @@
       {
         "fixture": {
           "id": 1492177,
-          "referee": "R. Klein",
+          "referee": "Rafael Rodrigo Klein, Brazil",
           "timezone": "UTC",
           "date": "2026-03-18T22:00:00+00:00",
           "timestamp": 1773871200,
@@ -2489,7 +2485,7 @@
           "venue": {
             "id": null,
             "name": "Allianz Parque",
-            "city": "Sao Paulo"
+            "city": "São Paulo"
           },
           "status": {
             "long": "Match Finished",
@@ -2548,7 +2544,7 @@
       {
         "fixture": {
           "id": 1492160,
-          "referee": "A. Daronco",
+          "referee": "Anderson Daronco, Brazil",
           "timezone": "UTC",
           "date": "2026-03-14T23:30:00+00:00",
           "timestamp": 1773531000,
@@ -3165,12 +3161,12 @@
               "percentage": null
             },
             "31-45": {
-              "total": 2,
-              "percentage": "40.00%"
-            },
-            "46-60": {
               "total": 1,
               "percentage": "20.00%"
+            },
+            "46-60": {
+              "total": 2,
+              "percentage": "40.00%"
             },
             "61-75": {
               "total": 1,
@@ -3418,7 +3414,7 @@
       {
         "fixture": {
           "id": 1492171,
-          "referee": "F. Mendes",
+          "referee": "Fernando Antonio Mendes de Salles Nascimento Filho, Brazil",
           "timezone": "UTC",
           "date": "2026-03-18T23:00:00+00:00",
           "timestamp": 1773874800,
@@ -3428,7 +3424,7 @@
           },
           "venue": {
             "id": null,
-            "name": "MRV Arena",
+            "name": "Arena MRV",
             "city": "Belo Horizonte"
           },
           "status": {
@@ -3488,7 +3484,7 @@
       {
         "fixture": {
           "id": 1492161,
-          "referee": "B. Arleu",
+          "referee": "Bruno Arleu de Araujo, Brazil",
           "timezone": "UTC",
           "date": "2026-03-15T23:30:00+00:00",
           "timestamp": 1773617400,
@@ -3558,7 +3554,7 @@
       {
         "fixture": {
           "id": 1492158,
-          "referee": "L. Casagrande",
+          "referee": "Lucas Casagrande, Brazil",
           "timezone": "UTC",
           "date": "2026-03-12T23:00:00+00:00",
           "timestamp": 1773356400,
@@ -3568,8 +3564,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Do MorumBIS",
-            "city": "Sao Paulo"
+            "name": "Estádio Doutor Oswaldo Teixeira Duarte",
+            "city": "São Paulo"
           },
           "status": {
             "long": "Match Finished",
@@ -3698,7 +3694,7 @@
       {
         "fixture": {
           "id": 1492143,
-          "referee": "W. Sampaio",
+          "referee": "Wilton Pereira Sampaio, Brazil",
           "timezone": "UTC",
           "date": "2026-02-25T22:30:00+00:00",
           "timestamp": 1772058600,
@@ -4187,12 +4183,12 @@
               "percentage": "16.67%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "16.67%"
-            },
-            "91-105": {
               "total": null,
               "percentage": null
+            },
+            "91-105": {
+              "total": 2,
+              "percentage": "16.67%"
             },
             "106-120": {
               "total": null,
@@ -4354,7 +4350,7 @@
       {
         "fixture": {
           "id": 1492188,
-          "referee": "D. Lacerda",
+          "referee": "Davi de Oliveira Lacerda, Brazil",
           "timezone": "UTC",
           "date": "2026-03-22T19:00:00+00:00",
           "timestamp": 1774206000,
@@ -4494,7 +4490,7 @@
       {
         "fixture": {
           "id": 1492164,
-          "referee": "L. Torezin",
+          "referee": "Lucas Paulo Torezin, Brazil",
           "timezone": "UTC",
           "date": "2026-03-15T23:30:00+00:00",
           "timestamp": 1773617400,
@@ -4564,7 +4560,7 @@
       {
         "fixture": {
           "id": 1492159,
-          "referee": "S. Sampaio",
+          "referee": "Savio Pereira Sampaio, Brazil",
           "timezone": "UTC",
           "date": "2026-03-12T22:30:00+00:00",
           "timestamp": 1773354600,
@@ -4704,7 +4700,7 @@
       {
         "fixture": {
           "id": 1492149,
-          "referee": "R. Klein",
+          "referee": "Rafael Rodrigo Klein, Brazil",
           "timezone": "UTC",
           "date": "2026-02-26T22:00:00+00:00",
           "timestamp": 1772143200,
@@ -4714,7 +4710,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Urbano Caldeira",
+            "name": "Estádio Urbano Caldeira",
             "city": "Santos"
           },
           "status": {
@@ -5068,17 +5064,17 @@
         "name": "Atletico Paranaense",
         "logo": "https://media.api-sports.io/football/teams/134.png"
       },
-      "form": "WWLDLWW",
+      "form": "WWLDLWWW",
       "fixtures": {
         "played": {
-          "home": 4,
+          "home": 5,
           "away": 3,
-          "total": 7
+          "total": 8
         },
         "wins": {
-          "home": 3,
+          "home": 4,
           "away": 1,
-          "total": 4
+          "total": 5
         },
         "draws": {
           "home": 0,
@@ -5094,43 +5090,43 @@
       "goals": {
         "for": {
           "total": {
-            "home": 6,
+            "home": 10,
             "away": 4,
-            "total": 10
+            "total": 14
           },
           "average": {
-            "home": "1.5",
+            "home": "2.0",
             "away": "1.3",
-            "total": "1.4"
+            "total": "1.8"
           },
           "minute": {
             "0-15": {
-              "total": 5,
-              "percentage": "50.00%"
+              "total": 6,
+              "percentage": "42.86%"
             },
             "16-30": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "7.14%"
             },
             "31-45": {
               "total": null,
               "percentage": null
             },
             "46-60": {
-              "total": 1,
-              "percentage": "10.00%"
+              "total": 3,
+              "percentage": "21.43%"
             },
             "61-75": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "7.14%"
             },
             "76-90": {
               "total": 2,
-              "percentage": "20.00%"
+              "percentage": "14.29%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "7.14%"
             },
             "106-120": {
               "total": null,
@@ -5139,32 +5135,32 @@
           },
           "under_over": {
             "0.5": {
-              "over": 6,
+              "over": 7,
               "under": 1
             },
             "1.5": {
-              "over": 4,
+              "over": 5,
               "under": 3
             },
             "2.5": {
-              "over": 0,
+              "over": 1,
               "under": 7
             },
             "3.5": {
-              "over": 0,
+              "over": 1,
               "under": 7
             },
             "4.5": {
               "over": 0,
-              "under": 7
+              "under": 8
             }
           }
         },
         "against": {
           "total": {
-            "home": 3,
+            "home": 4,
             "away": 4,
-            "total": 7
+            "total": 8
           },
           "average": {
             "home": "0.8",
@@ -5174,31 +5170,31 @@
           "minute": {
             "0-15": {
               "total": 1,
-              "percentage": "14.29%"
+              "percentage": "12.50%"
             },
             "16-30": {
               "total": 2,
-              "percentage": "28.57%"
+              "percentage": "25.00%"
             },
             "31-45": {
-              "total": 2,
-              "percentage": "28.57%"
+              "total": 3,
+              "percentage": "37.50%"
             },
             "46-60": {
               "total": 1,
-              "percentage": "14.29%"
+              "percentage": "12.50%"
             },
             "61-75": {
               "total": null,
               "percentage": null
             },
             "76-90": {
-              "total": 1,
-              "percentage": "14.29%"
-            },
-            "91-105": {
               "total": null,
               "percentage": null
+            },
+            "91-105": {
+              "total": 1,
+              "percentage": "12.50%"
             },
             "106-120": {
               "total": null,
@@ -5207,24 +5203,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 5,
+              "over": 6,
               "under": 2
             },
             "1.5": {
               "over": 1,
-              "under": 6
+              "under": 7
             },
             "2.5": {
               "over": 1,
-              "under": 6
+              "under": 7
             },
             "3.5": {
               "over": 0,
-              "under": 7
+              "under": 8
             },
             "4.5": {
               "over": 0,
-              "under": 7
+              "under": 8
             }
           }
         }
@@ -5236,7 +5232,7 @@
           "loses": 1
         },
         "wins": {
-          "home": "2-0",
+          "home": "4-1",
           "away": "0-1"
         },
         "loses": {
@@ -5245,7 +5241,7 @@
         },
         "goals": {
           "for": {
-            "home": 2,
+            "home": 4,
             "away": 2
           },
           "against": {
@@ -5267,18 +5263,18 @@
       "penalty": {
         "scored": {
           "total": 2,
-          "percentage": "100.00%"
+          "percentage": "66.67%"
         },
         "missed": {
-          "total": 0,
-          "percentage": "0%"
+          "total": 1,
+          "percentage": "33.33%"
         },
-        "total": 2
+        "total": 3
       },
       "lineups": [
         {
           "formation": "3-4-2-1",
-          "played": 4
+          "played": 5
         },
         {
           "formation": "5-4-1",
@@ -5300,15 +5296,15 @@
             "percentage": null
           },
           "16-30": {
-            "total": 1,
-            "percentage": "8.33%"
+            "total": 2,
+            "percentage": "14.29%"
           },
           "31-45": {
             "total": 1,
-            "percentage": "8.33%"
+            "percentage": "7.14%"
           },
           "46-60": {
-            "total": 6,
+            "total": 7,
             "percentage": "50.00%"
           },
           "61-75": {
@@ -5317,11 +5313,11 @@
           },
           "76-90": {
             "total": 3,
-            "percentage": "25.00%"
+            "percentage": "21.43%"
           },
           "91-105": {
             "total": 1,
-            "percentage": "8.33%"
+            "percentage": "7.14%"
           },
           "106-120": {
             "total": null,
@@ -5438,7 +5434,7 @@
       {
         "fixture": {
           "id": 1492180,
-          "referee": "R. Claus",
+          "referee": "Raphael Claus, Brazil",
           "timezone": "UTC",
           "date": "2026-03-22T19:00:00+00:00",
           "timestamp": 1774206000,
@@ -5508,7 +5504,7 @@
       {
         "fixture": {
           "id": 1492170,
-          "referee": "R. Pereira",
+          "referee": "Rodrigo Jose Pereira de Lima, Brazil",
           "timezone": "UTC",
           "date": "2026-03-18T22:30:00+00:00",
           "timestamp": 1773873000,
@@ -5578,7 +5574,7 @@
       {
         "fixture": {
           "id": 1492165,
-          "referee": "M. Delgado",
+          "referee": "Matheus Delgado Candançan, Brazil",
           "timezone": "UTC",
           "date": "2026-03-15T19:00:00+00:00",
           "timestamp": 1773601200,
@@ -5648,7 +5644,7 @@
       {
         "fixture": {
           "id": 1492142,
-          "referee": "W. do Nascimento",
+          "referee": "Wagner do Nascimento Magalhaes, Brazil",
           "timezone": "UTC",
           "date": "2026-02-25T22:00:00+00:00",
           "timestamp": 1772056800,
@@ -5788,7 +5784,7 @@
       {
         "fixture": {
           "id": 1492120,
-          "referee": "R. Pereira",
+          "referee": "Rodrigo Jose Pereira de Lima, Brazil",
           "timezone": "UTC",
           "date": "2026-02-19T22:30:00+00:00",
           "timestamp": 1771540200,
@@ -5928,7 +5924,7 @@
       {
         "fixture": {
           "id": 1492130,
-          "referee": "R. Abatti",
+          "referee": "Ramon Abatti Abel, Brazil",
           "timezone": "UTC",
           "date": "2026-02-12T22:00:00+00:00",
           "timestamp": 1770933600,
@@ -6139,12 +6135,12 @@
               "percentage": "12.50%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "25.00%"
+              "total": 1,
+              "percentage": "12.50%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "12.50%"
             },
             "106-120": {
               "total": null,
@@ -6207,12 +6203,12 @@
               "percentage": null
             },
             "76-90": {
-              "total": 6,
-              "percentage": "37.50%"
+              "total": 4,
+              "percentage": "25.00%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 2,
+              "percentage": "12.50%"
             },
             "106-120": {
               "total": null,
@@ -6292,7 +6288,7 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 5
+          "played": 8
         }
       ],
       "cards": {
@@ -6370,7 +6366,7 @@
       {
         "fixture": {
           "id": 1492183,
-          "referee": "R. Abatti",
+          "referee": "Ramon Abatti Abel, Brazil",
           "timezone": "UTC",
           "date": "2026-03-22T19:00:00+00:00",
           "timestamp": 1774206000,
@@ -6440,7 +6436,7 @@
       {
         "fixture": {
           "id": 1492170,
-          "referee": "R. Pereira",
+          "referee": "Rodrigo Jose Pereira de Lima, Brazil",
           "timezone": "UTC",
           "date": "2026-03-18T22:30:00+00:00",
           "timestamp": 1773873000,
@@ -6510,7 +6506,7 @@
       {
         "fixture": {
           "id": 1492164,
-          "referee": "L. Torezin",
+          "referee": "Lucas Paulo Torezin, Brazil",
           "timezone": "UTC",
           "date": "2026-03-15T23:30:00+00:00",
           "timestamp": 1773617400,
@@ -6580,7 +6576,7 @@
       {
         "fixture": {
           "id": 1492154,
-          "referee": "F. Rodrigues",
+          "referee": "Flavio Rodrigues De Souza, Brazil",
           "timezone": "UTC",
           "date": "2026-03-12T00:30:00+00:00",
           "timestamp": 1773275400,
@@ -6860,7 +6856,7 @@
       {
         "fixture": {
           "id": 1492144,
-          "referee": "D. Lacerda",
+          "referee": "Davi de Oliveira Lacerda, Brazil",
           "timezone": "UTC",
           "date": "2026-02-25T23:00:00+00:00",
           "timestamp": 1772060400,
@@ -7129,12 +7125,12 @@
               "percentage": "33.33%"
             },
             "31-45": {
-              "total": 1,
-              "percentage": "11.11%"
+              "total": null,
+              "percentage": null
             },
             "46-60": {
-              "total": 3,
-              "percentage": "33.33%"
+              "total": 4,
+              "percentage": "44.44%"
             },
             "61-75": {
               "total": 1,
@@ -7197,12 +7193,12 @@
               "percentage": "22.22%"
             },
             "31-45": {
-              "total": 3,
-              "percentage": "33.33%"
+              "total": 2,
+              "percentage": "22.22%"
             },
             "46-60": {
-              "total": 1,
-              "percentage": "11.11%"
+              "total": 2,
+              "percentage": "22.22%"
             },
             "61-75": {
               "total": 1,
@@ -7520,7 +7516,7 @@
       {
         "fixture": {
           "id": 1492189,
-          "referee": "W. do Nascimento",
+          "referee": "Wagner do Nascimento Magalhaes, Brazil",
           "timezone": "UTC",
           "date": "2026-03-22T21:30:00+00:00",
           "timestamp": 1774215000,
@@ -7530,7 +7526,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Barradao",
+            "name": "Estádio Manoel Barradas",
             "city": "Salvador"
           },
           "status": {
@@ -7590,7 +7586,7 @@
       {
         "fixture": {
           "id": 1492175,
-          "referee": "A. Gomes Stefano",
+          "referee": "Alex Gomes Stefano, Brazil",
           "timezone": "UTC",
           "date": "2026-03-19T22:00:00+00:00",
           "timestamp": 1773957600,
@@ -7660,7 +7656,7 @@
       {
         "fixture": {
           "id": 1492169,
-          "referee": "J. Vitor Gobi",
+          "referee": "Joao Vitor Gobi, Brazil",
           "timezone": "UTC",
           "date": "2026-03-14T21:30:00+00:00",
           "timestamp": 1773523800,
@@ -7670,7 +7666,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Barradao",
+            "name": "Estádio Manoel Barradas",
             "city": "Salvador"
           },
           "status": {
@@ -7730,7 +7726,7 @@
       {
         "fixture": {
           "id": 1492152,
-          "referee": "R. Klein",
+          "referee": "Rafael Rodrigo Klein, Brazil",
           "timezone": "UTC",
           "date": "2026-03-11T23:00:00+00:00",
           "timestamp": 1773270000,
@@ -8219,12 +8215,12 @@
               "percentage": "12.50%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "25.00%"
-            },
-            "91-105": {
               "total": null,
               "percentage": null
+            },
+            "91-105": {
+              "total": 2,
+              "percentage": "25.00%"
             },
             "106-120": {
               "total": null,
@@ -8390,7 +8386,7 @@
       {
         "fixture": {
           "id": 1492180,
-          "referee": "R. Claus",
+          "referee": "Raphael Claus, Brazil",
           "timezone": "UTC",
           "date": "2026-03-22T19:00:00+00:00",
           "timestamp": 1774206000,
@@ -8460,7 +8456,7 @@
       {
         "fixture": {
           "id": 1492176,
-          "referee": "B. Arleu",
+          "referee": "Bruno Arleu de Araujo, Brazil",
           "timezone": "UTC",
           "date": "2026-03-18T23:00:00+00:00",
           "timestamp": 1773874800,
@@ -8530,7 +8526,7 @@
       {
         "fixture": {
           "id": 1492163,
-          "referee": "R. Klein",
+          "referee": "Rafael Rodrigo Klein, Brazil",
           "timezone": "UTC",
           "date": "2026-03-15T21:30:00+00:00",
           "timestamp": 1773610200,
@@ -8600,7 +8596,7 @@
       {
         "fixture": {
           "id": 1492153,
-          "referee": "P. Zanovelli",
+          "referee": "Paulo Cesar Zanovelli da Silva, Brazil",
           "timezone": "UTC",
           "date": "2026-03-12T00:30:00+00:00",
           "timestamp": 1773275400,
@@ -8610,8 +8606,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Neo Quimica Arena",
-            "city": "Sao Paulo"
+            "name": "Neo Química Arena",
+            "city": "São Paulo"
           },
           "status": {
             "long": "Match Finished",
@@ -8670,7 +8666,7 @@
       {
         "fixture": {
           "id": 1492143,
-          "referee": "W. Sampaio",
+          "referee": "Wilton Pereira Sampaio, Brazil",
           "timezone": "UTC",
           "date": "2026-02-25T22:30:00+00:00",
           "timestamp": 1772058600,
@@ -8880,7 +8876,7 @@
       {
         "fixture": {
           "id": 1492132,
-          "referee": "W. do Nascimento",
+          "referee": "Wagner do Nascimento Magalhaes, Brazil",
           "timezone": "UTC",
           "date": "2026-02-11T22:00:00+00:00",
           "timestamp": 1770847200,
@@ -9020,7 +9016,7 @@
       {
         "fixture": {
           "id": 1492123,
-          "referee": "B. Arleu",
+          "referee": "Bruno Arleu de Araujo, Brazil",
           "timezone": "UTC",
           "date": "2026-02-06T00:30:00+00:00",
           "timestamp": 1770337800,
@@ -9400,7 +9396,7 @@
       {
         "fixture": {
           "id": 1504721,
-          "referee": "R. Tanimoto",
+          "referee": "Ryo Tanimoto, Japan",
           "timezone": "UTC",
           "date": "2026-03-22T04:00:00+00:00",
           "timestamp": 1774152000,
@@ -9470,7 +9466,7 @@
       {
         "fixture": {
           "id": 1504710,
-          "referee": "Y. Ohashi",
+          "referee": "Yusuke Ohashi, Japan",
           "timezone": "UTC",
           "date": "2026-03-18T10:00:00+00:00",
           "timestamp": 1773828000,
@@ -10410,7 +10406,7 @@
       {
         "fixture": {
           "id": 1504698,
-          "referee": "K. Fukushima",
+          "referee": "Koichiro Fukushima, Japan",
           "timezone": "UTC",
           "date": "2026-03-27T10:00:00+00:00",
           "timestamp": 1774605600,
@@ -10480,7 +10476,7 @@
       {
         "fixture": {
           "id": 1504724,
-          "referee": "K. Koya",
+          "referee": "Koei Koya, Japan",
           "timezone": "UTC",
           "date": "2026-03-22T06:00:00+00:00",
           "timestamp": 1774159200,
@@ -10550,7 +10546,7 @@
       {
         "fixture": {
           "id": 1504715,
-          "referee": "K. Takasaki",
+          "referee": "Koji Takasaki, Japan",
           "timezone": "UTC",
           "date": "2026-03-18T10:00:00+00:00",
           "timestamp": 1773828000,
@@ -11416,7 +11412,7 @@
       {
         "fixture": {
           "id": 1504723,
-          "referee": "A. Kamimura",
+          "referee": "Atsushi Uemura, Japan",
           "timezone": "UTC",
           "date": "2026-03-22T05:00:00+00:00",
           "timestamp": 1774155600,
@@ -11486,7 +11482,7 @@
       {
         "fixture": {
           "id": 1504711,
-          "referee": "M. Ueda",
+          "referee": "Masuya Ueda, Japan",
           "timezone": "UTC",
           "date": "2026-03-18T10:00:00+00:00",
           "timestamp": 1773828000,
@@ -12418,7 +12414,7 @@
       {
         "fixture": {
           "id": 1504691,
-          "referee": "M. Ueda",
+          "referee": "Masuya Ueda, Japan",
           "timezone": "UTC",
           "date": "2026-03-28T05:00:00+00:00",
           "timestamp": 1774674000,
@@ -12428,8 +12424,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Machida GION Stadium",
-            "city": "Machida"
+            "name": "Machida Stadium",
+            "city": "Tokyo"
           },
           "status": {
             "long": "Match Finished",
@@ -12488,7 +12484,7 @@
       {
         "fixture": {
           "id": 1504728,
-          "referee": "F. Nakamura",
+          "referee": "Futoshi Nakamura, Japan",
           "timezone": "UTC",
           "date": "2026-03-22T07:00:00+00:00",
           "timestamp": 1774162800,
@@ -12558,7 +12554,7 @@
       {
         "fixture": {
           "id": 1504717,
-          "referee": "K. Fukushima",
+          "referee": "Koichiro Fukushima, Japan",
           "timezone": "UTC",
           "date": "2026-03-18T10:30:00+00:00",
           "timestamp": 1773829800,
@@ -14446,7 +14442,7 @@
       {
         "fixture": {
           "id": 1392108,
-          "referee": "S. Muresan",
+          "referee": "Sergui Claudiu Muresan, Spain",
           "timezone": "UTC",
           "date": "2026-03-28T17:30:00+00:00",
           "timestamp": 1774719000,
@@ -15076,7 +15072,7 @@
       {
         "fixture": {
           "id": 1392011,
-          "referee": "L. Bestard Servera",
+          "referee": "Luis Bestard Servera, Spain",
           "timezone": "UTC",
           "date": "2026-01-23T19:30:00+00:00",
           "timestamp": 1769196600,
@@ -15359,13 +15355,13 @@
       "penalty": {
         "scored": {
           "total": 3,
-          "percentage": "60.00%"
+          "percentage": "75.00%"
         },
         "missed": {
-          "total": 2,
-          "percentage": "40.00%"
+          "total": 1,
+          "percentage": "25.00%"
         },
-        "total": 5
+        "total": 4
       },
       "lineups": [
         {
@@ -15546,7 +15542,7 @@
       {
         "fixture": {
           "id": 1392098,
-          "referee": "A. Morilla",
+          "referee": "Alejandro Morilla Turrion, Spain",
           "timezone": "UTC",
           "date": "2026-03-23T19:30:00+00:00",
           "timestamp": 1774294200,
@@ -15556,7 +15552,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Municipal de Castalia",
+            "name": "Estadio Municipal Castalia",
             "city": "Castellon"
           },
           "status": {
@@ -16502,7 +16498,7 @@
       {
         "fixture": {
           "id": 1392106,
-          "referee": "D. Arcediano",
+          "referee": "Damaso Arcediano Monescillo, Spain",
           "timezone": "UTC",
           "date": "2026-03-28T15:15:00+00:00",
           "timestamp": 1774710900,
@@ -17132,7 +17128,7 @@
       {
         "fixture": {
           "id": 1396971,
-          "referee": "A. Fuentes",
+          "referee": "Andres Fuentes Molina, Spain",
           "timezone": "UTC",
           "date": "2026-01-25T13:00:00+00:00",
           "timestamp": 1769346000,
@@ -17528,7 +17524,7 @@
       {
         "fixture": {
           "id": 1392115,
-          "referee": "R. Sanchez",
+          "referee": "Rafael Sanchez Lopez, Spain",
           "timezone": "UTC",
           "date": "2026-03-28T20:00:00+00:00",
           "timestamp": 1774728000,
@@ -17598,7 +17594,7 @@
       {
         "fixture": {
           "id": 1392095,
-          "referee": "L. Bestard Servera",
+          "referee": "Luis Bestard Servera, Spain",
           "timezone": "UTC",
           "date": "2026-03-22T17:30:00+00:00",
           "timestamp": 1774200600,
@@ -18158,7 +18154,7 @@
       {
         "fixture": {
           "id": 1392015,
-          "referee": "M. Perez",
+          "referee": "Manuel Angel Perez Hernandez, Spain",
           "timezone": "UTC",
           "date": "2026-01-24T17:30:00+00:00",
           "timestamp": 1769275800,
@@ -20174,7 +20170,7 @@
       {
         "fixture": {
           "id": 1392014,
-          "referee": "C. Muniz",
+          "referee": "Carlos Muniz Munoz, Spain",
           "timezone": "UTC",
           "date": "2026-01-25T20:00:00+00:00",
           "timestamp": 1769371200,
@@ -20554,7 +20550,7 @@
       {
         "fixture": {
           "id": 1492189,
-          "referee": "W. do Nascimento",
+          "referee": "Wagner do Nascimento Magalhaes, Brazil",
           "timezone": "UTC",
           "date": "2026-03-22T21:30:00+00:00",
           "timestamp": 1774215000,
@@ -20564,7 +20560,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Barradao",
+            "name": "Estádio Manoel Barradas",
             "city": "Salvador"
           },
           "status": {
@@ -20624,7 +20620,7 @@
       {
         "fixture": {
           "id": 1492176,
-          "referee": "B. Arleu",
+          "referee": "Bruno Arleu de Araujo, Brazil",
           "timezone": "UTC",
           "date": "2026-03-18T23:00:00+00:00",
           "timestamp": 1773874800,
@@ -20694,7 +20690,7 @@
       {
         "fixture": {
           "id": 1492167,
-          "referee": "R. Pereira",
+          "referee": "Rodrigo Jose Pereira de Lima, Brazil",
           "timezone": "UTC",
           "date": "2026-03-15T21:30:00+00:00",
           "timestamp": 1773610200,
@@ -20705,7 +20701,7 @@
           "venue": {
             "id": null,
             "name": "Allianz Parque",
-            "city": "Sao Paulo"
+            "city": "São Paulo"
           },
           "status": {
             "long": "Match Finished",
@@ -20974,7 +20970,7 @@
       {
         "fixture": {
           "id": 1492136,
-          "referee": "B. Machado",
+          "referee": "Braulio Da Silva Machado, Brazil",
           "timezone": "UTC",
           "date": "2026-02-11T22:00:00+00:00",
           "timestamp": 1770847200,
@@ -21114,7 +21110,7 @@
       {
         "fixture": {
           "id": 1492127,
-          "referee": "A. Gomes Stefano",
+          "referee": "Alex Gomes Stefano, Brazil",
           "timezone": "UTC",
           "date": "2026-02-04T23:00:00+00:00",
           "timestamp": 1770246000,
@@ -21124,8 +21120,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Evandro Almeida",
-            "city": "Belem"
+            "name": "Estádio Banpará Baenão",
+            "city": "Belém"
           },
           "status": {
             "long": "Match Finished",
@@ -22594,7 +22590,7 @@
       {
         "fixture": {
           "id": 1392116,
-          "referee": "G. Etayo",
+          "referee": "Gorka Etayo Herrera, Spain",
           "timezone": "UTC",
           "date": "2026-03-28T15:15:00+00:00",
           "timestamp": 1774710900,
@@ -22664,7 +22660,7 @@
       {
         "fixture": {
           "id": 1392102,
-          "referee": "A. Ojaos",
+          "referee": "Alejandro Ojaos Valera, Spain",
           "timezone": "UTC",
           "date": "2026-03-22T13:00:00+00:00",
           "timestamp": 1774184400,
@@ -23224,7 +23220,7 @@
       {
         "fixture": {
           "id": 1392011,
-          "referee": "L. Bestard Servera",
+          "referee": "Luis Bestard Servera, Spain",
           "timezone": "UTC",
           "date": "2026-01-23T19:30:00+00:00",
           "timestamp": 1769196600,
@@ -23433,12 +23429,12 @@
               "percentage": "11.32%"
             },
             "76-90": {
-              "total": 10,
-              "percentage": "18.87%"
+              "total": 8,
+              "percentage": "15.09%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "1.89%"
+              "total": 3,
+              "percentage": "5.66%"
             },
             "106-120": {
               "total": null,
@@ -23616,7 +23612,7 @@
       {
         "fixture": {
           "id": 1392112,
-          "referee": "A. Moreno",
+          "referee": "Alvaro Moreno Aragon, Spain",
           "timezone": "UTC",
           "date": "2026-03-28T13:00:00+00:00",
           "timestamp": 1774702800,
