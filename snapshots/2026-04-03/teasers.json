@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T02:21:52.506Z",
+  "generatedAt": "2026-04-03T02:21:49.572Z",
   "picks": [
     {
       "fixtureId": 1492192,
@@ -10,14 +10,14 @@
       "homeTeam": "RB Bragantino",
       "awayTeamId": 127,
       "awayTeam": "Flamengo",
-      "expectedHome": 1.47,
-      "expectedAway": 1.887,
-      "expectedTotal": 3.357,
-      "teamGoalsHomeLambda": 1.56,
-      "teamGoalsAwayLambda": 2.118,
+      "expectedHome": 1.516,
+      "expectedAway": 1.945,
+      "expectedTotal": 3.461,
+      "teamGoalsHomeLambda": 1.609,
+      "teamGoalsAwayLambda": 2.184,
       "type": "doubleChance",
       "label": "Ev veya Deplasman (12)",
-      "prob": 0.7817
+      "prob": 0.7855
     },
     {
       "fixtureId": 1492198,
@@ -28,14 +28,14 @@
       "homeTeam": "Palmeiras",
       "awayTeamId": 130,
       "awayTeam": "Gremio",
-      "expectedHome": 1.553,
-      "expectedAway": 1.195,
-      "expectedTotal": 2.748,
-      "teamGoalsHomeLambda": 1.781,
-      "teamGoalsAwayLambda": 1.207,
+      "expectedHome": 1.612,
+      "expectedAway": 1.24,
+      "expectedTotal": 2.852,
+      "teamGoalsHomeLambda": 1.849,
+      "teamGoalsAwayLambda": 1.252,
       "type": "home15",
       "label": "Palmeiras 1.5 Üst",
-      "prob": 0.5315,
+      "prob": 0.5516,
       "side": "home"
     },
     {
@@ -47,14 +47,14 @@
       "homeTeam": "Adelaide United",
       "awayTeamId": 24608,
       "awayTeam": "Auckland",
-      "expectedHome": 1.774,
-      "expectedAway": 1.599,
-      "expectedTotal": 3.373,
-      "teamGoalsHomeLambda": 1.916,
-      "teamGoalsAwayLambda": 1.829,
+      "expectedHome": 1.763,
+      "expectedAway": 1.59,
+      "expectedTotal": 3.353,
+      "teamGoalsHomeLambda": 1.904,
+      "teamGoalsAwayLambda": 1.817,
       "type": "over35",
       "label": "Toplam 3.5 Üst",
-      "prob": 0.4663
+      "prob": 0.4618
     },
     {
       "fixtureId": 1537598,
@@ -715,24 +715,6 @@
       "prob": 0.5418
     },
     {
-      "fixtureId": 1382245,
-      "leagueId": 89,
-      "season": 2025,
-      "kickoffTs": 1775239200,
-      "homeTeamId": 421,
-      "homeTeam": "Den Bosch",
-      "awayTeamId": 428,
-      "awayTeam": "Jong Utrecht",
-      "expectedHome": 1.595,
-      "expectedAway": 0.991,
-      "expectedTotal": 2.586,
-      "teamGoalsHomeLambda": 1.747,
-      "teamGoalsAwayLambda": 1.072,
-      "type": "over25",
-      "label": "Toplam 2.5 Üst",
-      "prob": 0.5139
-    },
-    {
       "fixtureId": 1382246,
       "leagueId": 89,
       "season": 2025,
@@ -1035,14 +1017,14 @@
       "homeTeam": "Gimnasia M.",
       "awayTeamId": 438,
       "awayTeam": "Velez Sarsfield",
-      "expectedHome": 0.94,
-      "expectedAway": 1.046,
-      "expectedTotal": 1.986,
-      "teamGoalsHomeLambda": 0.873,
-      "teamGoalsAwayLambda": 1.118,
+      "expectedHome": 0.93,
+      "expectedAway": 1.035,
+      "expectedTotal": 1.965,
+      "teamGoalsHomeLambda": 0.864,
+      "teamGoalsAwayLambda": 1.106,
       "type": "home15",
       "label": "Gimnasia M. 1.5 Üst",
-      "prob": 0.2177,
+      "prob": 0.2144,
       "side": "home"
     },
     {
@@ -1183,14 +1165,14 @@
       "homeTeam": "Union Santa Fe",
       "awayTeamId": 476,
       "awayTeam": "Deportivo Riestra",
-      "expectedHome": 1.394,
-      "expectedAway": 0.558,
-      "expectedTotal": 1.952,
-      "teamGoalsHomeLambda": 1.453,
-      "teamGoalsAwayLambda": 0.405,
+      "expectedHome": 1.38,
+      "expectedAway": 0.552,
+      "expectedTotal": 1.932,
+      "teamGoalsHomeLambda": 1.437,
+      "teamGoalsAwayLambda": 0.401,
       "type": "btts",
       "label": "Karşılıklı Gol Var",
-      "prob": 0.338
+      "prob": 0.3338
     },
     {
       "fixtureId": 1492009,
@@ -1201,14 +1183,14 @@
       "homeTeam": "San Lorenzo",
       "awayTeamId": 450,
       "awayTeam": "Estudiantes L.P.",
-      "expectedHome": 1.798,
-      "expectedAway": 0.808,
-      "expectedTotal": 2.606,
-      "teamGoalsHomeLambda": 1.879,
-      "teamGoalsAwayLambda": 0.893,
+      "expectedHome": 1.783,
+      "expectedAway": 0.802,
+      "expectedTotal": 2.585,
+      "teamGoalsHomeLambda": 1.864,
+      "teamGoalsAwayLambda": 0.886,
       "type": "over25",
       "label": "Toplam 2.5 Üst",
-      "prob": 0.5155
+      "prob": 0.5138
     }
   ]
 }
