@@ -1,72 +1,192 @@
 {
   "2": {
     "id": 2,
-    "name": "2",
-    "type": null,
-    "logo": null,
+    "name": "UEFA Champions League",
+    "type": "Cup",
+    "logo": "https://media.api-sports.io/football/leagues/2.png",
     "country": {
-      "name": null,
+      "name": "World",
       "code": null,
       "flag": null
     },
     "season": 2025,
-    "seasons": [],
-    "coverage": null
+    "seasons": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
   },
   "103": {
     "id": 103,
-    "name": "103",
-    "type": null,
-    "logo": null,
+    "name": "Eliteserien",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/103.png",
     "country": {
-      "name": null,
-      "code": null,
-      "flag": null
+      "name": "Norway",
+      "code": "NO",
+      "flag": "https://media.api-sports.io/flags/no.svg"
     },
     "season": 2026,
-    "seasons": [],
-    "coverage": null
+    "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
   },
   "172": {
     "id": 172,
-    "name": "172",
-    "type": null,
-    "logo": null,
+    "name": "First League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/172.png",
     "country": {
-      "name": null,
-      "code": null,
-      "flag": null
+      "name": "Bulgaria",
+      "code": "BG",
+      "flag": "https://media.api-sports.io/flags/bg.svg"
     },
     "season": 2025,
-    "seasons": [],
-    "coverage": null
+    "seasons": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
   },
   "292": {
     "id": 292,
-    "name": "292",
-    "type": null,
-    "logo": null,
+    "name": "K League 1",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/292.png",
     "country": {
-      "name": null,
-      "code": null,
-      "flag": null
+      "name": "South-Korea",
+      "code": "KR",
+      "flag": "https://media.api-sports.io/flags/kr.svg"
     },
     "season": 2026,
-    "seasons": [],
-    "coverage": null
+    "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": false,
+        "statistics_players": false
+      }
+    }
   },
   "307": {
     "id": 307,
-    "name": "307",
-    "type": null,
-    "logo": null,
+    "name": "Pro League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/307.png",
     "country": {
-      "name": null,
-      "code": null,
-      "flag": null
+      "name": "Saudi-Arabia",
+      "code": "SA",
+      "flag": "https://media.api-sports.io/flags/sa.svg"
     },
     "season": 2025,
-    "seasons": [],
-    "coverage": null
+    "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
   }
 }
