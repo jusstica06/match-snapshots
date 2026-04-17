@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T02:32:28.155Z",
+  "generatedAt": "2026-04-17T02:32:20.083Z",
   "ymd": "2026-04-18",
   "matches": [
     {
@@ -155,12 +155,12 @@
       "awayTeamId": 2750,
       "homeTeam": "FC Seoul",
       "awayTeam": "Daejeon Citizen",
-      "expectedHome": 2.205,
-      "expectedAway": 1.382,
-      "expectedTotal": 3.587,
-      "probOver25": 0.5800247514435044,
-      "probOver35": 0.51286,
-      "probBTTS": 0.6849200000000001
+      "expectedHome": 2.192,
+      "expectedAway": 1.374,
+      "expectedTotal": 3.566,
+      "probOver25": 0.5789342704751045,
+      "probOver35": 0.50834,
+      "probBTTS": 0.6821600000000001
     },
     {
       "fixtureId": 1384064,
@@ -1139,22 +1139,6 @@
       "probBTTS": 0.47434
     },
     {
-      "fixtureId": 1506938,
-      "leagueId": 292,
-      "season": 2026,
-      "kickoffTs": 1776488400000,
-      "homeTeamId": 2746,
-      "awayTeamId": 2762,
-      "homeTeam": "Gangwon FC",
-      "awayTeam": "Jeonbuk Motors",
-      "expectedHome": 1.656,
-      "expectedAway": 0.607,
-      "expectedTotal": 2.263,
-      "probOver25": 0.4873526983552927,
-      "probOver35": 0.21444000000000002,
-      "probBTTS": 0.38532000000000005
-    },
-    {
       "fixtureId": 1494629,
       "leagueId": 103,
       "season": 2026,
@@ -1217,6 +1201,22 @@
       "probOver25": 0.48607235391181114,
       "probOver35": 0.21122000000000002,
       "probBTTS": 0.47492
+    },
+    {
+      "fixtureId": 1506938,
+      "leagueId": 292,
+      "season": 2026,
+      "kickoffTs": 1776488400000,
+      "homeTeamId": 2746,
+      "awayTeamId": 2762,
+      "homeTeam": "Gangwon FC",
+      "awayTeam": "Jeonbuk Motors",
+      "expectedHome": 1.641,
+      "expectedAway": 0.601,
+      "expectedTotal": 2.242,
+      "probOver25": 0.48556651115932886,
+      "probOver35": 0.20994000000000002,
+      "probBTTS": 0.38126000000000004
     },
     {
       "fixtureId": 1495659,
@@ -2083,22 +2083,6 @@
       "probBTTS": 0.29636
     },
     {
-      "fixtureId": 1506940,
-      "leagueId": 292,
-      "season": 2026,
-      "kickoffTs": 1776497400000,
-      "homeTeamId": 2745,
-      "awayTeamId": 2763,
-      "homeTeam": "Bucheon FC 1995",
-      "awayTeam": "Incheon United",
-      "expectedHome": 0.661,
-      "expectedAway": 1.049,
-      "expectedTotal": 1.71,
-      "probOver25": 0.4395594981725632,
-      "probOver35": 0.10752,
-      "probBTTS": 0.33127999999999996
-    },
-    {
       "fixtureId": 1387062,
       "leagueId": 40,
       "season": 2025,
@@ -2113,6 +2097,22 @@
       "probOver25": 0.43897450842445956,
       "probOver35": 0.10632,
       "probBTTS": 0.20664000000000002
+    },
+    {
+      "fixtureId": 1506940,
+      "leagueId": 292,
+      "season": 2026,
+      "kickoffTs": 1776497400000,
+      "homeTeamId": 2745,
+      "awayTeamId": 2763,
+      "homeTeam": "Bucheon FC 1995",
+      "awayTeam": "Incheon United",
+      "expectedHome": 0.653,
+      "expectedAway": 1.037,
+      "expectedTotal": 1.69,
+      "probOver25": 0.4378481126754936,
+      "probOver35": 0.10420000000000001,
+      "probBTTS": 0.32644
     },
     {
       "fixtureId": 1398234,
@@ -2195,22 +2195,6 @@
       "probBTTS": 0.31124
     },
     {
-      "fixtureId": 1506941,
-      "leagueId": 292,
-      "season": 2026,
-      "kickoffTs": 1776497400000,
-      "homeTeamId": 2761,
-      "awayTeamId": 2768,
-      "homeTeam": "Jeju United FC",
-      "awayTeam": "Gimcheon Sangmu FC",
-      "expectedHome": 0.8,
-      "expectedAway": 0.787,
-      "expectedTotal": 1.587,
-      "probOver25": 0.42917939052340925,
-      "probOver35": 0.0879,
-      "probBTTS": 0.31692
-    },
-    {
       "fixtureId": 1492033,
       "leagueId": 128,
       "season": 2026,
@@ -2225,6 +2209,22 @@
       "probOver25": 0.4275999678219785,
       "probOver35": 0.08510000000000001,
       "probBTTS": 0.05872
+    },
+    {
+      "fixtureId": 1506941,
+      "leagueId": 292,
+      "season": 2026,
+      "kickoffTs": 1776497400000,
+      "homeTeamId": 2761,
+      "awayTeamId": 2768,
+      "homeTeam": "Jeju United FC",
+      "awayTeam": "Gimcheon Sangmu FC",
+      "expectedHome": 0.79,
+      "expectedAway": 0.776,
+      "expectedTotal": 1.566,
+      "probOver25": 0.42743476409290604,
+      "probOver35": 0.08478,
+      "probBTTS": 0.31156000000000006
     },
     {
       "fixtureId": 1495656,
@@ -2461,12 +2461,12 @@
       "awayTeamId": 2750,
       "homeTeam": "FC Seoul",
       "awayTeam": "Daejeon Citizen",
-      "expectedHome": 2.205,
-      "expectedAway": 1.382,
-      "expectedTotal": 3.587,
-      "probOver25": 0.5800247514435044,
-      "probOver35": 0.51286,
-      "probBTTS": 0.6849200000000001
+      "expectedHome": 2.192,
+      "expectedAway": 1.374,
+      "expectedTotal": 3.566,
+      "probOver25": 0.5789342704751045,
+      "probOver35": 0.50834,
+      "probBTTS": 0.6821600000000001
     },
     {
       "fixtureId": 1384064,
@@ -2687,12 +2687,12 @@
       "awayTeamId": 2750,
       "homeTeam": "FC Seoul",
       "awayTeam": "Daejeon Citizen",
-      "expectedHome": 2.205,
-      "expectedAway": 1.382,
-      "expectedTotal": 3.587,
-      "probOver25": 0.5800247514435044,
-      "probOver35": 0.51286,
-      "probBTTS": 0.6849200000000001
+      "expectedHome": 2.192,
+      "expectedAway": 1.374,
+      "expectedTotal": 3.566,
+      "probOver25": 0.5789342704751045,
+      "probOver35": 0.50834,
+      "probBTTS": 0.6821600000000001
     },
     {
       "fixtureId": 1388574,
