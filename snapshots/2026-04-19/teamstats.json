@@ -4587,76 +4587,6 @@
       },
       {
         "fixture": {
-          "id": 1379275,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-03-21T15:00:00+00:00",
-          "timestamp": 1774105200,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 555,
-            "name": "Etihad Stadium",
-            "city": "Manchester"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 39,
-          "name": "Premier League",
-          "country": "England",
-          "logo": "https://media.api-sports.io/football/leagues/39.png",
-          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-          "season": 2025,
-          "round": "Regular Season - 31",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 50,
-            "name": "Manchester City",
-            "logo": "https://media.api-sports.io/football/teams/50.png",
-            "winner": null
-          },
-          "away": {
-            "id": 52,
-            "name": "Crystal Palace",
-            "logo": "https://media.api-sports.io/football/teams/52.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1528326,
           "referee": "C. Turpin",
           "timezone": "UTC",
@@ -5063,6 +4993,76 @@
           },
           "fulltime": {
             "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1379234,
+          "referee": "T. Bramall",
+          "timezone": "UTC",
+          "date": "2026-02-21T20:00:00+00:00",
+          "timestamp": 1771704000,
+          "periods": {
+            "first": 1771704000,
+            "second": 1771707600
+          },
+          "venue": {
+            "id": 555,
+            "name": "Etihad Stadium",
+            "city": "Manchester"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2025,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 50,
+            "name": "Manchester City",
+            "logo": "https://media.api-sports.io/football/teams/50.png",
+            "winner": true
+          },
+          "away": {
+            "id": 34,
+            "name": "Newcastle",
+            "logo": "https://media.api-sports.io/football/teams/34.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
             "away": 1
           },
           "extratime": {
@@ -6398,7 +6398,7 @@
       {
         "fixture": {
           "id": 1535341,
-          "referee": "Danny Makkelie, Netherlands",
+          "referee": "D. Makkelie",
           "timezone": "UTC",
           "date": "2026-04-16T19:00:00+00:00",
           "timestamp": 1776366000,
@@ -7408,7 +7408,7 @@
       {
         "fixture": {
           "id": 1535339,
-          "referee": "José María Sánchez Martínez, Spain",
+          "referee": "J. Sanchez",
           "timezone": "UTC",
           "date": "2026-04-16T19:00:00+00:00",
           "timestamp": 1776366000,
@@ -7839,7 +7839,7 @@
           "venue": {
             "id": null,
             "name": "Stade Pierre-Mauroy",
-            "city": "Lille"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -27858,7 +27858,7 @@
       {
         "fixture": {
           "id": 1388566,
-          "referee": "Tobias Stieler, Germany",
+          "referee": "T. Stieler",
           "timezone": "UTC",
           "date": "2026-04-11T16:30:00+00:00",
           "timestamp": 1775925000,
@@ -27998,7 +27998,7 @@
       {
         "fixture": {
           "id": 1388554,
-          "referee": "Daniel Siebert, Germany",
+          "referee": "D. Siebert",
           "timezone": "UTC",
           "date": "2026-04-04T13:30:00+00:00",
           "timestamp": 1775309400,
@@ -28007,9 +28007,9 @@
             "second": 1775313000
           },
           "venue": {
-            "id": 12717,
-            "name": "Europa-Park-Stadion",
-            "city": "Freiburg im Breisgau"
+            "id": null,
+            "name": "Europa-Park Stadion",
+            "city": "Freiburg"
           },
           "status": {
             "long": "Match Finished",
@@ -28068,7 +28068,7 @@
       {
         "fixture": {
           "id": 1388543,
-          "referee": "Patrick Ittrich, Germany",
+          "referee": "P. Ittrich",
           "timezone": "UTC",
           "date": "2026-03-21T14:30:00+00:00",
           "timestamp": 1774103400,
@@ -28208,7 +28208,7 @@
       {
         "fixture": {
           "id": 1388533,
-          "referee": "Christian Dingert, Germany",
+          "referee": "C. Dingert",
           "timezone": "UTC",
           "date": "2026-03-14T14:30:00+00:00",
           "timestamp": 1773498600,
@@ -28348,7 +28348,7 @@
       {
         "fixture": {
           "id": 1388524,
-          "referee": "Robert Schröder, Germany",
+          "referee": "R. Schroder",
           "timezone": "UTC",
           "date": "2026-03-06T19:30:00+00:00",
           "timestamp": 1772825400,
@@ -28418,7 +28418,7 @@
       {
         "fixture": {
           "id": 1388518,
-          "referee": "Sven Jablonski, Germany",
+          "referee": "S. Jablonski",
           "timezone": "UTC",
           "date": "2026-02-28T17:30:00+00:00",
           "timestamp": 1772299800,
@@ -29824,7 +29824,7 @@
       {
         "fixture": {
           "id": 1535338,
-          "referee": "Anthony Taylor, England",
+          "referee": "A. Taylor",
           "timezone": "UTC",
           "date": "2026-04-16T16:45:00+00:00",
           "timestamp": 1776357900,
@@ -29894,7 +29894,7 @@
       {
         "fixture": {
           "id": 1388564,
-          "referee": "Felix Zwayer, Germany",
+          "referee": "F. Zwayer",
           "timezone": "UTC",
           "date": "2026-04-12T17:30:00+00:00",
           "timestamp": 1776015000,
@@ -30034,7 +30034,7 @@
       {
         "fixture": {
           "id": 1388554,
-          "referee": "Daniel Siebert, Germany",
+          "referee": "D. Siebert",
           "timezone": "UTC",
           "date": "2026-04-04T13:30:00+00:00",
           "timestamp": 1775309400,
@@ -30043,9 +30043,9 @@
             "second": 1775313000
           },
           "venue": {
-            "id": 12717,
-            "name": "Europa-Park-Stadion",
-            "city": "Freiburg im Breisgau"
+            "id": null,
+            "name": "Europa-Park Stadion",
+            "city": "Freiburg"
           },
           "status": {
             "long": "Match Finished",
@@ -30104,7 +30104,7 @@
       {
         "fixture": {
           "id": 1388549,
-          "referee": "Florian Badstubner, Germany",
+          "referee": "F. Badstubner",
           "timezone": "UTC",
           "date": "2026-03-22T16:30:00+00:00",
           "timestamp": 1774197000,
@@ -30244,7 +30244,7 @@
       {
         "fixture": {
           "id": 1388537,
-          "referee": "Sven Jablonski, Germany",
+          "referee": "S. Jablonski",
           "timezone": "UTC",
           "date": "2026-03-15T16:30:00+00:00",
           "timestamp": 1773592200,
@@ -30253,9 +30253,9 @@
             "second": 1773595800
           },
           "venue": {
-            "id": 12717,
-            "name": "Europa-Park-Stadion",
-            "city": "Freiburg im Breisgau"
+            "id": null,
+            "name": "Europa-Park Stadion",
+            "city": "Freiburg"
           },
           "status": {
             "long": "Match Finished",
@@ -30384,7 +30384,7 @@
       {
         "fixture": {
           "id": 1388526,
-          "referee": "Benjamin Brand, Germany",
+          "referee": "B. Brand",
           "timezone": "UTC",
           "date": "2026-03-07T14:30:00+00:00",
           "timestamp": 1772893800,
@@ -30393,9 +30393,9 @@
             "second": 1772897400
           },
           "venue": {
-            "id": 12717,
-            "name": "Europa-Park-Stadion",
-            "city": "Freiburg im Breisgau"
+            "id": null,
+            "name": "Europa-Park Stadion",
+            "city": "Freiburg"
           },
           "status": {
             "long": "Match Finished",
@@ -30454,7 +30454,7 @@
       {
         "fixture": {
           "id": 1388519,
-          "referee": "Christian Dingert, Germany",
+          "referee": "C. Dingert",
           "timezone": "UTC",
           "date": "2026-03-01T16:30:00+00:00",
           "timestamp": 1772382600,
@@ -30862,7 +30862,7 @@
       {
         "fixture": {
           "id": 1388565,
-          "referee": "Sascha Stegemann, Germany",
+          "referee": "S. Stegemann",
           "timezone": "UTC",
           "date": "2026-04-11T13:30:00+00:00",
           "timestamp": 1775914200,
@@ -30932,7 +30932,7 @@
       {
         "fixture": {
           "id": 1388552,
-          "referee": "Bastian Dankert, Germany",
+          "referee": "B. Dankert",
           "timezone": "UTC",
           "date": "2026-04-04T13:30:00+00:00",
           "timestamp": 1775309400,
@@ -30941,9 +30941,9 @@
             "second": 1775313000
           },
           "venue": {
-            "id": 20471,
+            "id": null,
             "name": "Borussia-Park",
-            "city": "Monchengladbach"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -31002,7 +31002,7 @@
       {
         "fixture": {
           "id": 1388545,
-          "referee": "Sören Storks, Germany",
+          "referee": "S. Storks",
           "timezone": "UTC",
           "date": "2026-03-21T14:30:00+00:00",
           "timestamp": 1774103400,
@@ -31072,7 +31072,7 @@
       {
         "fixture": {
           "id": 1388534,
-          "referee": "Daniel Schlager, Germany",
+          "referee": "D. Schlager",
           "timezone": "UTC",
           "date": "2026-03-13T19:30:00+00:00",
           "timestamp": 1773430200,
@@ -31081,9 +31081,9 @@
             "second": 1773433800
           },
           "venue": {
-            "id": 20471,
+            "id": null,
             "name": "Borussia-Park",
-            "city": "Monchengladbach"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -31142,7 +31142,7 @@
       {
         "fixture": {
           "id": 1388524,
-          "referee": "Robert Schröder, Germany",
+          "referee": "R. Schroder",
           "timezone": "UTC",
           "date": "2026-03-06T19:30:00+00:00",
           "timestamp": 1772825400,
@@ -31212,7 +31212,7 @@
       {
         "fixture": {
           "id": 1388517,
-          "referee": "Matthias Jollenbeck, Germany",
+          "referee": "M. Jollenbeck",
           "timezone": "UTC",
           "date": "2026-02-28T14:30:00+00:00",
           "timestamp": 1772289000,
@@ -31221,9 +31221,9 @@
             "second": 1772292600
           },
           "venue": {
-            "id": 20471,
+            "id": null,
             "name": "Borussia-Park",
-            "city": "Monchengladbach"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -31282,7 +31282,7 @@
       {
         "fixture": {
           "id": 1388508,
-          "referee": "Daniel Siebert, Germany",
+          "referee": "D. Siebert",
           "timezone": "UTC",
           "date": "2026-02-22T14:30:00+00:00",
           "timestamp": 1771770600,
@@ -31291,9 +31291,9 @@
             "second": 1771774200
           },
           "venue": {
-            "id": 12717,
-            "name": "Europa-Park-Stadion",
-            "city": "Freiburg im Breisgau"
+            "id": null,
+            "name": "Europa-Park Stadion",
+            "city": "Freiburg"
           },
           "status": {
             "long": "Match Finished",
@@ -31352,7 +31352,7 @@
       {
         "fixture": {
           "id": 1388500,
-          "referee": "Martin Petersen, Germany",
+          "referee": "M. Petersen",
           "timezone": "UTC",
           "date": "2026-02-14T14:30:00+00:00",
           "timestamp": 1771079400,
@@ -31422,7 +31422,7 @@
       {
         "fixture": {
           "id": 1388489,
-          "referee": "Christian Dingert, Germany",
+          "referee": "C. Dingert",
           "timezone": "UTC",
           "date": "2026-02-07T17:30:00+00:00",
           "timestamp": 1770485400,
@@ -31431,9 +31431,9 @@
             "second": 1770489000
           },
           "venue": {
-            "id": 20471,
+            "id": null,
             "name": "Borussia-Park",
-            "city": "Monchengladbach"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -31492,7 +31492,7 @@
       {
         "fixture": {
           "id": 1388487,
-          "referee": "Felix Zwayer, Germany",
+          "referee": "F. Zwayer",
           "timezone": "UTC",
           "date": "2026-01-31T14:30:00+00:00",
           "timestamp": 1769869800,
@@ -31954,7 +31954,7 @@
       {
         "fixture": {
           "id": 1388564,
-          "referee": "Felix Zwayer, Germany",
+          "referee": "F. Zwayer",
           "timezone": "UTC",
           "date": "2026-04-12T17:30:00+00:00",
           "timestamp": 1776015000,
@@ -32094,7 +32094,7 @@
       {
         "fixture": {
           "id": 1388556,
-          "referee": "Harm Osmers, Germany",
+          "referee": "H. Osmers",
           "timezone": "UTC",
           "date": "2026-04-04T13:30:00+00:00",
           "timestamp": 1775309400,
@@ -32164,7 +32164,7 @@
       {
         "fixture": {
           "id": 1388547,
-          "referee": "Tobias Stieler, Germany",
+          "referee": "T. Stieler",
           "timezone": "UTC",
           "date": "2026-03-22T14:30:00+00:00",
           "timestamp": 1774189800,
@@ -32304,7 +32304,7 @@
       {
         "fixture": {
           "id": 1388541,
-          "referee": "Mitja Stegemann, Germany",
+          "referee": "S. Stegemann",
           "timezone": "UTC",
           "date": "2026-03-15T14:30:00+00:00",
           "timestamp": 1773585000,
@@ -32444,7 +32444,7 @@
       {
         "fixture": {
           "id": 1388528,
-          "referee": "Matthias Jollenbeck, Germany",
+          "referee": "M. Jollenbeck",
           "timezone": "UTC",
           "date": "2026-03-07T14:30:00+00:00",
           "timestamp": 1772893800,
@@ -32514,7 +32514,7 @@
       {
         "fixture": {
           "id": 1388516,
-          "referee": "Tobias Stieler, Germany",
+          "referee": "T. Stieler",
           "timezone": "UTC",
           "date": "2026-02-28T14:30:00+00:00",
           "timestamp": 1772289000,
@@ -32906,7 +32906,7 @@
       {
         "fixture": {
           "id": 1388567,
-          "referee": "Sven Jablonski, Germany",
+          "referee": "S. Jablonski",
           "timezone": "UTC",
           "date": "2026-04-12T15:30:00+00:00",
           "timestamp": 1776007800,
@@ -32916,7 +32916,7 @@
           },
           "venue": {
             "id": null,
-            "name": "MHP Arena",
+            "name": "MHPArena",
             "city": "Stuttgart"
           },
           "status": {
@@ -32976,7 +32976,7 @@
       {
         "fixture": {
           "id": 1388557,
-          "referee": "Robert Schröder, Germany",
+          "referee": "R. Schroder",
           "timezone": "UTC",
           "date": "2026-04-04T16:30:00+00:00",
           "timestamp": 1775320200,
@@ -32986,7 +32986,7 @@
           },
           "venue": {
             "id": null,
-            "name": "MHP Arena",
+            "name": "MHPArena",
             "city": "Stuttgart"
           },
           "status": {
@@ -33046,7 +33046,7 @@
       {
         "fixture": {
           "id": 1388542,
-          "referee": "Felix Zwayer, Germany",
+          "referee": "F. Zwayer",
           "timezone": "UTC",
           "date": "2026-03-22T18:30:00+00:00",
           "timestamp": 1774204200,
@@ -33186,7 +33186,7 @@
       {
         "fixture": {
           "id": 1388540,
-          "referee": "Deniz Aytekin, Germany",
+          "referee": "D. Aytekin",
           "timezone": "UTC",
           "date": "2026-03-15T18:30:00+00:00",
           "timestamp": 1773599400,
@@ -33196,7 +33196,7 @@
           },
           "venue": {
             "id": null,
-            "name": "MHP Arena",
+            "name": "MHPArena",
             "city": "Stuttgart"
           },
           "status": {
@@ -33326,7 +33326,7 @@
       {
         "fixture": {
           "id": 1388528,
-          "referee": "Matthias Jollenbeck, Germany",
+          "referee": "M. Jollenbeck",
           "timezone": "UTC",
           "date": "2026-03-07T14:30:00+00:00",
           "timestamp": 1772893800,
@@ -33396,7 +33396,7 @@
       {
         "fixture": {
           "id": 1388522,
-          "referee": "Patrick Ittrich, Germany",
+          "referee": "P. Ittrich",
           "timezone": "UTC",
           "date": "2026-03-01T14:30:00+00:00",
           "timestamp": 1772375400,
@@ -33406,7 +33406,7 @@
           },
           "venue": {
             "id": null,
-            "name": "MHP Arena",
+            "name": "MHPArena",
             "city": "Stuttgart"
           },
           "status": {
@@ -33536,7 +33536,7 @@
       {
         "fixture": {
           "id": 1388509,
-          "referee": "Sascha Stegemann, Germany",
+          "referee": "S. Stegemann",
           "timezone": "UTC",
           "date": "2026-02-22T18:30:00+00:00",
           "timestamp": 1771785000,
@@ -33545,9 +33545,9 @@
             "second": 1771788600
           },
           "venue": {
-            "id": 723,
+            "id": null,
             "name": "Voith-Arena",
-            "city": "Heidenheim an der Brenz"
+            "city": "Heidenheim"
           },
           "status": {
             "long": "Match Finished",
@@ -35992,7 +35992,7 @@
       {
         "fixture": {
           "id": 1388563,
-          "referee": "Christian Dingert, Germany",
+          "referee": "C. Dingert",
           "timezone": "UTC",
           "date": "2026-04-11T13:30:00+00:00",
           "timestamp": 1775914200,
@@ -36001,9 +36001,9 @@
             "second": 1775917800
           },
           "venue": {
-            "id": 723,
+            "id": null,
             "name": "Voith-Arena",
-            "city": "Heidenheim an der Brenz"
+            "city": "Heidenheim"
           },
           "status": {
             "long": "Match Finished",
@@ -36062,7 +36062,7 @@
       {
         "fixture": {
           "id": 1388552,
-          "referee": "Bastian Dankert, Germany",
+          "referee": "B. Dankert",
           "timezone": "UTC",
           "date": "2026-04-04T13:30:00+00:00",
           "timestamp": 1775309400,
@@ -36071,9 +36071,9 @@
             "second": 1775313000
           },
           "venue": {
-            "id": 20471,
+            "id": null,
             "name": "Borussia-Park",
-            "city": "Monchengladbach"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -36132,7 +36132,7 @@
       {
         "fixture": {
           "id": 1388546,
-          "referee": "Robin Braun, Germany",
+          "referee": "R. Braun",
           "timezone": "UTC",
           "date": "2026-03-21T14:30:00+00:00",
           "timestamp": 1774103400,
@@ -36141,9 +36141,9 @@
             "second": 1774107000
           },
           "venue": {
-            "id": 723,
+            "id": null,
             "name": "Voith-Arena",
-            "city": "Heidenheim an der Brenz"
+            "city": "Heidenheim"
           },
           "status": {
             "long": "Match Finished",
@@ -36202,7 +36202,7 @@
       {
         "fixture": {
           "id": 1388536,
-          "referee": "Harm Osmers, Germany",
+          "referee": "H. Osmers",
           "timezone": "UTC",
           "date": "2026-03-14T14:30:00+00:00",
           "timestamp": 1773498600,
@@ -36272,7 +36272,7 @@
       {
         "fixture": {
           "id": 1388527,
-          "referee": "Robert Hartmann, Germany",
+          "referee": "R. Hartmann",
           "timezone": "UTC",
           "date": "2026-03-07T14:30:00+00:00",
           "timestamp": 1772893800,
@@ -36281,9 +36281,9 @@
             "second": 1772897400
           },
           "venue": {
-            "id": 723,
+            "id": null,
             "name": "Voith-Arena",
-            "city": "Heidenheim an der Brenz"
+            "city": "Heidenheim"
           },
           "status": {
             "long": "Match Finished",
@@ -36342,7 +36342,7 @@
       {
         "fixture": {
           "id": 1388523,
-          "referee": "Florian Badstubner, Germany",
+          "referee": "F. Badstubner",
           "timezone": "UTC",
           "date": "2026-02-28T14:30:00+00:00",
           "timestamp": 1772289000,
@@ -36412,7 +36412,7 @@
       {
         "fixture": {
           "id": 1388509,
-          "referee": "Sascha Stegemann, Germany",
+          "referee": "S. Stegemann",
           "timezone": "UTC",
           "date": "2026-02-22T18:30:00+00:00",
           "timestamp": 1771785000,
@@ -36421,9 +36421,9 @@
             "second": 1771788600
           },
           "venue": {
-            "id": 723,
+            "id": null,
             "name": "Voith-Arena",
-            "city": "Heidenheim an der Brenz"
+            "city": "Heidenheim"
           },
           "status": {
             "long": "Match Finished",
@@ -36482,7 +36482,7 @@
       {
         "fixture": {
           "id": 1388497,
-          "referee": "Felix Zwayer, Germany",
+          "referee": "F. Zwayer",
           "timezone": "UTC",
           "date": "2026-02-15T14:30:00+00:00",
           "timestamp": 1771165800,
@@ -36552,7 +36552,7 @@
       {
         "fixture": {
           "id": 1388492,
-          "referee": "Daniel Siebert, Germany",
+          "referee": "D. Siebert",
           "timezone": "UTC",
           "date": "2026-02-07T14:30:00+00:00",
           "timestamp": 1770474600,
@@ -36561,9 +36561,9 @@
             "second": 1770478200
           },
           "venue": {
-            "id": 723,
+            "id": null,
             "name": "Voith-Arena",
-            "city": "Heidenheim an der Brenz"
+            "city": "Heidenheim"
           },
           "status": {
             "long": "Match Finished",
@@ -36622,7 +36622,7 @@
       {
         "fixture": {
           "id": 1388480,
-          "referee": "Matthias Jollenbeck, Germany",
+          "referee": "M. Jollenbeck",
           "timezone": "UTC",
           "date": "2026-02-01T16:30:00+00:00",
           "timestamp": 1769963400,
@@ -42317,76 +42317,6 @@
       },
       {
         "fixture": {
-          "id": 1396469,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-03-15T15:30:00+00:00",
-          "timestamp": 1773588600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1293,
-            "name": "Estádio José Alvalade",
-            "city": "Lisbon"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2025,
-          "round": "Regular Season - 26",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 228,
-            "name": "Sporting CP",
-            "logo": "https://media.api-sports.io/football/teams/228.png",
-            "winner": null
-          },
-          "away": {
-            "id": 218,
-            "name": "Tondela",
-            "logo": "https://media.api-sports.io/football/teams/218.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1396461,
           "referee": "H. Malheiro",
           "timezone": "UTC",
@@ -42793,6 +42723,76 @@
           },
           "fulltime": {
             "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1396404,
+          "referee": "C. Macedo",
+          "timezone": "UTC",
+          "date": "2026-01-25T18:00:00+00:00",
+          "timestamp": 1769364000,
+          "periods": {
+            "first": 1769364000,
+            "second": 1769367600
+          },
+          "venue": {
+            "id": 1276,
+            "name": "Estadio Municipal de Famalicao",
+            "city": "Vila Nova de Famalicao"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2025,
+          "round": "Regular Season - 19",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 242,
+            "name": "Famalicao",
+            "logo": "https://media.api-sports.io/football/teams/242.png",
+            "winner": true
+          },
+          "away": {
+            "id": 218,
+            "name": "Tondela",
+            "logo": "https://media.api-sports.io/football/teams/218.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
             "away": 0
           },
           "extratime": {
@@ -43541,76 +43541,6 @@
       },
       {
         "fixture": {
-          "id": 1396469,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-03-15T15:30:00+00:00",
-          "timestamp": 1773588600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1293,
-            "name": "Estádio José Alvalade",
-            "city": "Lisbon"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2025,
-          "round": "Regular Season - 26",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 228,
-            "name": "Sporting CP",
-            "logo": "https://media.api-sports.io/football/teams/228.png",
-            "winner": null
-          },
-          "away": {
-            "id": 218,
-            "name": "Tondela",
-            "logo": "https://media.api-sports.io/football/teams/218.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1528325,
           "referee": "I. Kruzliak",
           "timezone": "UTC",
@@ -43623,7 +43553,7 @@
           "venue": {
             "id": null,
             "name": "Aspmyra Stadion",
-            "city": null
+            "city": "Bodo"
           },
           "status": {
             "long": "Match Finished",
@@ -43807,6 +43737,76 @@
           },
           "fulltime": {
             "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1396450,
+          "referee": "S. Guelho",
+          "timezone": "UTC",
+          "date": "2026-02-27T20:45:00+00:00",
+          "timestamp": 1772225100,
+          "periods": {
+            "first": 1772225100,
+            "second": 1772228700
+          },
+          "venue": {
+            "id": 1293,
+            "name": "Estádio José Alvalade",
+            "city": "Lisbon"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2025,
+          "round": "Regular Season - 24",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 228,
+            "name": "Sporting CP",
+            "logo": "https://media.api-sports.io/football/teams/228.png",
+            "winner": true
+          },
+          "away": {
+            "id": 230,
+            "name": "Estoril",
+            "logo": "https://media.api-sports.io/football/teams/230.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
             "away": 0
           },
           "extratime": {
@@ -124507,7 +124507,7 @@
       {
         "fixture": {
           "id": 1535156,
-          "referee": "Carlos P. Benitez, Paraguay",
+          "referee": "C. Benitez",
           "timezone": "UTC",
           "date": "2026-04-17T00:30:00+00:00",
           "timestamp": 1776385800,
@@ -137797,7 +137797,7 @@
       {
         "fixture": {
           "id": 1535155,
-          "referee": "Carlos Ortega, Colombia",
+          "referee": "C. Ortega",
           "timezone": "UTC",
           "date": "2026-04-16T22:00:00+00:00",
           "timestamp": 1776376800,
@@ -137807,7 +137807,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Arena MRV",
+            "name": "MRV Arena",
             "city": "Belo Horizonte"
           },
           "status": {
@@ -144989,7 +144989,7 @@
       {
         "fixture": {
           "id": 1535330,
-          "referee": "J. Calderon",
+          "referee": "Juan Calderon, Costa Rica",
           "timezone": "UTC",
           "date": "2026-04-09T01:00:00+00:00",
           "timestamp": 1775696400,
@@ -144999,8 +144999,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Universitario",
-            "city": null
+            "name": "Estadio Universitario (UANL)",
+            "city": "Monterrey"
           },
           "status": {
             "long": "Match Finished",
@@ -145199,7 +145199,7 @@
       {
         "fixture": {
           "id": 1528138,
-          "referee": "O. Nation",
+          "referee": "Oshane Nation, Jamaica",
           "timezone": "UTC",
           "date": "2026-03-19T03:00:00+00:00",
           "timestamp": 1773889200,
@@ -145210,7 +145210,7 @@
           "venue": {
             "id": null,
             "name": "Lumen Field",
-            "city": null
+            "city": "Seattle"
           },
           "status": {
             "long": "Match Finished",
@@ -145339,7 +145339,7 @@
       {
         "fixture": {
           "id": 1528137,
-          "referee": "C. A. Ramos",
+          "referee": "César Ramos Palazuelos, Mexico",
           "timezone": "UTC",
           "date": "2026-03-13T02:00:00+00:00",
           "timestamp": 1773367200,
@@ -145350,7 +145350,7 @@
           "venue": {
             "id": null,
             "name": "BC Place",
-            "city": null
+            "city": "Vancouver"
           },
           "status": {
             "long": "Match Finished",
@@ -148093,7 +148093,7 @@
       {
         "fixture": {
           "id": 1535331,
-          "referee": "H. Said Martinez",
+          "referee": "Hector Martinez, Uruguay",
           "timezone": "UTC",
           "date": "2026-04-09T03:00:00+00:00",
           "timestamp": 1775703600,
@@ -148303,7 +148303,7 @@
       {
         "fixture": {
           "id": 1528312,
-          "referee": "K. Williams",
+          "referee": "Kwinsi Williams, Trinidad and Tobago",
           "timezone": "UTC",
           "date": "2026-03-19T23:00:00+00:00",
           "timestamp": 1773961200,
@@ -148313,8 +148313,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Draxhall Sports Complex",
-            "city": "Runaway Bay"
+            "name": "Drax Hall Football Field",
+            "city": "St Ann Bay"
           },
           "status": {
             "long": "Match Finished",
@@ -148443,7 +148443,7 @@
       {
         "fixture": {
           "id": 1528309,
-          "referee": "R. Radix",
+          "referee": "Reon Radix, Grenada",
           "timezone": "UTC",
           "date": "2026-03-12T01:30:00+00:00",
           "timestamp": 1773279000,
@@ -148454,7 +148454,7 @@
           "venue": {
             "id": null,
             "name": "Dignity Health Sports Park",
-            "city": null
+            "city": "Carson"
           },
           "status": {
             "long": "Match Finished",
@@ -150979,7 +150979,7 @@
       {
         "fixture": {
           "id": 1534573,
-          "referee": "I. Barton",
+          "referee": "Iván Barton, El Salvador",
           "timezone": "UTC",
           "date": "2026-04-15T01:00:00+00:00",
           "timestamp": 1776214800,
@@ -151119,7 +151119,7 @@
       {
         "fixture": {
           "id": 1534572,
-          "referee": "K. Herrera",
+          "referee": "Keylor Herrera Villalobos, Costa Rica",
           "timezone": "UTC",
           "date": "2026-04-08T02:00:00+00:00",
           "timestamp": 1775613600,
@@ -151130,7 +151130,7 @@
           "venue": {
             "id": null,
             "name": "BMO Stadium",
-            "city": null
+            "city": "Los Angeles"
           },
           "status": {
             "long": "Match Finished",
@@ -151329,7 +151329,7 @@
       {
         "fixture": {
           "id": 1526642,
-          "referee": "M. Ortiz",
+          "referee": "Marco Antonio Ortiz Nava, Mexico",
           "timezone": "UTC",
           "date": "2026-03-18T01:00:00+00:00",
           "timestamp": 1773795600,
@@ -151469,7 +151469,7 @@
       {
         "fixture": {
           "id": 1526640,
-          "referee": "V. Caceres",
+          "referee": "Victor Alfonso Caceres Hernandez, Mexico",
           "timezone": "UTC",
           "date": "2026-03-11T03:00:00+00:00",
           "timestamp": 1773198000,
@@ -151480,7 +151480,7 @@
           "venue": {
             "id": null,
             "name": "BMO Stadium",
-            "city": null
+            "city": "Los Angeles"
           },
           "status": {
             "long": "Match Finished",
@@ -215114,7 +215114,7 @@
       {
         "fixture": {
           "id": 1521524,
-          "referee": "I. A. Cornejo Melendez",
+          "referee": "Ismael Cornejo, El Salvador",
           "timezone": "UTC",
           "date": "2026-03-19T03:00:00+00:00",
           "timestamp": 1773889200,
@@ -215254,7 +215254,7 @@
       {
         "fixture": {
           "id": 1521525,
-          "referee": "W. Lopez",
+          "referee": "Walter Lopez, Guatemala",
           "timezone": "UTC",
           "date": "2026-03-12T03:30:00+00:00",
           "timestamp": 1773286200,
@@ -215265,7 +215265,7 @@
           "venue": {
             "id": null,
             "name": "Snapdragon Stadium",
-            "city": null
+            "city": "San Diego"
           },
           "status": {
             "long": "Match Finished",
@@ -215534,7 +215534,7 @@
       {
         "fixture": {
           "id": 1514132,
-          "referee": "H. Martinez",
+          "referee": "Hector Martinez, Uruguay",
           "timezone": "UTC",
           "date": "2026-02-11T01:00:00+00:00",
           "timestamp": 1770771600,
