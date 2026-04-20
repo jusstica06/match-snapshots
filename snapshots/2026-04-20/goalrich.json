@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T02:27:13.094Z",
+  "generatedAt": "2026-04-20T02:19:58.731Z",
   "ymd": "2026-04-20",
   "matches": [
     {
@@ -11,12 +11,12 @@
       "awayTeamId": 349,
       "homeTeam": "Lechia Gdansk",
       "awayTeam": "Piast Gliwice",
-      "expectedHome": 1.882,
-      "expectedAway": 1.373,
-      "expectedTotal": 3.255,
-      "probOver25": 0.5611670952392072,
-      "probOver35": 0.43992000000000003,
-      "probBTTS": 0.6525
+      "expectedHome": 1.979,
+      "expectedAway": 1.443,
+      "expectedTotal": 3.422,
+      "probOver25": 0.5710410814062942,
+      "probOver35": 0.4771000000000001,
+      "probBTTS": 0.67734
     },
     {
       "fixtureId": 1492030,
@@ -27,12 +27,12 @@
       "awayTeamId": 473,
       "homeTeam": "Banfield",
       "awayTeam": "Independ. Rivadavia",
-      "expectedHome": 1.542,
-      "expectedAway": 1.594,
-      "expectedTotal": 3.136,
-      "probOver25": 0.5536489323059123,
-      "probOver35": 0.41292,
-      "probBTTS": 0.6464000000000001
+      "expectedHome": 1.553,
+      "expectedAway": 1.605,
+      "expectedTotal": 3.158,
+      "probOver25": 0.5550694404961779,
+      "probOver35": 0.41792000000000007,
+      "probBTTS": 0.64994
     },
     {
       "fixtureId": 1530573,
@@ -43,60 +43,12 @@
       "awayTeamId": 406,
       "homeTeam": "FC Midtjylland",
       "awayTeam": "Aarhus",
-      "expectedHome": 1.499,
-      "expectedAway": 1.303,
-      "expectedTotal": 2.802,
-      "probOver25": 0.530449772433472,
-      "probOver35": 0.33594,
-      "probBTTS": 0.58612
-    },
-    {
-      "fixtureId": 1531523,
-      "leagueId": 283,
-      "season": 2025,
-      "kickoffTs": 1776706200000,
-      "homeTeamId": 2596,
-      "awayTeamId": 559,
-      "homeTeam": "Farul Constanta",
-      "awayTeam": "FCSB",
-      "expectedHome": 1.196,
-      "expectedAway": 1.572,
-      "expectedTotal": 2.768,
-      "probOver25": 0.5279333845333735,
-      "probOver35": 0.32812,
-      "probBTTS": 0.5731999999999999
-    },
-    {
-      "fixtureId": 1404616,
-      "leagueId": 705,
-      "season": 2025,
-      "kickoffTs": 1776693600000,
-      "homeTeamId": 24725,
-      "awayTeamId": 26437,
-      "homeTeam": "Atalanta U20",
-      "awayTeam": "Parma U20",
-      "expectedHome": 1.845,
-      "expectedAway": 0.901,
-      "expectedTotal": 2.746,
-      "probOver25": 0.526282004286203,
-      "probOver35": 0.32302,
-      "probBTTS": 0.51932
-    },
-    {
-      "fixtureId": 1398231,
-      "leagueId": 95,
-      "season": 2025,
-      "kickoffTs": 1776707100000,
-      "homeTeamId": 243,
-      "awayTeamId": 244,
-      "homeTeam": "FC Porto B",
-      "awayTeam": "Leixoes",
-      "expectedHome": 1.465,
-      "expectedAway": 1.268,
-      "expectedTotal": 2.733,
-      "probOver25": 0.525290897755757,
-      "probOver35": 0.32000000000000006,
-      "probBTTS": 0.57314
+      "expectedHome": 1.532,
+      "expectedAway": 1.332,
+      "expectedTotal": 2.864,
+      "probOver25": 0.5349989199907764,
+      "probOver35": 0.35026,
+      "probBTTS": 0.59744
     },
     {
       "fixtureId": 1492039,
@@ -107,12 +59,76 @@
       "awayTeamId": 438,
       "homeTeam": "San Lorenzo",
       "awayTeam": "Velez Sarsfield",
-      "expectedHome": 1.594,
-      "expectedAway": 1.117,
-      "expectedTotal": 2.711,
-      "probOver25": 0.5236386145008732,
-      "probOver35": 0.3149,
-      "probBTTS": 0.5564
+      "expectedHome": 1.606,
+      "expectedAway": 1.125,
+      "expectedTotal": 2.731,
+      "probOver25": 0.5251350450657396,
+      "probOver35": 0.31958000000000003,
+      "probBTTS": 0.5601
+    },
+    {
+      "fixtureId": 1531523,
+      "leagueId": 283,
+      "season": 2025,
+      "kickoffTs": 1776706200000,
+      "homeTeamId": 2596,
+      "awayTeamId": 559,
+      "homeTeam": "Farul Constanta",
+      "awayTeam": "FCSB",
+      "expectedHome": 1.178,
+      "expectedAway": 1.548,
+      "expectedTotal": 2.726,
+      "probOver25": 0.5247609786883499,
+      "probOver35": 0.31834000000000007,
+      "probBTTS": 0.5653400000000001
+    },
+    {
+      "fixtureId": 1398231,
+      "leagueId": 95,
+      "season": 2025,
+      "kickoffTs": 1776707100000,
+      "homeTeamId": 243,
+      "awayTeamId": 244,
+      "homeTeam": "FC Porto B",
+      "awayTeam": "Leixoes",
+      "expectedHome": 1.432,
+      "expectedAway": 1.239,
+      "expectedTotal": 2.671,
+      "probOver25": 0.5205509156203708,
+      "probOver35": 0.3057,
+      "probBTTS": 0.56128
+    },
+    {
+      "fixtureId": 1404616,
+      "leagueId": 705,
+      "season": 2025,
+      "kickoffTs": 1776693600000,
+      "homeTeamId": 24725,
+      "awayTeamId": 26437,
+      "homeTeam": "Atalanta U20",
+      "awayTeam": "Parma U20",
+      "expectedHome": 1.747,
+      "expectedAway": 0.853,
+      "expectedTotal": 2.6,
+      "probOver25": 0.5150329678053059,
+      "probOver35": 0.28944000000000003,
+      "probBTTS": 0.49304000000000003
+    },
+    {
+      "fixtureId": 1379292,
+      "leagueId": 39,
+      "season": 2025,
+      "kickoffTs": 1776711600000,
+      "homeTeamId": 52,
+      "awayTeamId": 48,
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "West Ham",
+      "expectedHome": 1.146,
+      "expectedAway": 1.301,
+      "expectedTotal": 2.447,
+      "probOver25": 0.5027187232057612,
+      "probOver35": 0.25486000000000003,
+      "probBTTS": 0.51692
     },
     {
       "fixtureId": 1381773,
@@ -123,12 +139,12 @@
       "awayTeamId": 6941,
       "homeTeam": "Miedz Legnica",
       "awayTeam": "Górnik Łęczna",
-      "expectedHome": 1.342,
-      "expectedAway": 1.103,
-      "expectedTotal": 2.445,
-      "probOver25": 0.5025624775650144,
-      "probOver35": 0.25434,
-      "probBTTS": 0.5139600000000001
+      "expectedHome": 1.331,
+      "expectedAway": 1.094,
+      "expectedTotal": 2.425,
+      "probOver25": 0.5009124989869362,
+      "probOver35": 0.24990000000000004,
+      "probBTTS": 0.50982
     },
     {
       "fixtureId": 1382245,
@@ -147,20 +163,20 @@
       "probBTTS": 0.48678
     },
     {
-      "fixtureId": 1379292,
-      "leagueId": 39,
+      "fixtureId": 1392155,
+      "leagueId": 141,
       "season": 2025,
-      "kickoffTs": 1776711600000,
-      "homeTeamId": 52,
-      "awayTeamId": 48,
-      "homeTeam": "Crystal Palace",
-      "awayTeam": "West Ham",
-      "expectedHome": 1.059,
-      "expectedAway": 1.201,
-      "expectedTotal": 2.26,
-      "probOver25": 0.4870966156505323,
-      "probOver35": 0.2138,
-      "probBTTS": 0.4769
+      "kickoffTs": 1776709800000,
+      "homeTeamId": 544,
+      "awayTeamId": 799,
+      "homeTeam": "Deportivo La Coruna",
+      "awayTeam": "Mirandes",
+      "expectedHome": 1.118,
+      "expectedAway": 1.199,
+      "expectedTotal": 2.317,
+      "probOver25": 0.4919319503453968,
+      "probOver35": 0.22608,
+      "probBTTS": 0.49048
     },
     {
       "fixtureId": 1398236,
@@ -171,12 +187,12 @@
       "awayTeamId": 4744,
       "homeTeam": "Sporting CP B",
       "awayTeam": "Felgueiras 1932",
-      "expectedHome": 1.425,
-      "expectedAway": 0.765,
-      "expectedTotal": 2.19,
-      "probOver25": 0.4811214787184696,
-      "probOver35": 0.19890000000000002,
-      "probBTTS": 0.42490000000000006
+      "expectedHome": 1.384,
+      "expectedAway": 0.744,
+      "expectedTotal": 2.128,
+      "probOver25": 0.4757814668055871,
+      "probOver35": 0.186,
+      "probBTTS": 0.41190000000000004
     },
     {
       "fixtureId": 1404617,
@@ -187,44 +203,12 @@
       "awayTeamId": 24742,
       "homeTeam": "Genoa U20",
       "awayTeam": "Torino U20",
-      "expectedHome": 1.257,
-      "expectedAway": 0.928,
-      "expectedTotal": 2.185,
-      "probOver25": 0.4807033390060438,
-      "probOver35": 0.19784000000000002,
-      "probBTTS": 0.45236
-    },
-    {
-      "fixtureId": 1392155,
-      "leagueId": 141,
-      "season": 2025,
-      "kickoffTs": 1776709800000,
-      "homeTeamId": 544,
-      "awayTeamId": 799,
-      "homeTeam": "Deportivo La Coruna",
-      "awayTeam": "Mirandes",
-      "expectedHome": 1.038,
-      "expectedAway": 1.113,
-      "expectedTotal": 2.151,
-      "probOver25": 0.4777646752300266,
-      "probOver35": 0.19074,
-      "probBTTS": 0.45356
-    },
-    {
-      "fixtureId": 1378187,
-      "leagueId": 135,
-      "season": 2025,
-      "kickoffTs": 1776710700000,
-      "homeTeamId": 867,
-      "awayTeamId": 502,
-      "homeTeam": "Lecce",
-      "awayTeam": "Fiorentina",
-      "expectedHome": 0.798,
-      "expectedAway": 1.201,
-      "expectedTotal": 1.999,
-      "probOver25": 0.46460928094340365,
-      "probOver35": 0.16004000000000002,
-      "probBTTS": 0.40314
+      "expectedHome": 1.173,
+      "expectedAway": 0.866,
+      "expectedTotal": 2.039,
+      "probOver25": 0.46808096619976935,
+      "probOver35": 0.16796,
+      "probBTTS": 0.41936000000000007
     },
     {
       "fixtureId": 1389380,
@@ -243,6 +227,22 @@
       "probBTTS": 0.39426000000000005
     },
     {
+      "fixtureId": 1378187,
+      "leagueId": 135,
+      "season": 2025,
+      "kickoffTs": 1776710700000,
+      "homeTeamId": 867,
+      "awayTeamId": 502,
+      "homeTeam": "Lecce",
+      "awayTeam": "Fiorentina",
+      "expectedHome": 0.773,
+      "expectedAway": 1.164,
+      "expectedTotal": 1.937,
+      "probOver25": 0.45920339716093067,
+      "probOver35": 0.14808000000000002,
+      "probBTTS": 0.38884
+    },
+    {
       "fixtureId": 1492032,
       "leagueId": 128,
       "season": 2026,
@@ -251,12 +251,12 @@
       "awayTeamId": 1064,
       "homeTeam": "Central Cordoba de Santiago",
       "awayTeam": "Platense",
-      "expectedHome": 1.12,
-      "expectedAway": 0.781,
-      "expectedTotal": 1.901,
-      "probOver25": 0.45605741185707854,
-      "probOver35": 0.14132,
-      "probBTTS": 0.38370000000000004
+      "expectedHome": 1.132,
+      "expectedAway": 0.79,
+      "expectedTotal": 1.922,
+      "probOver25": 0.4578875058887045,
+      "probOver35": 0.14523999999999998,
+      "probBTTS": 0.38870000000000005
     },
     {
       "fixtureId": 1492031,
@@ -267,12 +267,12 @@
       "awayTeamId": 440,
       "homeTeam": "Barracas Central",
       "awayTeam": "Belgrano Cordoba",
-      "expectedHome": 1.068,
-      "expectedAway": 0.824,
-      "expectedTotal": 1.892,
-      "probOver25": 0.45527610314702865,
-      "probOver35": 0.13958,
-      "probBTTS": 0.38708000000000004
+      "expectedHome": 1.08,
+      "expectedAway": 0.833,
+      "expectedTotal": 1.913,
+      "probOver25": 0.4571119006599902,
+      "probOver35": 0.14352,
+      "probBTTS": 0.39208000000000004
     },
     {
       "fixtureId": 1531524,
@@ -283,12 +283,12 @@
       "awayTeamId": 2604,
       "homeTeam": "FC Botosani",
       "awayTeam": "Metaloglobus",
-      "expectedHome": 1.005,
-      "expectedAway": 0.763,
-      "expectedTotal": 1.768,
-      "probOver25": 0.444535446631187,
-      "probOver35": 0.11734000000000001,
-      "probBTTS": 0.35632
+      "expectedHome": 0.981,
+      "expectedAway": 0.745,
+      "expectedTotal": 1.726,
+      "probOver25": 0.44094566735418816,
+      "probOver35": 0.11016000000000001,
+      "probBTTS": 0.34596
     },
     {
       "fixtureId": 1396503,
@@ -299,12 +299,12 @@
       "awayTeamId": 230,
       "homeTeam": "Moreirense",
       "awayTeam": "Estoril",
-      "expectedHome": 0.407,
-      "expectedAway": 1.297,
-      "expectedTotal": 1.704,
-      "probOver25": 0.43904839254336325,
-      "probOver35": 0.10652,
-      "probBTTS": 0.25658000000000003
+      "expectedHome": 0.412,
+      "expectedAway": 1.312,
+      "expectedTotal": 1.724,
+      "probOver25": 0.4407607911118147,
+      "probOver35": 0.10984000000000002,
+      "probBTTS": 0.26044
     },
     {
       "fixtureId": 1394696,
@@ -315,12 +315,12 @@
       "awayTeamId": 1001,
       "homeTeam": "Gaziantep FK",
       "awayTeam": "Kayserispor",
-      "expectedHome": 1.229,
-      "expectedAway": 0.433,
-      "expectedTotal": 1.662,
-      "probOver25": 0.43548662324168746,
-      "probOver35": 0.09966,
-      "probBTTS": 0.26262
+      "expectedHome": 1.183,
+      "expectedAway": 0.417,
+      "expectedTotal": 1.6,
+      "probOver25": 0.4302515279350998,
+      "probOver35": 0.08990000000000001,
+      "probBTTS": 0.25012
     }
   ],
   "topOver25": [
@@ -333,12 +333,12 @@
       "awayTeamId": 349,
       "homeTeam": "Lechia Gdansk",
       "awayTeam": "Piast Gliwice",
-      "expectedHome": 1.882,
-      "expectedAway": 1.373,
-      "expectedTotal": 3.255,
-      "probOver25": 0.5611670952392072,
-      "probOver35": 0.43992000000000003,
-      "probBTTS": 0.6525
+      "expectedHome": 1.979,
+      "expectedAway": 1.443,
+      "expectedTotal": 3.422,
+      "probOver25": 0.5710410814062942,
+      "probOver35": 0.4771000000000001,
+      "probBTTS": 0.67734
     },
     {
       "fixtureId": 1492030,
@@ -349,12 +349,12 @@
       "awayTeamId": 473,
       "homeTeam": "Banfield",
       "awayTeam": "Independ. Rivadavia",
-      "expectedHome": 1.542,
-      "expectedAway": 1.594,
-      "expectedTotal": 3.136,
-      "probOver25": 0.5536489323059123,
-      "probOver35": 0.41292,
-      "probBTTS": 0.6464000000000001
+      "expectedHome": 1.553,
+      "expectedAway": 1.605,
+      "expectedTotal": 3.158,
+      "probOver25": 0.5550694404961779,
+      "probOver35": 0.41792000000000007,
+      "probBTTS": 0.64994
     }
   ],
   "topBTTS": [
@@ -367,12 +367,12 @@
       "awayTeamId": 349,
       "homeTeam": "Lechia Gdansk",
       "awayTeam": "Piast Gliwice",
-      "expectedHome": 1.882,
-      "expectedAway": 1.373,
-      "expectedTotal": 3.255,
-      "probOver25": 0.5611670952392072,
-      "probOver35": 0.43992000000000003,
-      "probBTTS": 0.6525
+      "expectedHome": 1.979,
+      "expectedAway": 1.443,
+      "expectedTotal": 3.422,
+      "probOver25": 0.5710410814062942,
+      "probOver35": 0.4771000000000001,
+      "probBTTS": 0.67734
     },
     {
       "fixtureId": 1492030,
@@ -383,12 +383,12 @@
       "awayTeamId": 473,
       "homeTeam": "Banfield",
       "awayTeam": "Independ. Rivadavia",
-      "expectedHome": 1.542,
-      "expectedAway": 1.594,
-      "expectedTotal": 3.136,
-      "probOver25": 0.5536489323059123,
-      "probOver35": 0.41292,
-      "probBTTS": 0.6464000000000001
+      "expectedHome": 1.553,
+      "expectedAway": 1.605,
+      "expectedTotal": 3.158,
+      "probOver25": 0.5550694404961779,
+      "probOver35": 0.41792000000000007,
+      "probBTTS": 0.64994
     },
     {
       "fixtureId": 1530573,
@@ -399,12 +399,12 @@
       "awayTeamId": 406,
       "homeTeam": "FC Midtjylland",
       "awayTeam": "Aarhus",
-      "expectedHome": 1.499,
-      "expectedAway": 1.303,
-      "expectedTotal": 2.802,
-      "probOver25": 0.530449772433472,
-      "probOver35": 0.33594,
-      "probBTTS": 0.58612
+      "expectedHome": 1.532,
+      "expectedAway": 1.332,
+      "expectedTotal": 2.864,
+      "probOver25": 0.5349989199907764,
+      "probOver35": 0.35026,
+      "probBTTS": 0.59744
     },
     {
       "fixtureId": 1531523,
@@ -415,12 +415,12 @@
       "awayTeamId": 559,
       "homeTeam": "Farul Constanta",
       "awayTeam": "FCSB",
-      "expectedHome": 1.196,
-      "expectedAway": 1.572,
-      "expectedTotal": 2.768,
-      "probOver25": 0.5279333845333735,
-      "probOver35": 0.32812,
-      "probBTTS": 0.5731999999999999
+      "expectedHome": 1.178,
+      "expectedAway": 1.548,
+      "expectedTotal": 2.726,
+      "probOver25": 0.5247609786883499,
+      "probOver35": 0.31834000000000007,
+      "probBTTS": 0.5653400000000001
     },
     {
       "fixtureId": 1398231,
@@ -431,12 +431,12 @@
       "awayTeamId": 244,
       "homeTeam": "FC Porto B",
       "awayTeam": "Leixoes",
-      "expectedHome": 1.465,
-      "expectedAway": 1.268,
-      "expectedTotal": 2.733,
-      "probOver25": 0.525290897755757,
-      "probOver35": 0.32000000000000006,
-      "probBTTS": 0.57314
+      "expectedHome": 1.432,
+      "expectedAway": 1.239,
+      "expectedTotal": 2.671,
+      "probOver25": 0.5205509156203708,
+      "probOver35": 0.3057,
+      "probBTTS": 0.56128
     },
     {
       "fixtureId": 1492039,
@@ -447,12 +447,12 @@
       "awayTeamId": 438,
       "homeTeam": "San Lorenzo",
       "awayTeam": "Velez Sarsfield",
-      "expectedHome": 1.594,
-      "expectedAway": 1.117,
-      "expectedTotal": 2.711,
-      "probOver25": 0.5236386145008732,
-      "probOver35": 0.3149,
-      "probBTTS": 0.5564
+      "expectedHome": 1.606,
+      "expectedAway": 1.125,
+      "expectedTotal": 2.731,
+      "probOver25": 0.5251350450657396,
+      "probOver35": 0.31958000000000003,
+      "probBTTS": 0.5601
     }
   ]
 }
