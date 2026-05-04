@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T02:32:18.389Z",
+  "generatedAt": "2026-05-04T02:23:45.048Z",
   "ymd": "2026-05-05",
   "matches": [
     {
@@ -17,6 +17,22 @@
       "probOver25": 0.6216129456199008,
       "probOver35": 0.7072400000000001,
       "probBTTS": 0.8176000000000001
+    },
+    {
+      "fixtureId": 1436164,
+      "leagueId": 307,
+      "season": 2025,
+      "kickoffTs": 1778004000000,
+      "homeTeamId": 2928,
+      "awayTeamId": 2932,
+      "homeTeam": "Al Khaleej Saihat",
+      "awayTeam": "Al-Hilal Saudi FC",
+      "expectedHome": 1.585,
+      "expectedAway": 2.142,
+      "expectedTotal": 3.727,
+      "probOver25": 0.5870964292000652,
+      "probOver35": 0.5423,
+      "probBTTS": 0.71988
     },
     {
       "fixtureId": 1523132,
@@ -49,22 +65,6 @@
       "probOver25": 0.5831881644338661,
       "probOver35": 0.52576,
       "probBTTS": 0.7202600000000001
-    },
-    {
-      "fixtureId": 1436164,
-      "leagueId": 307,
-      "season": 2025,
-      "kickoffTs": 1778004000000,
-      "homeTeamId": 2928,
-      "awayTeamId": 2932,
-      "homeTeam": "Al Khaleej Saihat",
-      "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 1.505,
-      "expectedAway": 2.034,
-      "expectedTotal": 3.539,
-      "probOver25": 0.5774953651858118,
-      "probOver35": 0.50254,
-      "probBTTS": 0.6950000000000001
     },
     {
       "fixtureId": 1523133,
@@ -139,44 +139,12 @@
       "awayTeamId": 4249,
       "homeTeam": "Dunfermline",
       "awayTeam": "Arbroath",
-      "expectedHome": 1.749,
-      "expectedAway": 0.793,
-      "expectedTotal": 2.542,
-      "probOver25": 0.5104172423165543,
-      "probOver35": 0.2762,
-      "probBTTS": 0.47114
-    },
-    {
-      "fixtureId": 1506966,
-      "leagueId": 292,
-      "season": 2026,
-      "kickoffTs": 1777966200000,
-      "homeTeamId": 2768,
-      "awayTeamId": 2767,
-      "homeTeam": "Gimcheon Sangmu FC",
-      "awayTeam": "Ulsan Hyundai FC",
-      "expectedHome": 1.333,
-      "expectedAway": 1.205,
-      "expectedTotal": 2.538,
-      "probOver25": 0.5100986264895118,
-      "probOver35": 0.27534000000000003,
-      "probBTTS": 0.5362
-    },
-    {
-      "fixtureId": 1506965,
-      "leagueId": 292,
-      "season": 2026,
-      "kickoffTs": 1777966200000,
-      "homeTeamId": 2746,
-      "awayTeamId": 2764,
-      "homeTeam": "Gangwon FC",
-      "awayTeam": "Pohang Steelers",
-      "expectedHome": 1.345,
-      "expectedAway": 1.159,
-      "expectedTotal": 2.504,
-      "probOver25": 0.507361967919926,
-      "probOver35": 0.26766,
-      "probBTTS": 0.52794
+      "expectedHome": 1.764,
+      "expectedAway": 0.799,
+      "expectedTotal": 2.563,
+      "probOver25": 0.5120851457819561,
+      "probOver35": 0.28102000000000005,
+      "probBTTS": 0.47478000000000004
     },
     {
       "fixtureId": 1445945,
@@ -187,12 +155,44 @@
       "awayTeamId": 2270,
       "homeTeam": "Karvan",
       "awayTeam": "Neftchi Baku",
-      "expectedHome": 0.984,
-      "expectedAway": 1.514,
-      "expectedTotal": 2.498,
-      "probOver25": 0.5068870643972524,
-      "probOver35": 0.26628,
-      "probBTTS": 0.50846
+      "expectedHome": 1.001,
+      "expectedAway": 1.539,
+      "expectedTotal": 2.54,
+      "probOver25": 0.5102610591291005,
+      "probOver35": 0.27578,
+      "probBTTS": 0.5169
+    },
+    {
+      "fixtureId": 1506965,
+      "leagueId": 292,
+      "season": 2026,
+      "kickoffTs": 1777966200000,
+      "homeTeamId": 2746,
+      "awayTeamId": 2764,
+      "homeTeam": "Gangwon FC",
+      "awayTeam": "Pohang Steelers",
+      "expectedHome": 1.385,
+      "expectedAway": 1.036,
+      "expectedTotal": 2.421,
+      "probOver25": 0.5005937497209068,
+      "probOver35": 0.24904000000000004,
+      "probBTTS": 0.50388
+    },
+    {
+      "fixtureId": 1506966,
+      "leagueId": 292,
+      "season": 2026,
+      "kickoffTs": 1777966200000,
+      "homeTeamId": 2768,
+      "awayTeamId": 2767,
+      "homeTeam": "Gimcheon Sangmu FC",
+      "awayTeam": "Ulsan Hyundai FC",
+      "expectedHome": 1.114,
+      "expectedAway": 1.173,
+      "expectedTotal": 2.287,
+      "probOver25": 0.4893890933588379,
+      "probOver35": 0.21958000000000003,
+      "probBTTS": 0.48422
     },
     {
       "fixtureId": 1506964,
@@ -243,22 +243,6 @@
       "probBTTS": 0.46526
     },
     {
-      "fixtureId": 1540994,
-      "leagueId": 172,
-      "season": 2025,
-      "kickoffTs": 1778000400000,
-      "homeTeamId": 1416,
-      "awayTeamId": 859,
-      "homeTeam": "Lokomotiv Sofia",
-      "awayTeam": "Botev Vratsa",
-      "expectedHome": 1.473,
-      "expectedAway": 0.625,
-      "expectedTotal": 2.098,
-      "probOver25": 0.4731882433298893,
-      "probOver35": 0.17984,
-      "probBTTS": 0.37558
-    },
-    {
       "fixtureId": 1506963,
       "leagueId": 292,
       "season": 2026,
@@ -275,6 +259,22 @@
       "probBTTS": 0.35898
     },
     {
+      "fixtureId": 1540994,
+      "leagueId": 172,
+      "season": 2025,
+      "kickoffTs": 1778000400000,
+      "homeTeamId": 1416,
+      "awayTeamId": 859,
+      "homeTeam": "Lokomotiv Sofia",
+      "awayTeam": "Botev Vratsa",
+      "expectedHome": 1.385,
+      "expectedAway": 0.588,
+      "expectedTotal": 1.973,
+      "probOver25": 0.46232777948920395,
+      "probOver35": 0.15496000000000001,
+      "probBTTS": 0.35014
+    },
+    {
       "fixtureId": 1491942,
       "leagueId": 128,
       "season": 2026,
@@ -283,12 +283,12 @@
       "awayTeamId": 478,
       "homeTeam": "Estudiantes de Rio Cuarto",
       "awayTeam": "Instituto Cordoba",
-      "expectedHome": 0.859,
-      "expectedAway": 0.658,
-      "expectedTotal": 1.517,
-      "probOver25": 0.4233954656134405,
-      "probOver35": 0.07764000000000001,
-      "probBTTS": 0.294
+      "expectedHome": 0.777,
+      "expectedAway": 0.595,
+      "expectedTotal": 1.372,
+      "probOver25": 0.4118736931683501,
+      "probOver35": 0.05834,
+      "probBTTS": 0.25706
     },
     {
       "fixtureId": 1540993,
@@ -299,12 +299,12 @@
       "awayTeamId": 1424,
       "homeTeam": "Beroe",
       "awayTeam": "Montana",
-      "expectedHome": 0.836,
-      "expectedAway": 0.492,
-      "expectedTotal": 1.328,
-      "probOver25": 0.4085108175056553,
-      "probOver35": 0.053040000000000004,
-      "probBTTS": 0.23388000000000003
+      "expectedHome": 0.758,
+      "expectedAway": 0.445,
+      "expectedTotal": 1.203,
+      "probOver25": 0.3993857835141554,
+      "probOver35": 0.03952,
+      "probBTTS": 0.20328000000000002
     }
   ],
   "topOver25": [
@@ -323,6 +323,22 @@
       "probOver25": 0.6216129456199008,
       "probOver35": 0.7072400000000001,
       "probBTTS": 0.8176000000000001
+    },
+    {
+      "fixtureId": 1436164,
+      "leagueId": 307,
+      "season": 2025,
+      "kickoffTs": 1778004000000,
+      "homeTeamId": 2928,
+      "awayTeamId": 2932,
+      "homeTeam": "Al Khaleej Saihat",
+      "awayTeam": "Al-Hilal Saudi FC",
+      "expectedHome": 1.585,
+      "expectedAway": 2.142,
+      "expectedTotal": 3.727,
+      "probOver25": 0.5870964292000652,
+      "probOver35": 0.5423,
+      "probBTTS": 0.71988
     },
     {
       "fixtureId": 1523132,
@@ -355,22 +371,6 @@
       "probOver25": 0.5831881644338661,
       "probOver35": 0.52576,
       "probBTTS": 0.7202600000000001
-    },
-    {
-      "fixtureId": 1436164,
-      "leagueId": 307,
-      "season": 2025,
-      "kickoffTs": 1778004000000,
-      "homeTeamId": 2928,
-      "awayTeamId": 2932,
-      "homeTeam": "Al Khaleej Saihat",
-      "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 1.505,
-      "expectedAway": 2.034,
-      "expectedTotal": 3.539,
-      "probOver25": 0.5774953651858118,
-      "probOver35": 0.50254,
-      "probBTTS": 0.6950000000000001
     },
     {
       "fixtureId": 1523133,
@@ -463,12 +463,12 @@
       "awayTeamId": 2932,
       "homeTeam": "Al Khaleej Saihat",
       "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 1.505,
-      "expectedAway": 2.034,
-      "expectedTotal": 3.539,
-      "probOver25": 0.5774953651858118,
-      "probOver35": 0.50254,
-      "probBTTS": 0.6950000000000001
+      "expectedHome": 1.585,
+      "expectedAway": 2.142,
+      "expectedTotal": 3.727,
+      "probOver25": 0.5870964292000652,
+      "probOver35": 0.5423,
+      "probBTTS": 0.71988
     },
     {
       "fixtureId": 1523133,
@@ -533,38 +533,6 @@
       "probOver25": 0.5256025883246178,
       "probOver35": 0.32094,
       "probBTTS": 0.5387000000000001
-    },
-    {
-      "fixtureId": 1506966,
-      "leagueId": 292,
-      "season": 2026,
-      "kickoffTs": 1777966200000,
-      "homeTeamId": 2768,
-      "awayTeamId": 2767,
-      "homeTeam": "Gimcheon Sangmu FC",
-      "awayTeam": "Ulsan Hyundai FC",
-      "expectedHome": 1.333,
-      "expectedAway": 1.205,
-      "expectedTotal": 2.538,
-      "probOver25": 0.5100986264895118,
-      "probOver35": 0.27534000000000003,
-      "probBTTS": 0.5362
-    },
-    {
-      "fixtureId": 1506965,
-      "leagueId": 292,
-      "season": 2026,
-      "kickoffTs": 1777966200000,
-      "homeTeamId": 2746,
-      "awayTeamId": 2764,
-      "homeTeam": "Gangwon FC",
-      "awayTeam": "Pohang Steelers",
-      "expectedHome": 1.345,
-      "expectedAway": 1.159,
-      "expectedTotal": 2.504,
-      "probOver25": 0.507361967919926,
-      "probOver35": 0.26766,
-      "probBTTS": 0.52794
     }
   ]
 }
