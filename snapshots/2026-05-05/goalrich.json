@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T02:23:45.048Z",
+  "generatedAt": "2026-05-05T02:20:18.038Z",
   "ymd": "2026-05-05",
   "matches": [
     {
@@ -17,22 +17,6 @@
       "probOver25": 0.6216129456199008,
       "probOver35": 0.7072400000000001,
       "probBTTS": 0.8176000000000001
-    },
-    {
-      "fixtureId": 1436164,
-      "leagueId": 307,
-      "season": 2025,
-      "kickoffTs": 1778004000000,
-      "homeTeamId": 2928,
-      "awayTeamId": 2932,
-      "homeTeam": "Al Khaleej Saihat",
-      "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 1.585,
-      "expectedAway": 2.142,
-      "expectedTotal": 3.727,
-      "probOver25": 0.5870964292000652,
-      "probOver35": 0.5423,
-      "probBTTS": 0.71988
     },
     {
       "fixtureId": 1523132,
@@ -65,6 +49,22 @@
       "probOver25": 0.5831881644338661,
       "probOver35": 0.52576,
       "probBTTS": 0.7202600000000001
+    },
+    {
+      "fixtureId": 1436164,
+      "leagueId": 307,
+      "season": 2025,
+      "kickoffTs": 1778004000000,
+      "homeTeamId": 2928,
+      "awayTeamId": 2932,
+      "homeTeam": "Al Khaleej Saihat",
+      "awayTeam": "Al-Hilal Saudi FC",
+      "expectedHome": 1.55,
+      "expectedAway": 2.094,
+      "expectedTotal": 3.644,
+      "probOver25": 0.5829815320654413,
+      "probOver35": 0.52496,
+      "probBTTS": 0.70916
     },
     {
       "fixtureId": 1523133,
@@ -131,22 +131,6 @@
       "probBTTS": 0.5387000000000001
     },
     {
-      "fixtureId": 1543679,
-      "leagueId": 179,
-      "season": 2025,
-      "kickoffTs": 1778006700000,
-      "homeTeamId": 1388,
-      "awayTeamId": 4249,
-      "homeTeam": "Dunfermline",
-      "awayTeam": "Arbroath",
-      "expectedHome": 1.764,
-      "expectedAway": 0.799,
-      "expectedTotal": 2.563,
-      "probOver25": 0.5120851457819561,
-      "probOver35": 0.28102000000000005,
-      "probBTTS": 0.47478000000000004
-    },
-    {
       "fixtureId": 1445945,
       "leagueId": 419,
       "season": 2025,
@@ -155,12 +139,28 @@
       "awayTeamId": 2270,
       "homeTeam": "Karvan",
       "awayTeam": "Neftchi Baku",
-      "expectedHome": 1.001,
-      "expectedAway": 1.539,
-      "expectedTotal": 2.54,
-      "probOver25": 0.5102610591291005,
-      "probOver35": 0.27578,
-      "probBTTS": 0.5169
+      "expectedHome": 1.017,
+      "expectedAway": 1.564,
+      "expectedTotal": 2.581,
+      "probOver25": 0.513527947633405,
+      "probOver35": 0.28514000000000006,
+      "probBTTS": 0.5248400000000001
+    },
+    {
+      "fixtureId": 1543679,
+      "leagueId": 179,
+      "season": 2025,
+      "kickoffTs": 1778006700000,
+      "homeTeamId": 1388,
+      "awayTeamId": 4249,
+      "homeTeam": "Dunfermline",
+      "awayTeam": "Arbroath",
+      "expectedHome": 1.678,
+      "expectedAway": 0.76,
+      "expectedTotal": 2.438,
+      "probOver25": 0.5019874895321521,
+      "probOver35": 0.25284,
+      "probBTTS": 0.45158000000000004
     },
     {
       "fixtureId": 1506965,
@@ -211,22 +211,6 @@
       "probBTTS": 0.45006
     },
     {
-      "fixtureId": 1495672,
-      "leagueId": 244,
-      "season": 2026,
-      "kickoffTs": 1777996800000,
-      "homeTeamId": 2082,
-      "awayTeamId": 1164,
-      "homeTeam": "Gnistan",
-      "awayTeam": "Inter Turku",
-      "expectedHome": 1.19,
-      "expectedAway": 1.041,
-      "expectedTotal": 2.231,
-      "probOver25": 0.48463608827198923,
-      "probOver35": 0.20758,
-      "probBTTS": 0.47024
-    },
-    {
       "fixtureId": 1506962,
       "leagueId": 292,
       "season": 2026,
@@ -241,6 +225,22 @@
       "probOver25": 0.4833561516109304,
       "probOver35": 0.20438,
       "probBTTS": 0.46526
+    },
+    {
+      "fixtureId": 1495672,
+      "leagueId": 244,
+      "season": 2026,
+      "kickoffTs": 1777996800000,
+      "homeTeamId": 2082,
+      "awayTeamId": 1164,
+      "homeTeam": "Gnistan",
+      "awayTeam": "Inter Turku",
+      "expectedHome": 1.145,
+      "expectedAway": 1.002,
+      "expectedTotal": 2.147,
+      "probOver25": 0.477415378334035,
+      "probOver35": 0.18988,
+      "probBTTS": 0.4514
     },
     {
       "fixtureId": 1506963,
@@ -283,12 +283,12 @@
       "awayTeamId": 478,
       "homeTeam": "Estudiantes de Rio Cuarto",
       "awayTeam": "Instituto Cordoba",
-      "expectedHome": 0.777,
-      "expectedAway": 0.595,
-      "expectedTotal": 1.372,
-      "probOver25": 0.4118736931683501,
-      "probOver35": 0.05834,
-      "probBTTS": 0.25706
+      "expectedHome": 0.8,
+      "expectedAway": 0.613,
+      "expectedTotal": 1.413,
+      "probOver25": 0.4150748560489251,
+      "probOver35": 0.06352000000000001,
+      "probBTTS": 0.26756
     },
     {
       "fixtureId": 1540993,
@@ -325,22 +325,6 @@
       "probBTTS": 0.8176000000000001
     },
     {
-      "fixtureId": 1436164,
-      "leagueId": 307,
-      "season": 2025,
-      "kickoffTs": 1778004000000,
-      "homeTeamId": 2928,
-      "awayTeamId": 2932,
-      "homeTeam": "Al Khaleej Saihat",
-      "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 1.585,
-      "expectedAway": 2.142,
-      "expectedTotal": 3.727,
-      "probOver25": 0.5870964292000652,
-      "probOver35": 0.5423,
-      "probBTTS": 0.71988
-    },
-    {
       "fixtureId": 1523132,
       "leagueId": 169,
       "season": 2026,
@@ -371,6 +355,22 @@
       "probOver25": 0.5831881644338661,
       "probOver35": 0.52576,
       "probBTTS": 0.7202600000000001
+    },
+    {
+      "fixtureId": 1436164,
+      "leagueId": 307,
+      "season": 2025,
+      "kickoffTs": 1778004000000,
+      "homeTeamId": 2928,
+      "awayTeamId": 2932,
+      "homeTeam": "Al Khaleej Saihat",
+      "awayTeam": "Al-Hilal Saudi FC",
+      "expectedHome": 1.55,
+      "expectedAway": 2.094,
+      "expectedTotal": 3.644,
+      "probOver25": 0.5829815320654413,
+      "probOver35": 0.52496,
+      "probBTTS": 0.70916
     },
     {
       "fixtureId": 1523133,
@@ -463,12 +463,12 @@
       "awayTeamId": 2932,
       "homeTeam": "Al Khaleej Saihat",
       "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 1.585,
-      "expectedAway": 2.142,
-      "expectedTotal": 3.727,
-      "probOver25": 0.5870964292000652,
-      "probOver35": 0.5423,
-      "probBTTS": 0.71988
+      "expectedHome": 1.55,
+      "expectedAway": 2.094,
+      "expectedTotal": 3.644,
+      "probOver25": 0.5829815320654413,
+      "probOver35": 0.52496,
+      "probBTTS": 0.70916
     },
     {
       "fixtureId": 1523133,
@@ -533,6 +533,22 @@
       "probOver25": 0.5256025883246178,
       "probOver35": 0.32094,
       "probBTTS": 0.5387000000000001
+    },
+    {
+      "fixtureId": 1445945,
+      "leagueId": 419,
+      "season": 2025,
+      "kickoffTs": 1777982400000,
+      "homeTeamId": 11239,
+      "awayTeamId": 2270,
+      "homeTeam": "Karvan",
+      "awayTeam": "Neftchi Baku",
+      "expectedHome": 1.017,
+      "expectedAway": 1.564,
+      "expectedTotal": 2.581,
+      "probOver25": 0.513527947633405,
+      "probOver35": 0.28514000000000006,
+      "probBTTS": 0.5248400000000001
     }
   ]
 }
