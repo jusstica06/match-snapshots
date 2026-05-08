@@ -15154,7 +15154,7 @@
       {
         "fixture": {
           "id": 1519247,
-          "referee": "Eric Wattellier, France",
+          "referee": "E. Wattellier",
           "timezone": "UTC",
           "date": "2026-03-03T20:00:00+00:00",
           "timestamp": 1772568000,
@@ -22758,7 +22758,7 @@
       {
         "fixture": {
           "id": 1543220,
-          "referee": null,
+          "referee": "D. Serafim",
           "timezone": "UTC",
           "date": "2026-05-07T00:30:00+00:00",
           "timestamp": 1778113800,
@@ -22772,10 +22772,10 @@
             "city": "Salvador"
           },
           "status": {
-            "long": "Second Half",
-            "short": "2H",
+            "long": "Match Finished",
+            "short": "FT",
             "elapsed": 90,
-            "extra": 6
+            "extra": 7
           }
         },
         "league": {
@@ -22812,8 +22812,8 @@
             "away": 0
           },
           "fulltime": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
           },
           "extratime": {
             "home": null,
@@ -42929,12 +42929,12 @@
         "name": "De Graafschap",
         "logo": "https://media.api-sports.io/football/teams/199.png"
       },
-      "form": null,
+      "form": "L",
       "fixtures": {
         "played": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         },
         "wins": {
           "home": 0,
@@ -42948,21 +42948,21 @@
         },
         "loses": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         }
       },
       "goals": {
         "for": {
           "total": {
             "home": 0,
-            "away": 0,
-            "total": 0
+            "away": 1,
+            "total": 1
           },
           "average": {
             "home": "0.0",
-            "away": "0.0",
-            "total": "0.0"
+            "away": "1.0",
+            "total": "1.0"
           },
           "minute": {
             "0-15": {
@@ -42978,8 +42978,8 @@
               "percentage": null
             },
             "46-60": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "61-75": {
               "total": null,
@@ -43000,37 +43000,37 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         },
         "against": {
           "total": {
             "home": 0,
-            "away": 0,
-            "total": 0
+            "away": 3,
+            "total": 3
           },
           "average": {
             "home": "0.0",
-            "away": "0.0",
-            "total": "0.0"
+            "away": "3.0",
+            "total": "3.0"
           },
           "minute": {
             "0-15": {
@@ -43042,20 +43042,20 @@
               "percentage": null
             },
             "31-45": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "33.33%"
             },
             "46-60": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "33.33%"
             },
             "61-75": {
               "total": null,
               "percentage": null
             },
             "76-90": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "33.33%"
             },
             "91-105": {
               "total": null,
@@ -43068,24 +43068,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "1.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "2.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         }
@@ -43094,7 +43094,7 @@
         "streak": {
           "wins": 0,
           "draws": 0,
-          "loses": 0
+          "loses": 1
         },
         "wins": {
           "home": null,
@@ -43102,16 +43102,16 @@
         },
         "loses": {
           "home": null,
-          "away": null
+          "away": "3-1"
         },
         "goals": {
           "for": {
             "home": 0,
-            "away": 0
+            "away": 1
           },
           "against": {
             "home": 0,
-            "away": 0
+            "away": 3
           }
         }
       },
@@ -67490,27 +67490,27 @@
           "minute": {
             "0-15": {
               "total": 5,
-              "percentage": "25.00%"
+              "percentage": "23.81%"
             },
             "16-30": {
               "total": 2,
-              "percentage": "10.00%"
+              "percentage": "9.52%"
             },
             "31-45": {
               "total": 2,
-              "percentage": "10.00%"
+              "percentage": "9.52%"
             },
             "46-60": {
-              "total": 6,
-              "percentage": "30.00%"
+              "total": 7,
+              "percentage": "33.33%"
             },
             "61-75": {
               "total": 2,
-              "percentage": "10.00%"
+              "percentage": "9.52%"
             },
             "76-90": {
               "total": 3,
-              "percentage": "15.00%"
+              "percentage": "14.29%"
             },
             "91-105": {
               "total": null,
@@ -67673,7 +67673,7 @@
         "yellow": {
           "0-15": {
             "total": 2,
-            "percentage": "14.29%"
+            "percentage": "13.33%"
           },
           "16-30": {
             "total": null,
@@ -67685,19 +67685,19 @@
           },
           "46-60": {
             "total": 1,
-            "percentage": "7.14%"
+            "percentage": "6.67%"
           },
           "61-75": {
-            "total": 3,
-            "percentage": "21.43%"
+            "total": 4,
+            "percentage": "26.67%"
           },
           "76-90": {
             "total": 5,
-            "percentage": "35.71%"
+            "percentage": "33.33%"
           },
           "91-105": {
             "total": 3,
-            "percentage": "21.43%"
+            "percentage": "20.00%"
           },
           "106-120": {
             "total": null,
@@ -67744,7 +67744,7 @@
       {
         "fixture": {
           "id": 1504798,
-          "referee": "Yusuke Araki, Japan",
+          "referee": "Y. Araki",
           "timezone": "UTC",
           "date": "2026-05-06T10:00:00+00:00",
           "timestamp": 1778061600,
@@ -68458,7 +68458,7 @@
         "name": "Cerezo Osaka",
         "logo": "https://media.api-sports.io/football/teams/291.png"
       },
-      "form": "LWLLWWLWLWWLWWD",
+      "form": "LWLLWWLWLWWLWWL",
       "fixtures": {
         "played": {
           "home": 7,
@@ -68472,13 +68472,13 @@
         },
         "draws": {
           "home": 0,
-          "away": 1,
-          "total": 1
+          "away": 0,
+          "total": 0
         },
         "loses": {
           "home": 3,
-          "away": 3,
-          "total": 6
+          "away": 4,
+          "total": 7
         }
       },
       "goals": {
@@ -68496,15 +68496,15 @@
           "minute": {
             "0-15": {
               "total": 2,
-              "percentage": "11.11%"
+              "percentage": "13.33%"
             },
             "16-30": {
               "total": 4,
-              "percentage": "22.22%"
+              "percentage": "26.67%"
             },
             "31-45": {
               "total": 3,
-              "percentage": "16.67%"
+              "percentage": "20.00%"
             },
             "46-60": {
               "total": null,
@@ -68512,19 +68512,19 @@
             },
             "61-75": {
               "total": 2,
-              "percentage": "11.11%"
+              "percentage": "13.33%"
             },
             "76-90": {
               "total": 4,
-              "percentage": "22.22%"
+              "percentage": "26.67%"
             },
             "91-105": {
               "total": null,
               "percentage": null
             },
             "106-120": {
-              "total": 3,
-              "percentage": "16.67%"
+              "total": null,
+              "percentage": null
             }
           },
           "under_over": {
@@ -68553,18 +68553,18 @@
         "against": {
           "total": {
             "home": 7,
-            "away": 8,
-            "total": 15
+            "away": 9,
+            "total": 16
           },
           "average": {
             "home": "1.0",
-            "away": "1.0",
-            "total": "1.0"
+            "away": "1.1",
+            "total": "1.1"
           },
           "minute": {
             "0-15": {
               "total": 1,
-              "percentage": "5.56%"
+              "percentage": "7.69%"
             },
             "16-30": {
               "total": null,
@@ -68572,27 +68572,27 @@
             },
             "31-45": {
               "total": 2,
-              "percentage": "11.11%"
+              "percentage": "15.38%"
             },
             "46-60": {
               "total": 4,
-              "percentage": "22.22%"
+              "percentage": "30.77%"
             },
             "61-75": {
               "total": 3,
-              "percentage": "16.67%"
+              "percentage": "23.08%"
             },
             "76-90": {
               "total": 3,
-              "percentage": "16.67%"
+              "percentage": "23.08%"
             },
             "91-105": {
               "total": null,
               "percentage": null
             },
             "106-120": {
-              "total": 5,
-              "percentage": "27.78%"
+              "total": null,
+              "percentage": null
             }
           },
           "under_over": {
@@ -68601,8 +68601,8 @@
               "under": 5
             },
             "1.5": {
-              "over": 4,
-              "under": 11
+              "over": 5,
+              "under": 10
             },
             "2.5": {
               "over": 1,
@@ -68656,14 +68656,14 @@
       },
       "penalty": {
         "scored": {
-          "total": 3,
-          "percentage": "75.00%"
+          "total": 0,
+          "percentage": "0%"
         },
         "missed": {
-          "total": 1,
-          "percentage": "25.00%"
+          "total": 0,
+          "percentage": "0%"
         },
-        "total": 4
+        "total": 0
       },
       "lineups": [
         {
@@ -69764,7 +69764,7 @@
       {
         "fixture": {
           "id": 1504795,
-          "referee": "Jumpei Iida, Japan",
+          "referee": "J. Iida",
           "timezone": "UTC",
           "date": "2026-05-06T07:00:00+00:00",
           "timestamp": 1778050800,
@@ -69774,7 +69774,7 @@
           },
           "venue": {
             "id": 964,
-            "name": "Kashima Soccer Stadium",
+            "name": "Mercari Stadium",
             "city": "Kashima"
           },
           "status": {
@@ -102543,7 +102543,7 @@
       {
         "fixture": {
           "id": 1531968,
-          "referee": "Cihan Aydin, Türkiye",
+          "referee": "C. Aydin",
           "timezone": "UTC",
           "date": "2026-04-23T17:45:00+00:00",
           "timestamp": 1776966300,
@@ -111720,7 +111720,7 @@
       {
         "fixture": {
           "id": 1531970,
-          "referee": "Ozan Ergun, Türkiye",
+          "referee": "O. Ergun",
           "timezone": "UTC",
           "date": "2026-04-21T17:30:00+00:00",
           "timestamp": 1776792600,
@@ -113698,7 +113698,7 @@
       {
         "fixture": {
           "id": 1531970,
-          "referee": "Ozan Ergun, Türkiye",
+          "referee": "O. Ergun",
           "timezone": "UTC",
           "date": "2026-04-21T17:30:00+00:00",
           "timestamp": 1776792600,
@@ -122830,7 +122830,7 @@
       {
         "fixture": {
           "id": 1531969,
-          "referee": "Oguzhan Aksu, Türkiye",
+          "referee": "O. Aksu",
           "timezone": "UTC",
           "date": "2026-04-22T17:30:00+00:00",
           "timestamp": 1776879000,
@@ -122840,7 +122840,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Rams Park Stadyumu",
+            "name": "Rams Park",
             "city": "Istanbul"
           },
           "status": {
@@ -149366,7 +149366,7 @@
       {
         "fixture": {
           "id": 1531968,
-          "referee": "Cihan Aydin, Türkiye",
+          "referee": "C. Aydin",
           "timezone": "UTC",
           "date": "2026-04-23T17:45:00+00:00",
           "timestamp": 1776966300,
@@ -150384,7 +150384,7 @@
       {
         "fixture": {
           "id": 1531969,
-          "referee": "Oguzhan Aksu, Türkiye",
+          "referee": "O. Aksu",
           "timezone": "UTC",
           "date": "2026-04-22T17:30:00+00:00",
           "timestamp": 1776879000,
@@ -150394,7 +150394,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Rams Park Stadyumu",
+            "name": "Rams Park",
             "city": "Istanbul"
           },
           "status": {
@@ -151410,7 +151410,7 @@
       {
         "fixture": {
           "id": 1531971,
-          "referee": "Atilla Karaoglan, Türkiye",
+          "referee": "A. Karaoglan",
           "timezone": "UTC",
           "date": "2026-04-23T15:45:00+00:00",
           "timestamp": 1776959100,
@@ -162453,16 +162453,12 @@
       },
       "lineups": [
         {
-          "formation": "4-2-3-1",
+          "formation": "4-3-3",
           "played": 3
         },
         {
-          "formation": "4-3-3",
-          "played": 2
-        },
-        {
-          "formation": "4-1-4-1",
-          "played": 1
+          "formation": "4-2-3-1",
+          "played": 3
         }
       ],
       "cards": {
@@ -178348,7 +178344,7 @@
       {
         "fixture": {
           "id": 1528311,
-          "referee": "Said Martinez, Honduras",
+          "referee": "H. Sorto",
           "timezone": "UTC",
           "date": "2026-03-19T01:00:00+00:00",
           "timestamp": 1773882000,
@@ -178358,7 +178354,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Azteca",
+            "name": "Estadio Ciudad de los Deportes",
             "city": "Mexico City"
           },
           "status": {
@@ -178488,7 +178484,7 @@
       {
         "fixture": {
           "id": 1528310,
-          "referee": "Keylor Herrera Villalobos, Costa Rica",
+          "referee": "K. Herrera",
           "timezone": "UTC",
           "date": "2026-03-10T23:00:00+00:00",
           "timestamp": 1773183600,
@@ -178499,7 +178495,7 @@
           "venue": {
             "id": null,
             "name": "Subaru Park",
-            "city": "Chester"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -181175,7 +181171,7 @@
       {
         "fixture": {
           "id": 1535332,
-          "referee": "Mario Escobar, Guatemala",
+          "referee": "M. Escobar",
           "timezone": "UTC",
           "date": "2026-04-16T01:00:00+00:00",
           "timestamp": 1776301200,
@@ -181186,7 +181182,7 @@
           "venue": {
             "id": null,
             "name": "Dignity Health Sports Park",
-            "city": "Carson"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -181315,7 +181311,7 @@
       {
         "fixture": {
           "id": 1535331,
-          "referee": "Hector Martinez, Uruguay",
+          "referee": "H. Said Martinez",
           "timezone": "UTC",
           "date": "2026-04-09T03:00:00+00:00",
           "timestamp": 1775703600,
@@ -181525,7 +181521,7 @@
       {
         "fixture": {
           "id": 1528312,
-          "referee": "Kwinsi Williams, Trinidad and Tobago",
+          "referee": "K. Williams",
           "timezone": "UTC",
           "date": "2026-03-19T23:00:00+00:00",
           "timestamp": 1773961200,
@@ -181535,8 +181531,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Drax Hall Football Field",
-            "city": "St Ann Bay"
+            "name": "Draxhall Sports Complex",
+            "city": "Runaway Bay"
           },
           "status": {
             "long": "Match Finished",
@@ -188867,14 +188863,14 @@
       "lineups": [
         {
           "formation": "3-4-3",
-          "played": 3
-        },
-        {
-          "formation": "4-3-3",
-          "played": 1
+          "played": 2
         },
         {
           "formation": "5-4-1",
+          "played": 2
+        },
+        {
+          "formation": "4-3-3",
           "played": 1
         }
       ],
@@ -197547,7 +197543,7 @@
       {
         "fixture": {
           "id": 1528139,
-          "referee": "Mario Escobar, Guatemala",
+          "referee": "M. Escobar",
           "timezone": "UTC",
           "date": "2026-03-20T01:00:00+00:00",
           "timestamp": 1773968400,
@@ -197557,8 +197553,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Universitario (UANL)",
-            "city": "Monterrey"
+            "name": "Estadio Universitario",
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -197687,7 +197683,7 @@
       {
         "fixture": {
           "id": 1528136,
-          "referee": "Steven Madrigal, Costa Rica",
+          "referee": "S. Madrigal",
           "timezone": "UTC",
           "date": "2026-03-13T00:00:00+00:00",
           "timestamp": 1773360000,
@@ -197698,7 +197694,7 @@
           "venue": {
             "id": null,
             "name": "TQL Stadium",
-            "city": "Cincinnati"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -203966,12 +203962,12 @@
               "percentage": "6.25%"
             },
             "76-90": {
-              "total": 8,
-              "percentage": "25.00%"
+              "total": 9,
+              "percentage": "28.13%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "3.13%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -205076,27 +205072,27 @@
           },
           "16-30": {
             "total": 2,
-            "percentage": "9.52%"
+            "percentage": "9.09%"
           },
           "31-45": {
             "total": 2,
-            "percentage": "9.52%"
+            "percentage": "9.09%"
           },
           "46-60": {
             "total": 4,
-            "percentage": "19.05%"
+            "percentage": "18.18%"
           },
           "61-75": {
             "total": 4,
-            "percentage": "19.05%"
+            "percentage": "18.18%"
           },
           "76-90": {
-            "total": 5,
-            "percentage": "23.81%"
+            "total": 6,
+            "percentage": "27.27%"
           },
           "91-105": {
             "total": 4,
-            "percentage": "19.05%"
+            "percentage": "18.18%"
           },
           "106-120": {
             "total": null,
@@ -207066,13 +207062,13 @@
       "penalty": {
         "scored": {
           "total": 3,
-          "percentage": "75.00%"
+          "percentage": "100.00%"
         },
         "missed": {
-          "total": 1,
-          "percentage": "25.00%"
+          "total": 0,
+          "percentage": "0%"
         },
-        "total": 4
+        "total": 3
       },
       "lineups": [
         {
@@ -222667,7 +222663,7 @@
       {
         "fixture": {
           "id": 1531971,
-          "referee": "Atilla Karaoglan, Türkiye",
+          "referee": "A. Karaoglan",
           "timezone": "UTC",
           "date": "2026-04-23T15:45:00+00:00",
           "timestamp": 1776959100,
@@ -234706,31 +234702,31 @@
         "yellow": {
           "0-15": {
             "total": 1,
-            "percentage": "5.26%"
+            "percentage": "5.00%"
           },
           "16-30": {
             "total": 2,
-            "percentage": "10.53%"
+            "percentage": "10.00%"
           },
           "31-45": {
             "total": 4,
-            "percentage": "21.05%"
+            "percentage": "20.00%"
           },
           "46-60": {
             "total": 3,
-            "percentage": "15.79%"
+            "percentage": "15.00%"
           },
           "61-75": {
             "total": 4,
-            "percentage": "21.05%"
+            "percentage": "20.00%"
           },
           "76-90": {
-            "total": 3,
-            "percentage": "15.79%"
+            "total": 4,
+            "percentage": "20.00%"
           },
           "91-105": {
             "total": 2,
-            "percentage": "10.53%"
+            "percentage": "10.00%"
           },
           "106-120": {
             "total": null,
@@ -246426,7 +246422,7 @@
       {
         "fixture": {
           "id": 1526643,
-          "referee": "Adonai Escobedo Gonzalez, Mexico",
+          "referee": "A. Escobedo Gonzalez",
           "timezone": "UTC",
           "date": "2026-03-18T23:00:00+00:00",
           "timestamp": 1773874800,
@@ -246437,7 +246433,7 @@
           "venue": {
             "id": null,
             "name": "Chase Stadium",
-            "city": "Fort Lauderdale"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -246566,7 +246562,7 @@
       {
         "fixture": {
           "id": 1526641,
-          "referee": "Juan Calderon, Costa Rica",
+          "referee": "J. Calderon",
           "timezone": "UTC",
           "date": "2026-03-11T23:30:00+00:00",
           "timestamp": 1773271800,
@@ -246577,7 +246573,7 @@
           "venue": {
             "id": null,
             "name": "Geodis Park",
-            "city": "Nashville"
+            "city": null
           },
           "status": {
             "long": "Match Finished",
@@ -256746,27 +256742,27 @@
           "minute": {
             "0-15": {
               "total": 7,
-              "percentage": "13.46%"
+              "percentage": "13.21%"
             },
             "16-30": {
               "total": 8,
-              "percentage": "15.38%"
+              "percentage": "15.09%"
             },
             "31-45": {
-              "total": 7,
-              "percentage": "13.46%"
+              "total": 8,
+              "percentage": "15.09%"
             },
             "46-60": {
               "total": 9,
-              "percentage": "17.31%"
+              "percentage": "16.98%"
             },
             "61-75": {
               "total": 12,
-              "percentage": "23.08%"
+              "percentage": "22.64%"
             },
             "76-90": {
               "total": 9,
-              "percentage": "17.31%"
+              "percentage": "16.98%"
             },
             "91-105": {
               "total": null,
@@ -256814,27 +256810,27 @@
           "minute": {
             "0-15": {
               "total": 7,
-              "percentage": "16.67%"
+              "percentage": "15.91%"
             },
             "16-30": {
               "total": 4,
-              "percentage": "9.52%"
+              "percentage": "9.09%"
             },
             "31-45": {
               "total": 7,
-              "percentage": "16.67%"
+              "percentage": "15.91%"
             },
             "46-60": {
-              "total": 7,
-              "percentage": "16.67%"
+              "total": 8,
+              "percentage": "18.18%"
             },
             "61-75": {
               "total": 6,
-              "percentage": "14.29%"
+              "percentage": "13.64%"
             },
             "76-90": {
-              "total": 11,
-              "percentage": "26.19%"
+              "total": 12,
+              "percentage": "27.27%"
             },
             "91-105": {
               "total": null,
@@ -257743,27 +257739,27 @@
           "minute": {
             "0-15": {
               "total": 9,
-              "percentage": "15.00%"
+              "percentage": "13.85%"
             },
             "16-30": {
               "total": 6,
-              "percentage": "10.00%"
+              "percentage": "9.23%"
             },
             "31-45": {
               "total": 12,
-              "percentage": "20.00%"
+              "percentage": "18.46%"
             },
             "46-60": {
-              "total": 13,
-              "percentage": "21.67%"
+              "total": 15,
+              "percentage": "23.08%"
             },
             "61-75": {
-              "total": 4,
-              "percentage": "6.67%"
+              "total": 5,
+              "percentage": "7.69%"
             },
             "76-90": {
-              "total": 16,
-              "percentage": "26.67%"
+              "total": 18,
+              "percentage": "27.69%"
             },
             "91-105": {
               "total": null,
@@ -257811,27 +257807,27 @@
           "minute": {
             "0-15": {
               "total": 6,
-              "percentage": "13.04%"
+              "percentage": "12.24%"
             },
             "16-30": {
-              "total": 7,
-              "percentage": "15.22%"
+              "total": 8,
+              "percentage": "16.33%"
             },
             "31-45": {
-              "total": 6,
-              "percentage": "13.04%"
+              "total": 8,
+              "percentage": "16.33%"
             },
             "46-60": {
               "total": 6,
-              "percentage": "13.04%"
+              "percentage": "12.24%"
             },
             "61-75": {
               "total": 8,
-              "percentage": "17.39%"
+              "percentage": "16.33%"
             },
             "76-90": {
               "total": 13,
-              "percentage": "28.26%"
+              "percentage": "26.53%"
             },
             "91-105": {
               "total": null,
@@ -258740,27 +258736,27 @@
           "minute": {
             "0-15": {
               "total": 4,
-              "percentage": "9.52%"
+              "percentage": "8.89%"
             },
             "16-30": {
-              "total": 4,
-              "percentage": "9.52%"
+              "total": 5,
+              "percentage": "11.11%"
             },
             "31-45": {
-              "total": 11,
-              "percentage": "26.19%"
+              "total": 13,
+              "percentage": "28.89%"
             },
             "46-60": {
               "total": 8,
-              "percentage": "19.05%"
+              "percentage": "17.78%"
             },
             "61-75": {
               "total": 6,
-              "percentage": "14.29%"
+              "percentage": "13.33%"
             },
             "76-90": {
               "total": 9,
-              "percentage": "21.43%"
+              "percentage": "20.00%"
             },
             "91-105": {
               "total": null,
@@ -258808,27 +258804,27 @@
           "minute": {
             "0-15": {
               "total": 5,
-              "percentage": "11.36%"
+              "percentage": "10.20%"
             },
             "16-30": {
               "total": 8,
-              "percentage": "18.18%"
+              "percentage": "16.33%"
             },
             "31-45": {
               "total": 10,
-              "percentage": "22.73%"
+              "percentage": "20.41%"
             },
             "46-60": {
-              "total": 7,
-              "percentage": "15.91%"
+              "total": 9,
+              "percentage": "18.37%"
             },
             "61-75": {
-              "total": 6,
-              "percentage": "13.64%"
+              "total": 7,
+              "percentage": "14.29%"
             },
             "76-90": {
-              "total": 8,
-              "percentage": "18.18%"
+              "total": 10,
+              "percentage": "20.41%"
             },
             "91-105": {
               "total": null,
@@ -258900,14 +258896,14 @@
       },
       "penalty": {
         "scored": {
-          "total": 3,
+          "total": 4,
           "percentage": "100.00%"
         },
         "missed": {
           "total": 0,
           "percentage": "0%"
         },
-        "total": 3
+        "total": 4
       },
       "lineups": [],
       "cards": {
@@ -260734,27 +260730,27 @@
           "minute": {
             "0-15": {
               "total": 3,
-              "percentage": "8.33%"
+              "percentage": "8.11%"
             },
             "16-30": {
               "total": 4,
-              "percentage": "11.11%"
+              "percentage": "10.81%"
             },
             "31-45": {
               "total": 5,
-              "percentage": "13.89%"
+              "percentage": "13.51%"
             },
             "46-60": {
               "total": 10,
-              "percentage": "27.78%"
+              "percentage": "27.03%"
             },
             "61-75": {
-              "total": 6,
-              "percentage": "16.67%"
+              "total": 7,
+              "percentage": "18.92%"
             },
             "76-90": {
               "total": 8,
-              "percentage": "22.22%"
+              "percentage": "21.62%"
             },
             "91-105": {
               "total": null,
@@ -260802,27 +260798,27 @@
           "minute": {
             "0-15": {
               "total": 8,
-              "percentage": "19.51%"
+              "percentage": "19.05%"
             },
             "16-30": {
-              "total": 4,
-              "percentage": "9.76%"
+              "total": 5,
+              "percentage": "11.90%"
             },
             "31-45": {
               "total": 8,
-              "percentage": "19.51%"
+              "percentage": "19.05%"
             },
             "46-60": {
               "total": 6,
-              "percentage": "14.63%"
+              "percentage": "14.29%"
             },
             "61-75": {
               "total": 7,
-              "percentage": "17.07%"
+              "percentage": "16.67%"
             },
             "76-90": {
               "total": 8,
-              "percentage": "19.51%"
+              "percentage": "19.05%"
             },
             "91-105": {
               "total": null,
@@ -263792,28 +263788,28 @@
           },
           "minute": {
             "0-15": {
-              "total": 8,
-              "percentage": "17.78%"
+              "total": 9,
+              "percentage": "19.15%"
             },
             "16-30": {
               "total": 4,
-              "percentage": "8.89%"
+              "percentage": "8.51%"
             },
             "31-45": {
               "total": 11,
-              "percentage": "24.44%"
+              "percentage": "23.40%"
             },
             "46-60": {
               "total": 4,
-              "percentage": "8.89%"
+              "percentage": "8.51%"
             },
             "61-75": {
               "total": 6,
-              "percentage": "13.33%"
+              "percentage": "12.77%"
             },
             "76-90": {
-              "total": 12,
-              "percentage": "26.67%"
+              "total": 13,
+              "percentage": "27.66%"
             },
             "91-105": {
               "total": null,
@@ -264721,28 +264717,28 @@
           },
           "minute": {
             "0-15": {
-              "total": 5,
-              "percentage": "11.90%"
+              "total": 6,
+              "percentage": "13.64%"
             },
             "16-30": {
               "total": 5,
-              "percentage": "11.90%"
+              "percentage": "11.36%"
             },
             "31-45": {
               "total": 6,
-              "percentage": "14.29%"
+              "percentage": "13.64%"
             },
             "46-60": {
               "total": 9,
-              "percentage": "21.43%"
+              "percentage": "20.45%"
             },
             "61-75": {
               "total": 8,
-              "percentage": "19.05%"
+              "percentage": "18.18%"
             },
             "76-90": {
-              "total": 9,
-              "percentage": "21.43%"
+              "total": 10,
+              "percentage": "22.73%"
             },
             "91-105": {
               "total": null,
