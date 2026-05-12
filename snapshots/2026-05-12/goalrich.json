@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T02:24:41.043Z",
+  "generatedAt": "2026-05-12T02:21:41.189Z",
   "ymd": "2026-05-12",
   "matches": [
     {
@@ -11,12 +11,12 @@
       "awayTeamId": 2932,
       "homeTeam": "Al-Nassr",
       "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 2.136,
-      "expectedAway": 2.36,
-      "expectedTotal": 4.496,
-      "probOver25": 0.6173936091076496,
-      "probOver35": 0.68486,
-      "probBTTS": 0.81366
+      "expectedHome": 2.096,
+      "expectedAway": 2.316,
+      "expectedTotal": 4.412,
+      "probOver25": 0.614708978173384,
+      "probOver35": 0.67096,
+      "probBTTS": 0.8059200000000001
     },
     {
       "fixtureId": 1542828,
@@ -43,12 +43,12 @@
       "awayTeamId": 70,
       "homeTeam": "Southampton",
       "awayTeam": "Middlesbrough",
-      "expectedHome": 1.64,
-      "expectedAway": 1.556,
-      "expectedTotal": 3.196,
-      "probOver25": 0.5574883957693612,
-      "probOver35": 0.4266,
-      "probBTTS": 0.65584
+      "expectedHome": 1.619,
+      "expectedAway": 1.536,
+      "expectedTotal": 3.155,
+      "probOver25": 0.5548595084288874,
+      "probOver35": 0.41722000000000004,
+      "probBTTS": 0.64924
     },
     {
       "fixtureId": 1538479,
@@ -211,22 +211,6 @@
       "probBTTS": 0.45634
     },
     {
-      "fixtureId": 1391175,
-      "leagueId": 140,
-      "season": 2025,
-      "kickoffTs": 1778614200000,
-      "homeTeamId": 727,
-      "awayTeamId": 530,
-      "homeTeam": "Osasuna",
-      "awayTeam": "Atletico Madrid",
-      "expectedHome": 1.229,
-      "expectedAway": 1.036,
-      "expectedTotal": 2.265,
-      "probOver25": 0.4875400801582357,
-      "probOver35": 0.21486000000000002,
-      "probBTTS": 0.47658
-    },
-    {
       "fixtureId": 1544649,
       "leagueId": 136,
       "season": 2025,
@@ -241,6 +225,38 @@
       "probOver25": 0.48719030366627103,
       "probOver35": 0.21400000000000002,
       "probBTTS": 0.46834000000000003
+    },
+    {
+      "fixtureId": 1391175,
+      "leagueId": 140,
+      "season": 2025,
+      "kickoffTs": 1778614200000,
+      "homeTeamId": 727,
+      "awayTeamId": 530,
+      "homeTeam": "Osasuna",
+      "awayTeam": "Atletico Madrid",
+      "expectedHome": 1.218,
+      "expectedAway": 1.026,
+      "expectedTotal": 2.244,
+      "probOver25": 0.4857538569343869,
+      "probOver35": 0.21036000000000002,
+      "probBTTS": 0.47192
+    },
+    {
+      "fixtureId": 1544849,
+      "leagueId": 128,
+      "season": 2026,
+      "kickoffTs": 1778623200000,
+      "homeTeamId": 440,
+      "awayTeamId": 441,
+      "homeTeam": "Belgrano Cordoba",
+      "awayTeam": "Union Santa Fe",
+      "expectedHome": 0.922,
+      "expectedAway": 1.273,
+      "expectedTotal": 2.195,
+      "probOver25": 0.48153964487615464,
+      "probOver35": 0.19996,
+      "probBTTS": 0.45336000000000004
     },
     {
       "fixtureId": 1542813,
@@ -283,12 +299,12 @@
       "awayTeamId": 797,
       "homeTeam": "Real Betis",
       "awayTeam": "Elche",
-      "expectedHome": 1.044,
-      "expectedAway": 1.039,
-      "expectedTotal": 2.083,
-      "probOver25": 0.47189839532974087,
-      "probOver35": 0.17682,
-      "probBTTS": 0.43846
+      "expectedHome": 1.034,
+      "expectedAway": 1.028,
+      "expectedTotal": 2.062,
+      "probOver25": 0.4700733137266417,
+      "probOver35": 0.17252,
+      "probBTTS": 0.43358
     },
     {
       "fixtureId": 1506976,
@@ -307,22 +323,6 @@
       "probBTTS": 0.42280000000000006
     },
     {
-      "fixtureId": 1539916,
-      "leagueId": 287,
-      "season": 2025,
-      "kickoffTs": 1778598000000,
-      "homeTeamId": 19845,
-      "awayTeamId": 4253,
-      "homeTeam": "FAP",
-      "awayTeam": "Kabel Novi Sad",
-      "expectedHome": 0.764,
-      "expectedAway": 1.19,
-      "expectedTotal": 1.954,
-      "probOver25": 0.46068755995680327,
-      "probOver35": 0.15134,
-      "probBTTS": 0.39022
-    },
-    {
       "fixtureId": 1506975,
       "leagueId": 292,
       "season": 2026,
@@ -337,6 +337,22 @@
       "probOver25": 0.4603335321412476,
       "probOver35": 0.15058000000000002,
       "probBTTS": 0.40148000000000006
+    },
+    {
+      "fixtureId": 1539916,
+      "leagueId": 287,
+      "season": 2025,
+      "kickoffTs": 1778598000000,
+      "homeTeamId": 19845,
+      "awayTeamId": 4253,
+      "homeTeam": "FAP",
+      "awayTeam": "Kabel Novi Sad",
+      "expectedHome": 0.755,
+      "expectedAway": 1.177,
+      "expectedTotal": 1.932,
+      "probOver25": 0.4587564259574907,
+      "probOver35": 0.1471,
+      "probBTTS": 0.38502
     },
     {
       "fixtureId": 1540968,
@@ -355,22 +371,6 @@
       "probBTTS": 0.39894
     },
     {
-      "fixtureId": 1391171,
-      "leagueId": 140,
-      "season": 2025,
-      "kickoffTs": 1778605200000,
-      "homeTeamId": 538,
-      "awayTeamId": 539,
-      "homeTeam": "Celta Vigo",
-      "awayTeam": "Levante",
-      "expectedHome": 1.36,
-      "expectedAway": 0.477,
-      "expectedTotal": 1.837,
-      "probOver25": 0.4505063612433393,
-      "probOver35": 0.12952000000000002,
-      "probBTTS": 0.29703999999999997
-    },
-    {
       "fixtureId": 1542814,
       "leagueId": 345,
       "season": 2025,
@@ -385,6 +385,22 @@
       "probOver25": 0.44895346999152935,
       "probOver35": 0.12632000000000002,
       "probBTTS": 0.34336
+    },
+    {
+      "fixtureId": 1391171,
+      "leagueId": 140,
+      "season": 2025,
+      "kickoffTs": 1778605200000,
+      "homeTeamId": 538,
+      "awayTeamId": 539,
+      "homeTeam": "Celta Vigo",
+      "awayTeam": "Levante",
+      "expectedHome": 1.345,
+      "expectedAway": 0.471,
+      "expectedTotal": 1.816,
+      "probOver25": 0.448693719973335,
+      "probOver35": 0.12578,
+      "probBTTS": 0.29272
     },
     {
       "fixtureId": 1538477,
@@ -411,12 +427,12 @@
       "awayTeamId": 2651,
       "homeTeam": "Stepojevac Vaga",
       "awayTeam": "FK Trayal",
-      "expectedHome": 0.89,
-      "expectedAway": 0.786,
-      "expectedTotal": 1.676,
-      "probOver25": 0.43667930850038433,
-      "probOver35": 0.10188000000000001,
-      "probBTTS": 0.33834
+      "expectedHome": 0.879,
+      "expectedAway": 0.776,
+      "expectedTotal": 1.655,
+      "probOver25": 0.434878271578169,
+      "probOver35": 0.09854,
+      "probBTTS": 0.33308000000000004
     },
     {
       "fixtureId": 1436197,
@@ -427,12 +443,12 @@
       "awayTeamId": 2977,
       "homeTeam": "Al Kholood",
       "awayTeam": "Al Okhdood",
-      "expectedHome": 0.937,
-      "expectedAway": 0.642,
-      "expectedTotal": 1.579,
-      "probOver25": 0.42850581491774636,
-      "probOver35": 0.08668,
-      "probBTTS": 0.30446
+      "expectedHome": 0.888,
+      "expectedAway": 0.609,
+      "expectedTotal": 1.497,
+      "probOver25": 0.4217728220942055,
+      "probOver35": 0.07484,
+      "probBTTS": 0.2841
     }
   ],
   "topOver25": [
@@ -445,12 +461,12 @@
       "awayTeamId": 2932,
       "homeTeam": "Al-Nassr",
       "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 2.136,
-      "expectedAway": 2.36,
-      "expectedTotal": 4.496,
-      "probOver25": 0.6173936091076496,
-      "probOver35": 0.68486,
-      "probBTTS": 0.81366
+      "expectedHome": 2.096,
+      "expectedAway": 2.316,
+      "expectedTotal": 4.412,
+      "probOver25": 0.614708978173384,
+      "probOver35": 0.67096,
+      "probBTTS": 0.8059200000000001
     },
     {
       "fixtureId": 1542828,
@@ -477,12 +493,12 @@
       "awayTeamId": 70,
       "homeTeam": "Southampton",
       "awayTeam": "Middlesbrough",
-      "expectedHome": 1.64,
-      "expectedAway": 1.556,
-      "expectedTotal": 3.196,
-      "probOver25": 0.5574883957693612,
-      "probOver35": 0.4266,
-      "probBTTS": 0.65584
+      "expectedHome": 1.619,
+      "expectedAway": 1.536,
+      "expectedTotal": 3.155,
+      "probOver25": 0.5548595084288874,
+      "probOver35": 0.41722000000000004,
+      "probBTTS": 0.64924
     },
     {
       "fixtureId": 1538479,
@@ -511,12 +527,12 @@
       "awayTeamId": 2932,
       "homeTeam": "Al-Nassr",
       "awayTeam": "Al-Hilal Saudi FC",
-      "expectedHome": 2.136,
-      "expectedAway": 2.36,
-      "expectedTotal": 4.496,
-      "probOver25": 0.6173936091076496,
-      "probOver35": 0.68486,
-      "probBTTS": 0.81366
+      "expectedHome": 2.096,
+      "expectedAway": 2.316,
+      "expectedTotal": 4.412,
+      "probOver25": 0.614708978173384,
+      "probOver35": 0.67096,
+      "probBTTS": 0.8059200000000001
     },
     {
       "fixtureId": 1543789,
@@ -527,12 +543,12 @@
       "awayTeamId": 70,
       "homeTeam": "Southampton",
       "awayTeam": "Middlesbrough",
-      "expectedHome": 1.64,
-      "expectedAway": 1.556,
-      "expectedTotal": 3.196,
-      "probOver25": 0.5574883957693612,
-      "probOver35": 0.4266,
-      "probBTTS": 0.65584
+      "expectedHome": 1.619,
+      "expectedAway": 1.536,
+      "expectedTotal": 3.155,
+      "probOver25": 0.5548595084288874,
+      "probOver35": 0.41722000000000004,
+      "probBTTS": 0.64924
     },
     {
       "fixtureId": 1544661,
