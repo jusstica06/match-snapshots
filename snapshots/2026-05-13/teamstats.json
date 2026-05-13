@@ -15401,12 +15401,12 @@
               "percentage": "10.00%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "10.00%"
+              "total": 3,
+              "percentage": "15.00%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "5.00%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -22733,6 +22733,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1544850,
+          "referee": "Fernando Echenique, Argentina",
+          "timezone": "UTC",
+          "date": "2026-05-13T00:30:00+00:00",
+          "timestamp": 1778632200,
+          "periods": {
+            "first": 1778632200,
+            "second": 1778635800
+          },
+          "venue": {
+            "id": 0,
+            "name": "Estadio Diego Armando Maradona",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 90,
+            "extra": 2
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Apertura - Quarter-finals",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 458,
+            "name": "Argentinos JRS",
+            "logo": "https://media.api-sports.io/football/teams/458.png",
+            "winner": null
+          },
+          "away": {
+            "id": 445,
+            "name": "Huracan",
+            "logo": "https://media.api-sports.io/football/teams/445.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1544177,
           "referee": "P. Echavarria",
           "timezone": "UTC",
@@ -23360,76 +23430,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1491961,
-          "referee": "N. Ramirez",
-          "timezone": "UTC",
-          "date": "2026-03-13T00:30:00+00:00",
-          "timestamp": 1773361800,
-          "periods": {
-            "first": 1773361800,
-            "second": 1773365400
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Tomas Adolfo Duco",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 11
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 445,
-            "name": "Huracan",
-            "logo": "https://media.api-sports.io/football/teams/445.png",
-            "winner": false
-          },
-          "away": {
-            "id": 435,
-            "name": "River Plate",
-            "logo": "https://media.api-sports.io/football/teams/435.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -23753,6 +23753,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1544850,
+          "referee": "Fernando Echenique, Argentina",
+          "timezone": "UTC",
+          "date": "2026-05-13T00:30:00+00:00",
+          "timestamp": 1778632200,
+          "periods": {
+            "first": 1778632200,
+            "second": 1778635800
+          },
+          "venue": {
+            "id": 0,
+            "name": "Estadio Diego Armando Maradona",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 90,
+            "extra": 2
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Apertura - Quarter-finals",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 458,
+            "name": "Argentinos JRS",
+            "logo": "https://media.api-sports.io/football/teams/458.png",
+            "winner": null
+          },
+          "away": {
+            "id": 445,
+            "name": "Huracan",
+            "logo": "https://media.api-sports.io/football/teams/445.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1544178,
@@ -24372,76 +24442,6 @@
           "fulltime": {
             "home": 1,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1491981,
-          "referee": "D. Zamora",
-          "timezone": "UTC",
-          "date": "2026-03-16T01:00:00+00:00",
-          "timestamp": 1773622800,
-          "periods": {
-            "first": 1773622800,
-            "second": 1773626400
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Jose Dellagiovanna",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - 11",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 452,
-            "name": "Tigre",
-            "logo": "https://media.api-sports.io/football/teams/452.png",
-            "winner": null
-          },
-          "away": {
-            "id": 458,
-            "name": "Argentinos JRS",
-            "logo": "https://media.api-sports.io/football/teams/458.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -30819,39 +30819,39 @@
         "yellow": {
           "0-15": {
             "total": 4,
-            "percentage": "3.88%"
+            "percentage": "3.85%"
           },
           "16-30": {
             "total": 10,
-            "percentage": "9.71%"
+            "percentage": "9.62%"
           },
           "31-45": {
             "total": 20,
-            "percentage": "19.42%"
+            "percentage": "19.23%"
           },
           "46-60": {
             "total": 17,
-            "percentage": "16.50%"
+            "percentage": "16.35%"
           },
           "61-75": {
             "total": 13,
-            "percentage": "12.62%"
+            "percentage": "12.50%"
           },
           "76-90": {
             "total": 21,
-            "percentage": "20.39%"
+            "percentage": "20.19%"
           },
           "91-105": {
             "total": 16,
-            "percentage": "15.53%"
+            "percentage": "15.38%"
           },
           "106-120": {
             "total": null,
             "percentage": null
           },
           "": {
-            "total": 2,
-            "percentage": "1.94%"
+            "total": 3,
+            "percentage": "2.88%"
           }
         },
         "red": {
@@ -56141,7 +56141,7 @@
       "lineups": [
         {
           "formation": "4-4-2",
-          "played": 9
+          "played": 8
         },
         {
           "formation": "5-4-1",
@@ -56149,6 +56149,10 @@
         },
         {
           "formation": "4-2-3-1",
+          "played": 1
+        },
+        {
+          "formation": "4-4-1-1",
           "played": 1
         }
       ],
