@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T02:24:36.686Z",
+  "generatedAt": "2026-05-15T02:23:14.452Z",
   "picks": [
     {
       "fixtureId": 1404655,
@@ -303,14 +303,14 @@
       "homeTeam": "Kolding IF",
       "awayTeamId": 625,
       "awayTeam": "Lyngby",
-      "expectedHome": 1.316,
-      "expectedAway": 1.848,
-      "expectedTotal": 3.164,
-      "teamGoalsHomeLambda": 1.41,
-      "teamGoalsAwayLambda": 2.02,
+      "expectedHome": 1.333,
+      "expectedAway": 1.872,
+      "expectedTotal": 3.205,
+      "teamGoalsHomeLambda": 1.428,
+      "teamGoalsAwayLambda": 2.047,
       "type": "doubleChance",
       "label": "Ev veya Deplasman (12)",
-      "prob": 0.778
+      "prob": 0.7797
     },
     {
       "fixtureId": 1436200,
@@ -321,14 +321,14 @@
       "homeTeam": "Damac",
       "awayTeamId": 2944,
       "awayTeam": "Al-Fayha",
-      "expectedHome": 1.152,
-      "expectedAway": 1.321,
-      "expectedTotal": 2.473,
-      "teamGoalsHomeLambda": 1.293,
-      "teamGoalsAwayLambda": 1.416,
+      "expectedHome": 1.103,
+      "expectedAway": 1.265,
+      "expectedTotal": 2.368,
+      "teamGoalsHomeLambda": 1.239,
+      "teamGoalsAwayLambda": 1.356,
       "type": "doubleChance",
       "label": "Ev veya Deplasman (12)",
-      "prob": 0.7353
+      "prob": 0.7285
     },
     {
       "fixtureId": 1394736,
@@ -375,14 +375,14 @@
       "homeTeam": "B 93",
       "awayTeamId": 402,
       "awayTeam": "Aalborg",
-      "expectedHome": 1.182,
-      "expectedAway": 1.32,
-      "expectedTotal": 2.502,
-      "teamGoalsHomeLambda": 1.236,
-      "teamGoalsAwayLambda": 1.509,
+      "expectedHome": 1.202,
+      "expectedAway": 1.342,
+      "expectedTotal": 2.544,
+      "teamGoalsHomeLambda": 1.257,
+      "teamGoalsAwayLambda": 1.534,
       "type": "btts",
       "label": "Karşılıklı Gol Var",
-      "prob": 0.5287
+      "prob": 0.5372
     },
     {
       "fixtureId": 1544566,
@@ -448,14 +448,14 @@
       "homeTeam": "Al Taawon",
       "awayTeamId": 10511,
       "awayTeam": "Al Riyadh",
-      "expectedHome": 1.008,
-      "expectedAway": 1.207,
-      "expectedTotal": 2.215,
-      "teamGoalsHomeLambda": 1.286,
-      "teamGoalsAwayLambda": 1.428,
+      "expectedHome": 0.96,
+      "expectedAway": 1.15,
+      "expectedTotal": 2.11,
+      "teamGoalsHomeLambda": 1.226,
+      "teamGoalsAwayLambda": 1.361,
       "type": "over35",
       "label": "Toplam 3.5 Üst",
-      "prob": 0.2042
+      "prob": 0.1823
     },
     {
       "fixtureId": 1544651,
@@ -714,24 +714,6 @@
       "type": "btts",
       "label": "Karşılıklı Gol Var",
       "prob": 0.4417
-    },
-    {
-      "fixtureId": 1398269,
-      "leagueId": 95,
-      "season": 2025,
-      "kickoffTs": 1778871600,
-      "homeTeamId": 244,
-      "homeTeam": "Leixoes",
-      "awayTeamId": 6358,
-      "awayTeam": "Lusitânia Lourosa",
-      "expectedHome": 1.286,
-      "expectedAway": 0.862,
-      "expectedTotal": 2.148,
-      "teamGoalsHomeLambda": 1.469,
-      "teamGoalsAwayLambda": 0.977,
-      "type": "over25",
-      "label": "Toplam 2.5 Üst",
-      "prob": 0.4775
     }
   ]
 }
