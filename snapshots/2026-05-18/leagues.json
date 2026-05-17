@@ -222,6 +222,43 @@
       }
     }
   },
+  "207": {
+    "id": 207,
+    "name": "Super League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/207.png",
+    "country": {
+      "name": "Switzerland",
+      "code": "CH",
+      "flag": "https://media.api-sports.io/flags/ch.svg"
+    },
+    "season": 2025,
+    "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
   "244": {
     "id": 244,
     "name": "Veikkausliiga",
