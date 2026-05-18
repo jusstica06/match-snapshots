@@ -936,7 +936,7 @@
       {
         "fixture": {
           "id": 1531572,
-          "referee": "S. Barrott",
+          "referee": "Samuel Barrott, England",
           "timezone": "UTC",
           "date": "2026-04-04T19:00:00+00:00",
           "timestamp": 1775329200,
@@ -14355,12 +14355,12 @@
               "percentage": "18.75%"
             },
             "76-90": {
-              "total": 10,
-              "percentage": "20.83%"
+              "total": 11,
+              "percentage": "22.92%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.08%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -14703,7 +14703,7 @@
           "venue": {
             "id": null,
             "name": "Letzigrund Stadion",
-            "city": null
+            "city": "Zurich"
           },
           "status": {
             "long": "Match Finished",
@@ -14773,7 +14773,7 @@
           "venue": {
             "id": null,
             "name": "Letzigrund Stadion",
-            "city": null
+            "city": "Zurich"
           },
           "status": {
             "long": "Match Finished",
@@ -14843,7 +14843,7 @@
           "venue": {
             "id": null,
             "name": "Letzigrund Stadion",
-            "city": null
+            "city": "Zurich"
           },
           "status": {
             "long": "Match Finished",
@@ -14913,7 +14913,7 @@
           "venue": {
             "id": null,
             "name": "Letzigrund Stadion",
-            "city": null
+            "city": "Zurich"
           },
           "status": {
             "long": "Match Finished",
@@ -15123,7 +15123,7 @@
           "venue": {
             "id": null,
             "name": "Letzigrund Stadion",
-            "city": null
+            "city": "Zurich"
           },
           "status": {
             "long": "Match Finished",
@@ -19755,6 +19755,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490309,
+          "referee": "Rubiel Vazquez, USA",
+          "timezone": "UTC",
+          "date": "2026-05-18T00:00:00+00:00",
+          "timestamp": 1779062400,
+          "periods": {
+            "first": 1779062400,
+            "second": 1779066000
+          },
+          "venue": {
+            "id": null,
+            "name": "Geodis Park",
+            "city": "Nashville"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 15",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 9569,
+            "name": "Nashville SC",
+            "logo": "https://media.api-sports.io/football/teams/9569.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1616,
+            "name": "Los Angeles FC",
+            "logo": "https://media.api-sports.io/football/teams/1616.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490288,
           "referee": "L. Hernandez",
           "timezone": "UTC",
@@ -20371,76 +20441,6 @@
           },
           "fulltime": {
             "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490198,
-          "referee": "A. Villarreal",
-          "timezone": "UTC",
-          "date": "2026-04-11T20:45:00+00:00",
-          "timestamp": 1775940300,
-          "periods": {
-            "first": 1775940300,
-            "second": 1775943900
-          },
-          "venue": {
-            "id": null,
-            "name": "Providence Park",
-            "city": "Portland"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1617,
-            "name": "Portland Timbers",
-            "logo": "https://media.api-sports.io/football/teams/1617.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1616,
-            "name": "Los Angeles FC",
-            "logo": "https://media.api-sports.io/football/teams/1616.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
             "away": 1
           },
           "extratime": {
@@ -34008,6 +34008,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490309,
+          "referee": "Rubiel Vazquez, USA",
+          "timezone": "UTC",
+          "date": "2026-05-18T00:00:00+00:00",
+          "timestamp": 1779062400,
+          "periods": {
+            "first": 1779062400,
+            "second": 1779066000
+          },
+          "venue": {
+            "id": null,
+            "name": "Geodis Park",
+            "city": "Nashville"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 15",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 9569,
+            "name": "Nashville SC",
+            "logo": "https://media.api-sports.io/football/teams/9569.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1616,
+            "name": "Los Angeles FC",
+            "logo": "https://media.api-sports.io/football/teams/1616.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490285,
           "referee": "S. Demianchuk",
           "timezone": "UTC",
@@ -34625,76 +34695,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1534931,
-          "referee": "Oshane Nation, Jamaica",
-          "timezone": "UTC",
-          "date": "2026-04-08T00:00:00+00:00",
-          "timestamp": 1775606400,
-          "periods": {
-            "first": 1775606400,
-            "second": 1775610000
-          },
-          "venue": {
-            "id": null,
-            "name": "Geodis Park",
-            "city": "Nashville"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 16,
-          "name": "CONCACAF Champions League",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/16.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Quarter-finals",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 9569,
-            "name": "Nashville SC",
-            "logo": "https://media.api-sports.io/football/teams/9569.png",
-            "winner": null
-          },
-          "away": {
-            "id": 2287,
-            "name": "Club America",
-            "logo": "https://media.api-sports.io/football/teams/2287.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
           },
           "extratime": {
             "home": null,
