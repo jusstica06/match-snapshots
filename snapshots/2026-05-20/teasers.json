@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T02:24:02.041Z",
+  "generatedAt": "2026-05-19T02:23:11.862Z",
   "picks": [
     {
       "fixtureId": 1523159,
@@ -77,6 +77,24 @@
       "side": "away"
     },
     {
+      "fixtureId": 1545414,
+      "leagueId": 235,
+      "season": 2025,
+      "kickoffTs": 1779287400,
+      "homeTeamId": 1084,
+      "homeTeam": "Ural",
+      "awayTeamId": 6813,
+      "awayTeam": "Dinamo Makhachkala",
+      "expectedHome": 1.458,
+      "expectedAway": 0.951,
+      "expectedTotal": 2.409,
+      "teamGoalsHomeLambda": 1.652,
+      "teamGoalsAwayLambda": 0.909,
+      "type": "over25",
+      "label": "Toplam 2.5 Üst",
+      "prob": 0.4996
+    },
+    {
       "fixtureId": 1495727,
       "leagueId": 244,
       "season": 2026,
@@ -132,6 +150,43 @@
       "prob": 0.1606
     },
     {
+      "fixtureId": 1545413,
+      "leagueId": 235,
+      "season": 2025,
+      "kickoffTs": 1779294600,
+      "homeTeamId": 2010,
+      "homeTeam": "Rotor Volgograd",
+      "awayTeamId": 6786,
+      "awayTeam": "Akron",
+      "expectedHome": 1.393,
+      "expectedAway": 1.249,
+      "expectedTotal": 2.642,
+      "teamGoalsHomeLambda": 1.725,
+      "teamGoalsAwayLambda": 1.222,
+      "type": "over25",
+      "label": "Toplam 2.5 Üst",
+      "prob": 0.5183
+    },
+    {
+      "fixtureId": 1545424,
+      "leagueId": 89,
+      "season": 2025,
+      "kickoffTs": 1779295500,
+      "homeTeamId": 195,
+      "homeTeam": "Willem II",
+      "awayTeamId": 416,
+      "awayTeam": "FC Volendam",
+      "expectedHome": 1.499,
+      "expectedAway": 1.208,
+      "expectedTotal": 2.707,
+      "teamGoalsHomeLambda": 1.675,
+      "teamGoalsAwayLambda": 1.199,
+      "type": "home15",
+      "label": "Willem II 1.5 Üst",
+      "prob": 0.499,
+      "side": "home"
+    },
+    {
       "fixtureId": 1494229,
       "leagueId": 113,
       "season": 2026,
@@ -140,14 +195,14 @@
       "homeTeam": "Gais",
       "awayTeamId": 363,
       "awayTeam": "Hammarby FF",
-      "expectedHome": 1.326,
-      "expectedAway": 1.554,
-      "expectedTotal": 2.88,
-      "teamGoalsHomeLambda": 1.517,
-      "teamGoalsAwayLambda": 1.667,
+      "expectedHome": 1.364,
+      "expectedAway": 1.6,
+      "expectedTotal": 2.964,
+      "teamGoalsHomeLambda": 1.561,
+      "teamGoalsAwayLambda": 1.715,
       "type": "over35",
       "label": "Toplam 3.5 Üst",
-      "prob": 0.354
+      "prob": 0.3734
     },
     {
       "fixtureId": 1494609,
@@ -166,6 +221,24 @@
       "type": "btts",
       "label": "Karşılıklı Gol Var",
       "prob": 0.5874
+    },
+    {
+      "fixtureId": 1545403,
+      "leagueId": 94,
+      "season": 2025,
+      "kickoffTs": 1779296400,
+      "homeTeamId": 4799,
+      "homeTeam": "Torreense",
+      "awayTeamId": 4716,
+      "awayTeam": "Casa Pia",
+      "expectedHome": 1.534,
+      "expectedAway": 0.693,
+      "expectedTotal": 2.227,
+      "teamGoalsHomeLambda": 1.784,
+      "teamGoalsAwayLambda": 0.642,
+      "type": "btts",
+      "label": "Karşılıklı Gol Var",
+      "prob": 0.4102
     },
     {
       "fixtureId": 1436212,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T02:22:36.709Z",
+  "generatedAt": "2026-05-19T02:21:45.961Z",
   "picks": [
     {
       "fixtureId": 1523155,
@@ -75,6 +75,42 @@
       "prob": 0.7499
     },
     {
+      "fixtureId": 1494175,
+      "leagueId": 113,
+      "season": 2026,
+      "kickoffTs": 1779195600,
+      "homeTeamId": 2166,
+      "homeTeam": "Orgryte IS",
+      "awayTeamId": 366,
+      "awayTeam": "IFK Goteborg",
+      "expectedHome": 0.988,
+      "expectedAway": 1.119,
+      "expectedTotal": 2.107,
+      "teamGoalsHomeLambda": 1.194,
+      "teamGoalsAwayLambda": 1.203,
+      "type": "over35",
+      "label": "Toplam 3.5 Üst",
+      "prob": 0.1817
+    },
+    {
+      "fixtureId": 1545407,
+      "leagueId": 218,
+      "season": 2025,
+      "kickoffTs": 1779208200,
+      "homeTeamId": 1028,
+      "homeTeam": "Ried",
+      "awayTeamId": 1025,
+      "awayTeam": "Wolfsberger AC",
+      "expectedHome": 1.293,
+      "expectedAway": 1.147,
+      "expectedTotal": 2.44,
+      "teamGoalsHomeLambda": 1.514,
+      "teamGoalsAwayLambda": 1.202,
+      "type": "btts",
+      "label": "Karşılıklı Gol Var",
+      "prob": 0.5156
+    },
+    {
       "fixtureId": 1544951,
       "leagueId": 136,
       "season": 2025,
@@ -101,14 +137,14 @@
       "homeTeam": "Bournemouth",
       "awayTeamId": 50,
       "awayTeam": "Manchester City",
-      "expectedHome": 1.895,
-      "expectedAway": 1.619,
-      "expectedTotal": 3.514,
-      "teamGoalsHomeLambda": 2.06,
-      "teamGoalsAwayLambda": 1.795,
+      "expectedHome": 1.861,
+      "expectedAway": 1.59,
+      "expectedTotal": 3.451,
+      "teamGoalsHomeLambda": 2.023,
+      "teamGoalsAwayLambda": 1.763,
       "type": "home15",
       "label": "Bournemouth 1.5 Üst",
-      "prob": 0.61,
+      "prob": 0.6002,
       "side": "home"
     },
     {
@@ -196,14 +232,14 @@
       "homeTeam": "Chelsea",
       "awayTeamId": 47,
       "awayTeam": "Tottenham",
-      "expectedHome": 1.227,
-      "expectedAway": 0.936,
-      "expectedTotal": 2.163,
-      "teamGoalsHomeLambda": 1.285,
-      "teamGoalsAwayLambda": 1.124,
+      "expectedHome": 1.192,
+      "expectedAway": 0.909,
+      "expectedTotal": 2.101,
+      "teamGoalsHomeLambda": 1.248,
+      "teamGoalsAwayLambda": 1.091,
       "type": "btts",
       "label": "Karşılıklı Gol Var",
-      "prob": 0.4494
+      "prob": 0.4354
     }
   ]
 }

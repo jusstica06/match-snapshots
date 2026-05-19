@@ -76,6 +76,44 @@
       "players": true,
       "topScorers": true,
       "predictions": true,
+      "odds": false,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "113": {
+    "id": 113,
+    "name": "Allsvenskan",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/113.png",
+    "country": {
+      "name": "Sweden",
+      "code": "SE",
+      "flag": "https://media.api-sports.io/flags/se.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
       "odds": true,
       "fixtures": {
         "events": true,
@@ -188,6 +226,48 @@
       2024,
       2025,
       2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "218": {
+    "id": 218,
+    "name": "Bundesliga",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/218.png",
+    "country": {
+      "name": "Austria",
+      "code": "AT",
+      "flag": "https://media.api-sports.io/flags/at.svg"
+    },
+    "season": 2025,
+    "seasons": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
     ],
     "coverage": {
       "standings": true,
