@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-19T02:24:11.123Z",
-  "totalTeams": 36,
-  "totalLeagues": 9,
-  "teamsWithFallback": 19,
+  "generatedAt": "2026-05-20T02:24:15.062Z",
+  "totalTeams": 38,
+  "totalLeagues": 10,
+  "teamsWithFallback": 21,
   "data": {
     "161": {
       "teamId": 161,
@@ -11,7 +11,13 @@
       "leagueId": 78,
       "leagueName": "Bundesliga",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 25400,
+          "name": "Y. Gerhardt",
+          "photo": "https://media.api-sports.io/football/players/25400.png",
+          "goals": 1,
+          "appearances": 4
+        },
         "topAssist": {
           "id": 174,
           "name": "C. Eriksen",
@@ -19,7 +25,13 @@
           "assists": 9,
           "appearances": 31
         },
-        "mostCards": null
+        "mostCards": {
+          "id": 25408,
+          "name": "M. Arnold",
+          "photo": "https://media.api-sports.io/football/players/25408.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": [
@@ -39,9 +51,27 @@
       "leagueId": 78,
       "leagueName": "Bundesliga",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
+        "topScorer": {
+          "id": 26502,
+          "name": "A. Grimaldi",
+          "photo": "https://media.api-sports.io/football/players/26502.png",
+          "goals": 2,
+          "appearances": 1
+        },
+        "topAssist": {
+          "id": 7592,
+          "name": "R. Obermair",
+          "photo": "https://media.api-sports.io/football/players/7592.png",
+          "assists": 2,
+          "appearances": 2
+        },
+        "mostCards": {
+          "id": 25289,
+          "name": "F. Götze",
+          "photo": "https://media.api-sports.io/football/players/25289.png",
+          "yellowCards": 0,
+          "redCards": 1
+        }
       },
       "topScorers": [],
       "topAssists": []
@@ -244,7 +274,13 @@
       "leagueId": 179,
       "leagueName": "Premiership",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 17377,
+          "name": "M. O&apos;Hara",
+          "photo": "https://media.api-sports.io/football/players/17377.png",
+          "goals": 10,
+          "appearances": 35
+        },
         "topAssist": {
           "id": 17582,
           "name": "M. Mandron",
@@ -285,7 +321,13 @@
       "leagueId": 144,
       "leagueName": "Jupiler Pro League",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 26438,
+          "name": "L. Lauberbach",
+          "photo": "https://media.api-sports.io/football/players/26438.png",
+          "goals": 6,
+          "appearances": 22
+        },
         "topAssist": {
           "id": 287797,
           "name": "M. van Brederode",
@@ -606,6 +648,20 @@
         }
       ]
     },
+    "627": {
+      "teamId": 627,
+      "teamName": "Qabala",
+      "season": 2025,
+      "leagueId": 419,
+      "leagueName": "Premyer Liqa",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
     "631": {
       "teamId": 631,
       "teamName": "Gent",
@@ -653,6 +709,20 @@
           "appearances": 30
         }
       ]
+    },
+    "666": {
+      "teamId": 666,
+      "teamName": "Şamaxı FK",
+      "season": 2025,
+      "leagueId": 419,
+      "leagueName": "Premyer Liqa",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
     },
     "735": {
       "teamId": 735,
@@ -756,7 +826,7 @@
           "name": "Jonathan Asp Jensen",
           "photo": "https://media.api-sports.io/football/players/354754.png",
           "assists": 7,
-          "appearances": 33
+          "appearances": 34
         },
         "mostCards": {
           "id": 341127,
@@ -781,7 +851,7 @@
           "name": "Jonathan Asp Jensen",
           "photo": "https://media.api-sports.io/football/players/354754.png",
           "assists": 7,
-          "appearances": 33
+          "appearances": 34
         }
       ]
     },
@@ -799,7 +869,13 @@
           "goals": 9,
           "appearances": 29
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 127414,
+          "name": "A. Ait El Hadj",
+          "photo": "https://media.api-sports.io/football/players/127414.png",
+          "assists": 6,
+          "appearances": 35
+        },
         "mostCards": {
           "id": 5967,
           "name": "K. Mac Allister",
@@ -876,13 +952,6 @@
           "photo": "https://media.api-sports.io/football/players/47729.png",
           "goals": 4,
           "appearances": 8
-        },
-        {
-          "id": 456863,
-          "name": "A. Manneh",
-          "photo": "https://media.api-sports.io/football/players/456863.png",
-          "goals": 2,
-          "appearances": 7
         }
       ],
       "topAssists": [
