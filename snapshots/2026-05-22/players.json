@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-20T02:25:12.636Z",
-  "totalTeams": 36,
-  "totalLeagues": 13,
-  "teamsWithFallback": 22,
+  "generatedAt": "2026-05-21T02:24:14.373Z",
+  "totalTeams": 38,
+  "totalLeagues": 14,
+  "teamsWithFallback": 23,
   "data": {
     "178": {
       "teamId": 178,
@@ -311,7 +311,13 @@
           "assists": 5,
           "appearances": 33
         },
-        "mostCards": null
+        "mostCards": {
+          "id": 162106,
+          "name": "Y. Musah",
+          "photo": "https://media.api-sports.io/football/players/162106.png",
+          "yellowCards": 3,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {
@@ -353,8 +359,20 @@
       "leagueId": 135,
       "leagueName": "Serie A",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 877,
+          "name": "M. Kean",
+          "photo": "https://media.api-sports.io/football/players/877.png",
+          "goals": 6,
+          "appearances": 30
+        },
+        "topAssist": {
+          "id": 1014,
+          "name": "S. Sohm",
+          "photo": "https://media.api-sports.io/football/players/1014.png",
+          "assists": 4,
+          "appearances": 35
+        },
         "mostCards": {
           "id": 1084,
           "name": "M. Pongračić",
@@ -694,6 +712,46 @@
       "topScorers": [],
       "topAssists": []
     },
+    "781": {
+      "teamId": 781,
+      "teamName": "Rapid Vienna",
+      "season": 2025,
+      "leagueId": 218,
+      "leagueName": "Bundesliga",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 176022,
+          "name": "M. Seidl",
+          "photo": "https://media.api-sports.io/football/players/176022.png",
+          "goals": 2,
+          "appearances": 7
+        },
+        "topAssist": {
+          "id": 176022,
+          "name": "M. Seidl",
+          "photo": "https://media.api-sports.io/football/players/176022.png",
+          "assists": 6,
+          "appearances": 28
+        },
+        "mostCards": {
+          "id": 119139,
+          "name": "E. Kara",
+          "photo": "https://media.api-sports.io/football/players/119139.png",
+          "yellowCards": 7,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": [
+        {
+          "id": 176022,
+          "name": "M. Seidl",
+          "photo": "https://media.api-sports.io/football/players/176022.png",
+          "assists": 6,
+          "appearances": 28
+        }
+      ]
+    },
     "854": {
       "teamId": 854,
       "teamName": "Slavia Sofia",
@@ -916,6 +974,54 @@
         }
       ]
     },
+    "1028": {
+      "teamId": 1028,
+      "teamName": "Ried",
+      "season": 2025,
+      "leagueId": 218,
+      "leagueName": "Bundesliga",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 408540,
+          "name": "K. Mutandwa",
+          "photo": "https://media.api-sports.io/football/players/408540.png",
+          "goals": 16,
+          "appearances": 30
+        },
+        "topAssist": {
+          "id": 7070,
+          "name": "A. Bajić",
+          "photo": "https://media.api-sports.io/football/players/7070.png",
+          "assists": 5,
+          "appearances": 29
+        },
+        "mostCards": {
+          "id": 7070,
+          "name": "A. Bajić",
+          "photo": "https://media.api-sports.io/football/players/7070.png",
+          "yellowCards": 10,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 408540,
+          "name": "K. Mutandwa",
+          "photo": "https://media.api-sports.io/football/players/408540.png",
+          "goals": 16,
+          "appearances": 30
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 7070,
+          "name": "A. Bajić",
+          "photo": "https://media.api-sports.io/football/players/7070.png",
+          "assists": 5,
+          "appearances": 29
+        }
+      ]
+    },
     "1416": {
       "teamId": 1416,
       "teamName": "Lokomotiv Sofia",
@@ -1129,7 +1235,13 @@
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
-        "mostCards": null
+        "mostCards": {
+          "id": 327799,
+          "name": "K. Meisel",
+          "photo": "https://media.api-sports.io/football/players/327799.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
