@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T02:23:59.001Z",
+  "generatedAt": "2026-05-22T02:23:19.744Z",
   "picks": [
     {
       "fixtureId": 1504819,
@@ -20,6 +20,24 @@
       "prob": 0.2403
     },
     {
+      "fixtureId": 1541011,
+      "leagueId": 172,
+      "season": 2025,
+      "kickoffTs": 1779453000,
+      "homeTeamId": 854,
+      "homeTeam": "Slavia Sofia",
+      "awayTeamId": 1424,
+      "awayTeam": "Montana",
+      "expectedHome": 1.056,
+      "expectedAway": 0.555,
+      "expectedTotal": 1.611,
+      "teamGoalsHomeLambda": 1.134,
+      "teamGoalsAwayLambda": 0.58,
+      "type": "btts",
+      "label": "Karşılıklı Gol Var",
+      "prob": 0.2935
+    },
+    {
       "fixtureId": 1446695,
       "leagueId": 419,
       "season": 2025,
@@ -28,14 +46,14 @@
       "homeTeam": "Turan",
       "awayTeamId": 13976,
       "awayTeam": "Sabah FA",
-      "expectedHome": 1.289,
-      "expectedAway": 2.156,
-      "expectedTotal": 3.445,
-      "teamGoalsHomeLambda": 1.346,
-      "teamGoalsAwayLambda": 2.369,
+      "expectedHome": 1.32,
+      "expectedAway": 2.208,
+      "expectedTotal": 3.528,
+      "teamGoalsHomeLambda": 1.379,
+      "teamGoalsAwayLambda": 2.427,
       "type": "over35",
       "label": "Toplam 3.5 Üst",
-      "prob": 0.4821
+      "prob": 0.5002
     },
     {
       "fixtureId": 1384096,
@@ -112,24 +130,6 @@
       "side": "home"
     },
     {
-      "fixtureId": 1541011,
-      "leagueId": 172,
-      "season": 2025,
-      "kickoffTs": 1779462000,
-      "homeTeamId": 854,
-      "homeTeam": "Slavia Sofia",
-      "awayTeamId": 1424,
-      "awayTeam": "Montana",
-      "expectedHome": 1.056,
-      "expectedAway": 0.555,
-      "expectedTotal": 1.611,
-      "teamGoalsHomeLambda": 1.134,
-      "teamGoalsAwayLambda": 0.58,
-      "type": "btts",
-      "label": "Karşılıklı Gol Var",
-      "prob": 0.2935
-    },
-    {
       "fixtureId": 1541012,
       "leagueId": 172,
       "season": 2025,
@@ -156,14 +156,14 @@
       "homeTeam": "Sumqayıt",
       "awayTeamId": 556,
       "awayTeam": "Qarabag",
-      "expectedHome": 1.033,
-      "expectedAway": 1.215,
-      "expectedTotal": 2.248,
-      "teamGoalsHomeLambda": 1.07,
-      "teamGoalsAwayLambda": 1.359,
+      "expectedHome": 1.071,
+      "expectedAway": 1.26,
+      "expectedTotal": 2.331,
+      "teamGoalsHomeLambda": 1.109,
+      "teamGoalsAwayLambda": 1.409,
       "type": "over25",
       "label": "Toplam 2.5 Üst",
-      "prob": 0.4861
+      "prob": 0.4931
     },
     {
       "fixtureId": 1495685,
@@ -211,14 +211,14 @@
       "homeTeam": "Cesena U20",
       "awayTeamId": 24734,
       "awayTeam": "Internazionale U20",
-      "expectedHome": 1.143,
-      "expectedAway": 1.33,
-      "expectedTotal": 2.473,
-      "teamGoalsHomeLambda": 1.333,
-      "teamGoalsAwayLambda": 1.432,
+      "expectedHome": 1.105,
+      "expectedAway": 1.286,
+      "expectedTotal": 2.391,
+      "teamGoalsHomeLambda": 1.288,
+      "teamGoalsAwayLambda": 1.384,
       "type": "btts",
       "label": "Karşılıklı Gol Var",
-      "prob": 0.5215
+      "prob": 0.5044
     },
     {
       "fixtureId": 1384095,
@@ -247,14 +247,14 @@
       "homeTeam": "Djurgardens IF",
       "awayTeamId": 371,
       "awayTeam": "IF Brommapojkarna",
-      "expectedHome": 1.957,
-      "expectedAway": 1.364,
-      "expectedTotal": 3.321,
-      "teamGoalsHomeLambda": 2.194,
-      "teamGoalsAwayLambda": 1.536,
+      "expectedHome": 1.843,
+      "expectedAway": 1.235,
+      "expectedTotal": 3.078,
+      "teamGoalsHomeLambda": 2.115,
+      "teamGoalsAwayLambda": 1.386,
       "type": "home15",
       "label": "Djurgardens IF 1.5 Üst",
-      "prob": 0.644,
+      "prob": 0.6242,
       "side": "home"
     },
     {
