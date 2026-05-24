@@ -47,13 +47,13 @@
       },
       "points": 30,
       "all": {
-        "played": 16,
+        "played": 17,
         "win": 9,
         "draw": 3,
-        "lose": 4,
+        "lose": 5,
         "goals": {
           "for": 27,
-          "against": 21
+          "against": 22
         }
       }
     },
@@ -64,15 +64,15 @@
         "name": "Sao Paulo",
         "logo": "https://media.api-sports.io/football/teams/126.png"
       },
-      "points": 24,
+      "points": 25,
       "all": {
-        "played": 16,
+        "played": 17,
         "win": 7,
-        "draw": 3,
+        "draw": 4,
         "lose": 6,
         "goals": {
-          "for": 22,
-          "against": 18
+          "for": 23,
+          "against": 19
         }
       }
     },
@@ -159,20 +159,39 @@
         "name": "Botafogo",
         "logo": "https://media.api-sports.io/football/teams/120.png"
       },
-      "points": 21,
+      "points": 22,
       "all": {
-        "played": 15,
+        "played": 16,
         "win": 6,
-        "draw": 3,
+        "draw": 4,
         "lose": 6,
         "goals": {
-          "for": 29,
-          "against": 28
+          "for": 30,
+          "against": 29
         }
       }
     },
     {
       "rank": 10,
+      "team": {
+        "id": 136,
+        "name": "Vitoria",
+        "logo": "https://media.api-sports.io/football/teams/136.png"
+      },
+      "points": 22,
+      "all": {
+        "played": 16,
+        "win": 6,
+        "draw": 4,
+        "lose": 6,
+        "goals": {
+          "for": 20,
+          "against": 22
+        }
+      }
+    },
+    {
+      "rank": 11,
       "team": {
         "id": 1062,
         "name": "Atletico-MG",
@@ -191,7 +210,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "team": {
         "id": 119,
         "name": "Internacional",
@@ -199,18 +218,37 @@
       },
       "points": 21,
       "all": {
-        "played": 16,
+        "played": 17,
         "win": 5,
         "draw": 6,
-        "lose": 5,
+        "lose": 6,
         "goals": {
           "for": 20,
-          "against": 17
+          "against": 19
         }
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "team": {
+        "id": 130,
+        "name": "Gremio",
+        "logo": "https://media.api-sports.io/football/teams/130.png"
+      },
+      "points": 21,
+      "all": {
+        "played": 17,
+        "win": 5,
+        "draw": 6,
+        "lose": 6,
+        "goals": {
+          "for": 19,
+          "against": 20
+        }
+      }
+    },
+    {
+      "rank": 14,
       "team": {
         "id": 133,
         "name": "Vasco DA Gama",
@@ -229,7 +267,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 15,
       "team": {
         "id": 135,
         "name": "Cruzeiro",
@@ -248,64 +286,7 @@
       }
     },
     {
-      "rank": 14,
-      "team": {
-        "id": 136,
-        "name": "Vitoria",
-        "logo": "https://media.api-sports.io/football/teams/136.png"
-      },
-      "points": 19,
-      "all": {
-        "played": 15,
-        "win": 5,
-        "draw": 4,
-        "lose": 6,
-        "goals": {
-          "for": 18,
-          "against": 22
-        }
-      }
-    },
-    {
-      "rank": 15,
-      "team": {
-        "id": 130,
-        "name": "Gremio",
-        "logo": "https://media.api-sports.io/football/teams/130.png"
-      },
-      "points": 18,
-      "all": {
-        "played": 16,
-        "win": 4,
-        "draw": 6,
-        "lose": 6,
-        "goals": {
-          "for": 16,
-          "against": 18
-        }
-      }
-    },
-    {
       "rank": 16,
-      "team": {
-        "id": 128,
-        "name": "Santos",
-        "logo": "https://media.api-sports.io/football/teams/128.png"
-      },
-      "points": 18,
-      "all": {
-        "played": 16,
-        "win": 4,
-        "draw": 6,
-        "lose": 6,
-        "goals": {
-          "for": 21,
-          "against": 25
-        }
-      }
-    },
-    {
-      "rank": 17,
       "team": {
         "id": 131,
         "name": "Corinthians",
@@ -324,7 +305,45 @@
       }
     },
     {
+      "rank": 17,
+      "team": {
+        "id": 128,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/128.png"
+      },
+      "points": 18,
+      "all": {
+        "played": 17,
+        "win": 4,
+        "draw": 6,
+        "lose": 7,
+        "goals": {
+          "for": 23,
+          "against": 28
+        }
+      }
+    },
+    {
       "rank": 18,
+      "team": {
+        "id": 7848,
+        "name": "Mirassol",
+        "logo": "https://media.api-sports.io/football/teams/7848.png"
+      },
+      "points": 16,
+      "all": {
+        "played": 16,
+        "win": 4,
+        "draw": 4,
+        "lose": 8,
+        "goals": {
+          "for": 18,
+          "against": 23
+        }
+      }
+    },
+    {
+      "rank": 19,
       "team": {
         "id": 1198,
         "name": "Remo",
@@ -339,25 +358,6 @@
         "goals": {
           "for": 19,
           "against": 27
-        }
-      }
-    },
-    {
-      "rank": 19,
-      "team": {
-        "id": 7848,
-        "name": "Mirassol",
-        "logo": "https://media.api-sports.io/football/teams/7848.png"
-      },
-      "points": 13,
-      "all": {
-        "played": 15,
-        "win": 3,
-        "draw": 4,
-        "lose": 8,
-        "goals": {
-          "for": 17,
-          "against": 23
         }
       }
     },
@@ -1187,6 +1187,25 @@
     {
       "rank": 9,
       "team": {
+        "id": 374,
+        "name": "Kalmar FF",
+        "logo": "https://media.api-sports.io/football/teams/374.png"
+      },
+      "points": 10,
+      "all": {
+        "played": 9,
+        "win": 3,
+        "draw": 1,
+        "lose": 5,
+        "goals": {
+          "for": 11,
+          "against": 12
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "team": {
         "id": 375,
         "name": "Malmo FF",
         "logo": "https://media.api-sports.io/football/teams/375.png"
@@ -1204,7 +1223,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "team": {
         "id": 377,
         "name": "AIK Stockholm",
@@ -1223,7 +1242,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "team": {
         "id": 2172,
         "name": "Degerfors IF",
@@ -1231,18 +1250,18 @@
       },
       "points": 9,
       "all": {
-        "played": 8,
+        "played": 9,
         "win": 2,
         "draw": 3,
-        "lose": 3,
+        "lose": 4,
         "goals": {
-          "for": 9,
-          "against": 12
+          "for": 10,
+          "against": 14
         }
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "team": {
         "id": 2241,
         "name": "Vasteras SK FK",
@@ -1261,26 +1280,26 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "team": {
-        "id": 374,
-        "name": "Kalmar FF",
-        "logo": "https://media.api-sports.io/football/teams/374.png"
+        "id": 766,
+        "name": "Halmstad",
+        "logo": "https://media.api-sports.io/football/teams/766.png"
       },
-      "points": 7,
+      "points": 6,
       "all": {
-        "played": 8,
-        "win": 2,
-        "draw": 1,
+        "played": 9,
+        "win": 1,
+        "draw": 3,
         "lose": 5,
         "goals": {
-          "for": 9,
-          "against": 11
+          "for": 7,
+          "against": 15
         }
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "team": {
         "id": 366,
         "name": "IFK Goteborg",
@@ -1299,7 +1318,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "team": {
         "id": 2166,
         "name": "Orgryte IS",
@@ -1307,32 +1326,13 @@
       },
       "points": 5,
       "all": {
-        "played": 8,
+        "played": 9,
         "win": 1,
         "draw": 2,
-        "lose": 5,
+        "lose": 6,
         "goals": {
           "for": 8,
-          "against": 21
-        }
-      }
-    },
-    {
-      "rank": 16,
-      "team": {
-        "id": 766,
-        "name": "Halmstad",
-        "logo": "https://media.api-sports.io/football/teams/766.png"
-      },
-      "points": 3,
-      "all": {
-        "played": 8,
-        "win": 0,
-        "draw": 3,
-        "lose": 5,
-        "goals": {
-          "for": 5,
-          "against": 15
+          "against": 23
         }
       }
     }
@@ -2265,15 +2265,15 @@
         "name": "Real Salt Lake",
         "logo": "https://media.api-sports.io/football/teams/1606.png"
       },
-      "points": 25,
+      "points": 26,
       "all": {
-        "played": 13,
+        "played": 14,
         "win": 8,
-        "draw": 1,
+        "draw": 2,
         "lose": 4,
         "goals": {
-          "for": 25,
-          "against": 18
+          "for": 26,
+          "against": 19
         }
       }
     },
@@ -2318,6 +2318,25 @@
     {
       "rank": 6,
       "team": {
+        "id": 1612,
+        "name": "Minnesota United FC",
+        "logo": "https://media.api-sports.io/football/teams/1612.png"
+      },
+      "points": 22,
+      "all": {
+        "played": 15,
+        "win": 6,
+        "draw": 4,
+        "lose": 5,
+        "goals": {
+          "for": 18,
+          "against": 22
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "team": {
         "id": 1600,
         "name": "Houston Dynamo",
         "logo": "https://media.api-sports.io/football/teams/1600.png"
@@ -2335,7 +2354,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "team": {
         "id": 1616,
         "name": "Los Angeles FC",
@@ -2350,25 +2369,6 @@
         "goals": {
           "for": 23,
           "against": 17
-        }
-      }
-    },
-    {
-      "rank": 8,
-      "team": {
-        "id": 1612,
-        "name": "Minnesota United FC",
-        "logo": "https://media.api-sports.io/football/teams/1612.png"
-      },
-      "points": 21,
-      "all": {
-        "played": 14,
-        "win": 6,
-        "draw": 3,
-        "lose": 5,
-        "goals": {
-          "for": 17,
-          "against": 21
         }
       }
     },
@@ -2432,6 +2432,25 @@
     {
       "rank": 12,
       "team": {
+        "id": 20787,
+        "name": "St. Louis City",
+        "logo": "https://media.api-sports.io/football/teams/20787.png"
+      },
+      "points": 16,
+      "all": {
+        "played": 14,
+        "win": 4,
+        "draw": 4,
+        "lose": 6,
+        "goals": {
+          "for": 16,
+          "against": 20
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "team": {
         "id": 1617,
         "name": "Portland Timbers",
         "logo": "https://media.api-sports.io/football/teams/1617.png"
@@ -2449,7 +2468,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "team": {
         "id": 16489,
         "name": "Austin",
@@ -2457,32 +2476,13 @@
       },
       "points": 14,
       "all": {
-        "played": 14,
+        "played": 15,
         "win": 3,
         "draw": 5,
-        "lose": 6,
+        "lose": 7,
         "goals": {
           "for": 19,
-          "against": 28
-        }
-      }
-    },
-    {
-      "rank": 14,
-      "team": {
-        "id": 20787,
-        "name": "St. Louis City",
-        "logo": "https://media.api-sports.io/football/teams/20787.png"
-      },
-      "points": 13,
-      "all": {
-        "played": 13,
-        "win": 3,
-        "draw": 4,
-        "lose": 6,
-        "goals": {
-          "for": 13,
-          "against": 20
+          "against": 31
         }
       }
     },
@@ -2533,15 +2533,15 @@
         "name": "Universitatea Cluj",
         "logo": "https://media.api-sports.io/football/teams/2599.png"
       },
-      "points": 45,
+      "points": 46,
       "all": {
-        "played": 9,
+        "played": 10,
         "win": 6,
-        "draw": 0,
+        "draw": 1,
         "lose": 3,
         "goals": {
-          "for": 12,
-          "against": 10
+          "for": 13,
+          "against": 11
         }
       }
     },
@@ -2571,15 +2571,15 @@
         "name": "Dinamo Bucuresti",
         "logo": "https://media.api-sports.io/football/teams/635.png"
       },
-      "points": 38,
+      "points": 39,
       "all": {
-        "played": 9,
+        "played": 10,
         "win": 3,
-        "draw": 3,
+        "draw": 4,
         "lose": 3,
         "goals": {
-          "for": 12,
-          "against": 11
+          "for": 13,
+          "against": 12
         }
       }
     },
@@ -2618,6 +2618,388 @@
         "goals": {
           "for": 6,
           "against": 10
+        }
+      }
+    }
+  ],
+  "705": [
+    {
+      "rank": 1,
+      "team": {
+        "id": 24731,
+        "name": "Fiorentina U20",
+        "logo": "https://media.api-sports.io/football/teams/24731.png"
+      },
+      "points": 68,
+      "all": {
+        "played": 38,
+        "win": 19,
+        "draw": 11,
+        "lose": 8,
+        "goals": {
+          "for": 70,
+          "against": 48
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": 26437,
+        "name": "Parma U20",
+        "logo": "https://media.api-sports.io/football/teams/26437.png"
+      },
+      "points": 68,
+      "all": {
+        "played": 38,
+        "win": 19,
+        "draw": 11,
+        "lose": 8,
+        "goals": {
+          "for": 59,
+          "against": 38
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": 24728,
+        "name": "Cesena U20",
+        "logo": "https://media.api-sports.io/football/teams/24728.png"
+      },
+      "points": 67,
+      "all": {
+        "played": 38,
+        "win": 19,
+        "draw": 10,
+        "lose": 9,
+        "goals": {
+          "for": 70,
+          "against": 52
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": 24739,
+        "name": "Roma U20",
+        "logo": "https://media.api-sports.io/football/teams/24739.png"
+      },
+      "points": 63,
+      "all": {
+        "played": 38,
+        "win": 17,
+        "draw": 12,
+        "lose": 9,
+        "goals": {
+          "for": 59,
+          "against": 35
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "team": {
+        "id": 24726,
+        "name": "Bologna U20",
+        "logo": "https://media.api-sports.io/football/teams/24726.png"
+      },
+      "points": 62,
+      "all": {
+        "played": 38,
+        "win": 17,
+        "draw": 11,
+        "lose": 10,
+        "goals": {
+          "for": 54,
+          "against": 40
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": 24734,
+        "name": "Internazionale U20",
+        "logo": "https://media.api-sports.io/football/teams/24734.png"
+      },
+      "points": 59,
+      "all": {
+        "played": 38,
+        "win": 16,
+        "draw": 11,
+        "lose": 11,
+        "goals": {
+          "for": 70,
+          "against": 61
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "team": {
+        "id": 24725,
+        "name": "Atalanta U20",
+        "logo": "https://media.api-sports.io/football/teams/24725.png"
+      },
+      "points": 57,
+      "all": {
+        "played": 38,
+        "win": 14,
+        "draw": 15,
+        "lose": 9,
+        "goals": {
+          "for": 54,
+          "against": 47
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": 24744,
+        "name": "Juventus U20",
+        "logo": "https://media.api-sports.io/football/teams/24744.png"
+      },
+      "points": 55,
+      "all": {
+        "played": 38,
+        "win": 14,
+        "draw": 13,
+        "lose": 11,
+        "goals": {
+          "for": 52,
+          "against": 48
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "team": {
+        "id": 24736,
+        "name": "Lecce U20",
+        "logo": "https://media.api-sports.io/football/teams/24736.png"
+      },
+      "points": 54,
+      "all": {
+        "played": 38,
+        "win": 14,
+        "draw": 12,
+        "lose": 12,
+        "goals": {
+          "for": 54,
+          "against": 53
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "team": {
+        "id": 24732,
+        "name": "Genoa U20",
+        "logo": "https://media.api-sports.io/football/teams/24732.png"
+      },
+      "points": 50,
+      "all": {
+        "played": 38,
+        "win": 12,
+        "draw": 14,
+        "lose": 12,
+        "goals": {
+          "for": 49,
+          "against": 52
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "team": {
+        "id": 24737,
+        "name": "Milan U20",
+        "logo": "https://media.api-sports.io/football/teams/24737.png"
+      },
+      "points": 49,
+      "all": {
+        "played": 38,
+        "win": 11,
+        "draw": 16,
+        "lose": 11,
+        "goals": {
+          "for": 51,
+          "against": 49
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "team": {
+        "id": 24733,
+        "name": "Hellas Verona U20",
+        "logo": "https://media.api-sports.io/football/teams/24733.png"
+      },
+      "points": 48,
+      "all": {
+        "played": 38,
+        "win": 12,
+        "draw": 12,
+        "lose": 14,
+        "goals": {
+          "for": 55,
+          "against": 61
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "team": {
+        "id": 24742,
+        "name": "Torino U20",
+        "logo": "https://media.api-sports.io/football/teams/24742.png"
+      },
+      "points": 47,
+      "all": {
+        "played": 38,
+        "win": 11,
+        "draw": 14,
+        "lose": 13,
+        "goals": {
+          "for": 50,
+          "against": 50
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": 24735,
+        "name": "Lazio U20",
+        "logo": "https://media.api-sports.io/football/teams/24735.png"
+      },
+      "points": 47,
+      "all": {
+        "played": 38,
+        "win": 12,
+        "draw": 11,
+        "lose": 15,
+        "goals": {
+          "for": 44,
+          "against": 51
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": 24738,
+        "name": "Monza U20",
+        "logo": "https://media.api-sports.io/football/teams/24738.png"
+      },
+      "points": 47,
+      "all": {
+        "played": 38,
+        "win": 12,
+        "draw": 11,
+        "lose": 15,
+        "goals": {
+          "for": 37,
+          "against": 45
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "team": {
+        "id": 24741,
+        "name": "Sassuolo U20",
+        "logo": "https://media.api-sports.io/football/teams/24741.png"
+      },
+      "points": 44,
+      "all": {
+        "played": 38,
+        "win": 10,
+        "draw": 14,
+        "lose": 14,
+        "goals": {
+          "for": 51,
+          "against": 58
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "team": {
+        "id": 26436,
+        "name": "Napoli U20",
+        "logo": "https://media.api-sports.io/football/teams/26436.png"
+      },
+      "points": 40,
+      "all": {
+        "played": 38,
+        "win": 10,
+        "draw": 10,
+        "lose": 18,
+        "goals": {
+          "for": 39,
+          "against": 55
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "team": {
+        "id": 24727,
+        "name": "Cagliari U20",
+        "logo": "https://media.api-sports.io/football/teams/24727.png"
+      },
+      "points": 39,
+      "all": {
+        "played": 38,
+        "win": 10,
+        "draw": 9,
+        "lose": 19,
+        "goals": {
+          "for": 49,
+          "against": 62
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "team": {
+        "id": 26435,
+        "name": "Frosinone U20",
+        "logo": "https://media.api-sports.io/football/teams/26435.png"
+      },
+      "points": 35,
+      "all": {
+        "played": 38,
+        "win": 8,
+        "draw": 11,
+        "lose": 19,
+        "goals": {
+          "for": 47,
+          "against": 76
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "team": {
+        "id": 15662,
+        "name": "Cremonese U19",
+        "logo": "https://media.api-sports.io/football/teams/15662.png"
+      },
+      "points": 24,
+      "all": {
+        "played": 38,
+        "win": 6,
+        "draw": 6,
+        "lose": 26,
+        "goals": {
+          "for": 31,
+          "against": 64
         }
       }
     }
