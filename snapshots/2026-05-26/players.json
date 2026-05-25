@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-24T02:29:29.772Z",
-  "totalTeams": 4,
-  "totalLeagues": 2,
-  "teamsWithFallback": 3,
+  "generatedAt": "2026-05-25T02:23:45.357Z",
+  "totalTeams": 6,
+  "totalLeagues": 3,
+  "teamsWithFallback": 5,
   "data": {
     "84": {
       "teamId": 84,
@@ -120,15 +120,73 @@
       "leagueId": 79,
       "leagueName": "2. Bundesliga",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 25645,
+          "name": "T. Müsel",
+          "photo": "https://media.api-sports.io/football/players/25645.png",
+          "goals": 6,
+          "appearances": 37
+        },
+        "topAssist": {
+          "id": 273142,
+          "name": "K. Mizuta",
+          "photo": "https://media.api-sports.io/football/players/273142.png",
+          "assists": 8,
+          "appearances": 36
+        },
         "mostCards": {
-          "id": 327799,
-          "name": "K. Meisel",
-          "photo": "https://media.api-sports.io/football/players/327799.png",
-          "yellowCards": 1,
+          "id": 24823,
+          "name": "K. Gjasula",
+          "photo": "https://media.api-sports.io/football/players/24823.png",
+          "yellowCards": 10,
+          "redCards": 1
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "3713": {
+      "teamId": 3713,
+      "teamName": "Baník Ostrava",
+      "season": 2025,
+      "leagueId": 345,
+      "leagueName": "Czech Liga",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 105726,
+          "name": "E. Prekop",
+          "photo": "https://media.api-sports.io/football/players/105726.png",
+          "goals": 2,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 66070,
+          "name": "D. Buchta",
+          "photo": "https://media.api-sports.io/football/players/66070.png",
+          "assists": 1,
+          "appearances": 2
+        },
+        "mostCards": {
+          "id": 66159,
+          "name": "M. Chaluš",
+          "photo": "https://media.api-sports.io/football/players/66159.png",
+          "yellowCards": 9,
           "redCards": 0
         }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "3726": {
+      "teamId": 3726,
+      "teamName": "Táborsko",
+      "season": 2025,
+      "leagueId": 345,
+      "leagueName": "Czech Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
       },
       "topScorers": [],
       "topAssists": []
