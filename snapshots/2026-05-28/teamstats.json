@@ -5345,7 +5345,7 @@
       {
         "fixture": {
           "id": 1542722,
-          "referee": "Antonio Nobre, Portugal",
+          "referee": "A. Nobre",
           "timezone": "UTC",
           "date": "2026-05-24T16:15:00+00:00",
           "timestamp": 1779639300,
@@ -5356,7 +5356,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Nacional do Jamor",
-            "city": "Lisbon"
+            "city": "Lisbon - Oeiras"
           },
           "status": {
             "long": "Match Finished",
@@ -10019,6 +10019,2000 @@
           "fulltime": {
             "home": 3,
             "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
+  "24731": {
+    "statistics": {
+      "league": {
+        "id": 705,
+        "name": "Campionato Primavera - 1",
+        "country": "Italy",
+        "logo": "https://media.api-sports.io/football/leagues/705.png",
+        "flag": "https://media.api-sports.io/flags/it.svg",
+        "season": 2025
+      },
+      "team": {
+        "id": 24731,
+        "name": "Fiorentina U20",
+        "logo": "https://media.api-sports.io/football/teams/24731.png"
+      },
+      "form": "WDWLWWDWDWWDDLWDLDWDLWDWDWLWLDWWLWWWWLW",
+      "fixtures": {
+        "played": {
+          "home": 20,
+          "away": 19,
+          "total": 39
+        },
+        "wins": {
+          "home": 14,
+          "away": 6,
+          "total": 20
+        },
+        "draws": {
+          "home": 4,
+          "away": 7,
+          "total": 11
+        },
+        "loses": {
+          "home": 2,
+          "away": 6,
+          "total": 8
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 44,
+            "away": 28,
+            "total": 72
+          },
+          "average": {
+            "home": "2.2",
+            "away": "1.5",
+            "total": "1.8"
+          },
+          "minute": {
+            "0-15": {
+              "total": 9,
+              "percentage": "13.04%"
+            },
+            "16-30": {
+              "total": 10,
+              "percentage": "14.49%"
+            },
+            "31-45": {
+              "total": 8,
+              "percentage": "11.59%"
+            },
+            "46-60": {
+              "total": 14,
+              "percentage": "20.29%"
+            },
+            "61-75": {
+              "total": 13,
+              "percentage": "18.84%"
+            },
+            "76-90": {
+              "total": 15,
+              "percentage": "21.74%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 36,
+              "under": 3
+            },
+            "1.5": {
+              "over": 23,
+              "under": 16
+            },
+            "2.5": {
+              "over": 7,
+              "under": 32
+            },
+            "3.5": {
+              "over": 3,
+              "under": 36
+            },
+            "4.5": {
+              "over": 2,
+              "under": 37
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 18,
+            "away": 30,
+            "total": 48
+          },
+          "average": {
+            "home": "0.9",
+            "away": "1.6",
+            "total": "1.2"
+          },
+          "minute": {
+            "0-15": {
+              "total": 9,
+              "percentage": "18.37%"
+            },
+            "16-30": {
+              "total": 8,
+              "percentage": "16.33%"
+            },
+            "31-45": {
+              "total": 9,
+              "percentage": "18.37%"
+            },
+            "46-60": {
+              "total": 6,
+              "percentage": "12.24%"
+            },
+            "61-75": {
+              "total": 6,
+              "percentage": "12.24%"
+            },
+            "76-90": {
+              "total": 11,
+              "percentage": "22.45%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 32,
+              "under": 7
+            },
+            "1.5": {
+              "over": 11,
+              "under": 28
+            },
+            "2.5": {
+              "over": 5,
+              "under": 34
+            },
+            "3.5": {
+              "over": 0,
+              "under": 39
+            },
+            "4.5": {
+              "over": 0,
+              "under": 39
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 4,
+          "draws": 2,
+          "loses": 1
+        },
+        "wins": {
+          "home": "6-1",
+          "away": "0-2"
+        },
+        "loses": {
+          "home": "1-3",
+          "away": "3-1"
+        },
+        "goals": {
+          "for": {
+            "home": 6,
+            "away": 3
+          },
+          "against": {
+            "home": 3,
+            "away": 3
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 6,
+        "away": 1,
+        "total": 7
+      },
+      "failed_to_score": {
+        "home": 1,
+        "away": 2,
+        "total": 3
+      },
+      "penalty": {
+        "scored": {
+          "total": 3,
+          "percentage": "100.00%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 3
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": 1,
+            "percentage": "3.57%"
+          },
+          "16-30": {
+            "total": 2,
+            "percentage": "7.14%"
+          },
+          "31-45": {
+            "total": 7,
+            "percentage": "25.00%"
+          },
+          "46-60": {
+            "total": 8,
+            "percentage": "28.57%"
+          },
+          "61-75": {
+            "total": 3,
+            "percentage": "10.71%"
+          },
+          "76-90": {
+            "total": 3,
+            "percentage": "10.71%"
+          },
+          "91-105": {
+            "total": 4,
+            "percentage": "14.29%"
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": 1,
+            "percentage": "25.00%"
+          },
+          "46-60": {
+            "total": 1,
+            "percentage": "25.00%"
+          },
+          "61-75": {
+            "total": 1,
+            "percentage": "25.00%"
+          },
+          "76-90": {
+            "total": 1,
+            "percentage": "25.00%"
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1546053,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-05-24T16:30:00+00:00",
+          "timestamp": 1779640200,
+          "periods": {
+            "first": 1779640200,
+            "second": 1779643800
+          },
+          "venue": {
+            "id": null,
+            "name": "Curva Fiesole - Viola Park",
+            "city": "Bagno a Ripoli"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Semi-finals",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24731,
+            "name": "Fiorentina U20",
+            "logo": "https://media.api-sports.io/football/teams/24731.png",
+            "winner": true
+          },
+          "away": {
+            "id": 24726,
+            "name": "Bologna U20",
+            "logo": "https://media.api-sports.io/football/teams/24726.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404662,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-05-16T11:00:00+00:00",
+          "timestamp": 1778929200,
+          "periods": {
+            "first": 1778929200,
+            "second": 1778932800
+          },
+          "venue": {
+            "id": 21170,
+            "name": "Campo Sportivo San Pietro in Lama",
+            "city": "San Pietro in Lama"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 38",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24736,
+            "name": "Lecce U20",
+            "logo": "https://media.api-sports.io/football/teams/24736.png",
+            "winner": true
+          },
+          "away": {
+            "id": 24731,
+            "name": "Fiorentina U20",
+            "logo": "https://media.api-sports.io/football/teams/24731.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404646,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-05-10T11:00:00+00:00",
+          "timestamp": 1778410800,
+          "periods": {
+            "first": 1778410800,
+            "second": 1778414400
+          },
+          "venue": {
+            "id": 21168,
+            "name": "Stadio Curva Fiesole - Viola Park",
+            "city": "Bagno a Ripoli"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 37",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24731,
+            "name": "Fiorentina U20",
+            "logo": "https://media.api-sports.io/football/teams/24731.png",
+            "winner": true
+          },
+          "away": {
+            "id": 24729,
+            "name": "Cremonese U20",
+            "logo": "https://media.api-sports.io/football/teams/24729.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 6,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 6,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404641,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-05-03T11:00:00+00:00",
+          "timestamp": 1777806000,
+          "periods": {
+            "first": 1777806000,
+            "second": 1777809600
+          },
+          "venue": {
+            "id": 22327,
+            "name": "Stadio Carillo Pesenti Pigna",
+            "city": "Alzano Lombardo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 36",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24725,
+            "name": "Atalanta U20",
+            "logo": "https://media.api-sports.io/football/teams/24725.png",
+            "winner": false
+          },
+          "away": {
+            "id": 24731,
+            "name": "Fiorentina U20",
+            "logo": "https://media.api-sports.io/football/teams/24731.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404631,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-04-27T15:00:00+00:00",
+          "timestamp": 1777302000,
+          "periods": {
+            "first": 1777302000,
+            "second": 1777305600
+          },
+          "venue": {
+            "id": 21168,
+            "name": "Stadio Curva Fiesole - Viola Park",
+            "city": "Bagno a Ripoli"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 35",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24731,
+            "name": "Fiorentina U20",
+            "logo": "https://media.api-sports.io/football/teams/24731.png",
+            "winner": true
+          },
+          "away": {
+            "id": 24738,
+            "name": "Monza U20",
+            "logo": "https://media.api-sports.io/football/teams/24738.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404620,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-04-18T09:00:00+00:00",
+          "timestamp": 1776502800,
+          "periods": {
+            "first": 1776502800,
+            "second": 1776506400
+          },
+          "venue": {
+            "id": 22331,
+            "name": "Juventus Training Center",
+            "city": "Vinovo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 34",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24744,
+            "name": "Juventus U20",
+            "logo": "https://media.api-sports.io/football/teams/24744.png",
+            "winner": false
+          },
+          "away": {
+            "id": 24731,
+            "name": "Fiorentina U20",
+            "logo": "https://media.api-sports.io/football/teams/24731.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404606,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-04-12T11:00:00+00:00",
+          "timestamp": 1775991600,
+          "periods": {
+            "first": 1775991600,
+            "second": 1775995200
+          },
+          "venue": {
+            "id": 21168,
+            "name": "Stadio Curva Fiesole - Viola Park",
+            "city": "Bagno a Ripoli"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 33",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24731,
+            "name": "Fiorentina U20",
+            "logo": "https://media.api-sports.io/football/teams/24731.png",
+            "winner": false
+          },
+          "away": {
+            "id": 24741,
+            "name": "Sassuolo U20",
+            "logo": "https://media.api-sports.io/football/teams/24741.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404598,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-04-06T14:00:00+00:00",
+          "timestamp": 1775484000,
+          "periods": {
+            "first": 1775484000,
+            "second": 1775487600
+          },
+          "venue": {
+            "id": 21168,
+            "name": "Stadio Curva Fiesole - Viola Park",
+            "city": "Bagno a Ripoli"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24731,
+            "name": "Fiorentina U20",
+            "logo": "https://media.api-sports.io/football/teams/24731.png",
+            "winner": true
+          },
+          "away": {
+            "id": 26435,
+            "name": "Frosinone U20",
+            "logo": "https://media.api-sports.io/football/teams/26435.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404592,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-22T10:00:00+00:00",
+          "timestamp": 1774173600,
+          "periods": {
+            "first": 1774173600,
+            "second": 1774177200
+          },
+          "venue": {
+            "id": 21167,
+            "name": "Campioni d'Italia 1969/70 Asseminello",
+            "city": "Cagliari"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 31",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24727,
+            "name": "Cagliari U20",
+            "logo": "https://media.api-sports.io/football/teams/24727.png",
+            "winner": false
+          },
+          "away": {
+            "id": 24731,
+            "name": "Fiorentina U20",
+            "logo": "https://media.api-sports.io/football/teams/24731.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404574,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-16T17:00:00+00:00",
+          "timestamp": 1773680400,
+          "periods": {
+            "first": 1773680400,
+            "second": 1773684000
+          },
+          "venue": {
+            "id": 21168,
+            "name": "Stadio Curva Fiesole - Viola Park",
+            "city": "Bagno a Ripoli"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 30",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24731,
+            "name": "Fiorentina U20",
+            "logo": "https://media.api-sports.io/football/teams/24731.png",
+            "winner": null
+          },
+          "away": {
+            "id": 24739,
+            "name": "Roma U20",
+            "logo": "https://media.api-sports.io/football/teams/24739.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
+  "26437": {
+    "statistics": {
+      "league": {
+        "id": 705,
+        "name": "Campionato Primavera - 1",
+        "country": "Italy",
+        "logo": "https://media.api-sports.io/football/leagues/705.png",
+        "flag": "https://media.api-sports.io/flags/it.svg",
+        "season": 2025
+      },
+      "team": {
+        "id": 26437,
+        "name": "Parma U20",
+        "logo": "https://media.api-sports.io/football/teams/26437.png"
+      },
+      "form": "DWWDWWLDWLWWLLWLDDWLWDWDWLWDWDDWWLWWWDW",
+      "fixtures": {
+        "played": {
+          "home": 20,
+          "away": 19,
+          "total": 39
+        },
+        "wins": {
+          "home": 10,
+          "away": 10,
+          "total": 20
+        },
+        "draws": {
+          "home": 7,
+          "away": 4,
+          "total": 11
+        },
+        "loses": {
+          "home": 3,
+          "away": 5,
+          "total": 8
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 34,
+            "away": 27,
+            "total": 61
+          },
+          "average": {
+            "home": "1.7",
+            "away": "1.4",
+            "total": "1.6"
+          },
+          "minute": {
+            "0-15": {
+              "total": 7,
+              "percentage": "12.28%"
+            },
+            "16-30": {
+              "total": 5,
+              "percentage": "8.77%"
+            },
+            "31-45": {
+              "total": 10,
+              "percentage": "17.54%"
+            },
+            "46-60": {
+              "total": 8,
+              "percentage": "14.04%"
+            },
+            "61-75": {
+              "total": 7,
+              "percentage": "12.28%"
+            },
+            "76-90": {
+              "total": 20,
+              "percentage": "35.09%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 28,
+              "under": 11
+            },
+            "1.5": {
+              "over": 19,
+              "under": 20
+            },
+            "2.5": {
+              "over": 8,
+              "under": 31
+            },
+            "3.5": {
+              "over": 4,
+              "under": 35
+            },
+            "4.5": {
+              "over": 2,
+              "under": 37
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 21,
+            "away": 18,
+            "total": 39
+          },
+          "average": {
+            "home": "1.1",
+            "away": "0.9",
+            "total": "1.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": 8,
+              "percentage": "21.05%"
+            },
+            "16-30": {
+              "total": 7,
+              "percentage": "18.42%"
+            },
+            "31-45": {
+              "total": 6,
+              "percentage": "15.79%"
+            },
+            "46-60": {
+              "total": 5,
+              "percentage": "13.16%"
+            },
+            "61-75": {
+              "total": 4,
+              "percentage": "10.53%"
+            },
+            "76-90": {
+              "total": 8,
+              "percentage": "21.05%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 24,
+              "under": 15
+            },
+            "1.5": {
+              "over": 11,
+              "under": 28
+            },
+            "2.5": {
+              "over": 3,
+              "under": 36
+            },
+            "3.5": {
+              "over": 1,
+              "under": 38
+            },
+            "4.5": {
+              "over": 0,
+              "under": 39
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 3,
+          "draws": 2,
+          "loses": 2
+        },
+        "wins": {
+          "home": "5-1",
+          "away": "3-5"
+        },
+        "loses": {
+          "home": "0-4",
+          "away": "2-0"
+        },
+        "goals": {
+          "for": {
+            "home": 5,
+            "away": 5
+          },
+          "against": {
+            "home": 4,
+            "away": 3
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 6,
+        "away": 9,
+        "total": 15
+      },
+      "failed_to_score": {
+        "home": 5,
+        "away": 6,
+        "total": 11
+      },
+      "penalty": {
+        "scored": {
+          "total": 2,
+          "percentage": "100.00%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 2
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": 2,
+            "percentage": "6.45%"
+          },
+          "31-45": {
+            "total": 3,
+            "percentage": "9.68%"
+          },
+          "46-60": {
+            "total": 12,
+            "percentage": "38.71%"
+          },
+          "61-75": {
+            "total": 2,
+            "percentage": "6.45%"
+          },
+          "76-90": {
+            "total": 9,
+            "percentage": "29.03%"
+          },
+          "91-105": {
+            "total": 3,
+            "percentage": "9.68%"
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": 1,
+            "percentage": "33.33%"
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": 1,
+            "percentage": "33.33%"
+          },
+          "91-105": {
+            "total": 1,
+            "percentage": "33.33%"
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1546220,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-05-25T18:30:00+00:00",
+          "timestamp": 1779733800,
+          "periods": {
+            "first": 1779733800,
+            "second": 1779737400
+          },
+          "venue": {
+            "id": null,
+            "name": "Curva Fiesole - Viola Park",
+            "city": "Bagno a Ripoli"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Semi-finals",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 26437,
+            "name": "Parma U20",
+            "logo": "https://media.api-sports.io/football/teams/26437.png",
+            "winner": true
+          },
+          "away": {
+            "id": 24728,
+            "name": "Cesena U20",
+            "logo": "https://media.api-sports.io/football/teams/24728.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404663,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-05-16T11:00:00+00:00",
+          "timestamp": 1778929200,
+          "periods": {
+            "first": 1778929200,
+            "second": 1778932800
+          },
+          "venue": {
+            "id": null,
+            "name": "Centro Sportivo Luigi Berlusconi",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 38",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24738,
+            "name": "Monza U20",
+            "logo": "https://media.api-sports.io/football/teams/24738.png",
+            "winner": null
+          },
+          "away": {
+            "id": 26437,
+            "name": "Parma U20",
+            "logo": "https://media.api-sports.io/football/teams/26437.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404651,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-05-09T11:00:00+00:00",
+          "timestamp": 1778324400,
+          "periods": {
+            "first": 1778324400,
+            "second": 1778328000
+          },
+          "venue": {
+            "id": 20921,
+            "name": "Centro Sportivo Parma FC",
+            "city": "Collecchio"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 37",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 26437,
+            "name": "Parma U20",
+            "logo": "https://media.api-sports.io/football/teams/26437.png",
+            "winner": true
+          },
+          "away": {
+            "id": 24737,
+            "name": "Milan U20",
+            "logo": "https://media.api-sports.io/football/teams/24737.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404634,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-05-02T09:00:00+00:00",
+          "timestamp": 1777712400,
+          "periods": {
+            "first": 1777712400,
+            "second": 1777716000
+          },
+          "venue": {
+            "id": 21169,
+            "name": "Stadio Mirko Fersini",
+            "city": "Formello"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 36",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24735,
+            "name": "Lazio U20",
+            "logo": "https://media.api-sports.io/football/teams/24735.png",
+            "winner": false
+          },
+          "away": {
+            "id": 26437,
+            "name": "Parma U20",
+            "logo": "https://media.api-sports.io/football/teams/26437.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 5
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 3
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 5
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404632,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-04-25T13:00:00+00:00",
+          "timestamp": 1777122000,
+          "periods": {
+            "first": 1777122000,
+            "second": 1777125600
+          },
+          "venue": {
+            "id": 20921,
+            "name": "Centro Sportivo Parma FC",
+            "city": "Collecchio"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 35",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 26437,
+            "name": "Parma U20",
+            "logo": "https://media.api-sports.io/football/teams/26437.png",
+            "winner": true
+          },
+          "away": {
+            "id": 24729,
+            "name": "Cremonese U20",
+            "logo": "https://media.api-sports.io/football/teams/24729.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404616,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-04-20T14:00:00+00:00",
+          "timestamp": 1776693600,
+          "periods": {
+            "first": 1776693600,
+            "second": 1776697200
+          },
+          "venue": {
+            "id": 22327,
+            "name": "Stadio Carillo Pesenti Pigna",
+            "city": "Alzano Lombardo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 34",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24725,
+            "name": "Atalanta U20",
+            "logo": "https://media.api-sports.io/football/teams/24725.png",
+            "winner": true
+          },
+          "away": {
+            "id": 26437,
+            "name": "Parma U20",
+            "logo": "https://media.api-sports.io/football/teams/26437.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404611,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-04-12T09:00:00+00:00",
+          "timestamp": 1775984400,
+          "periods": {
+            "first": 1775984400,
+            "second": 1775988000
+          },
+          "venue": {
+            "id": 20921,
+            "name": "Centro Sportivo Parma FC",
+            "city": "Collecchio"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 33",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 26437,
+            "name": "Parma U20",
+            "logo": "https://media.api-sports.io/football/teams/26437.png",
+            "winner": true
+          },
+          "away": {
+            "id": 24744,
+            "name": "Juventus U20",
+            "logo": "https://media.api-sports.io/football/teams/24744.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1522301,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-04-08T16:30:00+00:00",
+          "timestamp": 1775665800,
+          "periods": {
+            "first": 1775665800,
+            "second": 1775669400
+          },
+          "venue": {
+            "id": null,
+            "name": "Juventus Training Center",
+            "city": "Turin"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 704,
+          "name": "Coppa Italia Primavera",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/704.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Semi-finals",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 24744,
+            "name": "Juventus U20",
+            "logo": "https://media.api-sports.io/football/teams/24744.png",
+            "winner": true
+          },
+          "away": {
+            "id": 26437,
+            "name": "Parma U20",
+            "logo": "https://media.api-sports.io/football/teams/26437.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404596,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-04-04T09:00:00+00:00",
+          "timestamp": 1775293200,
+          "periods": {
+            "first": 1775293200,
+            "second": 1775296800
+          },
+          "venue": {
+            "id": 21167,
+            "name": "Campioni d'Italia 1969/70 Asseminello",
+            "city": "Cagliari"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24727,
+            "name": "Cagliari U20",
+            "logo": "https://media.api-sports.io/football/teams/24727.png",
+            "winner": false
+          },
+          "away": {
+            "id": 26437,
+            "name": "Parma U20",
+            "logo": "https://media.api-sports.io/football/teams/26437.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1404591,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-22T14:00:00+00:00",
+          "timestamp": 1774188000,
+          "periods": {
+            "first": 1774188000,
+            "second": 1774191600
+          },
+          "venue": {
+            "id": null,
+            "name": "Centro Sportivo Romagna Centro",
+            "city": "Cesena"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 705,
+          "name": "Campionato Primavera - 1",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/705.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 31",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 24728,
+            "name": "Cesena U20",
+            "logo": "https://media.api-sports.io/football/teams/24728.png",
+            "winner": null
+          },
+          "away": {
+            "id": 26437,
+            "name": "Parma U20",
+            "logo": "https://media.api-sports.io/football/teams/26437.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
           },
           "extratime": {
             "home": null,

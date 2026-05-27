@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T02:21:37.742Z",
+  "generatedAt": "2026-05-27T02:22:36.978Z",
   "picks": [
     {
       "fixtureId": 1546312,
@@ -60,7 +60,7 @@
       "fixtureId": 1546354,
       "leagueId": 107,
       "season": 2025,
-      "kickoffTs": 1779982200,
+      "kickoffTs": 1779993000,
       "homeTeamId": 17115,
       "homeTeam": "Wieczysta Kraków",
       "awayTeamId": 16239,
@@ -73,6 +73,25 @@
       "type": "over25",
       "label": "Toplam 2.5 Üst",
       "prob": 0.5153
+    },
+    {
+      "fixtureId": 1546512,
+      "leagueId": 705,
+      "season": 2025,
+      "kickoffTs": 1779993000,
+      "homeTeamId": 24731,
+      "homeTeam": "Fiorentina U20",
+      "awayTeamId": 26437,
+      "awayTeam": "Parma U20",
+      "expectedHome": 2.418,
+      "expectedAway": 1.247,
+      "expectedTotal": 3.665,
+      "teamGoalsHomeLambda": 2.675,
+      "teamGoalsAwayLambda": 1.348,
+      "type": "away15",
+      "label": "Parma U20 1.5 Üst",
+      "prob": 0.3901,
+      "side": "away"
     },
     {
       "fixtureId": 1545404,

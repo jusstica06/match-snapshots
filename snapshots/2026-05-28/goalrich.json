@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-26T02:21:36.115Z",
+  "generatedAt": "2026-05-27T02:22:35.039Z",
   "ymd": "2026-05-28",
   "matches": [
+    {
+      "fixtureId": 1546512,
+      "leagueId": 705,
+      "season": 2025,
+      "kickoffTs": 1779993000000,
+      "homeTeamId": 24731,
+      "awayTeamId": 26437,
+      "homeTeam": "Fiorentina U20",
+      "awayTeam": "Parma U20",
+      "expectedHome": 2.418,
+      "expectedAway": 1.247,
+      "expectedTotal": 3.665,
+      "probOver25": 0.5840022538949351,
+      "probOver35": 0.52932,
+      "probBTTS": 0.6673800000000001
+    },
     {
       "fixtureId": 1546353,
       "leagueId": 107,
@@ -22,7 +38,7 @@
       "fixtureId": 1546354,
       "leagueId": 107,
       "season": 2025,
-      "kickoffTs": 1779982200000,
+      "kickoffTs": 1779993000000,
       "homeTeamId": 17115,
       "awayTeamId": 16239,
       "homeTeam": "Wieczysta Kraków",
@@ -83,8 +99,41 @@
       "probBTTS": 0.41072000000000003
     }
   ],
-  "topOver25": [],
+  "topOver25": [
+    {
+      "fixtureId": 1546512,
+      "leagueId": 705,
+      "season": 2025,
+      "kickoffTs": 1779993000000,
+      "homeTeamId": 24731,
+      "awayTeamId": 26437,
+      "homeTeam": "Fiorentina U20",
+      "awayTeam": "Parma U20",
+      "expectedHome": 2.418,
+      "expectedAway": 1.247,
+      "expectedTotal": 3.665,
+      "probOver25": 0.5840022538949351,
+      "probOver35": 0.52932,
+      "probBTTS": 0.6673800000000001
+    }
+  ],
   "topBTTS": [
+    {
+      "fixtureId": 1546512,
+      "leagueId": 705,
+      "season": 2025,
+      "kickoffTs": 1779993000000,
+      "homeTeamId": 24731,
+      "awayTeamId": 26437,
+      "homeTeam": "Fiorentina U20",
+      "awayTeam": "Parma U20",
+      "expectedHome": 2.418,
+      "expectedAway": 1.247,
+      "expectedTotal": 3.665,
+      "probOver25": 0.5840022538949351,
+      "probOver35": 0.52932,
+      "probBTTS": 0.6673800000000001
+    },
     {
       "fixtureId": 1546353,
       "leagueId": 107,
@@ -105,7 +154,7 @@
       "fixtureId": 1546354,
       "leagueId": 107,
       "season": 2025,
-      "kickoffTs": 1779982200000,
+      "kickoffTs": 1779993000000,
       "homeTeamId": 17115,
       "awayTeamId": 16239,
       "homeTeam": "Wieczysta Kraków",
