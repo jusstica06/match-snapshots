@@ -6304,7 +6304,11 @@
       "lineups": [
         {
           "formation": "4-4-2",
-          "played": 10
+          "played": 9
+        },
+        {
+          "formation": "4-2-3-1",
+          "played": 1
         }
       ],
       "cards": {
@@ -7305,11 +7309,11 @@
       },
       "lineups": [
         {
-          "formation": "4-2-3-1",
+          "formation": "4-4-2",
           "played": 5
         },
         {
-          "formation": "4-4-2",
+          "formation": "4-2-3-1",
           "played": 4
         }
       ],
@@ -16214,12 +16218,12 @@
         "name": "Saint Etienne",
         "logo": "https://media.api-sports.io/football/teams/1063.png"
       },
-      "form": "W",
+      "form": "WD",
       "fixtures": {
         "played": {
-          "home": 1,
+          "home": 2,
           "away": 0,
-          "total": 1
+          "total": 2
         },
         "wins": {
           "home": 1,
@@ -16227,9 +16231,9 @@
           "total": 1
         },
         "draws": {
-          "home": 0,
+          "home": 1,
           "away": 0,
-          "total": 0
+          "total": 1
         },
         "loses": {
           "home": 0,
@@ -16245,9 +16249,9 @@
             "total": 1
           },
           "average": {
-            "home": "1.0",
+            "home": "0.5",
             "away": "0.0",
-            "total": "1.0"
+            "total": "0.5"
           },
           "minute": {
             "0-15": {
@@ -16286,23 +16290,23 @@
           "under_over": {
             "0.5": {
               "over": 1,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "2.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "3.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "4.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             }
           }
         },
@@ -16354,23 +16358,23 @@
           "under_over": {
             "0.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "1.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "2.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "3.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "4.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             }
           }
         }
@@ -16401,14 +16405,14 @@
         }
       },
       "clean_sheet": {
+        "home": 2,
+        "away": 0,
+        "total": 2
+      },
+      "failed_to_score": {
         "home": 1,
         "away": 0,
         "total": 1
-      },
-      "failed_to_score": {
-        "home": 0,
-        "away": 0,
-        "total": 0
       },
       "penalty": {
         "scored": {
@@ -16424,7 +16428,7 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 1
+          "played": 2
         }
       ],
       "cards": {
@@ -16446,7 +16450,7 @@
             "percentage": null
           },
           "61-75": {
-            "total": 1,
+            "total": 2,
             "percentage": "100.00%"
           },
           "76-90": {
@@ -19474,10 +19478,14 @@
       "lineups": [
         {
           "formation": "3-4-3",
-          "played": 9
+          "played": 8
         },
         {
           "formation": "5-4-1",
+          "played": 1
+        },
+        {
+          "formation": "3-4-1-2",
           "played": 1
         }
       ],
@@ -20327,12 +20335,12 @@
               "percentage": "18.18%"
             },
             "76-90": {
-              "total": 3,
-              "percentage": "27.27%"
+              "total": 4,
+              "percentage": "36.36%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "9.09%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -20480,11 +20488,11 @@
       "lineups": [
         {
           "formation": "5-4-1",
-          "played": 4
+          "played": 5
         },
         {
           "formation": "5-3-2",
-          "played": 3
+          "played": 2
         },
         {
           "formation": "3-5-2",
