@@ -1,9 +1,442 @@
 {
-  "generatedAt": "2026-06-04T02:21:16.341Z",
-  "totalTeams": 22,
-  "totalLeagues": 2,
-  "teamsWithFallback": 12,
+  "generatedAt": "2026-06-04T17:11:38.464Z",
+  "totalTeams": 83,
+  "totalLeagues": 3,
+  "teamsWithFallback": 73,
   "data": {
+    "1": {
+      "teamId": 1,
+      "teamName": "Belgium",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 25458,
+          "name": "D. Lukebakio",
+          "photo": "https://media.api-sports.io/football/players/25458.png",
+          "goals": 3,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 2926,
+          "name": "Y. Tielemans",
+          "photo": "https://media.api-sports.io/football/players/2926.png",
+          "assists": 1,
+          "appearances": 3
+        },
+        "mostCards": {
+          "id": 2920,
+          "name": "T. Castagne",
+          "photo": "https://media.api-sports.io/football/players/2920.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 25458,
+          "name": "D. Lukebakio",
+          "photo": "https://media.api-sports.io/football/players/25458.png",
+          "goals": 3,
+          "appearances": 2
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 2926,
+          "name": "Y. Tielemans",
+          "photo": "https://media.api-sports.io/football/players/2926.png",
+          "assists": 1,
+          "appearances": 3
+        }
+      ]
+    },
+    "6": {
+      "teamId": 6,
+      "teamName": "Brazil",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 1496,
+          "name": "Raphinha",
+          "photo": "https://media.api-sports.io/football/players/1496.png",
+          "goals": 5,
+          "appearances": 13
+        },
+        "topAssist": {
+          "id": 747,
+          "name": "Casemiro",
+          "photo": "https://media.api-sports.io/football/players/747.png",
+          "assists": 1,
+          "appearances": 3
+        },
+        "mostCards": {
+          "id": 747,
+          "name": "Casemiro",
+          "photo": "https://media.api-sports.io/football/players/747.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": [
+        {
+          "id": 747,
+          "name": "Casemiro",
+          "photo": "https://media.api-sports.io/football/players/747.png",
+          "assists": 1,
+          "appearances": 3
+        },
+        {
+          "id": 762,
+          "name": "Vinícius Júnior",
+          "photo": "https://media.api-sports.io/football/players/762.png",
+          "assists": 1,
+          "appearances": 3
+        }
+      ]
+    },
+    "10": {
+      "teamId": 10,
+      "teamName": "England",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 19545,
+          "name": "R. James",
+          "photo": "https://media.api-sports.io/football/players/19545.png",
+          "goals": 1,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 2937,
+          "name": "D. Rice",
+          "photo": "https://media.api-sports.io/football/players/2937.png",
+          "assists": 2,
+          "appearances": 2
+        },
+        "mostCards": {
+          "id": 129718,
+          "name": "J. Bellingham",
+          "photo": "https://media.api-sports.io/football/players/129718.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "11": {
+      "teamId": 11,
+      "teamName": "Panama",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 2979,
+          "name": "J. Rodríguez",
+          "photo": "https://media.api-sports.io/football/players/2979.png",
+          "goals": 3,
+          "appearances": 9
+        },
+        "topAssist": {
+          "id": 2973,
+          "name": "A. Murillo",
+          "photo": "https://media.api-sports.io/football/players/2973.png",
+          "assists": 3,
+          "appearances": 8
+        },
+        "mostCards": {
+          "id": 2979,
+          "name": "J. Rodríguez",
+          "photo": "https://media.api-sports.io/football/players/2979.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "15": {
+      "teamId": 15,
+      "teamName": "Switzerland",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 48648,
+          "name": "D. Ndoye",
+          "photo": "https://media.api-sports.io/football/players/48648.png",
+          "goals": 2,
+          "appearances": 3
+        },
+        "topAssist": {
+          "id": 48378,
+          "name": "S. Widmer",
+          "photo": "https://media.api-sports.io/football/players/48378.png",
+          "assists": 1,
+          "appearances": 3
+        },
+        "mostCards": null
+      },
+      "topScorers": [
+        {
+          "id": 48648,
+          "name": "D. Ndoye",
+          "photo": "https://media.api-sports.io/football/players/48648.png",
+          "goals": 2,
+          "appearances": 3
+        },
+        {
+          "id": 421,
+          "name": "B. Embolo",
+          "photo": "https://media.api-sports.io/football/players/421.png",
+          "goals": 2,
+          "appearances": 3
+        }
+      ],
+      "topAssists": []
+    },
+    "20": {
+      "teamId": 20,
+      "teamName": "Australia",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 2749,
+          "name": "J. Irvine",
+          "photo": "https://media.api-sports.io/football/players/2749.png",
+          "goals": 3,
+          "appearances": 14
+        },
+        "topAssist": {
+          "id": 6888,
+          "name": "C. Goodwin",
+          "photo": "https://media.api-sports.io/football/players/6888.png",
+          "assists": 5,
+          "appearances": 9
+        },
+        "mostCards": {
+          "id": 6984,
+          "name": "K. Baccus",
+          "photo": "https://media.api-sports.io/football/players/6984.png",
+          "yellowCards": 4,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "25": {
+      "teamId": 25,
+      "teamName": "Germany",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 203224,
+          "name": "F. Wirtz",
+          "photo": "https://media.api-sports.io/football/players/203224.png",
+          "goals": 3,
+          "appearances": 3
+        },
+        "topAssist": {
+          "id": 203224,
+          "name": "F. Wirtz",
+          "photo": "https://media.api-sports.io/football/players/203224.png",
+          "assists": 2,
+          "appearances": 3
+        },
+        "mostCards": {
+          "id": 26243,
+          "name": "N. Schlotterbeck",
+          "photo": "https://media.api-sports.io/football/players/26243.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 203224,
+          "name": "F. Wirtz",
+          "photo": "https://media.api-sports.io/football/players/203224.png",
+          "goals": 3,
+          "appearances": 3
+        },
+        {
+          "id": 26475,
+          "name": "D. Undav",
+          "photo": "https://media.api-sports.io/football/players/26475.png",
+          "goals": 3,
+          "appearances": 2
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 203224,
+          "name": "F. Wirtz",
+          "photo": "https://media.api-sports.io/football/players/203224.png",
+          "assists": 2,
+          "appearances": 3
+        },
+        {
+          "id": 26475,
+          "name": "D. Undav",
+          "photo": "https://media.api-sports.io/football/players/26475.png",
+          "assists": 1,
+          "appearances": 2
+        }
+      ]
+    },
+    "27": {
+      "teamId": 27,
+      "teamName": "Portugal",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 41112,
+          "name": "Trincão",
+          "photo": "https://media.api-sports.io/football/players/41112.png",
+          "goals": 1,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 1485,
+          "name": "Bruno Fernandes",
+          "photo": "https://media.api-sports.io/football/players/1485.png",
+          "assists": 1,
+          "appearances": 2
+        },
+        "mostCards": {
+          "id": 855,
+          "name": "João Cancelo",
+          "photo": "https://media.api-sports.io/football/players/855.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "28": {
+      "teamId": 28,
+      "teamName": "Tunisia",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": {
+          "id": 310196,
+          "name": "Ismaël Gharbi",
+          "photo": "https://media.api-sports.io/football/players/310196.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "30": {
+      "teamId": 30,
+      "teamName": "Peru",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 36308,
+          "name": "J. Vélez",
+          "photo": "https://media.api-sports.io/football/players/36308.png",
+          "goals": 2,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 2436,
+          "name": "A. Polo",
+          "photo": "https://media.api-sports.io/football/players/2436.png",
+          "assists": 1,
+          "appearances": 13
+        },
+        "mostCards": {
+          "id": 2419,
+          "name": "L. Advíncula",
+          "photo": "https://media.api-sports.io/football/players/2419.png",
+          "yellowCards": 3,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 36308,
+          "name": "J. Vélez",
+          "photo": "https://media.api-sports.io/football/players/36308.png",
+          "goals": 2,
+          "appearances": 2
+        }
+      ],
+      "topAssists": []
+    },
+    "32": {
+      "teamId": 32,
+      "teamName": "Egypt",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 2664,
+          "name": "Trézéguet",
+          "photo": "https://media.api-sports.io/football/players/2664.png",
+          "goals": 1,
+          "appearances": 3
+        },
+        "topAssist": {
+          "id": 2654,
+          "name": "Mohamed Hany",
+          "photo": "https://media.api-sports.io/football/players/2654.png",
+          "assists": 2,
+          "appearances": 3
+        },
+        "mostCards": {
+          "id": 16813,
+          "name": "Hamdi Fathy",
+          "photo": "https://media.api-sports.io/football/players/16813.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": [
+        {
+          "id": 2654,
+          "name": "Mohamed Hany",
+          "photo": "https://media.api-sports.io/football/players/2654.png",
+          "assists": 2,
+          "appearances": 3
+        },
+        {
+          "id": 16871,
+          "name": "Zizo",
+          "photo": "https://media.api-sports.io/football/players/16871.png",
+          "assists": 1,
+          "appearances": 3
+        }
+      ]
+    },
     "281": {
       "teamId": 281,
       "teamName": "Kashiwa Reysol",
@@ -1013,6 +1446,783 @@
         }
       ]
     },
+    "767": {
+      "teamId": 767,
+      "teamName": "Wales",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 423,
+          "name": "R. Matondo",
+          "photo": "https://media.api-sports.io/football/players/423.png",
+          "goals": 1,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 18599,
+          "name": "S. Thomas",
+          "photo": "https://media.api-sports.io/football/players/18599.png",
+          "assists": 2,
+          "appearances": 2
+        },
+        "mostCards": {
+          "id": 328074,
+          "name": "J. James",
+          "photo": "https://media.api-sports.io/football/players/328074.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "774": {
+      "teamId": 774,
+      "teamName": "Romania",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 2118,
+          "name": "R. Marin",
+          "photo": "https://media.api-sports.io/football/players/2118.png",
+          "goals": 1,
+          "appearances": 2
+        },
+        "topAssist": null,
+        "mostCards": {
+          "id": 42500,
+          "name": "A. Șut",
+          "photo": "https://media.api-sports.io/football/players/42500.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "777": {
+      "teamId": 777,
+      "teamName": "Türkiye",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 37155,
+          "name": "O. Kökçü",
+          "photo": "https://media.api-sports.io/football/players/37155.png",
+          "goals": 1,
+          "appearances": 1
+        },
+        "topAssist": {
+          "id": 49857,
+          "name": "İ. Kahveci",
+          "photo": "https://media.api-sports.io/football/players/49857.png",
+          "assists": 1,
+          "appearances": 1
+        },
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "778": {
+      "teamId": 778,
+      "teamName": "Albania",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 46725,
+          "name": "R. Manaj",
+          "photo": "https://media.api-sports.io/football/players/46725.png",
+          "goals": 2,
+          "appearances": 1
+        },
+        "topAssist": {
+          "id": 105993,
+          "name": "A. Hoxha",
+          "photo": "https://media.api-sports.io/football/players/105993.png",
+          "assists": 1,
+          "appearances": 2
+        },
+        "mostCards": {
+          "id": 30421,
+          "name": "B. Djimsiti",
+          "photo": "https://media.api-sports.io/football/players/30421.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1093": {
+      "teamId": 1093,
+      "teamName": "Gibraltar",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 321076,
+          "name": "D. Bent",
+          "photo": "https://media.api-sports.io/football/players/321076.png",
+          "goals": 1,
+          "appearances": 2
+        },
+        "topAssist": null,
+        "mostCards": {
+          "id": 55925,
+          "name": "E. Britto",
+          "photo": "https://media.api-sports.io/football/players/55925.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1094": {
+      "teamId": 1094,
+      "teamName": "Armenia",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1095": {
+      "teamId": 1095,
+      "teamName": "Kazakhstan",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 70345,
+          "name": "A. Tagybergen",
+          "photo": "https://media.api-sports.io/football/players/70345.png",
+          "goals": 1,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 97575,
+          "name": "M. Bystrov",
+          "photo": "https://media.api-sports.io/football/players/97575.png",
+          "assists": 1,
+          "appearances": 2
+        },
+        "mostCards": {
+          "id": 111495,
+          "name": "R. Orazov",
+          "photo": "https://media.api-sports.io/football/players/111495.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1102": {
+      "teamId": 1102,
+      "teamName": "Luxembourg",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": {
+          "id": 55880,
+          "name": "D. Carlson",
+          "photo": "https://media.api-sports.io/football/players/55880.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1108": {
+      "teamId": 1108,
+      "teamName": "Scotland",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 45175,
+          "name": "L. Shankland",
+          "photo": "https://media.api-sports.io/football/players/45175.png",
+          "goals": 2,
+          "appearances": 1
+        },
+        "topAssist": {
+          "id": 19077,
+          "name": "K. McLean",
+          "photo": "https://media.api-sports.io/football/players/19077.png",
+          "assists": 1,
+          "appearances": 3
+        },
+        "mostCards": {
+          "id": 19077,
+          "name": "K. McLean",
+          "photo": "https://media.api-sports.io/football/players/19077.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 45175,
+          "name": "L. Shankland",
+          "photo": "https://media.api-sports.io/football/players/45175.png",
+          "goals": 2,
+          "appearances": 1
+        }
+      ],
+      "topAssists": []
+    },
+    "1113": {
+      "teamId": 1113,
+      "teamName": "Bosnia & Herzegovina",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 46930,
+          "name": "E. Demirović",
+          "photo": "https://media.api-sports.io/football/players/46930.png",
+          "goals": 1,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 50067,
+          "name": "H. Hajradinović",
+          "photo": "https://media.api-sports.io/football/players/50067.png",
+          "assists": 1,
+          "appearances": 1
+        },
+        "mostCards": {
+          "id": 1324,
+          "name": "I. Šunjić",
+          "photo": "https://media.api-sports.io/football/players/1324.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1495": {
+      "teamId": 1495,
+      "teamName": "Malawi",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1499": {
+      "teamId": 1499,
+      "teamName": "Sierra Leone",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1506": {
+      "teamId": 1506,
+      "teamName": "Ethiopia",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1511": {
+      "teamId": 1511,
+      "teamName": "Kenya",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1514": {
+      "teamId": 1514,
+      "teamName": "Rwanda",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 8728,
+          "name": "D. Bizimana",
+          "photo": "https://media.api-sports.io/football/players/8728.png",
+          "goals": 1,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 8728,
+          "name": "D. Bizimana",
+          "photo": "https://media.api-sports.io/football/players/8728.png",
+          "assists": 1,
+          "appearances": 2
+        },
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1524": {
+      "teamId": 1524,
+      "teamName": "Comoros",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1525": {
+      "teamId": 1525,
+      "teamName": "Liberia",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1533": {
+      "teamId": 1533,
+      "teamName": "Cape Verde Islands",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1554": {
+      "teamId": 1554,
+      "teamName": "Kyrgyzstan",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 164293,
+          "name": "J. Kojo",
+          "photo": "https://media.api-sports.io/football/players/164293.png",
+          "goals": 3,
+          "appearances": 0
+        },
+        "topAssist": {
+          "id": 123830,
+          "name": "K. Zhyrgalbek",
+          "photo": "https://media.api-sports.io/football/players/123830.png",
+          "assists": 1,
+          "appearances": 13
+        },
+        "mostCards": {
+          "id": 140836,
+          "name": "O. Abdurakhmanov",
+          "photo": "https://media.api-sports.io/football/players/140836.png",
+          "yellowCards": 4,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1556": {
+      "teamId": 1556,
+      "teamName": "Myanmar",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": {
+          "id": 401919,
+          "name": "Wai Lin Aung",
+          "photo": "https://media.api-sports.io/football/players/401919.png",
+          "yellowCards": 4,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1562": {
+      "teamId": 1562,
+      "teamName": "Palestine",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 36631,
+          "name": "Tamer Seyam",
+          "photo": "https://media.api-sports.io/football/players/36631.png",
+          "goals": 2,
+          "appearances": 10
+        },
+        "topAssist": {
+          "id": 11612,
+          "name": "C. Saldaña",
+          "photo": "https://media.api-sports.io/football/players/11612.png",
+          "assists": 1,
+          "appearances": 0
+        },
+        "mostCards": {
+          "id": 11612,
+          "name": "C. Saldaña",
+          "photo": "https://media.api-sports.io/football/players/11612.png",
+          "yellowCards": 5,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1569": {
+      "teamId": 1569,
+      "teamName": "Qatar",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 2530,
+          "name": "Pedro Miguel",
+          "photo": "https://media.api-sports.io/football/players/2530.png",
+          "goals": 2,
+          "appearances": 9
+        },
+        "topAssist": {
+          "id": 2532,
+          "name": "Boualem Khoukhi",
+          "photo": "https://media.api-sports.io/football/players/2532.png",
+          "assists": 1,
+          "appearances": 9
+        },
+        "mostCards": {
+          "id": 2543,
+          "name": "Almoez Ali",
+          "photo": "https://media.api-sports.io/football/players/2543.png",
+          "yellowCards": 0,
+          "redCards": 1
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2379": {
+      "teamId": 2379,
+      "teamName": "Venezuela",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2381": {
+      "teamId": 2381,
+      "teamName": "Bolivia",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": {
+          "id": 404870,
+          "name": "R. Matheus",
+          "photo": "https://media.api-sports.io/football/players/404870.png",
+          "yellowCards": 0,
+          "redCards": 1
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2383": {
+      "teamId": 2383,
+      "teamName": "Chile",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2384": {
+      "teamId": 2384,
+      "teamName": "USA",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 17,
+          "name": "C. Pulišić",
+          "photo": "https://media.api-sports.io/football/players/17.png",
+          "goals": 1,
+          "appearances": 3
+        },
+        "topAssist": {
+          "id": 73868,
+          "name": "R. Pepi",
+          "photo": "https://media.api-sports.io/football/players/73868.png",
+          "assists": 2,
+          "appearances": 2
+        },
+        "mostCards": {
+          "id": 17,
+          "name": "C. Pulišić",
+          "photo": "https://media.api-sports.io/football/players/17.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": [
+        {
+          "id": 73868,
+          "name": "R. Pepi",
+          "photo": "https://media.api-sports.io/football/players/73868.png",
+          "assists": 2,
+          "appearances": 2
+        },
+        {
+          "id": 17,
+          "name": "C. Pulišić",
+          "photo": "https://media.api-sports.io/football/players/17.png",
+          "assists": 1,
+          "appearances": 3
+        }
+      ]
+    },
+    "2386": {
+      "teamId": 2386,
+      "teamName": "Haiti",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 128766,
+          "name": "L. Deedson",
+          "photo": "https://media.api-sports.io/football/players/128766.png",
+          "goals": 4,
+          "appearances": 10
+        },
+        "topAssist": {
+          "id": 45020,
+          "name": "D. Nazon",
+          "photo": "https://media.api-sports.io/football/players/45020.png",
+          "assists": 2,
+          "appearances": 10
+        },
+        "mostCards": {
+          "id": 20850,
+          "name": "C. Arcus",
+          "photo": "https://media.api-sports.io/football/players/20850.png",
+          "yellowCards": 3,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "4673": {
+      "teamId": 4673,
+      "teamName": "New Zealand",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 94333,
+          "name": "E. Just",
+          "photo": "https://media.api-sports.io/football/players/94333.png",
+          "goals": 4,
+          "appearances": 5
+        },
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "5158": {
+      "teamId": 5158,
+      "teamName": "Bermuda",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 105863,
+          "name": "D. Parfitt-Williams",
+          "photo": "https://media.api-sports.io/football/players/105863.png",
+          "goals": 3,
+          "appearances": 1
+        },
+        "topAssist": {
+          "id": 105863,
+          "name": "D. Parfitt-Williams",
+          "photo": "https://media.api-sports.io/football/players/105863.png",
+          "assists": 2,
+          "appearances": 1
+        },
+        "mostCards": {
+          "id": 60444,
+          "name": "R. Lee",
+          "photo": "https://media.api-sports.io/football/players/60444.png",
+          "yellowCards": 3,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "5159": {
+      "teamId": 5159,
+      "teamName": "El Salvador",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 49036,
+          "name": "N. Bonilla",
+          "photo": "https://media.api-sports.io/football/players/49036.png",
+          "goals": 1,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 103018,
+          "name": "N. Blanco",
+          "photo": "https://media.api-sports.io/football/players/103018.png",
+          "assists": 1,
+          "appearances": 2
+        },
+        "mostCards": {
+          "id": 49036,
+          "name": "N. Bonilla",
+          "photo": "https://media.api-sports.io/football/players/49036.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "5160": {
+      "teamId": 5160,
+      "teamName": "Fiji",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 198519,
+          "name": "M. Nand",
+          "photo": "https://media.api-sports.io/football/players/198519.png",
+          "goals": 1,
+          "appearances": 2
+        },
+        "topAssist": null,
+        "mostCards": {
+          "id": 140734,
+          "name": "S. Cavuilagi",
+          "photo": "https://media.api-sports.io/football/players/140734.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "5170": {
+      "teamId": 5170,
+      "teamName": "Vanuatu",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": {
+          "id": 38831,
+          "name": "B. Kaltak",
+          "photo": "https://media.api-sports.io/football/players/38831.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
     "5254": {
       "teamId": 5254,
       "teamName": "Castellón",
@@ -1074,6 +2284,282 @@
           "appearances": 41
         }
       ]
+    },
+    "8119": {
+      "teamId": 8119,
+      "teamName": "Guam",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": {
+          "id": 414925,
+          "name": "D. Agustin",
+          "photo": "https://media.api-sports.io/football/players/414925.png",
+          "yellowCards": 0,
+          "redCards": 1
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "8169": {
+      "teamId": 8169,
+      "teamName": "Cayman Islands",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 369816,
+          "name": "J. Campbell",
+          "photo": "https://media.api-sports.io/football/players/369816.png",
+          "goals": 1,
+          "appearances": 0
+        },
+        "topAssist": {
+          "id": 195826,
+          "name": "T. Ebanks",
+          "photo": "https://media.api-sports.io/football/players/195826.png",
+          "assists": 1,
+          "appearances": 0
+        },
+        "mostCards": {
+          "id": 195818,
+          "name": "J. Campbell",
+          "photo": "https://media.api-sports.io/football/players/195818.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "8181": {
+      "teamId": 8181,
+      "teamName": "Azerbaijan U21",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "8186": {
+      "teamId": 8186,
+      "teamName": "Croatia U21",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "8203": {
+      "teamId": 8203,
+      "teamName": "Kosovo U21",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "8207": {
+      "teamId": 8207,
+      "teamName": "Luxembourg U21",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "8217": {
+      "teamId": 8217,
+      "teamName": "Republic of Ireland U21",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "10177": {
+      "teamId": 10177,
+      "teamName": "Korea Republic U23",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "10297": {
+      "teamId": 10297,
+      "teamName": "Panama U20",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "10361": {
+      "teamId": 10361,
+      "teamName": "Estonia U19",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "10370": {
+      "teamId": 10370,
+      "teamName": "Lithuania U19",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "10932": {
+      "teamId": 10932,
+      "teamName": "China PR U23",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "10959": {
+      "teamId": 10959,
+      "teamName": "Tajikistan U23",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "10960": {
+      "teamId": 10960,
+      "teamName": "Thailand U23",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "19624": {
+      "teamId": 19624,
+      "teamName": "Bahrain U20",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "19627": {
+      "teamId": 19627,
+      "teamName": "Jordan U20",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "21465": {
+      "teamId": 21465,
+      "teamName": "Czech Republic U18",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "21477": {
+      "teamId": 21477,
+      "teamName": "Romania U18",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
     }
   }
 }
