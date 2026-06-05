@@ -45227,12 +45227,12 @@
         "name": "Kenya",
         "logo": "https://media.api-sports.io/football/teams/1511.png"
       },
-      "form": null,
+      "form": "D",
       "fixtures": {
         "played": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         },
         "wins": {
           "home": 0,
@@ -45241,8 +45241,8 @@
         },
         "draws": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         },
         "loses": {
           "home": 0,
@@ -45254,18 +45254,18 @@
         "for": {
           "total": {
             "home": 0,
-            "away": 0,
-            "total": 0
+            "away": 1,
+            "total": 1
           },
           "average": {
             "home": "0.0",
-            "away": "0.0",
-            "total": "0.0"
+            "away": "1.0",
+            "total": "1.0"
           },
           "minute": {
             "0-15": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "16-30": {
               "total": null,
@@ -45298,37 +45298,37 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         },
         "against": {
           "total": {
             "home": 0,
-            "away": 0,
-            "total": 0
+            "away": 1,
+            "total": 1
           },
           "average": {
             "home": "0.0",
-            "away": "0.0",
-            "total": "0.0"
+            "away": "1.0",
+            "total": "1.0"
           },
           "minute": {
             "0-15": {
@@ -45348,8 +45348,8 @@
               "percentage": null
             },
             "61-75": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "76-90": {
               "total": null,
@@ -45366,24 +45366,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         }
@@ -45391,7 +45391,7 @@
       "biggest": {
         "streak": {
           "wins": 0,
-          "draws": 0,
+          "draws": 1,
           "loses": 0
         },
         "wins": {
@@ -45405,11 +45405,11 @@
         "goals": {
           "for": {
             "home": 0,
-            "away": 0
+            "away": 1
           },
           "against": {
             "home": 0,
-            "away": 0
+            "away": 1
           }
         }
       },
@@ -45434,7 +45434,12 @@
         },
         "total": 0
       },
-      "lineups": [],
+      "lineups": [
+        {
+          "formation": "3-4-3",
+          "played": 1
+        }
+      ],
       "cards": {
         "yellow": {
           "0-15": {
@@ -45442,8 +45447,8 @@
             "percentage": null
           },
           "16-30": {
-            "total": null,
-            "percentage": null
+            "total": 1,
+            "percentage": "50.00%"
           },
           "31-45": {
             "total": null,
@@ -45454,8 +45459,8 @@
             "percentage": null
           },
           "61-75": {
-            "total": null,
-            "percentage": null
+            "total": 1,
+            "percentage": "50.00%"
           },
           "76-90": {
             "total": null,
@@ -73306,13 +73311,13 @@
         "against": {
           "total": {
             "home": 0,
-            "away": 2,
-            "total": 2
+            "away": 1,
+            "total": 1
           },
           "average": {
             "home": "0.0",
-            "away": "2.0",
-            "total": "2.0"
+            "away": "1.0",
+            "total": "1.0"
           },
           "minute": {
             "0-15": {
@@ -73354,8 +73359,8 @@
               "under": 0
             },
             "1.5": {
-              "over": 1,
-              "under": 0
+              "over": 0,
+              "under": 1
             },
             "2.5": {
               "over": 0,
@@ -73384,7 +73389,7 @@
         },
         "loses": {
           "home": null,
-          "away": "2-0"
+          "away": "1-0"
         },
         "goals": {
           "for": {
@@ -73393,7 +73398,7 @@
           },
           "against": {
             "home": 0,
-            "away": 2
+            "away": 1
           }
         }
       },
@@ -73491,6 +73496,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1548422,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-04T14:00:00+00:00",
+          "timestamp": 1780581600,
+          "periods": {
+            "first": 1780581600,
+            "second": 1780585200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 19626,
+            "name": "Iraq U20",
+            "logo": "https://media.api-sports.io/football/teams/19626.png",
+            "winner": true
+          },
+          "away": {
+            "id": 10297,
+            "name": "Panama U20",
+            "logo": "https://media.api-sports.io/football/teams/10297.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1377337,
@@ -74110,76 +74185,6 @@
           "fulltime": {
             "home": 1,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1195125,
-          "referee": "C. Sobers",
-          "timezone": "UTC",
-          "date": "2024-07-24T23:00:00+00:00",
-          "timestamp": 1721862000,
-          "periods": {
-            "first": 1721862000,
-            "second": 1721865600
-          },
-          "venue": {
-            "id": 11246,
-            "name": "Estadio Sergio León Chávez",
-            "city": "Irapuato"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 537,
-          "name": "CONCACAF U20",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/537.png",
-          "flag": null,
-          "season": 2023,
-          "round": "Group Stage - 2",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 11003,
-            "name": "Haiti U20",
-            "logo": "https://media.api-sports.io/football/teams/11003.png",
-            "winner": false
-          },
-          "away": {
-            "id": 10297,
-            "name": "Panama U20",
-            "logo": "https://media.api-sports.io/football/teams/10297.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 3
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 3
           },
           "extratime": {
             "home": null,
