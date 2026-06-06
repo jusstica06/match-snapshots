@@ -21093,12 +21093,12 @@
         "name": "Oman",
         "logo": "https://media.api-sports.io/football/teams/1552.png"
       },
-      "form": null,
+      "form": "L",
       "fixtures": {
         "played": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         },
         "wins": {
           "home": 0,
@@ -21112,8 +21112,8 @@
         },
         "loses": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         }
       },
       "goals": {
@@ -21165,53 +21165,53 @@
           "under_over": {
             "0.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         },
         "against": {
           "total": {
             "home": 0,
-            "away": 0,
-            "total": 0
+            "away": 3,
+            "total": 3
           },
           "average": {
             "home": "0.0",
-            "away": "0.0",
-            "total": "0.0"
+            "away": "3.0",
+            "total": "3.0"
           },
           "minute": {
             "0-15": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "33.33%"
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "33.33%"
             },
             "31-45": {
               "total": null,
               "percentage": null
             },
             "46-60": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "33.33%"
             },
             "61-75": {
               "total": null,
@@ -21232,24 +21232,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "1.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "2.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         }
@@ -21258,7 +21258,7 @@
         "streak": {
           "wins": 0,
           "draws": 0,
-          "loses": 0
+          "loses": 1
         },
         "wins": {
           "home": null,
@@ -21266,7 +21266,7 @@
         },
         "loses": {
           "home": null,
-          "away": null
+          "away": "3-0"
         },
         "goals": {
           "for": {
@@ -21275,7 +21275,7 @@
           },
           "against": {
             "home": 0,
-            "away": 0
+            "away": 3
           }
         }
       },
@@ -21286,8 +21286,8 @@
       },
       "failed_to_score": {
         "home": 0,
-        "away": 0,
-        "total": 0
+        "away": 1,
+        "total": 1
       },
       "penalty": {
         "scored": {
@@ -21295,12 +21295,17 @@
           "percentage": "0%"
         },
         "missed": {
-          "total": 0,
-          "percentage": "0%"
+          "total": 1,
+          "percentage": "100.00%"
         },
-        "total": 0
+        "total": 1
       },
-      "lineups": [],
+      "lineups": [
+        {
+          "formation": "4-4-2",
+          "played": 1
+        }
+      ],
       "cards": {
         "yellow": {
           "0-15": {
@@ -21373,6 +21378,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1543826,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-05T13:00:00+00:00",
+          "timestamp": 1780664400,
+          "periods": {
+            "first": 1780664400,
+            "second": 1780668000
+          },
+          "venue": {
+            "id": null,
+            "name": "Gelora Bung Karno Madya Stadium",
+            "city": "Jakarta"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1571,
+            "name": "Indonesia",
+            "logo": "https://media.api-sports.io/football/teams/1571.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1552,
+            "name": "Oman",
+            "logo": "https://media.api-sports.io/football/teams/1552.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1488424,
@@ -22002,76 +22077,6 @@
             "away": 2
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1450817,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2025-09-05T12:00:00+00:00",
-          "timestamp": 1757073600,
-          "periods": {
-            "first": 1757073600,
-            "second": 1757077200
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadion Majmuasi",
-            "city": "Toshkent (Tashkent)"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 1008,
-          "name": "CAFA Nations Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/1008.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Group Stage - 3",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 1539,
-            "name": "Turkmenistan",
-            "logo": "https://media.api-sports.io/football/teams/1539.png",
-            "winner": false
-          },
-          "away": {
-            "id": 1552,
-            "name": "Oman",
-            "logo": "https://media.api-sports.io/football/teams/1552.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -22541,7 +22546,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 6",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -22611,7 +22616,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 5",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -22681,7 +22686,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 4",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -22751,7 +22756,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 3",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -23031,7 +23036,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 2",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -25086,12 +25091,12 @@
         "name": "Guatemala",
         "logo": "https://media.api-sports.io/football/teams/5161.png"
       },
-      "form": "LL",
+      "form": "LLL",
       "fixtures": {
         "played": {
           "home": 0,
-          "away": 2,
-          "total": 2
+          "away": 3,
+          "total": 3
         },
         "wins": {
           "home": 0,
@@ -25105,21 +25110,21 @@
         },
         "loses": {
           "home": 0,
-          "away": 2,
-          "total": 2
+          "away": 3,
+          "total": 3
         }
       },
       "goals": {
         "for": {
           "total": {
             "home": 0,
-            "away": 0,
-            "total": 0
+            "away": 1,
+            "total": 1
           },
           "average": {
             "home": "0.0",
-            "away": "0.0",
-            "total": "0.0"
+            "away": "0.3",
+            "total": "0.3"
           },
           "minute": {
             "0-15": {
@@ -25131,8 +25136,8 @@
               "percentage": null
             },
             "31-45": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "46-60": {
               "total": null,
@@ -25157,62 +25162,62 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 2
             },
             "1.5": {
               "over": 0,
-              "under": 2
+              "under": 3
             },
             "2.5": {
               "over": 0,
-              "under": 2
+              "under": 3
             },
             "3.5": {
               "over": 0,
-              "under": 2
+              "under": 3
             },
             "4.5": {
               "over": 0,
-              "under": 2
+              "under": 3
             }
           }
         },
         "against": {
           "total": {
             "home": 0,
-            "away": 8,
-            "total": 8
+            "away": 11,
+            "total": 11
           },
           "average": {
             "home": "0.0",
-            "away": "4.0",
-            "total": "4.0"
+            "away": "3.7",
+            "total": "3.7"
           },
           "minute": {
             "0-15": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "9.09%"
             },
             "16-30": {
               "total": 1,
-              "percentage": "12.50%"
+              "percentage": "9.09%"
             },
             "31-45": {
               "total": 2,
-              "percentage": "25.00%"
+              "percentage": "18.18%"
             },
             "46-60": {
               "total": 2,
-              "percentage": "25.00%"
+              "percentage": "18.18%"
             },
             "61-75": {
-              "total": 1,
-              "percentage": "12.50%"
+              "total": 2,
+              "percentage": "18.18%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "25.00%"
+              "total": 3,
+              "percentage": "27.27%"
             },
             "91-105": {
               "total": null,
@@ -25225,24 +25230,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 2,
+              "over": 3,
               "under": 0
             },
             "1.5": {
-              "over": 1,
+              "over": 2,
               "under": 1
             },
             "2.5": {
-              "over": 1,
+              "over": 2,
               "under": 1
             },
             "3.5": {
               "over": 1,
-              "under": 1
+              "under": 2
             },
             "4.5": {
               "over": 1,
-              "under": 1
+              "under": 2
             }
           }
         }
@@ -25251,7 +25256,7 @@
         "streak": {
           "wins": 0,
           "draws": 0,
-          "loses": 2
+          "loses": 3
         },
         "wins": {
           "home": null,
@@ -25264,7 +25269,7 @@
         "goals": {
           "for": {
             "home": 0,
-            "away": 0
+            "away": 1
           },
           "against": {
             "home": 0,
@@ -25301,6 +25306,10 @@
         {
           "formation": "4-2-3-1",
           "played": 1
+        },
+        {
+          "formation": "3-4-2-1",
+          "played": 1
         }
       ],
       "cards": {
@@ -25311,7 +25320,7 @@
           },
           "16-30": {
             "total": 1,
-            "percentage": "50.00%"
+            "percentage": "33.33%"
           },
           "31-45": {
             "total": null,
@@ -25323,11 +25332,11 @@
           },
           "61-75": {
             "total": 1,
-            "percentage": "50.00%"
+            "percentage": "33.33%"
           },
           "76-90": {
-            "total": null,
-            "percentage": null
+            "total": 1,
+            "percentage": "33.33%"
           },
           "91-105": {
             "total": null,
@@ -27545,7 +27554,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 6",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -27615,7 +27624,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 5",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -27685,7 +27694,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 4",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -27755,7 +27764,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 3",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -27825,7 +27834,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 2",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -27895,7 +27904,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 1",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {

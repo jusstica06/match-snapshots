@@ -9325,6 +9325,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1544811,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-06T00:00:00+00:00",
+          "timestamp": 1780704000,
+          "periods": {
+            "first": 1780704000,
+            "second": 1780707600
+          },
+          "venue": {
+            "id": null,
+            "name": "Nu Stadium",
+            "city": "Miami"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 2386,
+            "name": "Haiti",
+            "logo": "https://media.api-sports.io/football/teams/2386.png",
+            "winner": false
+          },
+          "away": {
+            "id": 30,
+            "name": "Peru",
+            "logo": "https://media.api-sports.io/football/teams/30.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1528277,
           "referee": "G. Cuadra",
           "timezone": "UTC",
@@ -9927,76 +9997,6 @@
             "id": 2382,
             "name": "Ecuador",
             "logo": "https://media.api-sports.io/football/teams/2382.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1100306,
-          "referee": "W. Sampaio",
-          "timezone": "UTC",
-          "date": "2025-06-06T20:30:00+00:00",
-          "timestamp": 1749241800,
-          "periods": {
-            "first": 1749241800,
-            "second": 1749245400
-          },
-          "venue": {
-            "id": 366,
-            "name": "Estadio Metropolitano Roberto Meléndez",
-            "city": "Barranquilla"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 34,
-          "name": "World Cup - Qualification South America",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/34.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage - 15",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 8,
-            "name": "Colombia",
-            "logo": "https://media.api-sports.io/football/teams/8.png",
-            "winner": null
-          },
-          "away": {
-            "id": 30,
-            "name": "Peru",
-            "logo": "https://media.api-sports.io/football/teams/30.png",
             "winner": null
           }
         },
@@ -51525,7 +51525,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 6",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -51595,7 +51595,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 5",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -51665,7 +51665,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 4",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -51735,7 +51735,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 3",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -51875,7 +51875,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 2",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -51945,7 +51945,7 @@
           "flag": null,
           "season": 2024,
           "round": "3rd Round - 1",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -58503,6 +58503,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1544811,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-06T00:00:00+00:00",
+          "timestamp": 1780704000,
+          "periods": {
+            "first": 1780704000,
+            "second": 1780707600
+          },
+          "venue": {
+            "id": null,
+            "name": "Nu Stadium",
+            "city": "Miami"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 2386,
+            "name": "Haiti",
+            "logo": "https://media.api-sports.io/football/teams/2386.png",
+            "winner": false
+          },
+          "away": {
+            "id": 30,
+            "name": "Peru",
+            "logo": "https://media.api-sports.io/football/teams/30.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1544806,
           "referee": "Rubiel Vazquez, USA",
           "timezone": "UTC",
@@ -59120,76 +59190,6 @@
           "fulltime": {
             "home": 0,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1371373,
-          "referee": "Katia Itzel García",
-          "timezone": "UTC",
-          "date": "2025-06-22T23:00:00+00:00",
-          "timestamp": 1750633200,
-          "periods": {
-            "first": 1750633200,
-            "second": 1750636800
-          },
-          "venue": {
-            "id": null,
-            "name": "AT&T Stadium",
-            "city": "Arlington, Texas"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 22,
-          "name": "CONCACAF Gold Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/22.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Group Stage - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2384,
-            "name": "USA",
-            "logo": "https://media.api-sports.io/football/teams/2384.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2386,
-            "name": "Haiti",
-            "logo": "https://media.api-sports.io/football/teams/2386.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -74524,7 +74524,7 @@
           "flag": null,
           "season": 2027,
           "round": "Qualification - Round 1 - League A - 3",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -74594,7 +74594,7 @@
           "flag": null,
           "season": 2027,
           "round": "Qualification - Round 1 - League A - 2",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -74664,7 +74664,7 @@
           "flag": null,
           "season": 2027,
           "round": "Qualification - Round 1 - League A - 1",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -75591,7 +75591,7 @@
           "flag": null,
           "season": 2027,
           "round": "Qualification - Round 1 - League B - 3",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {
@@ -75661,7 +75661,7 @@
           "flag": null,
           "season": 2027,
           "round": "Qualification - Round 1 - League B - 1",
-          "standings": false
+          "standings": true
         },
         "teams": {
           "home": {

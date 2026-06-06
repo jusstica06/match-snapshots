@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T02:30:47.846Z",
+  "generatedAt": "2026-06-06T02:25:57.546Z",
   "totalTeams": 30,
   "totalLeagues": 2,
   "teamsWithFallback": 29,
@@ -473,13 +473,25 @@
       "leagueId": 10,
       "leagueName": "Friendlies",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 1600,
+          "name": "K. Tsimikas",
+          "photo": "https://media.api-sports.io/football/players/1600.png",
+          "goals": 1,
+          "appearances": 3
+        },
+        "topAssist": {
+          "id": 161800,
+          "name": "C. Tzolis",
+          "photo": "https://media.api-sports.io/football/players/161800.png",
+          "assists": 1,
+          "appearances": 3
+        },
         "mostCards": {
-          "id": 61257,
-          "name": "L. Rota",
-          "photo": "https://media.api-sports.io/football/players/61257.png",
-          "yellowCards": 1,
+          "id": 162409,
+          "name": "K. Koulierakis",
+          "photo": "https://media.api-sports.io/football/players/162409.png",
+          "yellowCards": 2,
           "redCards": 0
         }
       },
