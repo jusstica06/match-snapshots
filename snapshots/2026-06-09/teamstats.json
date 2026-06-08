@@ -221,12 +221,7 @@
         },
         "total": 1
       },
-      "lineups": [
-        {
-          "formation": "4-3-3",
-          "played": 1
-        }
-      ],
+      "lineups": [],
       "cards": {
         "yellow": {
           "0-15": {
@@ -3069,12 +3064,12 @@
               "percentage": null
             },
             "31-45": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "20.00%"
             },
             "46-60": {
-              "total": 2,
-              "percentage": "40.00%"
+              "total": 1,
+              "percentage": "20.00%"
             },
             "61-75": {
               "total": null,
@@ -5332,7 +5327,7 @@
       {
         "fixture": {
           "id": 1548052,
-          "referee": "Luis Bestard Servera, Spain",
+          "referee": "L. Bestard Servera",
           "timezone": "UTC",
           "date": "2026-06-06T19:00:00+00:00",
           "timestamp": 1780772400,
@@ -5342,7 +5337,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Municipal Castalia",
+            "name": "Estadio Municipal de Castalia",
             "city": "Castellon"
           },
           "status": {
@@ -9259,12 +9254,7 @@
         },
         "total": 0
       },
-      "lineups": [
-        {
-          "formation": "4-2-3-1",
-          "played": 1
-        }
-      ],
+      "lineups": [],
       "cards": {
         "yellow": {
           "0-15": {
@@ -14130,12 +14120,12 @@
               "percentage": null
             },
             "76-90": {
-              "total": 1,
-              "percentage": "50.00%"
+              "total": 2,
+              "percentage": "100.00%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "50.00%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -18128,8 +18118,8 @@
               "percentage": null
             },
             "76-90": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "91-105": {
               "total": null,
@@ -21067,12 +21057,12 @@
         "name": "Mozambique",
         "logo": "https://media.api-sports.io/football/teams/1512.png"
       },
-      "form": null,
+      "form": "L",
       "fixtures": {
         "played": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         },
         "wins": {
           "home": 0,
@@ -21086,21 +21076,21 @@
         },
         "loses": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         }
       },
       "goals": {
         "for": {
           "total": {
             "home": 0,
-            "away": 0,
-            "total": 0
+            "away": 1,
+            "total": 1
           },
           "average": {
             "home": "0.0",
-            "away": "0.0",
-            "total": "0.0"
+            "away": "1.0",
+            "total": "1.0"
           },
           "minute": {
             "0-15": {
@@ -21120,8 +21110,8 @@
               "percentage": null
             },
             "61-75": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "76-90": {
               "total": null,
@@ -21138,37 +21128,37 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         },
         "against": {
           "total": {
             "home": 0,
-            "away": 0,
-            "total": 0
+            "away": 4,
+            "total": 4
           },
           "average": {
             "home": "0.0",
-            "away": "0.0",
-            "total": "0.0"
+            "away": "4.0",
+            "total": "4.0"
           },
           "minute": {
             "0-15": {
@@ -21176,24 +21166,24 @@
               "percentage": null
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "25.00%"
             },
             "31-45": {
               "total": null,
               "percentage": null
             },
             "46-60": {
-              "total": null,
-              "percentage": null
+              "total": 2,
+              "percentage": "50.00%"
             },
             "61-75": {
               "total": null,
               "percentage": null
             },
             "76-90": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "25.00%"
             },
             "91-105": {
               "total": null,
@@ -21206,24 +21196,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "1.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "2.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "3.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         }
@@ -21232,7 +21222,7 @@
         "streak": {
           "wins": 0,
           "draws": 0,
-          "loses": 0
+          "loses": 1
         },
         "wins": {
           "home": null,
@@ -21240,16 +21230,16 @@
         },
         "loses": {
           "home": null,
-          "away": null
+          "away": "4-1"
         },
         "goals": {
           "for": {
             "home": 0,
-            "away": 0
+            "away": 1
           },
           "against": {
             "home": 0,
-            "away": 0
+            "away": 4
           }
         }
       },
@@ -21347,6 +21337,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1548446,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-07T13:00:00+00:00",
+          "timestamp": 1780837200,
+          "periods": {
+            "first": 1780837200,
+            "second": 1780840800
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1552,
+            "name": "Oman",
+            "logo": "https://media.api-sports.io/football/teams/1552.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1512,
+            "name": "Mozambique",
+            "logo": "https://media.api-sports.io/football/teams/1512.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1501839,
@@ -21965,76 +22025,6 @@
           },
           "fulltime": {
             "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1126026,
-          "referee": "V. Kabore",
-          "timezone": "UTC",
-          "date": "2025-09-05T16:00:00+00:00",
-          "timestamp": 1757088000,
-          "periods": {
-            "first": 1757088000,
-            "second": 1757091600
-          },
-          "venue": {
-            "id": null,
-            "name": "Nelson Mandela National Stadium",
-            "city": "Kampala"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 29,
-          "name": "World Cup - Qualification Africa",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/29.png",
-          "flag": null,
-          "season": 2023,
-          "round": "Group Stage - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1519,
-            "name": "Uganda",
-            "logo": "https://media.api-sports.io/football/teams/1519.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1512,
-            "name": "Mozambique",
-            "logo": "https://media.api-sports.io/football/teams/1512.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 4,
             "away": 0
           },
           "extratime": {
@@ -23186,8 +23176,8 @@
               "percentage": null
             },
             "76-90": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "91-105": {
               "total": null,
@@ -29173,12 +29163,12 @@
               "percentage": null
             },
             "76-90": {
-              "total": null,
-              "percentage": null
-            },
-            "91-105": {
               "total": 1,
               "percentage": "100.00%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -35054,17 +35044,17 @@
         "name": "Oman",
         "logo": "https://media.api-sports.io/football/teams/1552.png"
       },
-      "form": "L",
+      "form": "LW",
       "fixtures": {
         "played": {
-          "home": 0,
+          "home": 1,
           "away": 1,
-          "total": 1
+          "total": 2
         },
         "wins": {
-          "home": 0,
+          "home": 1,
           "away": 0,
-          "total": 0
+          "total": 1
         },
         "draws": {
           "home": 0,
@@ -35080,14 +35070,14 @@
       "goals": {
         "for": {
           "total": {
-            "home": 0,
+            "home": 4,
             "away": 0,
-            "total": 0
+            "total": 4
           },
           "average": {
-            "home": "0.0",
+            "home": "4.0",
             "away": "0.0",
-            "total": "0.0"
+            "total": "2.0"
           },
           "minute": {
             "0-15": {
@@ -35095,24 +35085,24 @@
               "percentage": null
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "25.00%"
             },
             "31-45": {
               "total": null,
               "percentage": null
             },
             "46-60": {
-              "total": null,
-              "percentage": null
+              "total": 2,
+              "percentage": "50.00%"
             },
             "61-75": {
               "total": null,
               "percentage": null
             },
             "76-90": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "25.00%"
             },
             "91-105": {
               "total": null,
@@ -35125,46 +35115,46 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 1
             },
             "1.5": {
-              "over": 0,
+              "over": 1,
               "under": 1
             },
             "2.5": {
-              "over": 0,
+              "over": 1,
               "under": 1
             },
             "3.5": {
-              "over": 0,
+              "over": 1,
               "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             }
           }
         },
         "against": {
           "total": {
-            "home": 0,
+            "home": 1,
             "away": 3,
-            "total": 3
+            "total": 4
           },
           "average": {
-            "home": "0.0",
+            "home": "1.0",
             "away": "3.0",
-            "total": "3.0"
+            "total": "2.0"
           },
           "minute": {
             "0-15": {
               "total": 1,
-              "percentage": "33.33%"
+              "percentage": "25.00%"
             },
             "16-30": {
               "total": 1,
-              "percentage": "33.33%"
+              "percentage": "25.00%"
             },
             "31-45": {
               "total": null,
@@ -35172,11 +35162,11 @@
             },
             "46-60": {
               "total": 1,
-              "percentage": "33.33%"
+              "percentage": "25.00%"
             },
             "61-75": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "25.00%"
             },
             "76-90": {
               "total": null,
@@ -35193,24 +35183,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 1,
+              "over": 2,
               "under": 0
             },
             "1.5": {
               "over": 1,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 1,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "4.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             }
           }
         }
@@ -35222,7 +35212,7 @@
           "loses": 1
         },
         "wins": {
-          "home": null,
+          "home": "4-1",
           "away": null
         },
         "loses": {
@@ -35231,11 +35221,11 @@
         },
         "goals": {
           "for": {
-            "home": 0,
+            "home": 4,
             "away": 0
           },
           "against": {
-            "home": 0,
+            "home": 1,
             "away": 3
           }
         }
@@ -35252,12 +35242,12 @@
       },
       "penalty": {
         "scored": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "missed": {
           "total": 1,
           "percentage": "100.00%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
         },
         "total": 1
       },
@@ -35339,6 +35329,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1548446,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-07T13:00:00+00:00",
+          "timestamp": 1780837200,
+          "periods": {
+            "first": 1780837200,
+            "second": 1780840800
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1552,
+            "name": "Oman",
+            "logo": "https://media.api-sports.io/football/teams/1552.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1512,
+            "name": "Mozambique",
+            "logo": "https://media.api-sports.io/football/teams/1512.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1543826,
@@ -35966,76 +36026,6 @@
           "penalty": {
             "home": null,
             "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1457460,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2025-09-08T12:00:00+00:00",
-          "timestamp": 1757332800,
-          "periods": {
-            "first": 1757332800,
-            "second": 1757336400
-          },
-          "venue": {
-            "id": null,
-            "name": "Hisor Central Stadium",
-            "city": "Hisor"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "PEN",
-            "elapsed": 120,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 1008,
-          "name": "CAFA Nations Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/1008.png",
-          "flag": null,
-          "season": 2025,
-          "round": "3rd Place Final",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 1537,
-            "name": "India",
-            "logo": "https://media.api-sports.io/football/teams/1537.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1552,
-            "name": "Oman",
-            "logo": "https://media.api-sports.io/football/teams/1552.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": 0,
-            "away": 0
-          },
-          "penalty": {
-            "home": 3,
-            "away": 2
           }
         }
       }
@@ -40094,12 +40084,12 @@
               "percentage": null
             },
             "31-45": {
-              "total": 1,
-              "percentage": "50.00%"
+              "total": 2,
+              "percentage": "100.00%"
             },
             "46-60": {
-              "total": 1,
-              "percentage": "50.00%"
+              "total": null,
+              "percentage": null
             },
             "61-75": {
               "total": null,
@@ -41249,14 +41239,14 @@
       },
       "penalty": {
         "scored": {
-          "total": 0,
-          "percentage": "0%"
+          "total": 1,
+          "percentage": "100.00%"
         },
         "missed": {
           "total": 0,
           "percentage": "0%"
         },
-        "total": 0
+        "total": 1
       },
       "lineups": [
         {
@@ -43168,12 +43158,12 @@
               "percentage": null
             },
             "31-45": {
-              "total": 1,
-              "percentage": "50.00%"
+              "total": 2,
+              "percentage": "100.00%"
             },
             "46-60": {
-              "total": 1,
-              "percentage": "50.00%"
+              "total": null,
+              "percentage": null
             },
             "61-75": {
               "total": null,
@@ -44264,12 +44254,7 @@
         },
         "total": 0
       },
-      "lineups": [
-        {
-          "formation": "3-4-3",
-          "played": 1
-        }
-      ],
+      "lineups": [],
       "cards": {
         "yellow": {
           "0-15": {
@@ -46268,12 +46253,7 @@
         },
         "total": 0
       },
-      "lineups": [
-        {
-          "formation": "4-3-3",
-          "played": 1
-        }
-      ],
+      "lineups": [],
       "cards": {
         "yellow": {
           "0-15": {
@@ -50362,7 +50342,7 @@
       {
         "fixture": {
           "id": 1548052,
-          "referee": "Luis Bestard Servera, Spain",
+          "referee": "L. Bestard Servera",
           "timezone": "UTC",
           "date": "2026-06-06T19:00:00+00:00",
           "timestamp": 1780772400,
@@ -50372,7 +50352,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Municipal Castalia",
+            "name": "Estadio Municipal de Castalia",
             "city": "Castellon"
           },
           "status": {
@@ -55109,8 +55089,8 @@
               "percentage": null
             },
             "31-45": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "46-60": {
               "total": null,
@@ -55177,8 +55157,8 @@
               "percentage": null
             },
             "31-45": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "46-60": {
               "total": null,
@@ -55262,14 +55242,14 @@
       },
       "penalty": {
         "scored": {
-          "total": 0,
-          "percentage": "0%"
+          "total": 1,
+          "percentage": "100.00%"
         },
         "missed": {
           "total": 0,
           "percentage": "0%"
         },
-        "total": 0
+        "total": 1
       },
       "lineups": [],
       "cards": {
