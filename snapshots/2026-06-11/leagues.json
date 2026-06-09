@@ -1,4 +1,36 @@
 {
+  "1": {
+    "id": 1,
+    "name": "World Cup",
+    "type": "Cup",
+    "logo": "https://media.api-sports.io/football/leagues/1.png",
+    "country": {
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "season": 2026,
+    "seasons": [
+      2010,
+      2014,
+      2018,
+      2022,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": false,
+      "topScorers": false,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": false,
+        "lineups": false,
+        "statistics_fixtures": false,
+        "statistics_players": false
+      }
+    }
+  },
   "10": {
     "id": 10,
     "name": "Friendlies",

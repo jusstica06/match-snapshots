@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T02:26:54.721Z",
+  "generatedAt": "2026-06-09T02:24:51.481Z",
   "picks": [
     {
       "fixtureId": 1540357,
@@ -10,14 +10,14 @@
       "homeTeam": "Argentina",
       "awayTeamId": 18,
       "awayTeam": "Iceland",
-      "expectedHome": 1.824,
-      "expectedAway": 1.173,
-      "expectedTotal": 2.997,
-      "teamGoalsHomeLambda": 2.133,
-      "teamGoalsAwayLambda": 1.135,
+      "expectedHome": 1.723,
+      "expectedAway": 1.108,
+      "expectedTotal": 2.831,
+      "teamGoalsHomeLambda": 2.014,
+      "teamGoalsAwayLambda": 1.072,
       "type": "btts",
       "label": "Karşılıklı Gol Var",
-      "prob": 0.599
+      "prob": 0.5703
     },
     {
       "fixtureId": 1546509,
@@ -28,14 +28,32 @@
       "homeTeam": "Iraq",
       "awayTeamId": 2379,
       "awayTeam": "Venezuela",
-      "expectedHome": 0.817,
-      "expectedAway": 1.301,
-      "expectedTotal": 2.118,
-      "teamGoalsHomeLambda": 0.975,
-      "teamGoalsAwayLambda": 1.362,
+      "expectedHome": 0.752,
+      "expectedAway": 1.198,
+      "expectedTotal": 1.95,
+      "teamGoalsHomeLambda": 0.899,
+      "teamGoalsAwayLambda": 1.255,
       "type": "over35",
       "label": "Toplam 3.5 Üst",
-      "prob": 0.1839
+      "prob": 0.1506
+    },
+    {
+      "fixtureId": 1550833,
+      "leagueId": 10,
+      "season": 2026,
+      "kickoffTs": 1781107200,
+      "homeTeamId": 5535,
+      "homeTeam": "Pakistan",
+      "awayTeamId": 1553,
+      "awayTeam": "Afghanistan",
+      "expectedHome": 0.927,
+      "expectedAway": 0.594,
+      "expectedTotal": 1.521,
+      "teamGoalsHomeLambda": 1.036,
+      "teamGoalsAwayLambda": 0.575,
+      "type": "btts",
+      "label": "Karşılıklı Gol Var",
+      "prob": 0.2863
     },
     {
       "fixtureId": 1548055,
@@ -46,14 +64,14 @@
       "homeTeam": "Malaga",
       "awayTeamId": 534,
       "awayTeam": "Las Palmas",
-      "expectedHome": 1.185,
-      "expectedAway": 0.976,
-      "expectedTotal": 2.161,
-      "teamGoalsHomeLambda": 1.399,
-      "teamGoalsAwayLambda": 1.09,
+      "expectedHome": 1.195,
+      "expectedAway": 0.981,
+      "expectedTotal": 2.176,
+      "teamGoalsHomeLambda": 1.41,
+      "teamGoalsAwayLambda": 1.091,
       "type": "over35",
       "label": "Toplam 3.5 Üst",
-      "prob": 0.1928
+      "prob": 0.1959
     },
     {
       "fixtureId": 1540358,
@@ -64,14 +82,14 @@
       "homeTeam": "Portugal",
       "awayTeamId": 19,
       "awayTeam": "Nigeria",
-      "expectedHome": 1.885,
-      "expectedAway": 1.626,
-      "expectedTotal": 3.511,
-      "teamGoalsHomeLambda": 2.12,
-      "teamGoalsAwayLambda": 1.757,
+      "expectedHome": 1.795,
+      "expectedAway": 1.549,
+      "expectedTotal": 3.344,
+      "teamGoalsHomeLambda": 2.019,
+      "teamGoalsAwayLambda": 1.674,
       "type": "home15",
       "label": "Portugal 1.5 Üst",
-      "prob": 0.6255,
+      "prob": 0.5991,
       "side": "home"
     },
     {
@@ -83,14 +101,14 @@
       "homeTeam": "England",
       "awayTeamId": 29,
       "awayTeam": "Costa Rica",
-      "expectedHome": 1.225,
-      "expectedAway": 1.17,
-      "expectedTotal": 2.395,
-      "teamGoalsHomeLambda": 1.499,
-      "teamGoalsAwayLambda": 1.133,
+      "expectedHome": 1.14,
+      "expectedAway": 1.089,
+      "expectedTotal": 2.229,
+      "teamGoalsHomeLambda": 1.394,
+      "teamGoalsAwayLambda": 1.054,
       "type": "home15",
       "label": "England 1.5 Üst",
-      "prob": 0.4418,
+      "prob": 0.4061,
       "side": "home"
     },
     {
@@ -102,14 +120,14 @@
       "homeTeam": "Bolivia",
       "awayTeamId": 1532,
       "awayTeam": "Algeria",
-      "expectedHome": 1.25,
-      "expectedAway": 1.513,
-      "expectedTotal": 2.763,
-      "teamGoalsHomeLambda": 1.244,
-      "teamGoalsAwayLambda": 1.75,
+      "expectedHome": 1.175,
+      "expectedAway": 1.422,
+      "expectedTotal": 2.597,
+      "teamGoalsHomeLambda": 1.169,
+      "teamGoalsAwayLambda": 1.644,
       "type": "doubleChance",
       "label": "Ev veya Deplasman (12)",
-      "prob": 0.7533
+      "prob": 0.7441
     }
   ]
 }

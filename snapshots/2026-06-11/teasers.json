@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-06-09T02:24:59.527Z",
+  "picks": [
+    {
+      "fixtureId": 1542184,
+      "leagueId": 10,
+      "season": 2026,
+      "kickoffTs": 1781150400,
+      "homeTeamId": 775,
+      "homeTeam": "Austria",
+      "awayTeamId": 5161,
+      "awayTeam": "Guatemala",
+      "expectedHome": 1.35,
+      "expectedAway": 0.959,
+      "expectedTotal": 2.309,
+      "teamGoalsHomeLambda": 1.715,
+      "teamGoalsAwayLambda": 0.913,
+      "type": "over35",
+      "label": "Toplam 3.5 Üst",
+      "prob": 0.2244
+    },
+    {
+      "fixtureId": 1489369,
+      "leagueId": 1,
+      "season": 2026,
+      "kickoffTs": 1781204400,
+      "homeTeamId": 16,
+      "homeTeam": "Mexico",
+      "awayTeamId": 1531,
+      "awayTeam": "South Africa",
+      "expectedHome": 1.579,
+      "expectedAway": 1.121,
+      "expectedTotal": 2.7,
+      "teamGoalsHomeLambda": 1.755,
+      "teamGoalsAwayLambda": 1.087,
+      "type": "btts",
+      "label": "Karşılıklı Gol Var",
+      "prob": 0.5554
+    }
+  ]
+}
