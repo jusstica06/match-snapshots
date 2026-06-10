@@ -297,7 +297,7 @@
       {
         "fixture": {
           "id": 1528284,
-          "referee": "T. Penso",
+          "referee": "Tori Penso, USA",
           "timezone": "UTC",
           "date": "2026-06-05T02:00:00+00:00",
           "timestamp": 1780624800,
@@ -367,7 +367,7 @@
       {
         "fixture": {
           "id": 1527865,
-          "referee": "R. Vazquez",
+          "referee": "Rubiel Vazquez, USA",
           "timezone": "UTC",
           "date": "2026-05-31T02:00:00+00:00",
           "timestamp": 1780192800,
@@ -377,7 +377,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Rose Bowl",
+            "name": "Rose Bowl Stadium",
             "city": "Pasadena"
           },
           "status": {
@@ -577,7 +577,7 @@
       {
         "fixture": {
           "id": 1514464,
-          "referee": "W. Lopez",
+          "referee": "Walter Lopez, Guatemala",
           "timezone": "UTC",
           "date": "2026-03-29T01:00:00+00:00",
           "timestamp": 1774746000,
@@ -996,6 +996,1003 @@
       }
     ]
   },
+  "22": {
+    "statistics": {
+      "league": {
+        "id": 10,
+        "name": "Friendlies",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/10.png",
+        "flag": null,
+        "season": 2026
+      },
+      "team": {
+        "id": 22,
+        "name": "Iran",
+        "logo": "https://media.api-sports.io/football/teams/22.png"
+      },
+      "form": "LWWW",
+      "fixtures": {
+        "played": {
+          "home": 3,
+          "away": 1,
+          "total": 4
+        },
+        "wins": {
+          "home": 2,
+          "away": 1,
+          "total": 3
+        },
+        "draws": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "loses": {
+          "home": 1,
+          "away": 0,
+          "total": 1
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 6,
+            "away": 5,
+            "total": 11
+          },
+          "average": {
+            "home": "2.0",
+            "away": "5.0",
+            "total": "2.8"
+          },
+          "minute": {
+            "0-15": {
+              "total": 2,
+              "percentage": "18.18%"
+            },
+            "16-30": {
+              "total": 1,
+              "percentage": "9.09%"
+            },
+            "31-45": {
+              "total": 2,
+              "percentage": "18.18%"
+            },
+            "46-60": {
+              "total": 4,
+              "percentage": "36.36%"
+            },
+            "61-75": {
+              "total": 2,
+              "percentage": "18.18%"
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 4,
+              "under": 0
+            },
+            "1.5": {
+              "over": 3,
+              "under": 1
+            },
+            "2.5": {
+              "over": 2,
+              "under": 2
+            },
+            "3.5": {
+              "over": 1,
+              "under": 3
+            },
+            "4.5": {
+              "over": 1,
+              "under": 3
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 3,
+            "away": 0,
+            "total": 3
+          },
+          "average": {
+            "home": "1.0",
+            "away": "0.0",
+            "total": "0.8"
+          },
+          "minute": {
+            "0-15": {
+              "total": 1,
+              "percentage": "33.33%"
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": 1,
+              "percentage": "33.33%"
+            },
+            "46-60": {
+              "total": 1,
+              "percentage": "33.33%"
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 2,
+              "under": 2
+            },
+            "1.5": {
+              "over": 1,
+              "under": 3
+            },
+            "2.5": {
+              "over": 0,
+              "under": 4
+            },
+            "3.5": {
+              "over": 0,
+              "under": 4
+            },
+            "4.5": {
+              "over": 0,
+              "under": 4
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 0,
+          "draws": 0,
+          "loses": 1
+        },
+        "wins": {
+          "home": "3-1",
+          "away": "0-5"
+        },
+        "loses": {
+          "home": "1-2",
+          "away": null
+        },
+        "goals": {
+          "for": {
+            "home": 3,
+            "away": 5
+          },
+          "against": {
+            "home": 2,
+            "away": 0
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      },
+      "failed_to_score": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "penalty": {
+        "scored": {
+          "total": 2,
+          "percentage": "100.00%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 2
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": 1,
+            "percentage": "25.00%"
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": 1,
+            "percentage": "25.00%"
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": 1,
+            "percentage": "25.00%"
+          },
+          "91-105": {
+            "total": 1,
+            "percentage": "25.00%"
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1548428,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-04T16:30:00+00:00",
+          "timestamp": 1780590600,
+          "periods": {
+            "first": 1780590600,
+            "second": 1780594200
+          },
+          "venue": {
+            "id": null,
+            "name": "Antalya Training Camp",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 22,
+            "name": "Iran",
+            "logo": "https://media.api-sports.io/football/teams/22.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1500,
+            "name": "Mali",
+            "logo": "https://media.api-sports.io/football/teams/1500.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1544803,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-05-29T15:30:00+00:00",
+          "timestamp": 1780068600,
+          "periods": {
+            "first": 1780068600,
+            "second": 1780072200
+          },
+          "venue": {
+            "id": null,
+            "name": "Mardan Sports Complex",
+            "city": "Antalya"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 2
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 22,
+            "name": "Iran",
+            "logo": "https://media.api-sports.io/football/teams/22.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1492,
+            "name": "Gambia",
+            "logo": "https://media.api-sports.io/football/teams/1492.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1527862,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-31T13:00:00+00:00",
+          "timestamp": 1774962000,
+          "periods": {
+            "first": 1774962000,
+            "second": 1774965600
+          },
+          "venue": {
+            "id": null,
+            "name": "Corendon Airlines Park",
+            "city": "Antalya"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 2
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 29,
+            "name": "Costa Rica",
+            "logo": "https://media.api-sports.io/football/teams/29.png",
+            "winner": false
+          },
+          "away": {
+            "id": 22,
+            "name": "Iran",
+            "logo": "https://media.api-sports.io/football/teams/22.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 5
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 4
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 5
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1527854,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-27T12:30:00+00:00",
+          "timestamp": 1774614600,
+          "periods": {
+            "first": 1774614600,
+            "second": 1774618200
+          },
+          "venue": {
+            "id": null,
+            "name": "Corendon Airlines Park",
+            "city": "Antalya"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 22,
+            "name": "Iran",
+            "logo": "https://media.api-sports.io/football/teams/22.png",
+            "winner": false
+          },
+          "away": {
+            "id": 19,
+            "name": "Nigeria",
+            "logo": "https://media.api-sports.io/football/teams/19.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1486558,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-18T16:00:00+00:00",
+          "timestamp": 1763481600,
+          "periods": {
+            "first": 1763481600,
+            "second": 1763485200
+          },
+          "venue": {
+            "id": null,
+            "name": "Al Maktoum Stadium",
+            "city": "Dubai"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "PEN",
+            "elapsed": 120,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1568,
+            "name": "Uzbekistan",
+            "logo": "https://media.api-sports.io/football/teams/1568.png",
+            "winner": true
+          },
+          "away": {
+            "id": 22,
+            "name": "Iran",
+            "logo": "https://media.api-sports.io/football/teams/22.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": 4,
+            "away": 3
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1485001,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-13T16:00:00+00:00",
+          "timestamp": 1763049600,
+          "periods": {
+            "first": 1763049600,
+            "second": 1763053200
+          },
+          "venue": {
+            "id": null,
+            "name": "Hazza bin Zayed Stadium",
+            "city": "Al Ain"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "PEN",
+            "elapsed": 120,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 22,
+            "name": "Iran",
+            "logo": "https://media.api-sports.io/football/teams/22.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1533,
+            "name": "Cape Verde Islands",
+            "logo": "https://media.api-sports.io/football/teams/1533.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": 5,
+            "away": 4
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1484962,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-14T15:00:00+00:00",
+          "timestamp": 1760454000,
+          "periods": {
+            "first": 1760454000,
+            "second": 1760457600
+          },
+          "venue": {
+            "id": null,
+            "name": "Al Rashid Stadium",
+            "city": "Dubai"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 22,
+            "name": "Iran",
+            "logo": "https://media.api-sports.io/football/teams/22.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1489,
+            "name": "Tanzania",
+            "logo": "https://media.api-sports.io/football/teams/1489.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1367145,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-14T14:00:00+00:00",
+          "timestamp": 1760450400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Cancelled",
+            "short": "Canc",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 22,
+            "name": "Iran",
+            "logo": "https://media.api-sports.io/football/teams/22.png",
+            "winner": null
+          },
+          "away": {
+            "id": 2383,
+            "name": "Chile",
+            "logo": "https://media.api-sports.io/football/teams/2383.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1367144,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-10T17:00:00+00:00",
+          "timestamp": 1760115600,
+          "periods": {
+            "first": 1760115600,
+            "second": 1760119200
+          },
+          "venue": {
+            "id": null,
+            "name": "Volgograd Arena",
+            "city": "Volgograd"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 4,
+            "name": "Russia",
+            "logo": "https://media.api-sports.io/football/teams/4.png",
+            "winner": true
+          },
+          "away": {
+            "id": 22,
+            "name": "Iran",
+            "logo": "https://media.api-sports.io/football/teams/22.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1463543,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-09-08T14:30:00+00:00",
+          "timestamp": 1757341800,
+          "periods": {
+            "first": 1757341800,
+            "second": 1757345400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "AET",
+            "elapsed": 120,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1008,
+          "name": "CAFA Nations Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1008.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Final",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 22,
+            "name": "Iran",
+            "logo": "https://media.api-sports.io/football/teams/22.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1568,
+            "name": "Uzbekistan",
+            "logo": "https://media.api-sports.io/football/teams/1568.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": 0,
+            "away": 1
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
   "775": {
     "statistics": {
       "league": {
@@ -1299,7 +2296,7 @@
       {
         "fixture": {
           "id": 1511733,
-          "referee": "J. Pignard",
+          "referee": "Jeremie Pignard, France",
           "timezone": "UTC",
           "date": "2026-06-01T18:45:00+00:00",
           "timestamp": 1780339500,
@@ -1439,7 +2436,7 @@
       {
         "fixture": {
           "id": 1511731,
-          "referee": "M. Al Hoaish",
+          "referee": "Mohammed Khled Hoish, Saudi Arabia",
           "timezone": "UTC",
           "date": "2026-03-27T17:00:00+00:00",
           "timestamp": 1774630800,
@@ -2995,6 +3992,2014 @@
       }
     ]
   },
+  "1532": {
+    "statistics": {
+      "league": {
+        "id": 10,
+        "name": "Friendlies",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/10.png",
+        "flag": null,
+        "season": 2026
+      },
+      "team": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png"
+      },
+      "form": "WDW",
+      "fixtures": {
+        "played": {
+          "home": 2,
+          "away": 1,
+          "total": 3
+        },
+        "wins": {
+          "home": 1,
+          "away": 1,
+          "total": 2
+        },
+        "draws": {
+          "home": 1,
+          "away": 0,
+          "total": 1
+        },
+        "loses": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 7,
+            "away": 1,
+            "total": 8
+          },
+          "average": {
+            "home": "3.5",
+            "away": "1.0",
+            "total": "2.7"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": 1,
+              "percentage": "12.50%"
+            },
+            "31-45": {
+              "total": 2,
+              "percentage": "25.00%"
+            },
+            "46-60": {
+              "total": 2,
+              "percentage": "25.00%"
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": 3,
+              "percentage": "37.50%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 2,
+              "under": 1
+            },
+            "1.5": {
+              "over": 1,
+              "under": 2
+            },
+            "2.5": {
+              "over": 1,
+              "under": 2
+            },
+            "3.5": {
+              "over": 1,
+              "under": 2
+            },
+            "4.5": {
+              "over": 1,
+              "under": 2
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 3
+            },
+            "1.5": {
+              "over": 0,
+              "under": 3
+            },
+            "2.5": {
+              "over": 0,
+              "under": 3
+            },
+            "3.5": {
+              "over": 0,
+              "under": 3
+            },
+            "4.5": {
+              "over": 0,
+              "under": 3
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 1,
+          "draws": 1,
+          "loses": 0
+        },
+        "wins": {
+          "home": "7-0",
+          "away": "0-1"
+        },
+        "loses": {
+          "home": null,
+          "away": null
+        },
+        "goals": {
+          "for": {
+            "home": 7,
+            "away": 1
+          },
+          "against": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 2,
+        "away": 1,
+        "total": 3
+      },
+      "failed_to_score": {
+        "home": 1,
+        "away": 0,
+        "total": 1
+      },
+      "penalty": {
+        "scored": {
+          "total": 1,
+          "percentage": "100.00%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 1
+      },
+      "lineups": [
+        {
+          "formation": "4-4-2",
+          "played": 1
+        },
+        {
+          "formation": "4-3-3",
+          "played": 1
+        }
+      ],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": 2,
+            "percentage": "50.00%"
+          },
+          "46-60": {
+            "total": 1,
+            "percentage": "25.00%"
+          },
+          "61-75": {
+            "total": 1,
+            "percentage": "25.00%"
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1536930,
+          "referee": "Jakob Semler, Austria",
+          "timezone": "UTC",
+          "date": "2026-06-03T18:45:00+00:00",
+          "timestamp": 1780512300,
+          "periods": {
+            "first": 1780512300,
+            "second": 1780515900
+          },
+          "venue": {
+            "id": null,
+            "name": "De Kuip",
+            "city": "Rotterdam"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1118,
+            "name": "Netherlands",
+            "logo": "https://media.api-sports.io/football/teams/1118.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1532,
+            "name": "Algeria",
+            "logo": "https://media.api-sports.io/football/teams/1532.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1528280,
+          "referee": "L. Pairetto",
+          "timezone": "UTC",
+          "date": "2026-03-31T18:30:00+00:00",
+          "timestamp": 1774981800,
+          "periods": {
+            "first": 1774981800,
+            "second": 1774985400
+          },
+          "venue": {
+            "id": null,
+            "name": "Allianz Stadium",
+            "city": "Turin"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1532,
+            "name": "Algeria",
+            "logo": "https://media.api-sports.io/football/teams/1532.png",
+            "winner": null
+          },
+          "away": {
+            "id": 7,
+            "name": "Uruguay",
+            "logo": "https://media.api-sports.io/football/teams/7.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1527859,
+          "referee": "Andrea Colombo, Italy",
+          "timezone": "UTC",
+          "date": "2026-03-27T19:30:00+00:00",
+          "timestamp": 1774639800,
+          "periods": {
+            "first": 1774639800,
+            "second": 1774643400
+          },
+          "venue": {
+            "id": null,
+            "name": "Luigi Ferraris",
+            "city": "Genova"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1532,
+            "name": "Algeria",
+            "logo": "https://media.api-sports.io/football/teams/1532.png",
+            "winner": true
+          },
+          "away": {
+            "id": 5161,
+            "name": "Guatemala",
+            "logo": "https://media.api-sports.io/football/teams/5161.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 7,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 7,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1503401,
+          "referee": "Issa Sy, Senegal",
+          "timezone": "UTC",
+          "date": "2026-01-10T16:00:00+00:00",
+          "timestamp": 1768060800,
+          "periods": {
+            "first": 1768060800,
+            "second": 1768064400
+          },
+          "venue": {
+            "id": null,
+            "name": "Grand Stade de Marrakech",
+            "city": "Marrakech"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 9
+          }
+        },
+        "league": {
+          "id": 6,
+          "name": "Africa Cup of Nations",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/6.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Quarter-finals",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1532,
+            "name": "Algeria",
+            "logo": "https://media.api-sports.io/football/teams/1532.png",
+            "winner": false
+          },
+          "away": {
+            "id": 19,
+            "name": "Nigeria",
+            "logo": "https://media.api-sports.io/football/teams/19.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1501840,
+          "referee": "Mohamed Maarouf Eid Mansour, Egypt",
+          "timezone": "UTC",
+          "date": "2026-01-06T16:00:00+00:00",
+          "timestamp": 1767715200,
+          "periods": {
+            "first": 1767715200,
+            "second": 1767718800
+          },
+          "venue": {
+            "id": null,
+            "name": "Moulay Hassan Stadium",
+            "city": "Rabat"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "AET",
+            "elapsed": 120,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 6,
+          "name": "Africa Cup of Nations",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/6.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Round of 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1532,
+            "name": "Algeria",
+            "logo": "https://media.api-sports.io/football/teams/1532.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1508,
+            "name": "Congo DR",
+            "logo": "https://media.api-sports.io/football/teams/1508.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": 1,
+            "away": 0
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1347271,
+          "referee": "Pacifique Ndabihawenimana, Burundi",
+          "timezone": "UTC",
+          "date": "2025-12-31T16:00:00+00:00",
+          "timestamp": 1767196800,
+          "periods": {
+            "first": 1767196800,
+            "second": 1767200400
+          },
+          "venue": {
+            "id": null,
+            "name": "Moulay Hassan Stadium",
+            "city": "Rabat"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 6,
+          "name": "Africa Cup of Nations",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/6.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Group Stage - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1521,
+            "name": "Equatorial Guinea",
+            "logo": "https://media.api-sports.io/football/teams/1521.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1532,
+            "name": "Algeria",
+            "logo": "https://media.api-sports.io/football/teams/1532.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 3
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1347259,
+          "referee": "Daniel Laryea, Ghana",
+          "timezone": "UTC",
+          "date": "2025-12-28T17:30:00+00:00",
+          "timestamp": 1766943000,
+          "periods": {
+            "first": 1766943000,
+            "second": 1766946600
+          },
+          "venue": {
+            "id": null,
+            "name": "Moulay Hassan Stadium",
+            "city": "Rabat"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 6,
+          "name": "Africa Cup of Nations",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/6.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Group Stage - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1532,
+            "name": "Algeria",
+            "logo": "https://media.api-sports.io/football/teams/1532.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1502,
+            "name": "Burkina Faso",
+            "logo": "https://media.api-sports.io/football/teams/1502.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1347247,
+          "referee": "Pierre Ghislain Atcho, Gabon",
+          "timezone": "UTC",
+          "date": "2025-12-24T15:00:00+00:00",
+          "timestamp": 1766588400,
+          "periods": {
+            "first": 1766588400,
+            "second": 1766592000
+          },
+          "venue": {
+            "id": null,
+            "name": "Moulay Hassan Stadium",
+            "city": "Rabat"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 6,
+          "name": "Africa Cup of Nations",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/6.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Group Stage - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1532,
+            "name": "Algeria",
+            "logo": "https://media.api-sports.io/football/teams/1532.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1510,
+            "name": "Sudan",
+            "logo": "https://media.api-sports.io/football/teams/1510.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1490918,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-12-12T17:30:00+00:00",
+          "timestamp": 1765560600,
+          "periods": {
+            "first": 1765560600,
+            "second": 1765564200
+          },
+          "venue": {
+            "id": null,
+            "name": "Al Bayt Stadium",
+            "city": "Al Khor"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "PEN",
+            "elapsed": 120,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 860,
+          "name": "Arab Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/860.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Quarter-finals",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1532,
+            "name": "Algeria",
+            "logo": "https://media.api-sports.io/football/teams/1532.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1563,
+            "name": "United Arab Emirates",
+            "logo": "https://media.api-sports.io/football/teams/1563.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": 6,
+            "away": 7
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1482947,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-12-09T17:00:00+00:00",
+          "timestamp": 1765299600,
+          "periods": {
+            "first": 1765299600,
+            "second": 1765303200
+          },
+          "venue": {
+            "id": null,
+            "name": "Khalifa International Stadium",
+            "city": "Al Rayyan"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 860,
+          "name": "Arab Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/860.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Round 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1532,
+            "name": "Algeria",
+            "logo": "https://media.api-sports.io/football/teams/1532.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1567,
+            "name": "Iraq",
+            "logo": "https://media.api-sports.io/football/teams/1567.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
+  "2381": {
+    "statistics": {
+      "league": {
+        "id": 10,
+        "name": "Friendlies",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/10.png",
+        "flag": null,
+        "season": 2026
+      },
+      "team": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png"
+      },
+      "form": "DLWL",
+      "fixtures": {
+        "played": {
+          "home": 4,
+          "away": 0,
+          "total": 4
+        },
+        "wins": {
+          "home": 1,
+          "away": 0,
+          "total": 1
+        },
+        "draws": {
+          "home": 1,
+          "away": 0,
+          "total": 1
+        },
+        "loses": {
+          "home": 2,
+          "away": 0,
+          "total": 2
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 4,
+            "away": 0,
+            "total": 4
+          },
+          "average": {
+            "home": "1.0",
+            "away": "0.0",
+            "total": "1.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": 1,
+              "percentage": "33.33%"
+            },
+            "31-45": {
+              "total": 1,
+              "percentage": "33.33%"
+            },
+            "46-60": {
+              "total": 1,
+              "percentage": "33.33%"
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 2,
+              "under": 2
+            },
+            "1.5": {
+              "over": 1,
+              "under": 3
+            },
+            "2.5": {
+              "over": 1,
+              "under": 3
+            },
+            "3.5": {
+              "over": 0,
+              "under": 4
+            },
+            "4.5": {
+              "over": 0,
+              "under": 4
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 6,
+            "away": 0,
+            "total": 6
+          },
+          "average": {
+            "home": "1.5",
+            "away": "0.0",
+            "total": "1.5"
+          },
+          "minute": {
+            "0-15": {
+              "total": 2,
+              "percentage": "28.57%"
+            },
+            "16-30": {
+              "total": 2,
+              "percentage": "28.57%"
+            },
+            "31-45": {
+              "total": 1,
+              "percentage": "14.29%"
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": 2,
+              "percentage": "28.57%"
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 3,
+              "under": 1
+            },
+            "1.5": {
+              "over": 1,
+              "under": 3
+            },
+            "2.5": {
+              "over": 1,
+              "under": 3
+            },
+            "3.5": {
+              "over": 1,
+              "under": 3
+            },
+            "4.5": {
+              "over": 0,
+              "under": 4
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 1,
+          "draws": 1,
+          "loses": 1
+        },
+        "wins": {
+          "home": "3-0",
+          "away": null
+        },
+        "loses": {
+          "home": "0-4",
+          "away": null
+        },
+        "goals": {
+          "for": {
+            "home": 3,
+            "away": 0
+          },
+          "against": {
+            "home": 4,
+            "away": 0
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 1,
+        "away": 0,
+        "total": 1
+      },
+      "failed_to_score": {
+        "home": 2,
+        "away": 0,
+        "total": 2
+      },
+      "penalty": {
+        "scored": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 0
+      },
+      "lineups": [
+        {
+          "formation": "4-3-3",
+          "played": 2
+        }
+      ],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": 1,
+            "percentage": "20.00%"
+          },
+          "46-60": {
+            "total": 3,
+            "percentage": "60.00%"
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": 1,
+            "percentage": "20.00%"
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": 1,
+            "percentage": "100.00%"
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1540949,
+          "referee": "Rosendo Mendoza, USA",
+          "timezone": "UTC",
+          "date": "2026-06-06T20:00:00+00:00",
+          "timestamp": 1780776000,
+          "periods": {
+            "first": 1780776000,
+            "second": 1780779600
+          },
+          "venue": {
+            "id": null,
+            "name": "Sports Illustrated Stadium",
+            "city": "Harrison"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 2381,
+            "name": "Bolivia",
+            "logo": "https://media.api-sports.io/football/teams/2381.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1108,
+            "name": "Scotland",
+            "logo": "https://media.api-sports.io/football/teams/1108.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 4
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1537583,
+          "referee": "I. Barton",
+          "timezone": "UTC",
+          "date": "2026-04-01T03:00:00+00:00",
+          "timestamp": 1775012400,
+          "periods": {
+            "first": 1775012400,
+            "second": 1775016000
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio BBVA",
+            "city": "Monterrey"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 37,
+          "name": "World Cup - Qualification Intercontinental Play-offs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/37.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Final",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1567,
+            "name": "Iraq",
+            "logo": "https://media.api-sports.io/football/teams/1567.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2381,
+            "name": "Bolivia",
+            "logo": "https://media.api-sports.io/football/teams/2381.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1530486,
+          "referee": "A. Faghani",
+          "timezone": "UTC",
+          "date": "2026-03-26T22:00:00+00:00",
+          "timestamp": 1774562400,
+          "periods": {
+            "first": 1774562400,
+            "second": 1774566000
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio BBVA",
+            "city": "Monterrey"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 12
+          }
+        },
+        "league": {
+          "id": 37,
+          "name": "World Cup - Qualification Intercontinental Play-offs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/37.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Semi-finals",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 2381,
+            "name": "Bolivia",
+            "logo": "https://media.api-sports.io/football/teams/2381.png",
+            "winner": true
+          },
+          "away": {
+            "id": 8171,
+            "name": "Suriname",
+            "logo": "https://media.api-sports.io/football/teams/8171.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1528269,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-15T20:00:00+00:00",
+          "timestamp": 1773604800,
+          "periods": {
+            "first": 1773604800,
+            "second": 1773608400
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Ramon Tahuichi Aguilera Costas",
+            "city": "Santa Cruz"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 2381,
+            "name": "Bolivia",
+            "logo": "https://media.api-sports.io/football/teams/2381.png",
+            "winner": true
+          },
+          "away": {
+            "id": 5168,
+            "name": "Trinidad and Tobago",
+            "logo": "https://media.api-sports.io/football/teams/5168.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1501811,
+          "referee": "C. A. Betancur Gutierrez",
+          "timezone": "UTC",
+          "date": "2026-01-25T19:30:00+00:00",
+          "timestamp": 1769369400,
+          "periods": {
+            "first": 1769369400,
+            "second": 1769373000
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Ramon Tahuichi Aguilera Costas",
+            "city": "Santa Cruz"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 2381,
+            "name": "Bolivia",
+            "logo": "https://media.api-sports.io/football/teams/2381.png",
+            "winner": false
+          },
+          "away": {
+            "id": 16,
+            "name": "Mexico",
+            "logo": "https://media.api-sports.io/football/teams/16.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1501809,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-18T21:00:00+00:00",
+          "timestamp": 1768770000,
+          "periods": {
+            "first": 1768770000,
+            "second": 1768773600
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio IV Centenario",
+            "city": "Tarija"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 2381,
+            "name": "Bolivia",
+            "logo": "https://media.api-sports.io/football/teams/2381.png",
+            "winner": null
+          },
+          "away": {
+            "id": 11,
+            "name": "Panama",
+            "logo": "https://media.api-sports.io/football/teams/11.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1485026,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-12-21T20:30:00+00:00",
+          "timestamp": 1766349000,
+          "periods": {
+            "first": 1766349000,
+            "second": 1766352600
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 30,
+            "name": "Peru",
+            "logo": "https://media.api-sports.io/football/teams/30.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2381,
+            "name": "Bolivia",
+            "logo": "https://media.api-sports.io/football/teams/2381.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1469293,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-18T10:15:00+00:00",
+          "timestamp": 1763460900,
+          "periods": {
+            "first": 1763460900,
+            "second": 1763464500
+          },
+          "venue": {
+            "id": null,
+            "name": "National Olympic Stadium",
+            "city": "Tokyo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 12,
+            "name": "Japan",
+            "logo": "https://media.api-sports.io/football/teams/12.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2381,
+            "name": "Bolivia",
+            "logo": "https://media.api-sports.io/football/teams/2381.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1469290,
+          "referee": "Ning Ma, China",
+          "timezone": "UTC",
+          "date": "2025-11-14T11:00:00+00:00",
+          "timestamp": 1763118000,
+          "periods": {
+            "first": 1763118000,
+            "second": 1763121600
+          },
+          "venue": {
+            "id": null,
+            "name": "Daejeon World Cup Stadium",
+            "city": "Daejeon"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 17,
+            "name": "South Korea",
+            "logo": "https://media.api-sports.io/football/teams/17.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2381,
+            "name": "Bolivia",
+            "logo": "https://media.api-sports.io/football/teams/2381.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1435557,
+          "referee": "Nikola Dabanovic, Montenegro",
+          "timezone": "UTC",
+          "date": "2025-10-14T17:00:00+00:00",
+          "timestamp": 1760461200,
+          "periods": {
+            "first": 1760461200,
+            "second": 1760464800
+          },
+          "venue": {
+            "id": null,
+            "name": "VTB Arena",
+            "city": "Moscow"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 4,
+            "name": "Russia",
+            "logo": "https://media.api-sports.io/football/teams/4.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2381,
+            "name": "Bolivia",
+            "logo": "https://media.api-sports.io/football/teams/2381.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
   "5161": {
     "statistics": {
       "league": {
@@ -3310,7 +6315,7 @@
       {
         "fixture": {
           "id": 1542182,
-          "referee": "M. Ortiz",
+          "referee": "Marco Antonio Ortiz Nava, Mexico",
           "timezone": "UTC",
           "date": "2026-06-07T20:00:00+00:00",
           "timestamp": 1780862400,
@@ -3320,7 +6325,7 @@
           },
           "venue": {
             "id": null,
-            "name": "ScottsMiracle-Gro Field",
+            "name": "Ohio Stadium",
             "city": "Columbus"
           },
           "status": {
@@ -3380,7 +6385,7 @@
       {
         "fixture": {
           "id": 1542893,
-          "referee": "P. Lauziere",
+          "referee": "Pierre-Luc Lauziere, Canada",
           "timezone": "UTC",
           "date": "2026-06-05T00:00:00+00:00",
           "timestamp": 1780617600,
@@ -3460,8 +6465,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadio Luigi Ferraris",
-            "city": "Genoa"
+            "name": "Luigi Ferraris",
+            "city": "Genova"
           },
           "status": {
             "long": "Match Finished",
@@ -3996,6 +7001,2516 @@
           "fulltime": {
             "home": 0,
             "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
+  "5533": {
+    "statistics": {
+      "league": {
+        "id": 10,
+        "name": "Friendlies",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/10.png",
+        "flag": null,
+        "season": 2026
+      },
+      "team": {
+        "id": 5533,
+        "name": "Grenada",
+        "logo": "https://media.api-sports.io/football/teams/5533.png"
+      },
+      "form": "LL",
+      "fixtures": {
+        "played": {
+          "home": 1,
+          "away": 1,
+          "total": 2
+        },
+        "wins": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "draws": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "loses": {
+          "home": 1,
+          "away": 1,
+          "total": 2
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 2
+            },
+            "1.5": {
+              "over": 0,
+              "under": 2
+            },
+            "2.5": {
+              "over": 0,
+              "under": 2
+            },
+            "3.5": {
+              "over": 0,
+              "under": 2
+            },
+            "4.5": {
+              "over": 0,
+              "under": 2
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 1,
+            "away": 5,
+            "total": 6
+          },
+          "average": {
+            "home": "1.0",
+            "away": "5.0",
+            "total": "3.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": 2,
+              "percentage": "33.33%"
+            },
+            "61-75": {
+              "total": 1,
+              "percentage": "16.67%"
+            },
+            "76-90": {
+              "total": 3,
+              "percentage": "50.00%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 2,
+              "under": 0
+            },
+            "1.5": {
+              "over": 1,
+              "under": 1
+            },
+            "2.5": {
+              "over": 1,
+              "under": 1
+            },
+            "3.5": {
+              "over": 1,
+              "under": 1
+            },
+            "4.5": {
+              "over": 1,
+              "under": 1
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 0,
+          "draws": 0,
+          "loses": 2
+        },
+        "wins": {
+          "home": null,
+          "away": null
+        },
+        "loses": {
+          "home": "0-1",
+          "away": "5-0"
+        },
+        "goals": {
+          "for": {
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "home": 1,
+            "away": 5
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "failed_to_score": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      },
+      "penalty": {
+        "scored": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 0
+      },
+      "lineups": [
+        {
+          "formation": "3-4-2-1",
+          "played": 1
+        },
+        {
+          "formation": "4-2-3-1",
+          "played": 1
+        }
+      ],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": 1,
+            "percentage": "100.00%"
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1537647,
+          "referee": "S. Galia",
+          "timezone": "UTC",
+          "date": "2026-05-16T16:00:00+00:00",
+          "timestamp": 1778947200,
+          "periods": {
+            "first": 1778947200,
+            "second": 1778950800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Enrique Roca",
+            "city": "Murcia"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 776,
+            "name": "Rep. Of Ireland",
+            "logo": "https://media.api-sports.io/football/teams/776.png",
+            "winner": true
+          },
+          "away": {
+            "id": 5533,
+            "name": "Grenada",
+            "logo": "https://media.api-sports.io/football/teams/5533.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1538096,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-30T14:00:00+00:00",
+          "timestamp": 1774879200,
+          "periods": {
+            "first": 1774879200,
+            "second": 1774882800
+          },
+          "venue": {
+            "id": null,
+            "name": "Stade Amahoro",
+            "city": "Kigali"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 1222,
+          "name": "FIFA Series",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1222.png",
+          "flag": null,
+          "season": 2026,
+          "round": "3rd place",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 5533,
+            "name": "Grenada",
+            "logo": "https://media.api-sports.io/football/teams/5533.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1511,
+            "name": "Kenya",
+            "logo": "https://media.api-sports.io/football/teams/1511.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1537264,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-27T19:00:00+00:00",
+          "timestamp": 1774638000,
+          "periods": {
+            "first": 1774638000,
+            "second": 1774641600
+          },
+          "venue": {
+            "id": null,
+            "name": "Stade Amahoro",
+            "city": "Kigali"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 1222,
+          "name": "FIFA Series",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1222.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Semi-finals",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1514,
+            "name": "Rwanda",
+            "logo": "https://media.api-sports.io/football/teams/1514.png",
+            "winner": true
+          },
+          "away": {
+            "id": 5533,
+            "name": "Grenada",
+            "logo": "https://media.api-sports.io/football/teams/5533.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1508955,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-18T21:00:00+00:00",
+          "timestamp": 1768770000,
+          "periods": {
+            "first": 1768770000,
+            "second": 1768773600
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 5533,
+            "name": "Grenada",
+            "logo": "https://media.api-sports.io/football/teams/5533.png",
+            "winner": false
+          },
+          "away": {
+            "id": 2385,
+            "name": "Jamaica",
+            "logo": "https://media.api-sports.io/football/teams/2385.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1486409,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-11-15T00:00:00+00:00",
+          "timestamp": 1763164800,
+          "periods": {
+            "first": 1763164800,
+            "second": 1763168400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 5533,
+            "name": "Grenada",
+            "logo": "https://media.api-sports.io/football/teams/5533.png",
+            "winner": true
+          },
+          "away": {
+            "id": 8172,
+            "name": "US Virgin Islands",
+            "logo": "https://media.api-sports.io/football/teams/8172.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1472938,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-11T23:30:00+00:00",
+          "timestamp": 1760225400,
+          "periods": {
+            "first": 1760225400,
+            "second": 1760229000
+          },
+          "venue": {
+            "id": null,
+            "name": "Kirani James Athletic Stadium",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 5533,
+            "name": "Grenada",
+            "logo": "https://media.api-sports.io/football/teams/5533.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2388,
+            "name": "Cuba",
+            "logo": "https://media.api-sports.io/football/teams/2388.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1484992,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-08T22:00:00+00:00",
+          "timestamp": 1759960800,
+          "periods": {
+            "first": 1759960800,
+            "second": 1759964400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 5533,
+            "name": "Grenada",
+            "logo": "https://media.api-sports.io/football/teams/5533.png",
+            "winner": true
+          },
+          "away": {
+            "id": 8168,
+            "name": "British Virgin Islands",
+            "logo": "https://media.api-sports.io/football/teams/8168.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1169551,
+          "referee": "Cristhofer Corado",
+          "timezone": "UTC",
+          "date": "2025-06-10T19:00:00+00:00",
+          "timestamp": 1749582000,
+          "periods": {
+            "first": 1749582000,
+            "second": 1749585600
+          },
+          "venue": {
+            "id": 4158,
+            "name": "Warner Park",
+            "city": "Basseterre"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 31,
+          "name": "World Cup - Qualification CONCACAF",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/31.png",
+          "flag": null,
+          "season": 2026,
+          "round": "2nd Round - 5",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 5536,
+            "name": "St. Kitts and Nevis",
+            "logo": "https://media.api-sports.io/football/teams/5536.png",
+            "winner": false
+          },
+          "away": {
+            "id": 5533,
+            "name": "Grenada",
+            "logo": "https://media.api-sports.io/football/teams/5533.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1169536,
+          "referee": "Shavin Greene",
+          "timezone": "UTC",
+          "date": "2025-06-04T23:00:00+00:00",
+          "timestamp": 1749078000,
+          "periods": {
+            "first": 1749078000,
+            "second": 1749081600
+          },
+          "venue": {
+            "id": 19759,
+            "name": "Kirani James Athletic Stadium",
+            "city": "St. George's"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 31,
+          "name": "World Cup - Qualification CONCACAF",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/31.png",
+          "flag": null,
+          "season": 2026,
+          "round": "2nd Round - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 5533,
+            "name": "Grenada",
+            "logo": "https://media.api-sports.io/football/teams/5533.png",
+            "winner": true
+          },
+          "away": {
+            "id": 5157,
+            "name": "Bahamas",
+            "logo": "https://media.api-sports.io/football/teams/5157.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 6,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 6,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1373975,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-05-31T23:00:00+00:00",
+          "timestamp": 1748732400,
+          "periods": {
+            "first": 1748732400,
+            "second": 1748736000
+          },
+          "venue": {
+            "id": 19759,
+            "name": "Kirani James Athletic Stadium",
+            "city": "St. George's"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 3",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 5533,
+            "name": "Grenada",
+            "logo": "https://media.api-sports.io/football/teams/5533.png",
+            "winner": true
+          },
+          "away": {
+            "id": 8150,
+            "name": "Anguilla",
+            "logo": "https://media.api-sports.io/football/teams/8150.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
+  "17868": {
+    "statistics": {
+      "league": {
+        "id": 10,
+        "name": "Friendlies",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/10.png",
+        "flag": null,
+        "season": 2026
+      },
+      "team": {
+        "id": 17868,
+        "name": "Costa Rica U23",
+        "logo": "https://media.api-sports.io/football/teams/17868.png"
+      },
+      "form": "D",
+      "fixtures": {
+        "played": {
+          "home": 1,
+          "away": 0,
+          "total": 1
+        },
+        "wins": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "draws": {
+          "home": 1,
+          "away": 0,
+          "total": 1
+        },
+        "loses": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 1
+            },
+            "1.5": {
+              "over": 0,
+              "under": 1
+            },
+            "2.5": {
+              "over": 0,
+              "under": 1
+            },
+            "3.5": {
+              "over": 0,
+              "under": 1
+            },
+            "4.5": {
+              "over": 0,
+              "under": 1
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 1
+            },
+            "1.5": {
+              "over": 0,
+              "under": 1
+            },
+            "2.5": {
+              "over": 0,
+              "under": 1
+            },
+            "3.5": {
+              "over": 0,
+              "under": 1
+            },
+            "4.5": {
+              "over": 0,
+              "under": 1
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 0,
+          "draws": 1,
+          "loses": 0
+        },
+        "wins": {
+          "home": null,
+          "away": null
+        },
+        "loses": {
+          "home": null,
+          "away": null
+        },
+        "goals": {
+          "for": {
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 1,
+        "away": 0,
+        "total": 1
+      },
+      "failed_to_score": {
+        "home": 1,
+        "away": 0,
+        "total": 1
+      },
+      "penalty": {
+        "scored": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 0
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1550855,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-09T16:30:00+00:00",
+          "timestamp": 1781022600,
+          "periods": {
+            "first": 1781022600,
+            "second": 1781026200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 17868,
+            "name": "Costa Rica U23",
+            "logo": "https://media.api-sports.io/football/teams/17868.png",
+            "winner": null
+          },
+          "away": {
+            "id": 17869,
+            "name": "Cuba U23",
+            "logo": "https://media.api-sports.io/football/teams/17869.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1051777,
+          "referee": "F. Martinez",
+          "timezone": "UTC",
+          "date": "2023-07-07T01:30:00+00:00",
+          "timestamp": 1688693400,
+          "periods": {
+            "first": 1688693400,
+            "second": 1688697000
+          },
+          "venue": {
+            "id": 3292,
+            "name": "Estadio Las Delicias",
+            "city": "Santa Tecla"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1016,
+          "name": "CAC Games",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1016.png",
+          "flag": null,
+          "season": 2022,
+          "round": "Final",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10178,
+            "name": "Mexico U23",
+            "logo": "https://media.api-sports.io/football/teams/10178.png",
+            "winner": true
+          },
+          "away": {
+            "id": 17868,
+            "name": "Costa Rica U23",
+            "logo": "https://media.api-sports.io/football/teams/17868.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1048003,
+          "referee": "N. Salgado",
+          "timezone": "UTC",
+          "date": "2023-07-05T01:30:00+00:00",
+          "timestamp": 1688520600,
+          "periods": {
+            "first": 1688520600,
+            "second": 1688524200
+          },
+          "venue": {
+            "id": 3292,
+            "name": "Estadio Las Delicias",
+            "city": "Santa Tecla"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1016,
+          "name": "CAC Games",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1016.png",
+          "flag": null,
+          "season": 2022,
+          "round": "Semi-finals",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 17868,
+            "name": "Costa Rica U23",
+            "logo": "https://media.api-sports.io/football/teams/17868.png",
+            "winner": true
+          },
+          "away": {
+            "id": 17872,
+            "name": "El Salvador U23",
+            "logo": "https://media.api-sports.io/football/teams/17872.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1045722,
+          "referee": "D. Montaño",
+          "timezone": "UTC",
+          "date": "2023-07-02T23:00:00+00:00",
+          "timestamp": 1688338800,
+          "periods": {
+            "first": 1688338800,
+            "second": 1688342400
+          },
+          "venue": {
+            "id": 3292,
+            "name": "Estadio Las Delicias",
+            "city": "Santa Tecla"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1016,
+          "name": "CAC Games",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1016.png",
+          "flag": null,
+          "season": 2022,
+          "round": "Group Stage - 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10175,
+            "name": "Honduras U23",
+            "logo": "https://media.api-sports.io/football/teams/10175.png",
+            "winner": false
+          },
+          "away": {
+            "id": 17868,
+            "name": "Costa Rica U23",
+            "logo": "https://media.api-sports.io/football/teams/17868.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1045719,
+          "referee": "F. Martinez",
+          "timezone": "UTC",
+          "date": "2023-06-30T23:00:00+00:00",
+          "timestamp": 1688166000,
+          "periods": {
+            "first": 1688166000,
+            "second": 1688169600
+          },
+          "venue": {
+            "id": 3292,
+            "name": "Estadio Las Delicias",
+            "city": "Santa Tecla"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1016,
+          "name": "CAC Games",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1016.png",
+          "flag": null,
+          "season": 2022,
+          "round": "Group Stage - 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 17876,
+            "name": "Jamaica U23",
+            "logo": "https://media.api-sports.io/football/teams/17876.png",
+            "winner": false
+          },
+          "away": {
+            "id": 17868,
+            "name": "Costa Rica U23",
+            "logo": "https://media.api-sports.io/football/teams/17868.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 6
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 3
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 6
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1045716,
+          "referee": "Y. Martinez",
+          "timezone": "UTC",
+          "date": "2023-06-28T23:00:00+00:00",
+          "timestamp": 1687993200,
+          "periods": {
+            "first": 1687993200,
+            "second": 1687996800
+          },
+          "venue": {
+            "id": 3292,
+            "name": "Estadio Las Delicias",
+            "city": "Santa Tecla"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1016,
+          "name": "CAC Games",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1016.png",
+          "flag": null,
+          "season": 2022,
+          "round": "Group Stage - 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 17868,
+            "name": "Costa Rica U23",
+            "logo": "https://media.api-sports.io/football/teams/17868.png",
+            "winner": false
+          },
+          "away": {
+            "id": 17874,
+            "name": "Guatemala U23",
+            "logo": "https://media.api-sports.io/football/teams/17874.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1034662,
+          "referee": "K. Perrakis",
+          "timezone": "UTC",
+          "date": "2023-06-15T12:00:00+00:00",
+          "timestamp": 1686830400,
+          "periods": {
+            "first": 1686830400,
+            "second": 1686834000
+          },
+          "venue": {
+            "id": null,
+            "name": "Stade des Molières",
+            "city": "Miramas"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 914,
+          "name": "Tournoi Maurice Revello",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/914.png",
+          "flag": null,
+          "season": 2023,
+          "round": "11th Place Final",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 17868,
+            "name": "Costa Rica U23",
+            "logo": "https://media.api-sports.io/football/teams/17868.png",
+            "winner": false
+          },
+          "away": {
+            "id": 10954,
+            "name": "Qatar U23",
+            "logo": "https://media.api-sports.io/football/teams/10954.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1020840,
+          "referee": "Marta Huerta",
+          "timezone": "UTC",
+          "date": "2023-06-11T12:00:00+00:00",
+          "timestamp": 1686484800,
+          "periods": {
+            "first": 1686484800,
+            "second": 1686488400
+          },
+          "venue": {
+            "id": 6999,
+            "name": "Stade de Lattre de Tassigny",
+            "city": "Aubagne"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "PEN",
+            "elapsed": 120,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 914,
+          "name": "Tournoi Maurice Revello",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/914.png",
+          "flag": null,
+          "season": 2023,
+          "round": "Group Stage - 3",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10955,
+            "name": "Saudi Arabia U23",
+            "logo": "https://media.api-sports.io/football/teams/10955.png",
+            "winner": true
+          },
+          "away": {
+            "id": 17868,
+            "name": "Costa Rica U23",
+            "logo": "https://media.api-sports.io/football/teams/17868.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": 0,
+            "away": 0
+          },
+          "penalty": {
+            "home": 3,
+            "away": 2
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1020835,
+          "referee": "D. Portelli",
+          "timezone": "UTC",
+          "date": "2023-06-08T15:30:00+00:00",
+          "timestamp": 1686238200,
+          "periods": {
+            "first": 1686238200,
+            "second": 1686241800
+          },
+          "venue": {
+            "id": null,
+            "name": "Stade D'Honneur Mallemort",
+            "city": "Mallemort"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 914,
+          "name": "Tournoi Maurice Revello",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/914.png",
+          "flag": null,
+          "season": 2023,
+          "round": "Group Stage - 2",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 8194,
+            "name": "France U21",
+            "logo": "https://media.api-sports.io/football/teams/8194.png",
+            "winner": true
+          },
+          "away": {
+            "id": 17868,
+            "name": "Costa Rica U23",
+            "logo": "https://media.api-sports.io/football/teams/17868.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1020828,
+          "referee": "D. Portelli",
+          "timezone": "UTC",
+          "date": "2023-06-05T12:00:00+00:00",
+          "timestamp": 1685966400,
+          "periods": {
+            "first": 1685966400,
+            "second": 1685970000
+          },
+          "venue": {
+            "id": 6999,
+            "name": "Stade de Lattre de Tassigny",
+            "city": "Aubagne"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "PEN",
+            "elapsed": 120,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 914,
+          "name": "Tournoi Maurice Revello",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/914.png",
+          "flag": null,
+          "season": 2023,
+          "round": "Group Stage - 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 18983,
+            "name": "Venezuela U23",
+            "logo": "https://media.api-sports.io/football/teams/18983.png",
+            "winner": false
+          },
+          "away": {
+            "id": 17868,
+            "name": "Costa Rica U23",
+            "logo": "https://media.api-sports.io/football/teams/17868.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": 0,
+            "away": 0
+          },
+          "penalty": {
+            "home": 3,
+            "away": 4
+          }
+        }
+      }
+    ]
+  },
+  "17869": {
+    "statistics": {
+      "league": {
+        "id": 10,
+        "name": "Friendlies",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/10.png",
+        "flag": null,
+        "season": 2026
+      },
+      "team": {
+        "id": 17869,
+        "name": "Cuba U23",
+        "logo": "https://media.api-sports.io/football/teams/17869.png"
+      },
+      "form": "D",
+      "fixtures": {
+        "played": {
+          "home": 0,
+          "away": 1,
+          "total": 1
+        },
+        "wins": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "draws": {
+          "home": 0,
+          "away": 1,
+          "total": 1
+        },
+        "loses": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 1
+            },
+            "1.5": {
+              "over": 0,
+              "under": 1
+            },
+            "2.5": {
+              "over": 0,
+              "under": 1
+            },
+            "3.5": {
+              "over": 0,
+              "under": 1
+            },
+            "4.5": {
+              "over": 0,
+              "under": 1
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 1
+            },
+            "1.5": {
+              "over": 0,
+              "under": 1
+            },
+            "2.5": {
+              "over": 0,
+              "under": 1
+            },
+            "3.5": {
+              "over": 0,
+              "under": 1
+            },
+            "4.5": {
+              "over": 0,
+              "under": 1
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 0,
+          "draws": 1,
+          "loses": 0
+        },
+        "wins": {
+          "home": null,
+          "away": null
+        },
+        "loses": {
+          "home": null,
+          "away": null
+        },
+        "goals": {
+          "for": {
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 0,
+        "away": 1,
+        "total": 1
+      },
+      "failed_to_score": {
+        "home": 0,
+        "away": 1,
+        "total": 1
+      },
+      "penalty": {
+        "scored": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 0
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1550855,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-09T16:30:00+00:00",
+          "timestamp": 1781022600,
+          "periods": {
+            "first": 1781022600,
+            "second": 1781026200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 17868,
+            "name": "Costa Rica U23",
+            "logo": "https://media.api-sports.io/football/teams/17868.png",
+            "winner": null
+          },
+          "away": {
+            "id": 17869,
+            "name": "Cuba U23",
+            "logo": "https://media.api-sports.io/football/teams/17869.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 799593,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2019-07-19T21:30:00+00:00",
+          "timestamp": 1563571800,
+          "periods": {
+            "first": 1563571800,
+            "second": 1563575400
+          },
+          "venue": {
+            "id": null,
+            "name": "Ulrich Sports Complex Soccer Field",
+            "city": "Bethlehem, Pennsylvania"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 881,
+          "name": "Olympics Men - Qualification Concacaf",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/881.png",
+          "flag": null,
+          "season": 2020,
+          "round": "Caribbean 1st Round - 2",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 17865,
+            "name": "Barbados U23",
+            "logo": "https://media.api-sports.io/football/teams/17865.png",
+            "winner": true
+          },
+          "away": {
+            "id": 17869,
+            "name": "Cuba U23",
+            "logo": "https://media.api-sports.io/football/teams/17869.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 799588,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2019-07-18T00:00:00+00:00",
+          "timestamp": 1563408000,
+          "periods": {
+            "first": 1563408000,
+            "second": 1563411600
+          },
+          "venue": {
+            "id": null,
+            "name": "Ulrich Sports Complex Soccer Field",
+            "city": "Bethlehem, Pennsylvania"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 881,
+          "name": "Olympics Men - Qualification Concacaf",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/881.png",
+          "flag": null,
+          "season": 2020,
+          "round": "Caribbean 1st Round - 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 17882,
+            "name": "US Virgin Islands U23",
+            "logo": "https://media.api-sports.io/football/teams/17882.png",
+            "winner": false
+          },
+          "away": {
+            "id": 17869,
+            "name": "Cuba U23",
+            "logo": "https://media.api-sports.io/football/teams/17869.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
           },
           "extratime": {
             "home": null,
