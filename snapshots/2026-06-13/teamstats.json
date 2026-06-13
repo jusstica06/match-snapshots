@@ -16448,6 +16448,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1489370,
+          "referee": "Danny Makkelie, Netherlands",
+          "timezone": "UTC",
+          "date": "2026-06-13T01:00:00+00:00",
+          "timestamp": 1781312400,
+          "periods": {
+            "first": 1781312400,
+            "second": 1781316000
+          },
+          "venue": {
+            "id": null,
+            "name": "SoFi Stadium",
+            "city": "Inglewood"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 58,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Group Stage - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2384,
+            "name": "USA",
+            "logo": "https://media.api-sports.io/football/teams/2384.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2380,
+            "name": "Paraguay",
+            "logo": "https://media.api-sports.io/football/teams/2380.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1543828,
           "referee": null,
           "timezone": "UTC",
@@ -17075,76 +17145,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1100311,
-          "referee": "Facundo Raul Tello Figueroa, Argentina",
-          "timezone": "UTC",
-          "date": "2025-06-11T00:45:00+00:00",
-          "timestamp": 1749602700,
-          "periods": {
-            "first": 1749602700,
-            "second": 1749606300
-          },
-          "venue": {
-            "id": 11531,
-            "name": "Neo Quimica Arena",
-            "city": "Sao Paulo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 34,
-          "name": "World Cup - Qualification South America",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/34.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage - 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 6,
-            "name": "Brazil",
-            "logo": "https://media.api-sports.io/football/teams/6.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2380,
-            "name": "Paraguay",
-            "logo": "https://media.api-sports.io/football/teams/2380.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -17443,6 +17443,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1489370,
+          "referee": "Danny Makkelie, Netherlands",
+          "timezone": "UTC",
+          "date": "2026-06-13T01:00:00+00:00",
+          "timestamp": 1781312400,
+          "periods": {
+            "first": 1781312400,
+            "second": 1781316000
+          },
+          "venue": {
+            "id": null,
+            "name": "SoFi Stadium",
+            "city": "Inglewood"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 58,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Group Stage - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2384,
+            "name": "USA",
+            "logo": "https://media.api-sports.io/football/teams/2384.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2380,
+            "name": "Paraguay",
+            "logo": "https://media.api-sports.io/football/teams/2380.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1502474,
@@ -18062,76 +18132,6 @@
           "fulltime": {
             "home": 2,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1375498,
-          "referee": "Reon Radix, Grenada",
-          "timezone": "UTC",
-          "date": "2025-09-06T21:00:00+00:00",
-          "timestamp": 1757192400,
-          "periods": {
-            "first": 1757192400,
-            "second": 1757196000
-          },
-          "venue": {
-            "id": null,
-            "name": "Red Bull Arena",
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Friendlies 1",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2384,
-            "name": "USA",
-            "logo": "https://media.api-sports.io/football/teams/2384.png",
-            "winner": false
-          },
-          "away": {
-            "id": 17,
-            "name": "South Korea",
-            "logo": "https://media.api-sports.io/football/teams/17.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
           },
           "extratime": {
             "home": null,
