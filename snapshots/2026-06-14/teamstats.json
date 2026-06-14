@@ -1011,17 +1011,17 @@
         "name": "Australia",
         "logo": "https://media.api-sports.io/football/teams/20.png"
       },
-      "form": null,
+      "form": "W",
       "fixtures": {
         "played": {
-          "home": 0,
+          "home": 1,
           "away": 0,
-          "total": 0
+          "total": 1
         },
         "wins": {
-          "home": 0,
+          "home": 1,
           "away": 0,
-          "total": 0
+          "total": 1
         },
         "draws": {
           "home": 0,
@@ -1037,14 +1037,14 @@
       "goals": {
         "for": {
           "total": {
-            "home": 0,
+            "home": 2,
             "away": 0,
-            "total": 0
+            "total": 2
           },
           "average": {
-            "home": "0.0",
+            "home": "2.0",
             "away": "0.0",
-            "total": "0.0"
+            "total": "2.0"
           },
           "minute": {
             "0-15": {
@@ -1052,8 +1052,8 @@
               "percentage": null
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "50.00%"
             },
             "31-45": {
               "total": null,
@@ -1064,8 +1064,8 @@
               "percentage": null
             },
             "61-75": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "50.00%"
             },
             "76-90": {
               "total": null,
@@ -1082,24 +1082,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "1.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         },
@@ -1151,35 +1151,35 @@
           "under_over": {
             "0.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         }
       },
       "biggest": {
         "streak": {
-          "wins": 0,
+          "wins": 1,
           "draws": 0,
           "loses": 0
         },
         "wins": {
-          "home": null,
+          "home": "2-0",
           "away": null
         },
         "loses": {
@@ -1188,7 +1188,7 @@
         },
         "goals": {
           "for": {
-            "home": 0,
+            "home": 2,
             "away": 0
           },
           "against": {
@@ -1198,9 +1198,9 @@
         }
       },
       "clean_sheet": {
-        "home": 0,
+        "home": 1,
         "away": 0,
-        "total": 0
+        "total": 1
       },
       "failed_to_score": {
         "home": 0,
@@ -1218,7 +1218,12 @@
         },
         "total": 0
       },
-      "lineups": [],
+      "lineups": [
+        {
+          "formation": "5-4-1",
+          "played": 1
+        }
+      ],
       "cards": {
         "yellow": {
           "0-15": {
@@ -1291,6 +1296,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1539001,
+          "referee": "Jesús Valenzuela, Venezuela",
+          "timezone": "UTC",
+          "date": "2026-06-14T04:00:00+00:00",
+          "timestamp": 1781409600,
+          "periods": {
+            "first": 1781409600,
+            "second": 1781413200
+          },
+          "venue": {
+            "id": 19445,
+            "name": "BC Place",
+            "city": "Vancouver"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Group Stage - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 20,
+            "name": "Australia",
+            "logo": "https://media.api-sports.io/football/teams/20.png",
+            "winner": true
+          },
+          "away": {
+            "id": 777,
+            "name": "Türkiye",
+            "logo": "https://media.api-sports.io/football/teams/777.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1542181,
@@ -1920,76 +1995,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1396840,
-          "referee": "Don Robertson",
-          "timezone": "UTC",
-          "date": "2025-09-05T09:45:00+00:00",
-          "timestamp": 1757065500,
-          "periods": {
-            "first": 1757065500,
-            "second": 1757069100
-          },
-          "venue": {
-            "id": null,
-            "name": "GIO Stadium Canberra",
-            "city": "Canberra"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Friendlies 1",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 20,
-            "name": "Australia",
-            "logo": "https://media.api-sports.io/football/teams/20.png",
-            "winner": true
-          },
-          "away": {
-            "id": 4673,
-            "name": "New Zealand",
-            "logo": "https://media.api-sports.io/football/teams/4673.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -2288,6 +2293,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1489374,
+          "referee": "Jalal Jayed, Morocco",
+          "timezone": "UTC",
+          "date": "2026-06-14T17:00:00+00:00",
+          "timestamp": 1781456400,
+          "periods": {
+            "first": 1781456400,
+            "second": 1781460000
+          },
+          "venue": {
+            "id": null,
+            "name": "NRG Stadium",
+            "city": "Houston"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 77,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Group Stage - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 25,
+            "name": "Germany",
+            "logo": "https://media.api-sports.io/football/teams/25.png",
+            "winner": true
+          },
+          "away": {
+            "id": 5530,
+            "name": "Curaçao",
+            "logo": "https://media.api-sports.io/football/teams/5530.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1502474,
@@ -2907,76 +2982,6 @@
           "fulltime": {
             "home": 3,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1366279,
-          "referee": "S. Gozubuyuk",
-          "timezone": "UTC",
-          "date": "2025-09-04T18:45:00+00:00",
-          "timestamp": 1757011500,
-          "periods": {
-            "first": 1757011500,
-            "second": 1757015100
-          },
-          "venue": {
-            "id": 11914,
-            "name": "Štadión Tehelné pole",
-            "city": "Bratislava"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 32,
-          "name": "World Cup - Qualification Europe",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/32.png",
-          "flag": null,
-          "season": 2024,
-          "round": "Group Stage - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 773,
-            "name": "Slovakia",
-            "logo": "https://media.api-sports.io/football/teams/773.png",
-            "winner": true
-          },
-          "away": {
-            "id": 25,
-            "name": "Germany",
-            "logo": "https://media.api-sports.io/football/teams/25.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -5045,12 +5050,12 @@
         "name": "Türkiye",
         "logo": "https://media.api-sports.io/football/teams/777.png"
       },
-      "form": null,
+      "form": "L",
       "fixtures": {
         "played": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         },
         "wins": {
           "home": 0,
@@ -5064,8 +5069,8 @@
         },
         "loses": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         }
       },
       "goals": {
@@ -5117,36 +5122,36 @@
           "under_over": {
             "0.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         },
         "against": {
           "total": {
             "home": 0,
-            "away": 0,
-            "total": 0
+            "away": 2,
+            "total": 2
           },
           "average": {
             "home": "0.0",
-            "away": "0.0",
-            "total": "0.0"
+            "away": "2.0",
+            "total": "2.0"
           },
           "minute": {
             "0-15": {
@@ -5154,8 +5159,8 @@
               "percentage": null
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "50.00%"
             },
             "31-45": {
               "total": null,
@@ -5166,8 +5171,8 @@
               "percentage": null
             },
             "61-75": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "50.00%"
             },
             "76-90": {
               "total": null,
@@ -5184,24 +5189,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "1.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         }
@@ -5210,7 +5215,7 @@
         "streak": {
           "wins": 0,
           "draws": 0,
-          "loses": 0
+          "loses": 1
         },
         "wins": {
           "home": null,
@@ -5218,7 +5223,7 @@
         },
         "loses": {
           "home": null,
-          "away": null
+          "away": "2-0"
         },
         "goals": {
           "for": {
@@ -5227,7 +5232,7 @@
           },
           "against": {
             "home": 0,
-            "away": 0
+            "away": 2
           }
         }
       },
@@ -5238,8 +5243,8 @@
       },
       "failed_to_score": {
         "home": 0,
-        "away": 0,
-        "total": 0
+        "away": 1,
+        "total": 1
       },
       "penalty": {
         "scored": {
@@ -5252,7 +5257,12 @@
         },
         "total": 0
       },
-      "lineups": [],
+      "lineups": [
+        {
+          "formation": "4-2-3-1",
+          "played": 1
+        }
+      ],
       "cards": {
         "yellow": {
           "0-15": {
@@ -5276,8 +5286,8 @@
             "percentage": null
           },
           "76-90": {
-            "total": null,
-            "percentage": null
+            "total": 1,
+            "percentage": "100.00%"
           },
           "91-105": {
             "total": null,
@@ -5325,6 +5335,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1539001,
+          "referee": "Jesús Valenzuela, Venezuela",
+          "timezone": "UTC",
+          "date": "2026-06-14T04:00:00+00:00",
+          "timestamp": 1781409600,
+          "periods": {
+            "first": 1781409600,
+            "second": 1781413200
+          },
+          "venue": {
+            "id": 19445,
+            "name": "BC Place",
+            "city": "Vancouver"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Group Stage - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 20,
+            "name": "Australia",
+            "logo": "https://media.api-sports.io/football/teams/20.png",
+            "winner": true
+          },
+          "away": {
+            "id": 777,
+            "name": "Türkiye",
+            "logo": "https://media.api-sports.io/football/teams/777.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1543829,
@@ -5954,76 +6034,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1323280,
-          "referee": "D. Massa",
-          "timezone": "UTC",
-          "date": "2025-09-04T16:00:00+00:00",
-          "timestamp": 1757001600,
-          "periods": {
-            "first": 1757001600,
-            "second": 1757005200
-          },
-          "venue": {
-            "id": null,
-            "name": "Boris Paichadze Dinamo Arena",
-            "city": "Tbilisi"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 12
-          }
-        },
-        "league": {
-          "id": 32,
-          "name": "World Cup - Qualification Europe",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/32.png",
-          "flag": null,
-          "season": 2024,
-          "round": "Group Stage - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1104,
-            "name": "Georgia",
-            "logo": "https://media.api-sports.io/football/teams/1104.png",
-            "winner": false
-          },
-          "away": {
-            "id": 777,
-            "name": "Türkiye",
-            "logo": "https://media.api-sports.io/football/teams/777.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -6042,17 +6052,17 @@
         "name": "Scotland",
         "logo": "https://media.api-sports.io/football/teams/1108.png"
       },
-      "form": null,
+      "form": "W",
       "fixtures": {
         "played": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         },
         "wins": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         },
         "draws": {
           "home": 0,
@@ -6069,13 +6079,13 @@
         "for": {
           "total": {
             "home": 0,
-            "away": 0,
-            "total": 0
+            "away": 1,
+            "total": 1
           },
           "average": {
             "home": "0.0",
-            "away": "0.0",
-            "total": "0.0"
+            "away": "1.0",
+            "total": "1.0"
           },
           "minute": {
             "0-15": {
@@ -6083,8 +6093,8 @@
               "percentage": null
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "31-45": {
               "total": null,
@@ -6113,24 +6123,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         },
@@ -6182,36 +6192,36 @@
           "under_over": {
             "0.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         }
       },
       "biggest": {
         "streak": {
-          "wins": 0,
+          "wins": 1,
           "draws": 0,
           "loses": 0
         },
         "wins": {
           "home": null,
-          "away": null
+          "away": "0-1"
         },
         "loses": {
           "home": null,
@@ -6220,7 +6230,7 @@
         "goals": {
           "for": {
             "home": 0,
-            "away": 0
+            "away": 1
           },
           "against": {
             "home": 0,
@@ -6230,8 +6240,8 @@
       },
       "clean_sheet": {
         "home": 0,
-        "away": 0,
-        "total": 0
+        "away": 1,
+        "total": 1
       },
       "failed_to_score": {
         "home": 0,
@@ -6249,7 +6259,12 @@
         },
         "total": 0
       },
-      "lineups": [],
+      "lineups": [
+        {
+          "formation": "4-4-2",
+          "played": 1
+        }
+      ],
       "cards": {
         "yellow": {
           "0-15": {
@@ -6265,8 +6280,8 @@
             "percentage": null
           },
           "46-60": {
-            "total": null,
-            "percentage": null
+            "total": 1,
+            "percentage": "33.33%"
           },
           "61-75": {
             "total": null,
@@ -6277,8 +6292,8 @@
             "percentage": null
           },
           "91-105": {
-            "total": null,
-            "percentage": null
+            "total": 2,
+            "percentage": "66.67%"
           },
           "106-120": {
             "total": null,
@@ -6339,10 +6354,10 @@
             "city": "Boston"
           },
           "status": {
-            "long": "Second Half",
-            "short": "2H",
-            "elapsed": 57,
-            "extra": null
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
           }
         },
         "league": {
@@ -6379,8 +6394,8 @@
             "away": 1
           },
           "fulltime": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
           },
           "extratime": {
             "home": null,
@@ -10030,12 +10045,12 @@
         "name": "Haiti",
         "logo": "https://media.api-sports.io/football/teams/2386.png"
       },
-      "form": null,
+      "form": "L",
       "fixtures": {
         "played": {
-          "home": 0,
+          "home": 1,
           "away": 0,
-          "total": 0
+          "total": 1
         },
         "wins": {
           "home": 0,
@@ -10048,9 +10063,9 @@
           "total": 0
         },
         "loses": {
-          "home": 0,
+          "home": 1,
           "away": 0,
-          "total": 0
+          "total": 1
         }
       },
       "goals": {
@@ -10102,36 +10117,36 @@
           "under_over": {
             "0.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         },
         "against": {
           "total": {
-            "home": 0,
+            "home": 1,
             "away": 0,
-            "total": 0
+            "total": 1
           },
           "average": {
-            "home": "0.0",
+            "home": "1.0",
             "away": "0.0",
-            "total": "0.0"
+            "total": "1.0"
           },
           "minute": {
             "0-15": {
@@ -10139,8 +10154,8 @@
               "percentage": null
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "31-45": {
               "total": null,
@@ -10169,24 +10184,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 0,
+              "over": 1,
               "under": 0
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         }
@@ -10195,14 +10210,14 @@
         "streak": {
           "wins": 0,
           "draws": 0,
-          "loses": 0
+          "loses": 1
         },
         "wins": {
           "home": null,
           "away": null
         },
         "loses": {
-          "home": null,
+          "home": "0-1",
           "away": null
         },
         "goals": {
@@ -10211,7 +10226,7 @@
             "away": 0
           },
           "against": {
-            "home": 0,
+            "home": 1,
             "away": 0
           }
         }
@@ -10222,9 +10237,9 @@
         "total": 0
       },
       "failed_to_score": {
-        "home": 0,
+        "home": 1,
         "away": 0,
-        "total": 0
+        "total": 1
       },
       "penalty": {
         "scored": {
@@ -10237,7 +10252,12 @@
         },
         "total": 0
       },
-      "lineups": [],
+      "lineups": [
+        {
+          "formation": "4-4-2",
+          "played": 1
+        }
+      ],
       "cards": {
         "yellow": {
           "0-15": {
@@ -10249,8 +10269,8 @@
             "percentage": null
           },
           "31-45": {
-            "total": null,
-            "percentage": null
+            "total": 1,
+            "percentage": "100.00%"
           },
           "46-60": {
             "total": null,
@@ -10327,10 +10347,10 @@
             "city": "Boston"
           },
           "status": {
-            "long": "Second Half",
-            "short": "2H",
-            "elapsed": 57,
-            "extra": null
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
           }
         },
         "league": {
@@ -10367,8 +10387,8 @@
             "away": 1
           },
           "fulltime": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
           },
           "extratime": {
             "home": null,
@@ -11309,6 +11329,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1489374,
+          "referee": "Jalal Jayed, Morocco",
+          "timezone": "UTC",
+          "date": "2026-06-14T17:00:00+00:00",
+          "timestamp": 1781456400,
+          "periods": {
+            "first": 1781456400,
+            "second": 1781460000
+          },
+          "venue": {
+            "id": null,
+            "name": "NRG Stadium",
+            "city": "Houston"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 77,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Group Stage - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 25,
+            "name": "Germany",
+            "logo": "https://media.api-sports.io/football/teams/25.png",
+            "winner": true
+          },
+          "away": {
+            "id": 5530,
+            "name": "Curaçao",
+            "logo": "https://media.api-sports.io/football/teams/5530.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1537650,
           "referee": null,
           "timezone": "UTC",
@@ -11926,76 +12016,6 @@
           "fulltime": {
             "home": 3,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1397440,
-          "referee": "K. I. Garcia Mendoza",
-          "timezone": "UTC",
-          "date": "2025-09-06T00:00:00+00:00",
-          "timestamp": 1757116800,
-          "periods": {
-            "first": 1757116800,
-            "second": 1757120400
-          },
-          "venue": {
-            "id": 3905,
-            "name": "Hasely Crawford Stadium",
-            "city": "Port of Spain"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 31,
-          "name": "World Cup - Qualification CONCACAF",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/31.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Final Round - 1",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 5168,
-            "name": "Trinidad and Tobago",
-            "logo": "https://media.api-sports.io/football/teams/5168.png",
-            "winner": null
-          },
-          "away": {
-            "id": 5530,
-            "name": "Curaçao",
-            "logo": "https://media.api-sports.io/football/teams/5530.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
           },
           "extratime": {
             "home": null,
