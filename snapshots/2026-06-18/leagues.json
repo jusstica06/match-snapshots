@@ -1,0 +1,76 @@
+{
+  "1": {
+    "id": 1,
+    "name": "World Cup",
+    "type": "Cup",
+    "logo": "https://media.api-sports.io/football/leagues/1.png",
+    "country": {
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "season": 2026,
+    "seasons": [
+      2010,
+      2014,
+      2018,
+      2022,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "244": {
+    "id": 244,
+    "name": "Veikkausliiga",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/244.png",
+    "country": {
+      "name": "Finland",
+      "code": "FI",
+      "flag": "https://media.api-sports.io/flags/fi.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  }
+}
