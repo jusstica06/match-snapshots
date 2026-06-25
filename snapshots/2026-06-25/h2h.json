@@ -1,15 +1,30 @@
 {
-  "generatedAt": "2026-06-24T02:21:20.110Z",
+  "generatedAt": "2026-06-25T02:21:29.623Z",
   "totalFixtures": 6,
   "uniquePairs": 6,
   "data": {
     "1489407": {
-      "matches": [],
+      "matches": [
+        {
+          "fixtureId": 1489407,
+          "date": "2026-06-25T01:00:00+00:00",
+          "venue": "Estadio BBVA",
+          "leagueName": "World Cup",
+          "homeTeamId": 1531,
+          "homeTeam": "South Africa",
+          "homeWinner": null,
+          "awayTeamId": 17,
+          "awayTeam": "South Korea",
+          "awayWinner": null,
+          "homeGoals": 0,
+          "awayGoals": 0
+        }
+      ],
       "summary": {
-        "total": 0,
+        "total": 1,
         "homeWins": 0,
         "awayWins": 0,
-        "draws": 0,
+        "draws": 1,
         "homeGoals": 0,
         "awayGoals": 0
       }
@@ -50,6 +65,20 @@
     "1539010": {
       "matches": [
         {
+          "fixtureId": 1539010,
+          "date": "2026-06-25T01:00:00+00:00",
+          "venue": "Estadio Azteca",
+          "leagueName": "World Cup",
+          "homeTeamId": 770,
+          "homeTeam": "Czechia",
+          "homeWinner": false,
+          "awayTeamId": 16,
+          "awayTeam": "Mexico",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
           "fixtureId": 313511,
           "date": "2020-03-27T00:00:00+00:00",
           "venue": "Bank of America Stadium",
@@ -65,12 +94,12 @@
         }
       ],
       "summary": {
-        "total": 1,
+        "total": 2,
         "homeWins": 0,
-        "awayWins": 0,
+        "awayWins": 1,
         "draws": 1,
         "homeGoals": 0,
-        "awayGoals": 0
+        "awayGoals": 1
       }
     },
     "1539011": {
