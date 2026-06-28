@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T02:22:04.082Z",
+  "generatedAt": "2026-06-28T02:21:28.205Z",
   "picks": [
     {
       "fixtureId": 1562344,
@@ -10,15 +10,34 @@
       "homeTeam": "Brazil",
       "awayTeamId": 12,
       "awayTeam": "Japan",
-      "expectedHome": 2.115,
-      "expectedAway": 1.579,
-      "expectedTotal": 3.694,
-      "teamGoalsHomeLambda": 2.29,
-      "teamGoalsAwayLambda": 1.704,
+      "expectedHome": 2.139,
+      "expectedAway": 1.597,
+      "expectedTotal": 3.736,
+      "teamGoalsHomeLambda": 2.316,
+      "teamGoalsAwayLambda": 1.723,
       "type": "home15",
       "label": "Brazil 1.5 Üst",
-      "prob": 0.6668,
+      "prob": 0.6728,
       "side": "home"
+    },
+    {
+      "fixtureId": 1565176,
+      "leagueId": 1,
+      "season": 2026,
+      "kickoffTs": 1782765000,
+      "homeTeamId": 25,
+      "homeTeam": "Germany",
+      "awayTeamId": 2380,
+      "awayTeam": "Paraguay",
+      "expectedHome": 2.244,
+      "expectedAway": 1.005,
+      "expectedTotal": 3.249,
+      "teamGoalsHomeLambda": 2.53,
+      "teamGoalsAwayLambda": 1.08,
+      "type": "away15",
+      "label": "Paraguay 1.5 Üst",
+      "prob": 0.2936,
+      "side": "away"
     }
   ]
 }

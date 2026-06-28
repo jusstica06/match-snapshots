@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-27T02:22:05.057Z",
-  "totalTeams": 2,
+  "generatedAt": "2026-06-28T02:21:29.674Z",
+  "totalTeams": 4,
   "totalLeagues": 1,
-  "teamsWithFallback": 2,
+  "teamsWithFallback": 4,
   "data": {
     "6": {
       "teamId": 6,
@@ -98,6 +98,108 @@
         }
       ],
       "topAssists": []
+    },
+    "25": {
+      "teamId": 25,
+      "teamName": "Germany",
+      "season": 2026,
+      "leagueId": 1,
+      "leagueName": "World Cup",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 26475,
+          "name": "D. Undav",
+          "photo": "https://media.api-sports.io/football/players/26475.png",
+          "goals": 3,
+          "appearances": 3
+        },
+        "topAssist": {
+          "id": 26475,
+          "name": "D. Undav",
+          "photo": "https://media.api-sports.io/football/players/26475.png",
+          "assists": 2,
+          "appearances": 3
+        },
+        "mostCards": {
+          "id": 26243,
+          "name": "N. Schlotterbeck",
+          "photo": "https://media.api-sports.io/football/players/26243.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 26475,
+          "name": "D. Undav",
+          "photo": "https://media.api-sports.io/football/players/26475.png",
+          "goals": 3,
+          "appearances": 3
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 26475,
+          "name": "D. Undav",
+          "photo": "https://media.api-sports.io/football/players/26475.png",
+          "assists": 2,
+          "appearances": 3
+        },
+        {
+          "id": 502,
+          "name": "J. Kimmich",
+          "photo": "https://media.api-sports.io/football/players/502.png",
+          "assists": 2,
+          "appearances": 3
+        },
+        {
+          "id": 203224,
+          "name": "F. Wirtz",
+          "photo": "https://media.api-sports.io/football/players/203224.png",
+          "assists": 2,
+          "appearances": 3
+        }
+      ]
+    },
+    "2380": {
+      "teamId": 2380,
+      "teamName": "Paraguay",
+      "season": 2026,
+      "leagueId": 1,
+      "leagueName": "World Cup",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 2507,
+          "name": "M. Almirón",
+          "photo": "https://media.api-sports.io/football/players/2507.png",
+          "goals": 1,
+          "appearances": 15
+        },
+        "topAssist": {
+          "id": 70747,
+          "name": "J. Enciso",
+          "photo": "https://media.api-sports.io/football/players/70747.png",
+          "assists": 2,
+          "appearances": 3
+        },
+        "mostCards": {
+          "id": 2507,
+          "name": "M. Almirón",
+          "photo": "https://media.api-sports.io/football/players/2507.png",
+          "yellowCards": 1,
+          "redCards": 1
+        }
+      },
+      "topScorers": [],
+      "topAssists": [
+        {
+          "id": 70747,
+          "name": "J. Enciso",
+          "photo": "https://media.api-sports.io/football/players/70747.png",
+          "assists": 2,
+          "appearances": 3
+        }
+      ]
     }
   }
 }
