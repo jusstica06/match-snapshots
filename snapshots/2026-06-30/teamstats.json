@@ -302,7 +302,7 @@
       {
         "fixture": {
           "id": 1489416,
-          "referee": "M. Oliver",
+          "referee": "Michael Oliver, England",
           "timezone": "UTC",
           "date": "2026-06-26T19:00:00+00:00",
           "timestamp": 1782500400,
@@ -372,7 +372,7 @@
       {
         "fixture": {
           "id": 1539017,
-          "referee": "D. Fischer",
+          "referee": "Drew Fischer, Canada",
           "timezone": "UTC",
           "date": "2026-06-22T21:00:00+00:00",
           "timestamp": 1782162000,
@@ -442,7 +442,7 @@
       {
         "fixture": {
           "id": 1489383,
-          "referee": "A. Faghani",
+          "referee": "Alireza Faghani, Australia",
           "timezone": "UTC",
           "date": "2026-06-16T19:00:00+00:00",
           "timestamp": 1781636400,
@@ -1308,7 +1308,7 @@
       {
         "fixture": {
           "id": 1539011,
-          "referee": "I. Barton",
+          "referee": "Iván Barton, El Salvador",
           "timezone": "UTC",
           "date": "2026-06-25T23:00:00+00:00",
           "timestamp": 1782428400,
@@ -1378,7 +1378,7 @@
       {
         "fixture": {
           "id": 1539007,
-          "referee": "M. Oliver",
+          "referee": "Michael Oliver, England",
           "timezone": "UTC",
           "date": "2026-06-20T17:00:00+00:00",
           "timestamp": 1781974800,
@@ -1448,7 +1448,7 @@
       {
         "fixture": {
           "id": 1539002,
-          "referee": "Y. Perez",
+          "referee": "Yael Falcon Perez, Argentina",
           "timezone": "UTC",
           "date": "2026-06-15T02:00:00+00:00",
           "timestamp": 1781488800,
@@ -2309,8 +2309,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1562345,
+          "referee": "Wilton Pereira Sampaio, Brazil",
+          "timezone": "UTC",
+          "date": "2026-06-30T01:00:00+00:00",
+          "timestamp": 1782781200,
+          "periods": {
+            "first": 1782781200,
+            "second": 1782784800
+          },
+          "venue": {
+            "id": 11905,
+            "name": "Estadio BBVA",
+            "city": "Monterrey"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 59,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Round of 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1118,
+            "name": "Netherlands",
+            "logo": "https://media.api-sports.io/football/teams/1118.png",
+            "winner": null
+          },
+          "away": {
+            "id": 31,
+            "name": "Morocco",
+            "logo": "https://media.api-sports.io/football/teams/31.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1489405,
-          "referee": "D. Makkelie",
+          "referee": "Danny Makkelie, Netherlands",
           "timezone": "UTC",
           "date": "2026-06-24T22:00:00+00:00",
           "timestamp": 1782338400,
@@ -2380,7 +2450,7 @@
       {
         "fixture": {
           "id": 1489390,
-          "referee": "I. Tantashev",
+          "referee": "Ilgiz Tantashev, Uzbekistan",
           "timezone": "UTC",
           "date": "2026-06-19T22:00:00+00:00",
           "timestamp": 1781906400,
@@ -2450,7 +2520,7 @@
       {
         "fixture": {
           "id": 1489371,
-          "referee": "S. Vincic",
+          "referee": "Slavko Vinčić, Slovenia",
           "timezone": "UTC",
           "date": "2026-06-13T22:00:00+00:00",
           "timestamp": 1781388000,
@@ -2936,76 +3006,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1505617,
-          "referee": "Daniel Laryea, Ghana",
-          "timezone": "UTC",
-          "date": "2026-01-14T20:00:00+00:00",
-          "timestamp": 1768420800,
-          "periods": {
-            "first": 1768420800,
-            "second": 1768424400
-          },
-          "venue": {
-            "id": null,
-            "name": "Complexe Sportif Moulay Abdellah",
-            "city": "Rabat"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "PEN",
-            "elapsed": 120,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 6,
-          "name": "Africa Cup of Nations",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/6.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Semi-finals",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 19,
-            "name": "Nigeria",
-            "logo": "https://media.api-sports.io/football/teams/19.png",
-            "winner": false
-          },
-          "away": {
-            "id": 31,
-            "name": "Morocco",
-            "logo": "https://media.api-sports.io/football/teams/31.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": 0,
-            "away": 0
-          },
-          "penalty": {
-            "home": 2,
-            "away": 4
-          }
-        }
       }
     ]
   },
@@ -3316,7 +3316,7 @@
       {
         "fixture": {
           "id": 1489416,
-          "referee": "M. Oliver",
+          "referee": "Michael Oliver, England",
           "timezone": "UTC",
           "date": "2026-06-26T19:00:00+00:00",
           "timestamp": 1782500400,
@@ -3386,7 +3386,7 @@
       {
         "fixture": {
           "id": 1489401,
-          "referee": "W. Sampaio",
+          "referee": "Wilton Pereira Sampaio, Brazil",
           "timezone": "UTC",
           "date": "2026-06-23T00:00:00+00:00",
           "timestamp": 1782172800,
@@ -3456,7 +3456,7 @@
       {
         "fixture": {
           "id": 1539016,
-          "referee": "P. Atcho",
+          "referee": "Pierre Ghislain Atcho, Gabon",
           "timezone": "UTC",
           "date": "2026-06-16T22:00:00+00:00",
           "timestamp": 1781647200,
@@ -4317,8 +4317,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1562345,
+          "referee": "Wilton Pereira Sampaio, Brazil",
+          "timezone": "UTC",
+          "date": "2026-06-30T01:00:00+00:00",
+          "timestamp": 1782781200,
+          "periods": {
+            "first": 1782781200,
+            "second": 1782784800
+          },
+          "venue": {
+            "id": 11905,
+            "name": "Estadio BBVA",
+            "city": "Monterrey"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 59,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Round of 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1118,
+            "name": "Netherlands",
+            "logo": "https://media.api-sports.io/football/teams/1118.png",
+            "winner": null
+          },
+          "away": {
+            "id": 31,
+            "name": "Morocco",
+            "logo": "https://media.api-sports.io/football/teams/31.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1489412,
-          "referee": "K. I. Garcia Mendoza",
+          "referee": "Katia García, Mexico",
           "timezone": "UTC",
           "date": "2026-06-25T23:00:00+00:00",
           "timestamp": 1782428400,
@@ -4388,7 +4458,7 @@
       {
         "fixture": {
           "id": 1539007,
-          "referee": "M. Oliver",
+          "referee": "Michael Oliver, England",
           "timezone": "UTC",
           "date": "2026-06-20T17:00:00+00:00",
           "timestamp": 1781974800,
@@ -4458,7 +4528,7 @@
       {
         "fixture": {
           "id": 1489376,
-          "referee": "I. Elfath",
+          "referee": "Ismail Elfath, USA",
           "timezone": "UTC",
           "date": "2026-06-14T20:00:00+00:00",
           "timestamp": 1781467200,
@@ -4944,76 +5014,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1366303,
-          "referee": "S. Vincic",
-          "timezone": "UTC",
-          "date": "2025-10-12T16:00:00+00:00",
-          "timestamp": 1760284800,
-          "periods": {
-            "first": 1760284800,
-            "second": 1760288400
-          },
-          "venue": {
-            "id": null,
-            "name": "Johan Cruijff Arena",
-            "city": "Amsterdam"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 1
-          }
-        },
-        "league": {
-          "id": 32,
-          "name": "World Cup - Qualification Europe",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/32.png",
-          "flag": null,
-          "season": 2024,
-          "round": "Group Stage - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1118,
-            "name": "Netherlands",
-            "logo": "https://media.api-sports.io/football/teams/1118.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1099,
-            "name": "Finland",
-            "logo": "https://media.api-sports.io/football/teams/1099.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 4,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -5328,7 +5328,7 @@
       {
         "fixture": {
           "id": 1489409,
-          "referee": "G. Nyberg",
+          "referee": "Glenn Nyberg, Sweden",
           "timezone": "UTC",
           "date": "2026-06-25T20:00:00+00:00",
           "timestamp": 1782417600,
@@ -5398,7 +5398,7 @@
       {
         "fixture": {
           "id": 1489393,
-          "referee": "J. Benitez",
+          "referee": "Juan Gabriel Benitez, Paraguay",
           "timezone": "UTC",
           "date": "2026-06-20T20:00:00+00:00",
           "timestamp": 1781985600,
@@ -5468,7 +5468,7 @@
       {
         "fixture": {
           "id": 1489375,
-          "referee": "F. Letexier",
+          "referee": "François Letexier, France",
           "timezone": "UTC",
           "date": "2026-06-14T23:00:00+00:00",
           "timestamp": 1781478000,
