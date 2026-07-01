@@ -372,7 +372,7 @@
       {
         "fixture": {
           "id": 1489395,
-          "referee": "Dario Herrera, Argentina",
+          "referee": "D. Herrera",
           "timezone": "UTC",
           "date": "2026-06-21T19:00:00+00:00",
           "timestamp": 1782068400,
@@ -442,7 +442,7 @@
       {
         "fixture": {
           "id": 1489377,
-          "referee": "Ramon Abatti Abel, Brazil",
+          "referee": "R. Abatti",
           "timezone": "UTC",
           "date": "2026-06-15T19:00:00+00:00",
           "timestamp": 1781550000,
@@ -1308,7 +1308,7 @@
       {
         "fixture": {
           "id": 1489422,
-          "referee": "Abdulrahman Al-Jassim, Qatar",
+          "referee": "A. Al Jassim",
           "timezone": "UTC",
           "date": "2026-06-27T21:00:00+00:00",
           "timestamp": 1782594000,
@@ -1378,7 +1378,7 @@
       {
         "fixture": {
           "id": 1489402,
-          "referee": "Said Martinez, Honduras",
+          "referee": "S. Martinez",
           "timezone": "UTC",
           "date": "2026-06-23T20:00:00+00:00",
           "timestamp": 1782244800,
@@ -1448,7 +1448,7 @@
       {
         "fixture": {
           "id": 1489384,
-          "referee": "Clement Turpin, France",
+          "referee": "C. Turpin",
           "timezone": "UTC",
           "date": "2026-06-17T20:00:00+00:00",
           "timestamp": 1781726400,
@@ -2079,12 +2079,12 @@
               "percentage": "12.50%"
             },
             "76-90": {
-              "total": 3,
-              "percentage": "37.50%"
+              "total": 2,
+              "percentage": "25.00%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "12.50%"
             },
             "106-120": {
               "total": null,
@@ -2147,12 +2147,12 @@
               "percentage": "16.67%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "33.33%"
+              "total": 1,
+              "percentage": "16.67%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "16.67%"
             },
             "106-120": {
               "total": null,
@@ -2314,7 +2314,7 @@
       {
         "fixture": {
           "id": 1539074,
-          "referee": "Anthony Taylor, England",
+          "referee": "A. Taylor",
           "timezone": "UTC",
           "date": "2026-06-26T19:00:00+00:00",
           "timestamp": 1782500400,
@@ -2384,7 +2384,7 @@
       {
         "fixture": {
           "id": 1489401,
-          "referee": "Wilton Pereira Sampaio, Brazil",
+          "referee": "W. Sampaio",
           "timezone": "UTC",
           "date": "2026-06-23T00:00:00+00:00",
           "timestamp": 1782172800,
@@ -3319,6 +3319,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1567306,
+          "referee": "Slavko Vinčić, Slovenia",
+          "timezone": "UTC",
+          "date": "2026-07-01T01:00:00+00:00",
+          "timestamp": 1782867600,
+          "periods": {
+            "first": 1782867600,
+            "second": null
+          },
+          "venue": {
+            "id": 1069,
+            "name": "Estadio Banorte",
+            "city": "Mexico City"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 21,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Round of 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 16,
+            "name": "Mexico",
+            "logo": "https://media.api-sports.io/football/teams/16.png",
+            "winner": null
+          },
+          "away": {
+            "id": 2382,
+            "name": "Ecuador",
+            "logo": "https://media.api-sports.io/football/teams/2382.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1539010,
           "referee": "Y. Perez",
           "timezone": "UTC",
@@ -3390,7 +3460,7 @@
       {
         "fixture": {
           "id": 1489388,
-          "referee": "Gustavo Tejera, Uruguay",
+          "referee": "G. Tejera",
           "timezone": "UTC",
           "date": "2026-06-19T01:00:00+00:00",
           "timestamp": 1781830800,
@@ -3460,7 +3530,7 @@
       {
         "fixture": {
           "id": 1489369,
-          "referee": "Wilton Pereira Sampaio, Brazil",
+          "referee": "W. Sampaio",
           "timezone": "UTC",
           "date": "2026-06-11T19:00:00+00:00",
           "timestamp": 1781204400,
@@ -3946,76 +4016,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1501811,
-          "referee": "C. A. Betancur Gutierrez",
-          "timezone": "UTC",
-          "date": "2026-01-25T19:30:00+00:00",
-          "timestamp": 1769369400,
-          "periods": {
-            "first": 1769369400,
-            "second": 1769373000
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Ramon Tahuichi Aguilera Costas",
-            "city": "Santa Cruz"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Friendly International",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2381,
-            "name": "Bolivia",
-            "logo": "https://media.api-sports.io/football/teams/2381.png",
-            "winner": false
-          },
-          "away": {
-            "id": 16,
-            "name": "Mexico",
-            "logo": "https://media.api-sports.io/football/teams/16.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -4326,7 +4326,7 @@
       {
         "fixture": {
           "id": 1539013,
-          "referee": "Felix Zwayer, Germany",
+          "referee": "F. Zwayer",
           "timezone": "UTC",
           "date": "2026-06-27T23:30:00+00:00",
           "timestamp": 1782603000,
@@ -4396,7 +4396,7 @@
       {
         "fixture": {
           "id": 1539008,
-          "referee": "Maurizio Mariani, Italy",
+          "referee": "M. Mariani",
           "timezone": "UTC",
           "date": "2026-06-24T02:00:00+00:00",
           "timestamp": 1782266400,
@@ -4466,7 +4466,7 @@
       {
         "fixture": {
           "id": 1539003,
-          "referee": "Abdulrahman Al-Jassim, Qatar",
+          "referee": "A. Al Jassim",
           "timezone": "UTC",
           "date": "2026-06-17T17:00:00+00:00",
           "timestamp": 1781715600,
@@ -5331,8 +5331,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1567306,
+          "referee": "Slavko Vinčić, Slovenia",
+          "timezone": "UTC",
+          "date": "2026-07-01T01:00:00+00:00",
+          "timestamp": 1782867600,
+          "periods": {
+            "first": 1782867600,
+            "second": null
+          },
+          "venue": {
+            "id": 1069,
+            "name": "Estadio Banorte",
+            "city": "Mexico City"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 21,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Round of 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 16,
+            "name": "Mexico",
+            "logo": "https://media.api-sports.io/football/teams/16.png",
+            "winner": null
+          },
+          "away": {
+            "id": 2382,
+            "name": "Ecuador",
+            "logo": "https://media.api-sports.io/football/teams/2382.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1489410,
-          "referee": "Tori Penso, USA",
+          "referee": "T. Penso",
           "timezone": "UTC",
           "date": "2026-06-25T20:00:00+00:00",
           "timestamp": 1782417600,
@@ -5402,7 +5472,7 @@
       {
         "fixture": {
           "id": 1489392,
-          "referee": "Ma Ning, China",
+          "referee": "Ma Ning",
           "timezone": "UTC",
           "date": "2026-06-21T00:00:00+00:00",
           "timestamp": 1782000000,
@@ -5472,7 +5542,7 @@
       {
         "fixture": {
           "id": 1489375,
-          "referee": "François Letexier, France",
+          "referee": "F. Letexier",
           "timezone": "UTC",
           "date": "2026-06-14T23:00:00+00:00",
           "timestamp": 1781478000,
@@ -5948,76 +6018,6 @@
           "fulltime": {
             "home": 0,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1436252,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2025-10-15T02:30:00+00:00",
-          "timestamp": 1760495400,
-          "periods": {
-            "first": 1760495400,
-            "second": 1760499000
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Akron",
-            "city": "Guadalajara"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Friendlies 1",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 16,
-            "name": "Mexico",
-            "logo": "https://media.api-sports.io/football/teams/16.png",
-            "winner": null
-          },
-          "away": {
-            "id": 2382,
-            "name": "Ecuador",
-            "logo": "https://media.api-sports.io/football/teams/2382.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
