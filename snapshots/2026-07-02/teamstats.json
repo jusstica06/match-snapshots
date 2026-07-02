@@ -306,7 +306,7 @@
       {
         "fixture": {
           "id": 1489420,
-          "referee": "D. Fischer",
+          "referee": "Drew Fischer, Canada",
           "timezone": "UTC",
           "date": "2026-06-27T21:00:00+00:00",
           "timestamp": 1782594000,
@@ -376,7 +376,7 @@
       {
         "fixture": {
           "id": 1489403,
-          "referee": "P. Atcho",
+          "referee": "Pierre Ghislain Atcho, Gabon",
           "timezone": "UTC",
           "date": "2026-06-23T23:00:00+00:00",
           "timestamp": 1782255600,
@@ -446,7 +446,7 @@
       {
         "fixture": {
           "id": 1489384,
-          "referee": "C. Turpin",
+          "referee": "Clement Turpin, France",
           "timezone": "UTC",
           "date": "2026-06-17T20:00:00+00:00",
           "timestamp": 1781726400,
@@ -1312,7 +1312,7 @@
       {
         "fixture": {
           "id": 1489417,
-          "referee": "I. Elfath",
+          "referee": "Ismail Elfath, USA",
           "timezone": "UTC",
           "date": "2026-06-27T00:00:00+00:00",
           "timestamp": 1782518400,
@@ -1382,7 +1382,7 @@
       {
         "fixture": {
           "id": 1489397,
-          "referee": "R. Claus",
+          "referee": "Raphael Claus, Brazil",
           "timezone": "UTC",
           "date": "2026-06-21T16:00:00+00:00",
           "timestamp": 1782057600,
@@ -1452,7 +1452,7 @@
       {
         "fixture": {
           "id": 1489380,
-          "referee": "A. Makhadmeh",
+          "referee": "Adham Mohammad, Jordan",
           "timezone": "UTC",
           "date": "2026-06-15T16:00:00+00:00",
           "timestamp": 1781539200,
@@ -2314,7 +2314,7 @@
       {
         "fixture": {
           "id": 1489419,
-          "referee": "A. Faghani",
+          "referee": "Alireza Faghani, Australia",
           "timezone": "UTC",
           "date": "2026-06-27T23:30:00+00:00",
           "timestamp": 1782603000,
@@ -2384,7 +2384,7 @@
       {
         "fixture": {
           "id": 1489404,
-          "referee": "J. Jayed",
+          "referee": "Jalal Jayed, Morocco",
           "timezone": "UTC",
           "date": "2026-06-23T17:00:00+00:00",
           "timestamp": 1782234000,
@@ -2454,7 +2454,7 @@
       {
         "fixture": {
           "id": 1539003,
-          "referee": "A. Al Jassim",
+          "referee": "Abdulrahman Al-Jassim, Qatar",
           "timezone": "UTC",
           "date": "2026-06-17T17:00:00+00:00",
           "timestamp": 1781715600,
@@ -3386,7 +3386,7 @@
       {
         "fixture": {
           "id": 1489399,
-          "referee": "A. Omar",
+          "referee": "Amin Mohamed Omar, Egypt",
           "timezone": "UTC",
           "date": "2026-06-22T17:00:00+00:00",
           "timestamp": 1782147600,
@@ -3456,7 +3456,7 @@
       {
         "fixture": {
           "id": 1489382,
-          "referee": "D. Beida",
+          "referee": "Dahane Beida, Mauritania",
           "timezone": "UTC",
           "date": "2026-06-17T04:00:00+00:00",
           "timestamp": 1781668800,
@@ -4317,8 +4317,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1562586,
+          "referee": "Raphael Claus, Brazil",
+          "timezone": "UTC",
+          "date": "2026-07-02T00:00:00+00:00",
+          "timestamp": 1782950400,
+          "periods": {
+            "first": 1782950400,
+            "second": 1782954000
+          },
+          "venue": {
+            "id": 0,
+            "name": "Levi's Stadium",
+            "city": "San-Francisco"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 10
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Round of 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2384,
+            "name": "USA",
+            "logo": "https://media.api-sports.io/football/teams/2384.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1113,
+            "name": "Bosnia & Herzegovina",
+            "logo": "https://media.api-sports.io/football/teams/1113.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1539009,
-          "referee": "J. Valenzuela",
+          "referee": "Jesús Valenzuela, Venezuela",
           "timezone": "UTC",
           "date": "2026-06-24T19:00:00+00:00",
           "timestamp": 1782327600,
@@ -4388,7 +4458,7 @@
       {
         "fixture": {
           "id": 1539005,
-          "referee": "J. Pinheiro",
+          "referee": "Joao Pedro Pinheiro, Portugal",
           "timezone": "UTC",
           "date": "2026-06-18T19:00:00+00:00",
           "timestamp": 1781809200,
@@ -4458,7 +4528,7 @@
       {
         "fixture": {
           "id": 1539000,
-          "referee": "F. Tello",
+          "referee": "Facundo Raul Tello Figueroa, Argentina",
           "timezone": "UTC",
           "date": "2026-06-12T19:00:00+00:00",
           "timestamp": 1781290800,
@@ -4944,76 +5014,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1351556,
-          "referee": "Vitalijs Spasjonnikovs, Latvia",
-          "timezone": "UTC",
-          "date": "2025-10-12T17:00:00+00:00",
-          "timestamp": 1760288400,
-          "periods": {
-            "first": 1760288400,
-            "second": 1760292000
-          },
-          "venue": {
-            "id": 2614,
-            "name": "Ta'Qali National Stadium",
-            "city": "Ta'Qali"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 1
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Friendlies 1",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 1112,
-            "name": "Malta",
-            "logo": "https://media.api-sports.io/football/teams/1112.png",
-            "winner": false
-          },
-          "away": {
-            "id": 1113,
-            "name": "Bosnia & Herzegovina",
-            "logo": "https://media.api-sports.io/football/teams/1113.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 4
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 4
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -5157,12 +5157,12 @@
               "percentage": "16.67%"
             },
             "76-90": {
-              "total": null,
-              "percentage": null
-            },
-            "91-105": {
               "total": 1,
               "percentage": "16.67%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -5327,6 +5327,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1562586,
+          "referee": "Raphael Claus, Brazil",
+          "timezone": "UTC",
+          "date": "2026-07-02T00:00:00+00:00",
+          "timestamp": 1782950400,
+          "periods": {
+            "first": 1782950400,
+            "second": 1782954000
+          },
+          "venue": {
+            "id": 0,
+            "name": "Levi's Stadium",
+            "city": "San-Francisco"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 10
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Round of 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2384,
+            "name": "USA",
+            "logo": "https://media.api-sports.io/football/teams/2384.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1113,
+            "name": "Bosnia & Herzegovina",
+            "logo": "https://media.api-sports.io/football/teams/1113.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1539012,
           "referee": "Mustapha Ghorbal, Algeria",
           "timezone": "UTC",
@@ -5398,7 +5468,7 @@
       {
         "fixture": {
           "id": 1489391,
-          "referee": "F. Zwayer",
+          "referee": "Felix Zwayer, Germany",
           "timezone": "UTC",
           "date": "2026-06-19T19:00:00+00:00",
           "timestamp": 1781895600,
@@ -5468,7 +5538,7 @@
       {
         "fixture": {
           "id": 1489370,
-          "referee": "D. Makkelie",
+          "referee": "Danny Makkelie, Netherlands",
           "timezone": "UTC",
           "date": "2026-06-13T01:00:00+00:00",
           "timestamp": 1781312400,
@@ -5929,76 +5999,6 @@
             "id": 2380,
             "name": "Paraguay",
             "logo": "https://media.api-sports.io/football/teams/2380.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1405465,
-          "referee": "Pierre Luce Lauziere, Canada",
-          "timezone": "UTC",
-          "date": "2025-10-15T01:00:00+00:00",
-          "timestamp": 1760490000,
-          "periods": {
-            "first": 1760490000,
-            "second": 1760493600
-          },
-          "venue": {
-            "id": null,
-            "name": "Dick's Sporting Goods Park",
-            "city": "Commerce City"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Friendlies 1",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2384,
-            "name": "USA",
-            "logo": "https://media.api-sports.io/football/teams/2384.png",
-            "winner": true
-          },
-          "away": {
-            "id": 20,
-            "name": "Australia",
-            "logo": "https://media.api-sports.io/football/teams/20.png",
             "winner": false
           }
         },
