@@ -302,7 +302,7 @@
       {
         "fixture": {
           "id": 1565177,
-          "referee": "D. Makkelie",
+          "referee": "Danny Makkelie, Netherlands",
           "timezone": "UTC",
           "date": "2026-06-30T21:00:00+00:00",
           "timestamp": 1782853200,
@@ -372,7 +372,7 @@
       {
         "fixture": {
           "id": 1489416,
-          "referee": "M. Oliver",
+          "referee": "Michael Oliver, England",
           "timezone": "UTC",
           "date": "2026-06-26T19:00:00+00:00",
           "timestamp": 1782500400,
@@ -442,7 +442,7 @@
       {
         "fixture": {
           "id": 1539017,
-          "referee": "D. Fischer",
+          "referee": "Drew Fischer, Canada",
           "timezone": "UTC",
           "date": "2026-06-22T21:00:00+00:00",
           "timestamp": 1782162000,
@@ -512,7 +512,7 @@
       {
         "fixture": {
           "id": 1489383,
-          "referee": "A. Faghani",
+          "referee": "Alireza Faghani, Australia",
           "timezone": "UTC",
           "date": "2026-06-16T19:00:00+00:00",
           "timestamp": 1781636400,
@@ -1303,8 +1303,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1567310,
+          "referee": "Clement Turpin, France",
+          "timezone": "UTC",
+          "date": "2026-07-04T01:30:00+00:00",
+          "timestamp": 1783128600,
+          "periods": {
+            "first": 1783128600,
+            "second": null
+          },
+          "venue": {
+            "id": 0,
+            "name": "Arrowhead Stadium",
+            "city": "Kansas City"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 45,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Round of 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 8,
+            "name": "Colombia",
+            "logo": "https://media.api-sports.io/football/teams/8.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1504,
+            "name": "Ghana",
+            "logo": "https://media.api-sports.io/football/teams/1504.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1489419,
-          "referee": "A. Faghani",
+          "referee": "Alireza Faghani, Australia",
           "timezone": "UTC",
           "date": "2026-06-27T23:30:00+00:00",
           "timestamp": 1782603000,
@@ -1374,7 +1444,7 @@
       {
         "fixture": {
           "id": 1539008,
-          "referee": "M. Mariani",
+          "referee": "Maurizio Mariani, Italy",
           "timezone": "UTC",
           "date": "2026-06-24T02:00:00+00:00",
           "timestamp": 1782266400,
@@ -1444,7 +1514,7 @@
       {
         "fixture": {
           "id": 1489386,
-          "referee": "A. Taylor",
+          "referee": "Anthony Taylor, England",
           "timezone": "UTC",
           "date": "2026-06-18T02:00:00+00:00",
           "timestamp": 1781748000,
@@ -1930,76 +2000,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1396845,
-          "referee": "Guido Gonzales Jr, USA",
-          "timezone": "UTC",
-          "date": "2025-10-15T00:30:00+00:00",
-          "timestamp": 1760488200,
-          "periods": {
-            "first": 1760488200,
-            "second": 1760491800
-          },
-          "venue": {
-            "id": null,
-            "name": "Sports Illustrated Stadium",
-            "city": "Harrison"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Friendlies 1",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 5529,
-            "name": "Canada",
-            "logo": "https://media.api-sports.io/football/teams/5529.png",
-            "winner": null
-          },
-          "away": {
-            "id": 8,
-            "name": "Colombia",
-            "logo": "https://media.api-sports.io/football/teams/8.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -2376,7 +2376,7 @@
       {
         "fixture": {
           "id": 1489405,
-          "referee": "D. Makkelie",
+          "referee": "Danny Makkelie, Netherlands",
           "timezone": "UTC",
           "date": "2026-06-24T22:00:00+00:00",
           "timestamp": 1782338400,
@@ -2446,7 +2446,7 @@
       {
         "fixture": {
           "id": 1489390,
-          "referee": "I. Tantashev",
+          "referee": "Ilgiz Tantashev, Uzbekistan",
           "timezone": "UTC",
           "date": "2026-06-19T22:00:00+00:00",
           "timestamp": 1781906400,
@@ -2516,7 +2516,7 @@
       {
         "fixture": {
           "id": 1489371,
-          "referee": "S. Vincic",
+          "referee": "Slavko Vinčić, Slovenia",
           "timezone": "UTC",
           "date": "2026-06-13T22:00:00+00:00",
           "timestamp": 1781388000,
@@ -15515,8 +15515,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1567310,
+          "referee": "Clement Turpin, France",
+          "timezone": "UTC",
+          "date": "2026-07-04T01:30:00+00:00",
+          "timestamp": 1783128600,
+          "periods": {
+            "first": 1783128600,
+            "second": null
+          },
+          "venue": {
+            "id": 0,
+            "name": "Arrowhead Stadium",
+            "city": "Kansas City"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 45,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Round of 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 8,
+            "name": "Colombia",
+            "logo": "https://media.api-sports.io/football/teams/8.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1504,
+            "name": "Ghana",
+            "logo": "https://media.api-sports.io/football/teams/1504.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1489420,
-          "referee": "D. Fischer",
+          "referee": "Drew Fischer, Canada",
           "timezone": "UTC",
           "date": "2026-06-27T21:00:00+00:00",
           "timestamp": 1782594000,
@@ -15586,7 +15656,7 @@
       {
         "fixture": {
           "id": 1489402,
-          "referee": "S. Martinez",
+          "referee": "Said Martinez, Honduras",
           "timezone": "UTC",
           "date": "2026-06-23T20:00:00+00:00",
           "timestamp": 1782244800,
@@ -15656,7 +15726,7 @@
       {
         "fixture": {
           "id": 1489385,
-          "referee": "G. Nyberg",
+          "referee": "Glenn Nyberg, Sweden",
           "timezone": "UTC",
           "date": "2026-06-17T23:00:00+00:00",
           "timestamp": 1781737200,
@@ -16131,76 +16201,6 @@
           },
           "fulltime": {
             "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1126113,
-          "referee": "P. Atcho",
-          "timezone": "UTC",
-          "date": "2025-10-12T19:00:00+00:00",
-          "timestamp": 1760295600,
-          "periods": {
-            "first": 1760295600,
-            "second": 1760299200
-          },
-          "venue": {
-            "id": null,
-            "name": "Accra Sports Stadium",
-            "city": "Accra"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 29,
-          "name": "World Cup - Qualification Africa",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/29.png",
-          "flag": null,
-          "season": 2023,
-          "round": "Group Stage - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1504,
-            "name": "Ghana",
-            "logo": "https://media.api-sports.io/football/teams/1504.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1524,
-            "name": "Comoros",
-            "logo": "https://media.api-sports.io/football/teams/1524.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
             "away": 0
           },
           "extratime": {
@@ -20582,7 +20582,7 @@
       {
         "fixture": {
           "id": 1565176,
-          "referee": "J. Jayed",
+          "referee": "Jalal Jayed, Morocco",
           "timezone": "UTC",
           "date": "2026-06-29T20:30:00+00:00",
           "timestamp": 1782765000,
@@ -20652,7 +20652,7 @@
       {
         "fixture": {
           "id": 1489411,
-          "referee": "C. Turpin",
+          "referee": "Clement Turpin, France",
           "timezone": "UTC",
           "date": "2026-06-26T02:00:00+00:00",
           "timestamp": 1782439200,
@@ -20722,7 +20722,7 @@
       {
         "fixture": {
           "id": 1539006,
-          "referee": "I. Barton",
+          "referee": "Iván Barton, El Salvador",
           "timezone": "UTC",
           "date": "2026-06-20T03:00:00+00:00",
           "timestamp": 1781924400,
@@ -20792,7 +20792,7 @@
       {
         "fixture": {
           "id": 1489370,
-          "referee": "D. Makkelie",
+          "referee": "Danny Makkelie, Netherlands",
           "timezone": "UTC",
           "date": "2026-06-13T01:00:00+00:00",
           "timestamp": 1781312400,
@@ -27430,27 +27430,27 @@
             },
             "16-30": {
               "total": 2,
-              "percentage": "22.22%"
+              "percentage": "25.00%"
             },
             "31-45": {
-              "total": 2,
-              "percentage": "22.22%"
-            },
-            "46-60": {
               "total": null,
               "percentage": null
+            },
+            "46-60": {
+              "total": 1,
+              "percentage": "12.50%"
             },
             "61-75": {
               "total": 1,
-              "percentage": "11.11%"
+              "percentage": "12.50%"
             },
             "76-90": {
-              "total": 4,
-              "percentage": "44.44%"
+              "total": 3,
+              "percentage": "37.50%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "12.50%"
             },
             "106-120": {
               "total": null,
@@ -27676,7 +27676,7 @@
       {
         "fixture": {
           "id": 1561329,
-          "referee": "J. Pinheiro",
+          "referee": "Joao Pedro Pinheiro, Portugal",
           "timezone": "UTC",
           "date": "2026-06-28T19:00:00+00:00",
           "timestamp": 1782673200,
@@ -27746,7 +27746,7 @@
       {
         "fixture": {
           "id": 1489408,
-          "referee": "R. Abatti",
+          "referee": "Ramon Abatti Abel, Brazil",
           "timezone": "UTC",
           "date": "2026-06-24T19:00:00+00:00",
           "timestamp": 1782327600,
@@ -27816,7 +27816,7 @@
       {
         "fixture": {
           "id": 1489387,
-          "referee": "C. Garay",
+          "referee": "Cristian Garay, Chile",
           "timezone": "UTC",
           "date": "2026-06-18T22:00:00+00:00",
           "timestamp": 1781820000,
@@ -27886,7 +27886,7 @@
       {
         "fixture": {
           "id": 1539000,
-          "referee": "F. Tello",
+          "referee": "Facundo Raul Tello Figueroa, Argentina",
           "timezone": "UTC",
           "date": "2026-06-12T19:00:00+00:00",
           "timestamp": 1781290800,
