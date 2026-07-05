@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-04T02:20:03.070Z",
+  "generatedAt": "2026-07-05T02:19:26.372Z",
   "totalTeams": 8,
   "totalLeagues": 2,
-  "teamsWithFallback": 8,
+  "teamsWithFallback": 4,
   "data": {
     "9": {
       "teamId": 9,
@@ -18,7 +18,13 @@
           "goals": 4,
           "appearances": 4
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 931,
+          "name": "Ferran Torres",
+          "photo": "https://media.api-sports.io/football/players/931.png",
+          "assists": 1,
+          "appearances": 4
+        },
         "mostCards": null
       },
       "topScorers": [
@@ -46,8 +52,20 @@
           "goals": 5,
           "appearances": 4
         },
-        "topAssist": null,
-        "mostCards": null
+        "topAssist": {
+          "id": 1460,
+          "name": "B. Saka",
+          "photo": "https://media.api-sports.io/football/players/1460.png",
+          "assists": 2,
+          "appearances": 4
+        },
+        "mostCards": {
+          "id": 129718,
+          "name": "J. Bellingham",
+          "photo": "https://media.api-sports.io/football/players/129718.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {
@@ -58,7 +76,15 @@
           "appearances": 4
         }
       ],
-      "topAssists": []
+      "topAssists": [
+        {
+          "id": 1460,
+          "name": "B. Saka",
+          "photo": "https://media.api-sports.io/football/players/1460.png",
+          "assists": 2,
+          "appearances": 4
+        }
+      ]
     },
     "16": {
       "teamId": 16,
@@ -74,8 +100,20 @@
           "goals": 3,
           "appearances": 4
         },
-        "topAssist": null,
-        "mostCards": null
+        "topAssist": {
+          "id": 2879,
+          "name": "R. Alvarado",
+          "photo": "https://media.api-sports.io/football/players/2879.png",
+          "assists": 3,
+          "appearances": 4
+        },
+        "mostCards": {
+          "id": 2873,
+          "name": "C. Montes",
+          "photo": "https://media.api-sports.io/football/players/2873.png",
+          "yellowCards": 0,
+          "redCards": 1
+        }
       },
       "topScorers": [
         {
@@ -86,7 +124,15 @@
           "appearances": 4
         }
       ],
-      "topAssists": []
+      "topAssists": [
+        {
+          "id": 2879,
+          "name": "R. Alvarado",
+          "photo": "https://media.api-sports.io/football/players/2879.png",
+          "assists": 3,
+          "appearances": 4
+        }
+      ]
     },
     "27": {
       "teamId": 27,
@@ -102,8 +148,20 @@
           "goals": 3,
           "appearances": 4
         },
-        "topAssist": null,
-        "mostCards": null
+        "topAssist": {
+          "id": 855,
+          "name": "João Cancelo",
+          "photo": "https://media.api-sports.io/football/players/855.png",
+          "assists": 1,
+          "appearances": 4
+        },
+        "mostCards": {
+          "id": 583,
+          "name": "João Félix",
+          "photo": "https://media.api-sports.io/football/players/583.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {
@@ -161,7 +219,15 @@
           "appearances": 9
         }
       ],
-      "topAssists": []
+      "topAssists": [
+        {
+          "id": 354470,
+          "name": "Bo Åsulv  Hegland",
+          "photo": "https://media.api-sports.io/football/players/354470.png",
+          "assists": 7,
+          "appearances": 9
+        }
+      ]
     },
     "367": {
       "teamId": 367,
@@ -208,7 +274,22 @@
           "appearances": 10
         }
       ],
-      "topAssists": []
+      "topAssists": [
+        {
+          "id": 39078,
+          "name": "A. Layouni",
+          "photo": "https://media.api-sports.io/football/players/39078.png",
+          "assists": 4,
+          "appearances": 9
+        },
+        {
+          "id": 420934,
+          "name": "A. Svanbäck",
+          "photo": "https://media.api-sports.io/football/players/420934.png",
+          "assists": 3,
+          "appearances": 10
+        }
+      ]
     },
     "371": {
       "teamId": 371,
@@ -248,7 +329,22 @@
           "appearances": 9
         }
       ],
-      "topAssists": []
+      "topAssists": [
+        {
+          "id": 48169,
+          "name": "O. Berg",
+          "photo": "https://media.api-sports.io/football/players/48169.png",
+          "assists": 4,
+          "appearances": 9
+        },
+        {
+          "id": 156536,
+          "name": "M. Hansen",
+          "photo": "https://media.api-sports.io/football/players/156536.png",
+          "assists": 3,
+          "appearances": 9
+        }
+      ]
     },
     "2170": {
       "teamId": 2170,
@@ -288,7 +384,15 @@
           "appearances": 11
         }
       ],
-      "topAssists": []
+      "topAssists": [
+        {
+          "id": 304159,
+          "name": "W. Milovanovic",
+          "photo": "https://media.api-sports.io/football/players/304159.png",
+          "assists": 4,
+          "appearances": 10
+        }
+      ]
     }
   }
 }

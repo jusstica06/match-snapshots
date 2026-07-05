@@ -34,17 +34,39 @@
   "113": {
     "id": 113,
     "name": "Allsvenskan",
-    "type": null,
-    "logo": null,
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/113.png",
     "country": {
-      "name": null,
-      "code": null,
-      "flag": null
+      "name": "Sweden",
+      "code": "SE",
+      "flag": "https://media.api-sports.io/flags/se.svg"
     },
     "season": 2026,
     "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
       2026
     ],
-    "coverage": null
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
   }
 }
