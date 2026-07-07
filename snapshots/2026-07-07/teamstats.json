@@ -301,8 +301,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1570715,
+          "referee": "Adham Mohammad, Jordan",
+          "timezone": "UTC",
+          "date": "2026-07-07T00:00:00+00:00",
+          "timestamp": 1783382400,
+          "periods": {
+            "first": 1783382400,
+            "second": 1783386000
+          },
+          "venue": {
+            "id": 11534,
+            "name": "Lumen Field",
+            "city": "Seattle"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Round of 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2384,
+            "name": "USA",
+            "logo": "https://media.api-sports.io/football/teams/2384.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1,
+            "name": "Belgium",
+            "logo": "https://media.api-sports.io/football/teams/1.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1567308,
-          "referee": "Said Martinez, Honduras",
+          "referee": "S. Martinez",
           "timezone": "UTC",
           "date": "2026-07-01T20:00:00+00:00",
           "timestamp": 1782936000,
@@ -372,7 +442,7 @@
       {
         "fixture": {
           "id": 1489415,
-          "referee": "Adham Mohammad, Jordan",
+          "referee": "A. Makhadmeh",
           "timezone": "UTC",
           "date": "2026-06-27T03:00:00+00:00",
           "timestamp": 1782529200,
@@ -442,7 +512,7 @@
       {
         "fixture": {
           "id": 1489395,
-          "referee": "Dario Herrera, Argentina",
+          "referee": "D. Herrera",
           "timezone": "UTC",
           "date": "2026-06-21T19:00:00+00:00",
           "timestamp": 1782068400,
@@ -512,7 +582,7 @@
       {
         "fixture": {
           "id": 1489377,
-          "referee": "Ramon Abatti Abel, Brazil",
+          "referee": "R. Abatti",
           "timezone": "UTC",
           "date": "2026-06-15T19:00:00+00:00",
           "timestamp": 1781550000,
@@ -928,76 +998,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1323351,
-          "referee": "D. Rumsas",
-          "timezone": "UTC",
-          "date": "2025-11-15T14:00:00+00:00",
-          "timestamp": 1763215200,
-          "periods": {
-            "first": 1763215200,
-            "second": 1763218800
-          },
-          "venue": {
-            "id": null,
-            "name": "Astana Arena",
-            "city": "Astana"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 32,
-          "name": "World Cup - Qualification Europe",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/32.png",
-          "flag": null,
-          "season": 2024,
-          "round": "Group Stage - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1095,
-            "name": "Kazakhstan",
-            "logo": "https://media.api-sports.io/football/teams/1095.png",
-            "winner": null
-          },
-          "away": {
-            "id": 1,
-            "name": "Belgium",
-            "logo": "https://media.api-sports.io/football/teams/1.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -1304,7 +1304,7 @@
       {
         "fixture": {
           "id": 1567310,
-          "referee": "Clement Turpin, France",
+          "referee": "C. Turpin",
           "timezone": "UTC",
           "date": "2026-07-04T01:30:00+00:00",
           "timestamp": 1783128600,
@@ -1374,7 +1374,7 @@
       {
         "fixture": {
           "id": 1489419,
-          "referee": "Alireza Faghani, Australia",
+          "referee": "A. Faghani",
           "timezone": "UTC",
           "date": "2026-06-27T23:30:00+00:00",
           "timestamp": 1782603000,
@@ -1444,7 +1444,7 @@
       {
         "fixture": {
           "id": 1539008,
-          "referee": "Maurizio Mariani, Italy",
+          "referee": "M. Mariani",
           "timezone": "UTC",
           "date": "2026-06-24T02:00:00+00:00",
           "timestamp": 1782266400,
@@ -1514,7 +1514,7 @@
       {
         "fixture": {
           "id": 1489386,
-          "referee": "Anthony Taylor, England",
+          "referee": "A. Taylor",
           "timezone": "UTC",
           "date": "2026-06-18T02:00:00+00:00",
           "timestamp": 1781748000,
@@ -2314,7 +2314,7 @@
       {
         "fixture": {
           "id": 1567312,
-          "referee": "Yael Falcon Perez, Argentina",
+          "referee": "Y. Perez",
           "timezone": "UTC",
           "date": "2026-07-03T03:00:00+00:00",
           "timestamp": 1783047600,
@@ -2384,7 +2384,7 @@
       {
         "fixture": {
           "id": 1489408,
-          "referee": "Ramon Abatti Abel, Brazil",
+          "referee": "R. Abatti",
           "timezone": "UTC",
           "date": "2026-06-24T19:00:00+00:00",
           "timestamp": 1782327600,
@@ -2454,7 +2454,7 @@
       {
         "fixture": {
           "id": 1539005,
-          "referee": "Joao Pedro Pinheiro, Portugal",
+          "referee": "J. Pinheiro",
           "timezone": "UTC",
           "date": "2026-06-18T19:00:00+00:00",
           "timestamp": 1781809200,
@@ -2524,7 +2524,7 @@
       {
         "fixture": {
           "id": 1489373,
-          "referee": "Said Martinez, Honduras",
+          "referee": "S. Martinez",
           "timezone": "UTC",
           "date": "2026-06-13T19:00:00+00:00",
           "timestamp": 1781377200,
@@ -3316,7 +3316,7 @@
       {
         "fixture": {
           "id": 1565179,
-          "referee": "Drew Fischer, Canada",
+          "referee": "D. Fischer",
           "timezone": "UTC",
           "date": "2026-07-03T22:00:00+00:00",
           "timestamp": 1783116000,
@@ -3456,7 +3456,7 @@
       {
         "fixture": {
           "id": 1489399,
-          "referee": "Amin Mohamed Omar, Egypt",
+          "referee": "A. Omar",
           "timezone": "UTC",
           "date": "2026-06-22T17:00:00+00:00",
           "timestamp": 1782147600,
@@ -3526,7 +3526,7 @@
       {
         "fixture": {
           "id": 1489381,
-          "referee": "Szymon Marciniak, Poland",
+          "referee": "S. Marciniak",
           "timezone": "UTC",
           "date": "2026-06-17T01:00:00+00:00",
           "timestamp": 1781658000,
@@ -4030,7 +4030,7 @@
         "name": "Egypt",
         "logo": "https://media.api-sports.io/football/teams/32.png"
       },
-      "form": "DWDD",
+      "form": "DWDW",
       "fixtures": {
         "played": {
           "home": 1,
@@ -4039,13 +4039,13 @@
         },
         "wins": {
           "home": 0,
-          "away": 1,
-          "total": 1
+          "away": 2,
+          "total": 2
         },
         "draws": {
           "home": 1,
-          "away": 2,
-          "total": 3
+          "away": 1,
+          "total": 2
         },
         "loses": {
           "home": 0,
@@ -4057,13 +4057,13 @@
         "for": {
           "total": {
             "home": 1,
-            "away": 5,
-            "total": 6
+            "away": 6,
+            "total": 7
           },
           "average": {
             "home": "1.0",
-            "away": "1.7",
-            "total": "1.5"
+            "away": "2.0",
+            "total": "1.8"
           },
           "minute": {
             "0-15": {
@@ -4105,8 +4105,8 @@
               "under": 0
             },
             "1.5": {
-              "over": 1,
-              "under": 3
+              "over": 2,
+              "under": 2
             },
             "2.5": {
               "over": 1,
@@ -4322,7 +4322,7 @@
       {
         "fixture": {
           "id": 1565178,
-          "referee": "Gustavo Tejera, Uruguay",
+          "referee": "G. Tejera",
           "timezone": "UTC",
           "date": "2026-07-03T18:00:00+00:00",
           "timestamp": 1783101600,
@@ -4380,8 +4380,8 @@
             "away": 1
           },
           "extratime": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
           },
           "penalty": {
             "home": 2,
@@ -4392,7 +4392,7 @@
       {
         "fixture": {
           "id": 1489414,
-          "referee": "Szymon Marciniak, Poland",
+          "referee": "S. Marciniak",
           "timezone": "UTC",
           "date": "2026-06-27T03:00:00+00:00",
           "timestamp": 1782529200,
@@ -4462,7 +4462,7 @@
       {
         "fixture": {
           "id": 1489396,
-          "referee": "Omar Mohamed Al Ali, United Arab Emirates",
+          "referee": "O. Alali",
           "timezone": "UTC",
           "date": "2026-06-22T01:00:00+00:00",
           "timestamp": 1782090000,
@@ -4532,7 +4532,7 @@
       {
         "fixture": {
           "id": 1489377,
-          "referee": "Ramon Abatti Abel, Brazil",
+          "referee": "R. Abatti",
           "timezone": "UTC",
           "date": "2026-06-15T19:00:00+00:00",
           "timestamp": 1781550000,
@@ -5319,7 +5319,7 @@
       {
         "fixture": {
           "id": 1508796,
-          "referee": null,
+          "referee": "T. Thordarson",
           "timezone": "UTC",
           "date": "2026-07-02T19:15:00+00:00",
           "timestamp": 1783019700,
@@ -17295,8 +17295,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1570715,
+          "referee": "Adham Mohammad, Jordan",
+          "timezone": "UTC",
+          "date": "2026-07-07T00:00:00+00:00",
+          "timestamp": 1783382400,
+          "periods": {
+            "first": 1783382400,
+            "second": 1783386000
+          },
+          "venue": {
+            "id": 11534,
+            "name": "Lumen Field",
+            "city": "Seattle"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Round of 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2384,
+            "name": "USA",
+            "logo": "https://media.api-sports.io/football/teams/2384.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1,
+            "name": "Belgium",
+            "logo": "https://media.api-sports.io/football/teams/1.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1562586,
-          "referee": "Raphael Claus, Brazil",
+          "referee": "R. Claus",
           "timezone": "UTC",
           "date": "2026-07-02T00:00:00+00:00",
           "timestamp": 1782950400,
@@ -17366,7 +17436,7 @@
       {
         "fixture": {
           "id": 1539012,
-          "referee": "Mustapha Ghorbal, Algeria",
+          "referee": "M. Ghorbal",
           "timezone": "UTC",
           "date": "2026-06-26T02:00:00+00:00",
           "timestamp": 1782439200,
@@ -17436,7 +17506,7 @@
       {
         "fixture": {
           "id": 1489391,
-          "referee": "Felix Zwayer, Germany",
+          "referee": "F. Zwayer",
           "timezone": "UTC",
           "date": "2026-06-19T19:00:00+00:00",
           "timestamp": 1781895600,
@@ -17506,7 +17576,7 @@
       {
         "fixture": {
           "id": 1489370,
-          "referee": "Danny Makkelie, Netherlands",
+          "referee": "D. Makkelie",
           "timezone": "UTC",
           "date": "2026-06-13T01:00:00+00:00",
           "timestamp": 1781312400,
@@ -17911,76 +17981,6 @@
           },
           "fulltime": {
             "home": 5,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1457378,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2025-11-15T22:00:00+00:00",
-          "timestamp": 1763244000,
-          "periods": {
-            "first": 1763244000,
-            "second": 1763247600
-          },
-          "venue": {
-            "id": null,
-            "name": "Subaru Park",
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Friendlies 1",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2384,
-            "name": "USA",
-            "logo": "https://media.api-sports.io/football/teams/2384.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2380,
-            "name": "Paraguay",
-            "logo": "https://media.api-sports.io/football/teams/2380.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
             "away": 1
           },
           "extratime": {
