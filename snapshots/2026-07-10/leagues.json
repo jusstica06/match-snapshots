@@ -31,19 +31,56 @@
       }
     }
   },
-  "2": {
-    "id": 2,
-    "name": "UEFA Champions League",
-    "type": "Cup",
-    "logo": "https://media.api-sports.io/football/leagues/2.png",
+  "169": {
+    "id": 169,
+    "name": "Super League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/169.png",
     "country": {
-      "name": "World",
-      "code": null,
-      "flag": null
+      "name": "China",
+      "code": "CN",
+      "flag": "https://media.api-sports.io/flags/cn.svg"
     },
     "season": 2026,
     "seasons": [
-      2011,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "244": {
+    "id": 244,
+    "name": "Veikkausliiga",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/244.png",
+    "country": {
+      "name": "Finland",
+      "code": "FI",
+      "flag": "https://media.api-sports.io/flags/fi.svg"
+    },
+    "season": 2026,
+    "seasons": [
       2012,
       2013,
       2014,
@@ -61,49 +98,16 @@
       2026
     ],
     "coverage": {
-      "standings": false,
-      "players": false,
-      "topScorers": false,
+      "standings": true,
+      "players": true,
+      "topScorers": true,
       "predictions": true,
       "odds": true,
       "fixtures": {
-        "events": false,
-        "lineups": false,
-        "statistics_fixtures": false,
-        "statistics_players": false
-      }
-    }
-  },
-  "848": {
-    "id": 848,
-    "name": "UEFA Europa Conference League",
-    "type": "Cup",
-    "logo": "https://media.api-sports.io/football/leagues/848.png",
-    "country": {
-      "name": "World",
-      "code": null,
-      "flag": null
-    },
-    "season": 2026,
-    "seasons": [
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "coverage": {
-      "standings": false,
-      "players": false,
-      "topScorers": false,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": false,
-        "lineups": false,
-        "statistics_fixtures": false,
-        "statistics_players": false
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
       }
     }
   }
