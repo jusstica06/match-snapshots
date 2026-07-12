@@ -309,6 +309,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1582681,
+          "referee": "Joao Pedro Pinheiro, Portugal",
+          "timezone": "UTC",
+          "date": "2026-07-12T01:00:00+00:00",
+          "timestamp": 1783818000,
+          "periods": {
+            "first": 1783818000,
+            "second": 1783821600
+          },
+          "venue": {
+            "id": 0,
+            "name": "Arrowhead Stadium",
+            "city": "Kansas City"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 57,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Quarter-finals",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 26,
+            "name": "Argentina",
+            "logo": "https://media.api-sports.io/football/teams/26.png",
+            "winner": true
+          },
+          "away": {
+            "id": 15,
+            "name": "Switzerland",
+            "logo": "https://media.api-sports.io/football/teams/15.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1576805,
           "referee": "Iván Barton, El Salvador",
           "timezone": "UTC",
@@ -936,76 +1006,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1323367,
-          "referee": "D. Massa",
-          "timezone": "UTC",
-          "date": "2025-11-18T19:45:00+00:00",
-          "timestamp": 1763495100,
-          "periods": {
-            "first": 1763495100,
-            "second": 1763498700
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadiumi Fadil Vokrri",
-            "city": "Pristina"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 32,
-          "name": "World Cup - Qualification Europe",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/32.png",
-          "flag": null,
-          "season": 2024,
-          "round": "Group Stage - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1111,
-            "name": "Kosovo",
-            "logo": "https://media.api-sports.io/football/teams/1111.png",
-            "winner": null
-          },
-          "away": {
-            "id": 15,
-            "name": "Switzerland",
-            "logo": "https://media.api-sports.io/football/teams/15.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -1313,6 +1313,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1582681,
+          "referee": "Joao Pedro Pinheiro, Portugal",
+          "timezone": "UTC",
+          "date": "2026-07-12T01:00:00+00:00",
+          "timestamp": 1783818000,
+          "periods": {
+            "first": 1783818000,
+            "second": 1783821600
+          },
+          "venue": {
+            "id": 0,
+            "name": "Arrowhead Stadium",
+            "city": "Kansas City"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 57,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1,
+          "name": "World Cup",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Quarter-finals",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 26,
+            "name": "Argentina",
+            "logo": "https://media.api-sports.io/football/teams/26.png",
+            "winner": true
+          },
+          "away": {
+            "id": 15,
+            "name": "Switzerland",
+            "logo": "https://media.api-sports.io/football/teams/15.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1576804,
@@ -1932,76 +2002,6 @@
           "fulltime": {
             "home": null,
             "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1536911,
-          "referee": "D. Lopez",
-          "timezone": "UTC",
-          "date": "2026-03-27T23:15:00+00:00",
-          "timestamp": 1774653300,
-          "periods": {
-            "first": 1774653300,
-            "second": 1774656900
-          },
-          "venue": {
-            "id": null,
-            "name": "Alberto Jose Armando",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Friendly International",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 26,
-            "name": "Argentina",
-            "logo": "https://media.api-sports.io/football/teams/26.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1491,
-            "name": "Mauritania",
-            "logo": "https://media.api-sports.io/football/teams/1491.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -17496,7 +17496,7 @@
       {
         "fixture": {
           "id": 1523189,
-          "referee": "T. Wan",
+          "referee": "Tao Wan, China",
           "timezone": "UTC",
           "date": "2026-07-04T11:00:00+00:00",
           "timestamp": 1783162800,
@@ -17506,7 +17506,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Qingdao Guzhenkou University City Sports Center",
+            "name": "Guzhenkou University Sports Center",
             "city": "Qingdao"
           },
           "status": {
@@ -17566,7 +17566,7 @@
       {
         "fixture": {
           "id": 1523181,
-          "referee": "M. Xiangkun",
+          "referee": "Meng Xiangkun, China",
           "timezone": "UTC",
           "date": "2026-06-27T11:35:00+00:00",
           "timestamp": 1782560100,
@@ -17706,7 +17706,7 @@
       {
         "fixture": {
           "id": 1523171,
-          "referee": "T. Ren",
+          "referee": "Ren Tong, China",
           "timezone": "UTC",
           "date": "2026-05-29T11:35:00+00:00",
           "timestamp": 1780054500,
@@ -17716,7 +17716,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Centre Stadium",
+            "name": "Tiexi Stadium",
             "city": "Shenyang"
           },
           "status": {
@@ -17776,7 +17776,7 @@
       {
         "fixture": {
           "id": 1523163,
-          "referee": "C. Zhang",
+          "referee": "Zhang Chao, China",
           "timezone": "UTC",
           "date": "2026-05-23T11:00:00+00:00",
           "timestamp": 1779534000,
@@ -17846,7 +17846,7 @@
       {
         "fixture": {
           "id": 1523157,
-          "referee": "L. Haixin",
+          "referee": "Haixin Li, China",
           "timezone": "UTC",
           "date": "2026-05-19T12:00:00+00:00",
           "timestamp": 1779192000,
@@ -17856,7 +17856,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Chengdu Phoenix Hill Sports Park",
+            "name": "Wuliangye Sports Center Stadium",
             "city": "Chengdu"
           },
           "status": {
@@ -17916,7 +17916,7 @@
       {
         "fixture": {
           "id": 1523148,
-          "referee": "S. Danao",
+          "referee": "Shan Dan'ao, China",
           "timezone": "UTC",
           "date": "2026-05-15T11:35:00+00:00",
           "timestamp": 1778844900,
@@ -17986,7 +17986,7 @@
       {
         "fixture": {
           "id": 1523144,
-          "referee": "Ma Ning",
+          "referee": "Ma Ning, China",
           "timezone": "UTC",
           "date": "2026-05-10T11:35:00+00:00",
           "timestamp": 1778412900,
@@ -18056,7 +18056,7 @@
       {
         "fixture": {
           "id": 1523137,
-          "referee": "Y. Ma",
+          "referee": "Yunkun Ma, China",
           "timezone": "UTC",
           "date": "2026-05-06T11:35:00+00:00",
           "timestamp": 1778067300,
@@ -18126,7 +18126,7 @@
       {
         "fixture": {
           "id": 1523128,
-          "referee": "W. Zhu",
+          "referee": "Wenbin Zhu, China",
           "timezone": "UTC",
           "date": "2026-05-02T11:00:00+00:00",
           "timestamp": 1777719600,
@@ -18510,7 +18510,7 @@
       {
         "fixture": {
           "id": 1523192,
-          "referee": "D. Wang",
+          "referee": "Di Wang, China",
           "timezone": "UTC",
           "date": "2026-07-04T12:00:00+00:00",
           "timestamp": 1783166400,
@@ -18520,7 +18520,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Center Stadium",
+            "name": "TEDA Football Stadium",
             "city": "Tianjin"
           },
           "status": {
@@ -18580,7 +18580,7 @@
       {
         "fixture": {
           "id": 1523184,
-          "referee": "Y. Huang",
+          "referee": "Yi Huang, China",
           "timezone": "UTC",
           "date": "2026-06-27T12:00:00+00:00",
           "timestamp": 1782561600,
@@ -18720,7 +18720,7 @@
       {
         "fixture": {
           "id": 1523177,
-          "referee": "K. Ai",
+          "referee": "Kun Ai, China",
           "timezone": "UTC",
           "date": "2026-05-31T11:00:00+00:00",
           "timestamp": 1780225200,
@@ -18730,7 +18730,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Center Stadium",
+            "name": "TEDA Football Stadium",
             "city": "Tianjin"
           },
           "status": {
@@ -18790,7 +18790,7 @@
       {
         "fixture": {
           "id": 1523163,
-          "referee": "C. Zhang",
+          "referee": "Zhang Chao, China",
           "timezone": "UTC",
           "date": "2026-05-23T11:00:00+00:00",
           "timestamp": 1779534000,
@@ -18860,7 +18860,7 @@
       {
         "fixture": {
           "id": 1523156,
-          "referee": "K. He",
+          "referee": "Kai He, China",
           "timezone": "UTC",
           "date": "2026-05-19T11:35:00+00:00",
           "timestamp": 1779190500,
@@ -18870,7 +18870,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Center Stadium",
+            "name": "TEDA Football Stadium",
             "city": "Tianjin"
           },
           "status": {
@@ -18930,7 +18930,7 @@
       {
         "fixture": {
           "id": 1523149,
-          "referee": "S. Gan",
+          "referee": "Shuran Gan, China",
           "timezone": "UTC",
           "date": "2026-05-15T11:35:00+00:00",
           "timestamp": 1778844900,
@@ -18940,7 +18940,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Center Stadium",
+            "name": "TEDA Football Stadium",
             "city": "Tianjin"
           },
           "status": {
@@ -19000,7 +19000,7 @@
       {
         "fixture": {
           "id": 1523145,
-          "referee": "M. Ahmat",
+          "referee": "Memetjan Ahmat, China",
           "timezone": "UTC",
           "date": "2026-05-10T11:35:00+00:00",
           "timestamp": 1778412900,
@@ -19010,8 +19010,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Huizhou Olympic Stadium",
-            "city": "Huizhou"
+            "name": "Huzhou Olympic Sports Centre",
+            "city": "Hangzhou"
           },
           "status": {
             "long": "Match Finished",
@@ -19070,7 +19070,7 @@
       {
         "fixture": {
           "id": 1523131,
-          "referee": "S. Gan",
+          "referee": "Shuran Gan, China",
           "timezone": "UTC",
           "date": "2026-05-05T11:00:00+00:00",
           "timestamp": 1777978800,
@@ -19080,7 +19080,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Qingdao Guzhenkou University City Sports Center",
+            "name": "Guzhenkou University Sports Center",
             "city": "Qingdao"
           },
           "status": {
@@ -19140,7 +19140,7 @@
       {
         "fixture": {
           "id": 1523126,
-          "referee": "S. Tang",
+          "referee": "Shunqi Tang, China",
           "timezone": "UTC",
           "date": "2026-05-01T11:35:00+00:00",
           "timestamp": 1777635300,
@@ -19150,7 +19150,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Center Stadium",
+            "name": "TEDA Football Stadium",
             "city": "Tianjin"
           },
           "status": {
@@ -30634,7 +30634,7 @@
       {
         "fixture": {
           "id": 1523188,
-          "referee": "J. Chen",
+          "referee": "Jindong Chen, China",
           "timezone": "UTC",
           "date": "2026-07-04T11:00:00+00:00",
           "timestamp": 1783162800,
@@ -30644,7 +30644,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Centre Stadium",
+            "name": "Tiexi Stadium",
             "city": "Shenyang"
           },
           "status": {
@@ -30704,7 +30704,7 @@
       {
         "fixture": {
           "id": 1523180,
-          "referee": "J. Du",
+          "referee": "Jianxin Du, China",
           "timezone": "UTC",
           "date": "2026-06-27T11:00:00+00:00",
           "timestamp": 1782558000,
@@ -30714,7 +30714,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Centre Stadium",
+            "name": "Tiexi Stadium",
             "city": "Shenyang"
           },
           "status": {
@@ -30844,7 +30844,7 @@
       {
         "fixture": {
           "id": 1523171,
-          "referee": "T. Ren",
+          "referee": "Ren Tong, China",
           "timezone": "UTC",
           "date": "2026-05-29T11:35:00+00:00",
           "timestamp": 1780054500,
@@ -30854,7 +30854,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Centre Stadium",
+            "name": "Tiexi Stadium",
             "city": "Shenyang"
           },
           "status": {
@@ -30914,7 +30914,7 @@
       {
         "fixture": {
           "id": 1523169,
-          "referee": "X. Xiong",
+          "referee": "Xing Xiong, China",
           "timezone": "UTC",
           "date": "2026-05-24T11:35:00+00:00",
           "timestamp": 1779622500,
@@ -30924,8 +30924,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Huizhou Olympic Stadium",
-            "city": "Huizhou"
+            "name": "Hangzhou Dragon Stadium",
+            "city": "Hangzhou"
           },
           "status": {
             "long": "Match Finished",
@@ -30984,7 +30984,7 @@
       {
         "fixture": {
           "id": 1523159,
-          "referee": "Y. Huang",
+          "referee": "Yi Huang, China",
           "timezone": "UTC",
           "date": "2026-05-20T11:00:00+00:00",
           "timestamp": 1779274800,
@@ -30994,7 +30994,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Centre Stadium",
+            "name": "Tiexi Stadium",
             "city": "Shenyang"
           },
           "status": {
@@ -31054,7 +31054,7 @@
       {
         "fixture": {
           "id": 1523152,
-          "referee": "Z. Wei",
+          "referee": "Wei Zhen, China",
           "timezone": "UTC",
           "date": "2026-05-16T11:00:00+00:00",
           "timestamp": 1778929200,
@@ -31124,7 +31124,7 @@
       {
         "fixture": {
           "id": 1523142,
-          "referee": "D. Yige",
+          "referee": "Yige Dai, China",
           "timezone": "UTC",
           "date": "2026-05-10T11:00:00+00:00",
           "timestamp": 1778410800,
@@ -31134,7 +31134,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Centre Stadium",
+            "name": "Shenyang Olympic Sports Center Stadium",
             "city": "Shenyang"
           },
           "status": {
@@ -31194,7 +31194,7 @@
       {
         "fixture": {
           "id": 1523132,
-          "referee": "J. Chen",
+          "referee": "Jindong Chen, China",
           "timezone": "UTC",
           "date": "2026-05-05T11:35:00+00:00",
           "timestamp": 1777980900,
@@ -31204,8 +31204,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Centre Stadium",
-            "city": "Shenyang"
+            "name": "Shenzhen Stadium",
+            "city": "Shenzhen"
           },
           "status": {
             "long": "Match Finished",
@@ -31264,7 +31264,7 @@
       {
         "fixture": {
           "id": 1523124,
-          "referee": "T. Ren",
+          "referee": "Ren Tong, China",
           "timezone": "UTC",
           "date": "2026-05-01T11:00:00+00:00",
           "timestamp": 1777633200,
@@ -31652,7 +31652,7 @@
       {
         "fixture": {
           "id": 1523191,
-          "referee": "S. Gan",
+          "referee": "Shuran Gan, China",
           "timezone": "UTC",
           "date": "2026-07-04T11:35:00+00:00",
           "timestamp": 1783164900,
@@ -31722,7 +31722,7 @@
       {
         "fixture": {
           "id": 1523186,
-          "referee": "Y. Mu",
+          "referee": "Yuchen Mu, China",
           "timezone": "UTC",
           "date": "2026-06-28T11:00:00+00:00",
           "timestamp": 1782644400,
@@ -31862,7 +31862,7 @@
       {
         "fixture": {
           "id": 1523177,
-          "referee": "K. Ai",
+          "referee": "Kun Ai, China",
           "timezone": "UTC",
           "date": "2026-05-31T11:00:00+00:00",
           "timestamp": 1780225200,
@@ -31872,7 +31872,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Olympic Sports Center Stadium",
+            "name": "TEDA Football Stadium",
             "city": "Tianjin"
           },
           "status": {
@@ -31932,7 +31932,7 @@
       {
         "fixture": {
           "id": 1523165,
-          "referee": "Liang Songshang",
+          "referee": "Liang Songshang, China",
           "timezone": "UTC",
           "date": "2026-05-23T12:00:00+00:00",
           "timestamp": 1779537600,
@@ -32002,7 +32002,7 @@
       {
         "fixture": {
           "id": 1523155,
-          "referee": "Z. Su",
+          "referee": "Zihao Su, China",
           "timezone": "UTC",
           "date": "2026-05-19T11:35:00+00:00",
           "timestamp": 1779190500,
@@ -32072,7 +32072,7 @@
       {
         "fixture": {
           "id": 1523151,
-          "referee": "T. Ren",
+          "referee": "Ren Tong, China",
           "timezone": "UTC",
           "date": "2026-05-15T12:00:00+00:00",
           "timestamp": 1778846400,
@@ -32142,7 +32142,7 @@
       {
         "fixture": {
           "id": 1523143,
-          "referee": "C. Zhang",
+          "referee": "Zhang Chao, China",
           "timezone": "UTC",
           "date": "2026-05-10T12:00:00+00:00",
           "timestamp": 1778414400,
@@ -32282,7 +32282,7 @@
       {
         "fixture": {
           "id": 1523123,
-          "referee": "L. Haixin",
+          "referee": "Haixin Li, China",
           "timezone": "UTC",
           "date": "2026-05-01T11:00:00+00:00",
           "timestamp": 1777633200,
