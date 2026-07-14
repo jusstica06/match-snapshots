@@ -52,31 +52,31 @@
           "minute": {
             "0-15": {
               "total": 1,
-              "percentage": "7.69%"
+              "percentage": "7.14%"
             },
             "16-30": {
               "total": null,
               "percentage": null
             },
             "31-45": {
-              "total": 3,
-              "percentage": "23.08%"
+              "total": 4,
+              "percentage": "28.57%"
             },
             "46-60": {
-              "total": 3,
-              "percentage": "23.08%"
+              "total": 2,
+              "percentage": "14.29%"
             },
             "61-75": {
               "total": 3,
-              "percentage": "23.08%"
+              "percentage": "21.43%"
             },
             "76-90": {
               "total": 2,
-              "percentage": "15.38%"
+              "percentage": "14.29%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "7.69%"
+              "total": 2,
+              "percentage": "14.29%"
             },
             "106-120": {
               "total": null,
@@ -726,7 +726,7 @@
       {
         "fixture": {
           "id": 1525494,
-          "referee": "Facundo Raul Tello Figueroa, Argentina",
+          "referee": "E. Koroleva",
           "timezone": "UTC",
           "date": "2026-06-10T20:00:00+00:00",
           "timestamp": 1781121600,
@@ -796,7 +796,7 @@
       {
         "fixture": {
           "id": 1525492,
-          "referee": "Natalie Simon, USA",
+          "referee": "N. Simon",
           "timezone": "UTC",
           "date": "2026-06-06T20:00:00+00:00",
           "timestamp": 1780776000,
@@ -936,7 +936,7 @@
       {
         "fixture": {
           "id": 1502470,
-          "referee": "Sven Jablonski, Germany",
+          "referee": "S. Jablonski",
           "timezone": "UTC",
           "date": "2026-03-27T19:45:00+00:00",
           "timestamp": 1774640700,
@@ -1732,7 +1732,7 @@
       {
         "fixture": {
           "id": 1540357,
-          "referee": "Rosendo Mendoza, USA",
+          "referee": "R. Mendoza",
           "timezone": "UTC",
           "date": "2026-06-10T01:00:00+00:00",
           "timestamp": 1781053200,
@@ -1802,7 +1802,7 @@
       {
         "fixture": {
           "id": 1540355,
-          "referee": "Yoshito Nakagawa, Japan",
+          "referee": "V. Rivas",
           "timezone": "UTC",
           "date": "2026-06-07T00:00:00+00:00",
           "timestamp": 1780790400,
@@ -13315,6 +13315,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1589231,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-11T16:00:00+00:00",
+          "timestamp": 1783785600,
+          "periods": {
+            "first": 1783785600,
+            "second": 1783789200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendly",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 15847,
+            "name": "Atert Bissen",
+            "logo": "https://media.api-sports.io/football/teams/15847.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2040,
+            "name": "US Hostert",
+            "logo": "https://media.api-sports.io/football/teams/2040.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1554367,
           "referee": "D. Stary",
           "timezone": "UTC",
@@ -13942,22 +14012,879 @@
             "away": null
           }
         }
+      }
+    ]
+  },
+  "19624": {
+    "statistics": {
+      "league": {
+        "id": 10,
+        "name": "Friendlies",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/10.png",
+        "flag": null,
+        "season": 2026
+      },
+      "team": {
+        "id": 19624,
+        "name": "Bahrain U20",
+        "logo": "https://media.api-sports.io/football/teams/19624.png"
+      },
+      "form": "LLWL",
+      "fixtures": {
+        "played": {
+          "home": 2,
+          "away": 2,
+          "total": 4
+        },
+        "wins": {
+          "home": 1,
+          "away": 0,
+          "total": 1
+        },
+        "draws": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "loses": {
+          "home": 1,
+          "away": 2,
+          "total": 3
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 1,
+            "away": 0,
+            "total": 1
+          },
+          "average": {
+            "home": "0.5",
+            "away": "0.0",
+            "total": "0.3"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 1,
+              "under": 3
+            },
+            "1.5": {
+              "over": 0,
+              "under": 4
+            },
+            "2.5": {
+              "over": 0,
+              "under": 4
+            },
+            "3.5": {
+              "over": 0,
+              "under": 4
+            },
+            "4.5": {
+              "over": 0,
+              "under": 4
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 2,
+            "away": 7,
+            "total": 9
+          },
+          "average": {
+            "home": "1.0",
+            "away": "3.5",
+            "total": "2.3"
+          },
+          "minute": {
+            "0-15": {
+              "total": 1,
+              "percentage": "14.29%"
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": 2,
+              "percentage": "28.57%"
+            },
+            "46-60": {
+              "total": 1,
+              "percentage": "14.29%"
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": 3,
+              "percentage": "42.86%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 3,
+              "under": 1
+            },
+            "1.5": {
+              "over": 3,
+              "under": 1
+            },
+            "2.5": {
+              "over": 2,
+              "under": 2
+            },
+            "3.5": {
+              "over": 1,
+              "under": 3
+            },
+            "4.5": {
+              "over": 0,
+              "under": 4
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 1,
+          "draws": 0,
+          "loses": 2
+        },
+        "wins": {
+          "home": "1-0",
+          "away": null
+        },
+        "loses": {
+          "home": "0-2",
+          "away": "4-0"
+        },
+        "goals": {
+          "for": {
+            "home": 1,
+            "away": 0
+          },
+          "against": {
+            "home": 2,
+            "away": 4
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 1,
+        "away": 0,
+        "total": 1
+      },
+      "failed_to_score": {
+        "home": 1,
+        "away": 2,
+        "total": 3
+      },
+      "penalty": {
+        "scored": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 0
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1586129,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-12T16:15:00+00:00",
+          "timestamp": 1783872900,
+          "periods": {
+            "first": 1783872900,
+            "second": 1783876500
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
+            "winner": false
+          },
+          "away": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
       },
       {
         "fixture": {
-          "id": 1393665,
+          "id": 1586125,
           "referee": null,
           "timezone": "UTC",
-          "date": "2026-04-04T16:00:00+00:00",
-          "timestamp": 1775318400,
+          "date": "2026-07-09T16:15:00+00:00",
+          "timestamp": 1783613700,
           "periods": {
-            "first": 1775318400,
-            "second": 1775322000
+            "first": 1783613700,
+            "second": 1783617300
           },
           "venue": {
-            "id": 0,
+            "id": null,
             "name": null,
             "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
+            "winner": true
+          },
+          "away": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1548438,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-06T14:00:00+00:00",
+          "timestamp": 1780754400,
+          "periods": {
+            "first": 1780754400,
+            "second": 1780758000
+          },
+          "venue": {
+            "id": null,
+            "name": "Sav Stadyumu",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 8181,
+            "name": "Azerbaijan U21",
+            "logo": "https://media.api-sports.io/football/teams/8181.png",
+            "winner": true
+          },
+          "away": {
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1548408,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-03T14:00:00+00:00",
+          "timestamp": 1780495200,
+          "periods": {
+            "first": 1780495200,
+            "second": 1780498800
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 21058,
+            "name": "Kyrgyz Republic U20",
+            "logo": "https://media.api-sports.io/football/teams/21058.png",
+            "winner": true
+          },
+          "away": {
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1484945,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-13T16:30:00+00:00",
+          "timestamp": 1760373000,
+          "periods": {
+            "first": 1760373000,
+            "second": 1760376600
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 22436,
+            "name": "Saudi Arabia U19",
+            "logo": "https://media.api-sports.io/football/teams/22436.png",
+            "winner": true
+          },
+          "away": {
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1484890,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-09T15:00:00+00:00",
+          "timestamp": 1760022000,
+          "periods": {
+            "first": 1760022000,
+            "second": 1760025600
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 22436,
+            "name": "Saudi Arabia U19",
+            "logo": "https://media.api-sports.io/football/teams/22436.png",
+            "winner": true
+          },
+          "away": {
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1486485,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-09-04T13:30:00+00:00",
+          "timestamp": 1756992600,
+          "periods": {
+            "first": 1756992600,
+            "second": 1756996200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 11027,
+            "name": "Egypt U20",
+            "logo": "https://media.api-sports.io/football/teams/11027.png",
+            "winner": true
+          },
+          "away": {
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1308168,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2024-09-29T07:00:00+00:00",
+          "timestamp": 1727593200,
+          "periods": {
+            "first": 1727593200,
+            "second": 1727596800
+          },
+          "venue": {
+            "id": 22471,
+            "name": "Fu Jen Catholic University",
+            "city": "New Taipei City"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 9
+          }
+        },
+        "league": {
+          "id": 1153,
+          "name": "AFC U20 Asian Cup - Qualification",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1153.png",
+          "flag": null,
+          "season": 2024,
+          "round": "Group B - 5",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 21061,
+            "name": "Uzbekistan U20",
+            "logo": "https://media.api-sports.io/football/teams/21061.png",
+            "winner": true
+          },
+          "away": {
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1308166,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2024-09-27T07:00:00+00:00",
+          "timestamp": 1727420400,
+          "periods": {
+            "first": 1727420400,
+            "second": 1727424000
+          },
+          "venue": {
+            "id": 22471,
+            "name": "Fu Jen Catholic University",
+            "city": "New Taipei City"
           },
           "status": {
             "long": "Match Finished",
@@ -13967,31 +14894,608 @@
           }
         },
         "league": {
-          "id": 261,
-          "name": "National Division",
-          "country": "Luxembourg",
-          "logo": "https://media.api-sports.io/football/leagues/261.png",
-          "flag": "https://media.api-sports.io/flags/lu.svg",
-          "season": 2025,
-          "round": "Regular Season - 23",
-          "standings": true
+          "id": 1153,
+          "name": "AFC U20 Asian Cup - Qualification",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1153.png",
+          "flag": null,
+          "season": 2024,
+          "round": "Group B - 4",
+          "standings": false
         },
         "teams": {
           "home": {
-            "id": 15847,
-            "name": "Atert Bissen",
-            "logo": "https://media.api-sports.io/football/teams/15847.png",
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
             "winner": true
           },
           "away": {
-            "id": 658,
-            "name": "Progres Niederkorn",
-            "logo": "https://media.api-sports.io/football/teams/658.png",
+            "id": 25105,
+            "name": "Nepal U20",
+            "logo": "https://media.api-sports.io/football/teams/25105.png",
             "winner": false
           }
         },
         "goals": {
-          "home": 2,
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1308165,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2024-09-25T11:00:00+00:00",
+          "timestamp": 1727262000,
+          "periods": {
+            "first": 1727262000,
+            "second": 1727265600
+          },
+          "venue": {
+            "id": 22471,
+            "name": "Fu Jen Catholic University",
+            "city": "New Taipei City"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 1153,
+          "name": "AFC U20 Asian Cup - Qualification",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1153.png",
+          "flag": null,
+          "season": 2024,
+          "round": "Group B - 3",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
+            "winner": false
+          },
+          "away": {
+            "id": 25093,
+            "name": "Cambodia U20",
+            "logo": "https://media.api-sports.io/football/teams/25093.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
+  "19630": {
+    "statistics": {
+      "league": {
+        "id": 10,
+        "name": "Friendlies",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/10.png",
+        "flag": null,
+        "season": 2026
+      },
+      "team": {
+        "id": 19630,
+        "name": "Palestine U20",
+        "logo": "https://media.api-sports.io/football/teams/19630.png"
+      },
+      "form": "LW",
+      "fixtures": {
+        "played": {
+          "home": 0,
+          "away": 2,
+          "total": 2
+        },
+        "wins": {
+          "home": 0,
+          "away": 1,
+          "total": 1
+        },
+        "draws": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "loses": {
+          "home": 0,
+          "away": 1,
+          "total": 1
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 0,
+            "away": 2,
+            "total": 2
+          },
+          "average": {
+            "home": "0.0",
+            "away": "1.0",
+            "total": "1.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 1,
+              "under": 1
+            },
+            "1.5": {
+              "over": 1,
+              "under": 1
+            },
+            "2.5": {
+              "over": 0,
+              "under": 2
+            },
+            "3.5": {
+              "over": 0,
+              "under": 2
+            },
+            "4.5": {
+              "over": 0,
+              "under": 2
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 0,
+            "away": 1,
+            "total": 1
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.5",
+            "total": "0.5"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 1,
+              "under": 1
+            },
+            "1.5": {
+              "over": 0,
+              "under": 2
+            },
+            "2.5": {
+              "over": 0,
+              "under": 2
+            },
+            "3.5": {
+              "over": 0,
+              "under": 2
+            },
+            "4.5": {
+              "over": 0,
+              "under": 2
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 0,
+          "draws": 0,
+          "loses": 1
+        },
+        "wins": {
+          "home": null,
+          "away": "0-2"
+        },
+        "loses": {
+          "home": null,
+          "away": "1-0"
+        },
+        "goals": {
+          "for": {
+            "home": 0,
+            "away": 2
+          },
+          "against": {
+            "home": 0,
+            "away": 1
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 0,
+        "away": 1,
+        "total": 1
+      },
+      "failed_to_score": {
+        "home": 0,
+        "away": 1,
+        "total": 1
+      },
+      "penalty": {
+        "scored": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 0
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1586129,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-12T16:15:00+00:00",
+          "timestamp": 1783872900,
+          "periods": {
+            "first": 1783872900,
+            "second": 1783876500
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
+            "winner": false
+          },
+          "away": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1586125,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-09T16:15:00+00:00",
+          "timestamp": 1783613700,
+          "periods": {
+            "first": 1783613700,
+            "second": 1783617300
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 19624,
+            "name": "Bahrain U20",
+            "logo": "https://media.api-sports.io/football/teams/19624.png",
+            "winner": true
+          },
+          "away": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1308188,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2024-09-29T13:00:00+00:00",
+          "timestamp": 1727614800,
+          "periods": {
+            "first": 1727614800,
+            "second": 1727618400
+          },
+          "venue": {
+            "id": 10516,
+            "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+            "city": "Abha"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1153,
+          "name": "AFC U20 Asian Cup - Qualification",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1153.png",
+          "flag": null,
+          "season": 2024,
+          "round": "Group D - 5",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 25089,
+            "name": "Afghanistan U20",
+            "logo": "https://media.api-sports.io/football/teams/25089.png",
+            "winner": null
+          },
+          "away": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
           "away": 0
         },
         "score": {
@@ -14000,8 +15504,498 @@
             "away": 0
           },
           "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1308186,
+          "referee": "Rabie Wissam",
+          "timezone": "UTC",
+          "date": "2024-09-27T13:00:00+00:00",
+          "timestamp": 1727442000,
+          "periods": {
+            "first": 1727442000,
+            "second": 1727445600
+          },
+          "venue": {
+            "id": 10516,
+            "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+            "city": "Abha"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 9
+          }
+        },
+        "league": {
+          "id": 1153,
+          "name": "AFC U20 Asian Cup - Qualification",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1153.png",
+          "flag": null,
+          "season": 2024,
+          "round": "Group D - 4",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": false
+          },
+          "away": {
+            "id": 21056,
+            "name": "Australia U20",
+            "logo": "https://media.api-sports.io/football/teams/21056.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1308183,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2024-09-23T17:00:00+00:00",
+          "timestamp": 1727110800,
+          "periods": {
+            "first": 1727110800,
+            "second": 1727114400
+          },
+          "venue": {
+            "id": 10516,
+            "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+            "city": "Abha"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 9
+          }
+        },
+        "league": {
+          "id": 1153,
+          "name": "AFC U20 Asian Cup - Qualification",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1153.png",
+          "flag": null,
+          "season": 2024,
+          "round": "Group D - 2",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 25100,
+            "name": "Macau U20",
+            "logo": "https://media.api-sports.io/football/teams/25100.png",
+            "winner": null
+          },
+          "away": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1308181,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2024-09-21T17:00:00+00:00",
+          "timestamp": 1726938000,
+          "periods": {
+            "first": 1726938000,
+            "second": 1726941600
+          },
+          "venue": {
+            "id": 10516,
+            "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+            "city": "Abha"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 1153,
+          "name": "AFC U20 Asian Cup - Qualification",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/1153.png",
+          "flag": null,
+          "season": 2024,
+          "round": "Group D - 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": false
+          },
+          "away": {
+            "id": 10301,
+            "name": "Saudi Arabia U20",
+            "logo": "https://media.api-sports.io/football/teams/10301.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 927314,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2022-08-03T13:30:00+00:00",
+          "timestamp": 1659533400,
+          "periods": {
+            "first": 1659533400,
+            "second": 1659537000
+          },
+          "venue": {
+            "id": 10516,
+            "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+            "city": "Abha"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 934,
+          "name": "Arab Championship - U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/934.png",
+          "flag": null,
+          "season": 2022,
+          "round": "Semi-finals",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10301,
+            "name": "Saudi Arabia U20",
+            "logo": "https://media.api-sports.io/football/teams/10301.png",
+            "winner": true
+          },
+          "away": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
             "home": 2,
             "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 924510,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2022-07-31T13:30:00+00:00",
+          "timestamp": 1659274200,
+          "periods": {
+            "first": 1659274200,
+            "second": 1659277800
+          },
+          "venue": {
+            "id": null,
+            "name": "Damac Stadium",
+            "city": "Abha"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "PEN",
+            "elapsed": 120,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 934,
+          "name": "Arab Championship - U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/934.png",
+          "flag": null,
+          "season": 2022,
+          "round": "Quarter-finals",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 19627,
+            "name": "Jordan U20",
+            "logo": "https://media.api-sports.io/football/teams/19627.png",
+            "winner": false
+          },
+          "away": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": 0,
+            "away": 1
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 921403,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2022-07-28T18:00:00+00:00",
+          "timestamp": 1659031200,
+          "periods": {
+            "first": 1659031200,
+            "second": 1659034800
+          },
+          "venue": {
+            "id": null,
+            "name": "Damac Stadium",
+            "city": "Abha"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 934,
+          "name": "Arab Championship - U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/934.png",
+          "flag": null,
+          "season": 2022,
+          "round": "Group Stage - 3",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": false
+          },
+          "away": {
+            "id": 11039,
+            "name": "Morocco U20",
+            "logo": "https://media.api-sports.io/football/teams/11039.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 921396,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2022-07-25T14:00:00+00:00",
+          "timestamp": 1658757600,
+          "periods": {
+            "first": 1658757600,
+            "second": 1658761200
+          },
+          "venue": {
+            "id": 10516,
+            "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+            "city": "Abha"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 934,
+          "name": "Arab Championship - U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/934.png",
+          "flag": null,
+          "season": 2022,
+          "round": "Group Stage - 2",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 11046,
+            "name": "Sudan U20",
+            "logo": "https://media.api-sports.io/football/teams/11046.png",
+            "winner": false
+          },
+          "away": {
+            "id": 19630,
+            "name": "Palestine U20",
+            "logo": "https://media.api-sports.io/football/teams/19630.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 5
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 5
           },
           "extratime": {
             "home": null,
