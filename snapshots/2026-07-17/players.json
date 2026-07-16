@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T02:23:03.741Z",
+  "generatedAt": "2026-07-16T02:23:15.085Z",
   "totalTeams": 34,
   "totalLeagues": 7,
-  "teamsWithFallback": 21,
+  "teamsWithFallback": 24,
   "data": {
     "118": {
       "teamId": 118,
@@ -225,29 +225,7 @@
           "appearances": 11
         }
       ],
-      "topAssists": [
-        {
-          "id": 15704,
-          "name": "K. Høgh",
-          "photo": "https://media.api-sports.io/football/players/15704.png",
-          "assists": 4,
-          "appearances": 11
-        },
-        {
-          "id": 151510,
-          "name": "O. Didrik Blomberg",
-          "photo": "https://media.api-sports.io/football/players/151510.png",
-          "assists": 3,
-          "appearances": 12
-        },
-        {
-          "id": 351483,
-          "name": "F. Sjøvold",
-          "photo": "https://media.api-sports.io/football/players/351483.png",
-          "assists": 2,
-          "appearances": 12
-        }
-      ]
+      "topAssists": []
     },
     "366": {
       "teamId": 366,
@@ -380,9 +358,27 @@
       "leagueId": 172,
       "leagueName": "First League",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
+        "topScorer": {
+          "id": 9650,
+          "name": "Reinaldo",
+          "photo": "https://media.api-sports.io/football/players/9650.png",
+          "goals": 2,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 914,
+          "name": "Álex Centelles",
+          "photo": "https://media.api-sports.io/football/players/914.png",
+          "assists": 1,
+          "appearances": 2
+        },
+        "mostCards": {
+          "id": 137072,
+          "name": "N. Serafimov",
+          "photo": "https://media.api-sports.io/football/players/137072.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
@@ -612,11 +608,11 @@
           "appearances": 13
         },
         "mostCards": {
-          "id": 560840,
-          "name": "Wang Qiao",
-          "photo": "https://media.api-sports.io/football/players/560840.png",
-          "yellowCards": 1,
-          "redCards": 1
+          "id": 45369,
+          "name": "N. Anđelković",
+          "photo": "https://media.api-sports.io/football/players/45369.png",
+          "yellowCards": 4,
+          "redCards": 0
         }
       },
       "topScorers": [
@@ -708,15 +704,7 @@
           "appearances": 14
         }
       ],
-      "topAssists": [
-        {
-          "id": 201713,
-          "name": "S. Berhalter",
-          "photo": "https://media.api-sports.io/football/players/201713.png",
-          "assists": 4,
-          "appearances": 14
-        }
-      ]
+      "topAssists": []
     },
     "1607": {
       "teamId": 1607,
@@ -756,15 +744,7 @@
           "appearances": 11
         }
       ],
-      "topAssists": [
-        {
-          "id": 39080,
-          "name": "P. Zinckernagel",
-          "photo": "https://media.api-sports.io/football/players/39080.png",
-          "assists": 6,
-          "appearances": 14
-        }
-      ]
+      "topAssists": []
     },
     "1611": {
       "teamId": 1611,
@@ -1094,13 +1074,6 @@
           "photo": "https://media.api-sports.io/football/players/34173.png",
           "assists": 4,
           "appearances": 18
-        },
-        {
-          "id": 34131,
-          "name": "Felipe",
-          "photo": "https://media.api-sports.io/football/players/34131.png",
-          "assists": 3,
-          "appearances": 12
         }
       ]
     },
