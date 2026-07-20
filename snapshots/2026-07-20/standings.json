@@ -7,15 +7,15 @@
         "name": "Sirius",
         "logo": "https://media.api-sports.io/football/teams/370.png"
       },
-      "points": 32,
+      "points": 35,
       "all": {
-        "played": 12,
-        "win": 10,
+        "played": 13,
+        "win": 11,
         "draw": 2,
         "lose": 0,
         "goals": {
-          "for": 33,
-          "against": 15
+          "for": 36,
+          "against": 16
         }
       }
     },
@@ -26,20 +26,39 @@
         "name": "Hammarby FF",
         "logo": "https://media.api-sports.io/football/teams/363.png"
       },
-      "points": 23,
+      "points": 26,
       "all": {
-        "played": 13,
-        "win": 7,
+        "played": 14,
+        "win": 8,
         "draw": 2,
         "lose": 4,
         "goals": {
-          "for": 28,
+          "for": 32,
           "against": 14
         }
       }
     },
     {
       "rank": 3,
+      "team": {
+        "id": 367,
+        "name": "BK Hacken",
+        "logo": "https://media.api-sports.io/football/teams/367.png"
+      },
+      "points": 23,
+      "all": {
+        "played": 13,
+        "win": 6,
+        "draw": 5,
+        "lose": 2,
+        "goals": {
+          "for": 27,
+          "against": 22
+        }
+      }
+    },
+    {
+      "rank": 4,
       "team": {
         "id": 377,
         "name": "AIK Stockholm",
@@ -54,25 +73,6 @@
         "goals": {
           "for": 18,
           "against": 18
-        }
-      }
-    },
-    {
-      "rank": 4,
-      "team": {
-        "id": 367,
-        "name": "BK Hacken",
-        "logo": "https://media.api-sports.io/football/teams/367.png"
-      },
-      "points": 20,
-      "all": {
-        "played": 12,
-        "win": 5,
-        "draw": 5,
-        "lose": 2,
-        "goals": {
-          "for": 25,
-          "against": 22
         }
       }
     },
@@ -161,13 +161,13 @@
       },
       "points": 18,
       "all": {
-        "played": 13,
+        "played": 14,
         "win": 4,
         "draw": 6,
-        "lose": 3,
+        "lose": 4,
         "goals": {
-          "for": 17,
-          "against": 14
+          "for": 18,
+          "against": 17
         }
       }
     },
@@ -256,13 +256,13 @@
       },
       "points": 10,
       "all": {
-        "played": 12,
+        "played": 13,
         "win": 2,
         "draw": 4,
-        "lose": 6,
+        "lose": 7,
         "goals": {
           "for": 12,
-          "against": 19
+          "against": 23
         }
       }
     },
@@ -294,13 +294,13 @@
       },
       "points": 6,
       "all": {
-        "played": 12,
+        "played": 13,
         "win": 1,
         "draw": 3,
-        "lose": 8,
+        "lose": 9,
         "goals": {
           "for": 10,
-          "against": 26
+          "against": 28
         }
       }
     }
@@ -385,6 +385,44 @@
     {
       "rank": 5,
       "team": {
+        "id": 851,
+        "name": "Cherno More Varna",
+        "logo": "https://media.api-sports.io/football/teams/851.png"
+      },
+      "points": 1,
+      "all": {
+        "played": 1,
+        "win": 0,
+        "draw": 1,
+        "lose": 0,
+        "goals": {
+          "for": 1,
+          "against": 1
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": 859,
+        "name": "Botev Vratsa",
+        "logo": "https://media.api-sports.io/football/teams/859.png"
+      },
+      "points": 1,
+      "all": {
+        "played": 1,
+        "win": 0,
+        "draw": 1,
+        "lose": 0,
+        "goals": {
+          "for": 1,
+          "against": 1
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "team": {
         "id": 1430,
         "name": "Arda Kardzhali",
         "logo": "https://media.api-sports.io/football/teams/1430.png"
@@ -402,7 +440,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 8,
       "team": {
         "id": 856,
         "name": "Septemvri Sofia",
@@ -421,7 +459,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 9,
       "team": {
         "id": 634,
         "name": "Botev Plovdiv",
@@ -440,26 +478,7 @@
       }
     },
     {
-      "rank": 8,
-      "team": {
-        "id": 851,
-        "name": "Cherno More Varna",
-        "logo": "https://media.api-sports.io/football/teams/851.png"
-      },
-      "points": 0,
-      "all": {
-        "played": 0,
-        "win": 0,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 0,
-          "against": 0
-        }
-      }
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "team": {
         "id": 853,
         "name": "CSKA Sofia",
@@ -478,7 +497,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "team": {
         "id": 1416,
         "name": "Lokomotiv Sofia",
@@ -497,30 +516,11 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "team": {
         "id": 854,
         "name": "Slavia Sofia",
         "logo": "https://media.api-sports.io/football/teams/854.png"
-      },
-      "points": 0,
-      "all": {
-        "played": 0,
-        "win": 0,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 0,
-          "against": 0
-        }
-      }
-    },
-    {
-      "rank": 12,
-      "team": {
-        "id": 859,
-        "name": "Botev Vratsa",
-        "logo": "https://media.api-sports.io/football/teams/859.png"
       },
       "points": 0,
       "all": {
@@ -600,11 +600,11 @@
         "name": "Inter Turku",
         "logo": "https://media.api-sports.io/football/teams/1164.png"
       },
-      "points": 30,
+      "points": 31,
       "all": {
-        "played": 15,
+        "played": 16,
         "win": 8,
-        "draw": 6,
+        "draw": 7,
         "lose": 1,
         "goals": {
           "for": 23,
@@ -771,11 +771,11 @@
         "name": "FF Jaro",
         "logo": "https://media.api-sports.io/football/teams/2075.png"
       },
-      "points": 11,
+      "points": 12,
       "all": {
-        "played": 15,
+        "played": 16,
         "win": 2,
-        "draw": 5,
+        "draw": 6,
         "lose": 8,
         "goals": {
           "for": 15,
@@ -845,6 +845,44 @@
     {
       "rank": 3,
       "team": {
+        "id": 2599,
+        "name": "Universitatea Cluj",
+        "logo": "https://media.api-sports.io/football/teams/2599.png"
+      },
+      "points": 3,
+      "all": {
+        "played": 1,
+        "win": 1,
+        "draw": 0,
+        "lose": 0,
+        "goals": {
+          "for": 2,
+          "against": 1
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": 2598,
+        "name": "Petrolul Ploiesti",
+        "logo": "https://media.api-sports.io/football/teams/2598.png"
+      },
+      "points": 3,
+      "all": {
+        "played": 1,
+        "win": 1,
+        "draw": 0,
+        "lose": 0,
+        "goals": {
+          "for": 1,
+          "against": 0
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "team": {
         "id": 6886,
         "name": "Oţelul",
         "logo": "https://media.api-sports.io/football/teams/6886.png"
@@ -862,7 +900,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 6,
       "team": {
         "id": 2581,
         "name": "FC Botosani",
@@ -881,7 +919,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 7,
       "team": {
         "id": 2578,
         "name": "FC Voluntari",
@@ -900,26 +938,7 @@
       }
     },
     {
-      "rank": 6,
-      "team": {
-        "id": 2596,
-        "name": "Farul Constanta",
-        "logo": "https://media.api-sports.io/football/teams/2596.png"
-      },
-      "points": 0,
-      "all": {
-        "played": 0,
-        "win": 0,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 0,
-          "against": 0
-        }
-      }
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "team": {
         "id": 6231,
         "name": "Rapid",
@@ -938,45 +957,7 @@
       }
     },
     {
-      "rank": 8,
-      "team": {
-        "id": 2599,
-        "name": "Universitatea Cluj",
-        "logo": "https://media.api-sports.io/football/teams/2599.png"
-      },
-      "points": 0,
-      "all": {
-        "played": 0,
-        "win": 0,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 0,
-          "against": 0
-        }
-      }
-    },
-    {
       "rank": 9,
-      "team": {
-        "id": 2598,
-        "name": "Petrolul Ploiesti",
-        "logo": "https://media.api-sports.io/football/teams/2598.png"
-      },
-      "points": 0,
-      "all": {
-        "played": 0,
-        "win": 0,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 0,
-          "against": 0
-        }
-      }
-    },
-    {
-      "rank": 10,
       "team": {
         "id": 20034,
         "name": "Corvinul Hunedoara",
@@ -995,26 +976,7 @@
       }
     },
     {
-      "rank": 11,
-      "team": {
-        "id": 635,
-        "name": "Dinamo Bucuresti",
-        "logo": "https://media.api-sports.io/football/teams/635.png"
-      },
-      "points": 0,
-      "all": {
-        "played": 0,
-        "win": 0,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 0,
-          "against": 0
-        }
-      }
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "team": {
         "id": 6230,
         "name": "Csikszereda",
@@ -1033,7 +995,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 11,
       "team": {
         "id": 2585,
         "name": "Sepsi OSK Sfantu Gheorghe",
@@ -1052,7 +1014,26 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 12,
+      "team": {
+        "id": 2596,
+        "name": "Farul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/2596.png"
+      },
+      "points": 0,
+      "all": {
+        "played": 1,
+        "win": 0,
+        "draw": 0,
+        "lose": 1,
+        "goals": {
+          "for": 1,
+          "against": 2
+        }
+      }
+    },
+    {
+      "rank": 13,
       "team": {
         "id": 2246,
         "name": "CFR 1907 Cluj",
@@ -1067,6 +1048,25 @@
         "goals": {
           "for": 1,
           "against": 2
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "team": {
+        "id": 635,
+        "name": "Dinamo Bucuresti",
+        "logo": "https://media.api-sports.io/football/teams/635.png"
+      },
+      "points": 0,
+      "all": {
+        "played": 1,
+        "win": 0,
+        "draw": 0,
+        "lose": 1,
+        "goals": {
+          "for": 0,
+          "against": 1
         }
       }
     },

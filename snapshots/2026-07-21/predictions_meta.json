@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T02:19:37.254Z",
-  "schemaVersion": "v4-calibrated-2026-04",
+  "generatedAt": "2026-07-20T03:20:02.821Z",
+  "schemaVersion": "v4.2-calibrated-2026-07",
   "mode": "api",
   "lastMatchesCount": 10,
   "minRoleMatches": 4,
@@ -73,23 +73,24 @@
     848
   ],
   "thresholds": {
-    "OVER25": 0.5,
+    "OVER25": 0.55,
     "OVER35_PROB_MIN": 0.55,
     "OVER35_MIN_EXPECTED_TOTAL": 3.9,
-    "BTTS": 0.5,
+    "BTTS": 0.56,
     "MIN_TEAM_GOAL_FOR_BTTS": 0.8,
-    "HOME_AWAY_15": 0.38
+    "HOME_15": 0.53,
+    "AWAY_15": 0.43
   },
   "fixturesCount": 18,
   "producedCount": 18,
   "sources": {
-    "apiStats": 28,
-    "apiStatsNoSeasonFallback": 16,
-    "mixedFallback": 6,
-    "defaultFallback": 8
+    "apiStats": 33,
+    "apiStatsNoSeasonFallback": 22,
+    "mixedFallback": 3,
+    "defaultFallback": 3
   },
   "leagueAvg": {
-    "usedCount": 2,
+    "usedCount": 4,
     "blend": 0.75,
     "sampleLast": 12
   },

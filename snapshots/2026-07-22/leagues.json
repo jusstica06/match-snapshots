@@ -1,9 +1,9 @@
 {
-  "1": {
-    "id": 1,
-    "name": "World Cup",
+  "2": {
+    "id": 2,
+    "name": "UEFA Champions League",
     "type": "Cup",
-    "logo": "https://media.api-sports.io/football/leagues/1.png",
+    "logo": "https://media.api-sports.io/football/leagues/2.png",
     "country": {
       "name": "World",
       "code": null,
@@ -11,38 +11,11 @@
     },
     "season": 2026,
     "seasons": [
-      2010,
+      2011,
+      2012,
+      2013,
       2014,
-      2018,
-      2022,
-      2026
-    ],
-    "coverage": {
-      "standings": true,
-      "players": true,
-      "topScorers": true,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": true,
-        "statistics_players": true
-      }
-    }
-  },
-  "113": {
-    "id": 113,
-    "name": "Allsvenskan",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/113.png",
-    "country": {
-      "name": "Sweden",
-      "code": "SE",
-      "flag": "https://media.api-sports.io/flags/se.svg"
-    },
-    "season": 2026,
-    "seasons": [
+      2015,
       2016,
       2017,
       2018,
@@ -56,7 +29,7 @@
       2026
     ],
     "coverage": {
-      "standings": true,
+      "standings": false,
       "players": true,
       "topScorers": true,
       "predictions": true,
@@ -69,18 +42,19 @@
       }
     }
   },
-  "172": {
-    "id": 172,
-    "name": "First League",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/172.png",
+  "10": {
+    "id": 10,
+    "name": "Friendlies",
+    "type": "Cup",
+    "logo": "https://media.api-sports.io/football/leagues/10.png",
     "country": {
-      "name": "Bulgaria",
-      "code": "BG",
-      "flag": "https://media.api-sports.io/flags/bg.svg"
+      "name": "World",
+      "code": null,
+      "flag": null
     },
     "season": 2026,
     "seasons": [
+      2017,
       2018,
       2019,
       2020,
@@ -92,31 +66,33 @@
       2026
     ],
     "coverage": {
-      "standings": true,
-      "players": false,
-      "topScorers": false,
+      "standings": false,
+      "players": true,
+      "topScorers": true,
       "predictions": true,
       "odds": true,
       "fixtures": {
         "events": true,
         "lineups": true,
-        "statistics_fixtures": false,
-        "statistics_players": false
+        "statistics_fixtures": true,
+        "statistics_players": true
       }
     }
   },
-  "244": {
-    "id": 244,
-    "name": "Veikkausliiga",
+  "71": {
+    "id": 71,
+    "name": "Serie A",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/244.png",
+    "logo": "https://media.api-sports.io/football/leagues/71.png",
     "country": {
-      "name": "Finland",
-      "code": "FI",
-      "flag": "https://media.api-sports.io/flags/fi.svg"
+      "name": "Brazil",
+      "code": "BR",
+      "flag": "https://media.api-sports.io/flags/br.svg"
     },
     "season": 2026,
     "seasons": [
+      2010,
+      2011,
       2012,
       2013,
       2014,
@@ -147,15 +123,15 @@
       }
     }
   },
-  "283": {
-    "id": 283,
-    "name": "Liga I",
+  "103": {
+    "id": 103,
+    "name": "Eliteserien",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/283.png",
+    "logo": "https://media.api-sports.io/football/leagues/103.png",
     "country": {
-      "name": "Romania",
-      "code": "RO",
-      "flag": "https://media.api-sports.io/flags/ro.svg"
+      "name": "Norway",
+      "code": "NO",
+      "flag": "https://media.api-sports.io/flags/no.svg"
     },
     "season": 2026,
     "seasons": [
@@ -173,15 +149,57 @@
     ],
     "coverage": {
       "standings": true,
-      "players": false,
-      "topScorers": false,
+      "players": true,
+      "topScorers": true,
       "predictions": true,
       "odds": true,
       "fixtures": {
         "events": true,
-        "lineups": false,
-        "statistics_fixtures": false,
-        "statistics_players": false
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "253": {
+    "id": 253,
+    "name": "Major League Soccer",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/253.png",
+    "country": {
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
       }
     }
   },
@@ -220,6 +238,39 @@
         "lineups": true,
         "statistics_fixtures": true,
         "statistics_players": true
+      }
+    }
+  },
+  "848": {
+    "id": 848,
+    "name": "UEFA Europa Conference League",
+    "type": "Cup",
+    "logo": "https://media.api-sports.io/football/leagues/848.png",
+    "country": {
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "season": 2026,
+    "seasons": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": false,
+      "players": false,
+      "topScorers": false,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": false,
+        "statistics_players": false
       }
     }
   }
