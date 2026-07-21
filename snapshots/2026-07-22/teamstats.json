@@ -3249,14 +3249,10 @@
       "lineups": [
         {
           "formation": "4-1-4-1",
-          "played": 11
+          "played": 12
         },
         {
           "formation": "4-3-3",
-          "played": 1
-        },
-        {
-          "formation": "4-2-3-1",
           "played": 1
         }
       ],
@@ -13364,7 +13360,7 @@
       {
         "fixture": {
           "id": 1495736,
-          "referee": "Joona Kontinen, Finland",
+          "referee": "J. Kontinen",
           "timezone": "UTC",
           "date": "2026-07-19T15:30:00+00:00",
           "timestamp": 1784475000,
@@ -23279,12 +23275,12 @@
               "percentage": "5.26%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "10.53%"
+              "total": 3,
+              "percentage": "15.79%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "5.26%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -26471,7 +26467,7 @@
       {
         "fixture": {
           "id": 1507003,
-          "referee": "Dong Jun Lee, South Korea",
+          "referee": "Lee Dong-Jun",
           "timezone": "UTC",
           "date": "2026-07-19T10:30:00+00:00",
           "timestamp": 1784457000,
@@ -27485,7 +27481,7 @@
       {
         "fixture": {
           "id": 1507002,
-          "referee": "Yong-jun Shin, South Korea",
+          "referee": "Shin Yong-Jun",
           "timezone": "UTC",
           "date": "2026-07-19T10:30:00+00:00",
           "timestamp": 1784457000,
@@ -28499,7 +28495,7 @@
       {
         "fixture": {
           "id": 1507002,
-          "referee": "Yong-jun Shin, South Korea",
+          "referee": "Shin Yong-Jun",
           "timezone": "UTC",
           "date": "2026-07-19T10:30:00+00:00",
           "timestamp": 1784457000,
@@ -30539,7 +30535,7 @@
       {
         "fixture": {
           "id": 1507003,
-          "referee": "Dong Jun Lee, South Korea",
+          "referee": "Lee Dong-Jun",
           "timezone": "UTC",
           "date": "2026-07-19T10:30:00+00:00",
           "timestamp": 1784457000,
@@ -33559,6 +33555,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1598447,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-16T17:00:00+00:00",
+          "timestamp": 1784221200,
+          "periods": {
+            "first": 1784221200,
+            "second": 1784224800
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendly",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 3402,
+            "name": "Omonia Nicosia",
+            "logo": "https://media.api-sports.io/football/teams/3402.png",
+            "winner": true
+          },
+          "away": {
+            "id": 949,
+            "name": "Panetolikos",
+            "logo": "https://media.api-sports.io/football/teams/949.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1547928,
           "referee": null,
           "timezone": "UTC",
@@ -34176,76 +34242,6 @@
           "fulltime": {
             "home": 2,
             "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1537397,
-          "referee": "L. Kuzma",
-          "timezone": "UTC",
-          "date": "2026-04-18T15:00:00+00:00",
-          "timestamp": 1776524400,
-          "periods": {
-            "first": 1776524400,
-            "second": 1776528000
-          },
-          "venue": {
-            "id": null,
-            "name": "GSP Stadium",
-            "city": "Nicosia"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 318,
-          "name": "1. Division",
-          "country": "Cyprus",
-          "logo": "https://media.api-sports.io/football/leagues/318.png",
-          "flag": "https://media.api-sports.io/flags/cy.svg",
-          "season": 2025,
-          "round": "Championship Group - 30",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 3402,
-            "name": "Omonia Nicosia",
-            "logo": "https://media.api-sports.io/football/teams/3402.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2247,
-            "name": "Apoel Nicosia",
-            "logo": "https://media.api-sports.io/football/teams/2247.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -39572,7 +39568,7 @@
       {
         "fixture": {
           "id": 1553813,
-          "referee": "Pavle Ilic, Serbia",
+          "referee": "P. Ilic",
           "timezone": "UTC",
           "date": "2026-07-17T18:00:00+00:00",
           "timestamp": 1784311200,

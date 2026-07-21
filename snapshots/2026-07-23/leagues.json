@@ -1,9 +1,9 @@
 {
-  "2": {
-    "id": 2,
-    "name": "UEFA Champions League",
+  "3": {
+    "id": 3,
+    "name": "UEFA Europa League",
     "type": "Cup",
-    "logo": "https://media.api-sports.io/football/leagues/2.png",
+    "logo": "https://media.api-sports.io/football/leagues/3.png",
     "country": {
       "name": "World",
       "code": null,
@@ -11,9 +11,6 @@
     },
     "season": 2026,
     "seasons": [
-      2011,
-      2012,
-      2013,
       2014,
       2015,
       2016,
@@ -30,15 +27,15 @@
     ],
     "coverage": {
       "standings": false,
-      "players": true,
-      "topScorers": true,
+      "players": false,
+      "topScorers": false,
       "predictions": true,
       "odds": true,
       "fixtures": {
         "events": true,
         "lineups": true,
         "statistics_fixtures": true,
-        "statistics_players": true
+        "statistics_players": false
       }
     }
   },
@@ -86,18 +83,21 @@
       }
     }
   },
-  "172": {
-    "id": 172,
-    "name": "First League",
+  "128": {
+    "id": 128,
+    "name": "Liga Profesional Argentina",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/172.png",
+    "logo": "https://media.api-sports.io/football/leagues/128.png",
     "country": {
-      "name": "Bulgaria",
-      "code": "BG",
-      "flag": "https://media.api-sports.io/flags/bg.svg"
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
     },
     "season": 2026,
     "seasons": [
+      2015,
+      2016,
+      2017,
       2018,
       2019,
       2020,
@@ -110,30 +110,34 @@
     ],
     "coverage": {
       "standings": true,
-      "players": false,
-      "topScorers": false,
+      "players": true,
+      "topScorers": true,
       "predictions": true,
       "odds": true,
       "fixtures": {
         "events": true,
         "lineups": true,
-        "statistics_fixtures": false,
-        "statistics_players": false
+        "statistics_fixtures": true,
+        "statistics_players": true
       }
     }
   },
-  "292": {
-    "id": 292,
-    "name": "K League 1",
+  "253": {
+    "id": 253,
+    "name": "Major League Soccer",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/292.png",
+    "logo": "https://media.api-sports.io/football/leagues/253.png",
     "country": {
-      "name": "South-Korea",
-      "code": "KR",
-      "flag": "https://media.api-sports.io/flags/kr.svg"
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
     },
     "season": 2026,
     "seasons": [
+      2012,
+      2013,
+      2014,
+      2015,
       2016,
       2017,
       2018,

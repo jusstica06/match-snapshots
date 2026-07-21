@@ -1388,6 +1388,76 @@
       },
       {
         "fixture": {
+          "id": 1598474,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-14T18:30:00+00:00",
+          "timestamp": 1784053800,
+          "periods": {
+            "first": 1784053800,
+            "second": 1784057400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendly",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 4249,
+            "name": "Arbroath",
+            "logo": "https://media.api-sports.io/football/teams/4249.png",
+            "winner": false
+          },
+          "away": {
+            "id": 254,
+            "name": "Heart Of Midlothian",
+            "logo": "https://media.api-sports.io/football/teams/254.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1583242,
           "referee": null,
           "timezone": "UTC",
@@ -1935,76 +2005,6 @@
           "fulltime": {
             "home": 2,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1382848,
-          "referee": "D. Robertson",
-          "timezone": "UTC",
-          "date": "2026-03-21T15:00:00+00:00",
-          "timestamp": 1774105200,
-          "periods": {
-            "first": 1774105200,
-            "second": 1774108800
-          },
-          "venue": {
-            "id": 1393,
-            "name": "Tynecastle Park",
-            "city": "Edinburgh"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 179,
-          "name": "Premiership",
-          "country": "Scotland",
-          "logo": "https://media.api-sports.io/football/leagues/179.png",
-          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-          "season": 2025,
-          "round": "1st Phase - 31",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 254,
-            "name": "Heart Of Midlothian",
-            "logo": "https://media.api-sports.io/football/teams/254.png",
-            "winner": true
-          },
-          "away": {
-            "id": 253,
-            "name": "Dundee",
-            "logo": "https://media.api-sports.io/football/teams/253.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -8303,7 +8303,7 @@
       {
         "fixture": {
           "id": 1553808,
-          "referee": "Milan Stefanovic, Serbia",
+          "referee": "M. Stefanovic",
           "timezone": "UTC",
           "date": "2026-07-17T18:00:00+00:00",
           "timestamp": 1784311200,
@@ -10983,6 +10983,1003 @@
           "fulltime": {
             "home": 2,
             "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
+  "634": {
+    "statistics": {
+      "league": {
+        "id": 172,
+        "name": "First League",
+        "country": "Bulgaria",
+        "logo": "https://media.api-sports.io/football/leagues/172.png",
+        "flag": "https://media.api-sports.io/flags/bg.svg",
+        "season": 2026
+      },
+      "team": {
+        "id": 634,
+        "name": "Botev Plovdiv",
+        "logo": "https://media.api-sports.io/football/teams/634.png"
+      },
+      "form": null,
+      "fixtures": {
+        "played": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "wins": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "draws": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "loses": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 0
+            },
+            "1.5": {
+              "over": 0,
+              "under": 0
+            },
+            "2.5": {
+              "over": 0,
+              "under": 0
+            },
+            "3.5": {
+              "over": 0,
+              "under": 0
+            },
+            "4.5": {
+              "over": 0,
+              "under": 0
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 0
+            },
+            "1.5": {
+              "over": 0,
+              "under": 0
+            },
+            "2.5": {
+              "over": 0,
+              "under": 0
+            },
+            "3.5": {
+              "over": 0,
+              "under": 0
+            },
+            "4.5": {
+              "over": 0,
+              "under": 0
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 0,
+          "draws": 0,
+          "loses": 0
+        },
+        "wins": {
+          "home": null,
+          "away": null
+        },
+        "loses": {
+          "home": null,
+          "away": null
+        },
+        "goals": {
+          "for": {
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "failed_to_score": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "penalty": {
+        "scored": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 0
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1584835,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-12T17:30:00+00:00",
+          "timestamp": 1783877400,
+          "periods": {
+            "first": 1783877400,
+            "second": 1783881000
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 1
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 634,
+            "name": "Botev Plovdiv",
+            "logo": "https://media.api-sports.io/football/teams/634.png",
+            "winner": true
+          },
+          "away": {
+            "id": 857,
+            "name": "Beroe",
+            "logo": "https://media.api-sports.io/football/teams/857.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1554601,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-04T16:00:00+00:00",
+          "timestamp": 1783180800,
+          "periods": {
+            "first": 1783180800,
+            "second": 1783184400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 1
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 634,
+            "name": "Botev Plovdiv",
+            "logo": "https://media.api-sports.io/football/teams/634.png",
+            "winner": true
+          },
+          "away": {
+            "id": 4660,
+            "name": "Spartak Varna",
+            "logo": "https://media.api-sports.io/football/teams/4660.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1554674,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-04T07:00:00+00:00",
+          "timestamp": 1783148400,
+          "periods": {
+            "first": 1783148400,
+            "second": 1783152000
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 634,
+            "name": "Botev Plovdiv",
+            "logo": "https://media.api-sports.io/football/teams/634.png",
+            "winner": false
+          },
+          "away": {
+            "id": 855,
+            "name": "Etar Veliko Tarnovo",
+            "logo": "https://media.api-sports.io/football/teams/855.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1567499,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-01T15:30:00+00:00",
+          "timestamp": 1782919800,
+          "periods": {
+            "first": 1782919800,
+            "second": 1782923400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 634,
+            "name": "Botev Plovdiv",
+            "logo": "https://media.api-sports.io/football/teams/634.png",
+            "winner": true
+          },
+          "away": {
+            "id": 8530,
+            "name": "Chernomorets 1919 Burgas",
+            "logo": "https://media.api-sports.io/football/teams/8530.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1567478,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-27T17:00:00+00:00",
+          "timestamp": 1782579600,
+          "periods": {
+            "first": 1782579600,
+            "second": 1782583200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendly",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 634,
+            "name": "Botev Plovdiv",
+            "logo": "https://media.api-sports.io/football/teams/634.png",
+            "winner": true
+          },
+          "away": {
+            "id": 12733,
+            "name": "Ballkani",
+            "logo": "https://media.api-sports.io/football/teams/12733.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1554520,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-26T07:00:00+00:00",
+          "timestamp": 1782457200,
+          "periods": {
+            "first": 1782457200,
+            "second": 1782460800
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 2
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 634,
+            "name": "Botev Plovdiv",
+            "logo": "https://media.api-sports.io/football/teams/634.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1430,
+            "name": "Arda Kardzhali",
+            "logo": "https://media.api-sports.io/football/teams/1430.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1554498,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-23T15:30:00+00:00",
+          "timestamp": 1782228600,
+          "periods": {
+            "first": 1782228600,
+            "second": 1782232200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 634,
+            "name": "Botev Plovdiv",
+            "logo": "https://media.api-sports.io/football/teams/634.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1418,
+            "name": "Spartak Pleven",
+            "logo": "https://media.api-sports.io/football/teams/1418.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1540972,
+          "referee": "D. Dimitrov",
+          "timezone": "UTC",
+          "date": "2026-05-25T14:45:00+00:00",
+          "timestamp": 1779720300,
+          "periods": {
+            "first": 1779720300,
+            "second": 1779723900
+          },
+          "venue": {
+            "id": 298,
+            "name": "Stadion Lokomotiv",
+            "city": "Plovdiv"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 172,
+          "name": "First League",
+          "country": "Bulgaria",
+          "logo": "https://media.api-sports.io/football/leagues/172.png",
+          "flag": "https://media.api-sports.io/flags/bg.svg",
+          "season": 2025,
+          "round": "Conference League Group - 36",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 858,
+            "name": "Lokomotiv Plovdiv",
+            "logo": "https://media.api-sports.io/football/teams/858.png",
+            "winner": true
+          },
+          "away": {
+            "id": 634,
+            "name": "Botev Plovdiv",
+            "logo": "https://media.api-sports.io/football/teams/634.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1540970,
+          "referee": "L. Lubomirov",
+          "timezone": "UTC",
+          "date": "2026-05-16T16:00:00+00:00",
+          "timestamp": 1778947200,
+          "periods": {
+            "first": 1778947200,
+            "second": 1778950800
+          },
+          "venue": {
+            "id": 19922,
+            "name": "Stadion Hristo Botev",
+            "city": "Plovdiv"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 172,
+          "name": "First League",
+          "country": "Bulgaria",
+          "logo": "https://media.api-sports.io/football/leagues/172.png",
+          "flag": "https://media.api-sports.io/flags/bg.svg",
+          "season": 2025,
+          "round": "Conference League Group - 35",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 634,
+            "name": "Botev Plovdiv",
+            "logo": "https://media.api-sports.io/football/teams/634.png",
+            "winner": true
+          },
+          "away": {
+            "id": 851,
+            "name": "Cherno More Varna",
+            "logo": "https://media.api-sports.io/football/teams/851.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1540967,
+          "referee": "T. Kirov",
+          "timezone": "UTC",
+          "date": "2026-05-12T17:15:00+00:00",
+          "timestamp": 1778606100,
+          "periods": {
+            "first": 1778606100,
+            "second": 1778609700
+          },
+          "venue": {
+            "id": 19922,
+            "name": "Stadion Hristo Botev",
+            "city": "Plovdiv"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 172,
+          "name": "First League",
+          "country": "Bulgaria",
+          "logo": "https://media.api-sports.io/football/leagues/172.png",
+          "flag": "https://media.api-sports.io/flags/bg.svg",
+          "season": 2025,
+          "round": "Conference League Group - 34",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 634,
+            "name": "Botev Plovdiv",
+            "logo": "https://media.api-sports.io/football/teams/634.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1430,
+            "name": "Arda Kardzhali",
+            "logo": "https://media.api-sports.io/football/teams/1430.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
           },
           "extratime": {
             "home": null,
@@ -19024,6 +20021,1003 @@
           "fulltime": {
             "home": 0,
             "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
+  "1416": {
+    "statistics": {
+      "league": {
+        "id": 172,
+        "name": "First League",
+        "country": "Bulgaria",
+        "logo": "https://media.api-sports.io/football/leagues/172.png",
+        "flag": "https://media.api-sports.io/flags/bg.svg",
+        "season": 2026
+      },
+      "team": {
+        "id": 1416,
+        "name": "Lokomotiv Sofia",
+        "logo": "https://media.api-sports.io/football/teams/1416.png"
+      },
+      "form": null,
+      "fixtures": {
+        "played": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "wins": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "draws": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "loses": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 0
+            },
+            "1.5": {
+              "over": 0,
+              "under": 0
+            },
+            "2.5": {
+              "over": 0,
+              "under": 0
+            },
+            "3.5": {
+              "over": 0,
+              "under": 0
+            },
+            "4.5": {
+              "over": 0,
+              "under": 0
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 0
+            },
+            "1.5": {
+              "over": 0,
+              "under": 0
+            },
+            "2.5": {
+              "over": 0,
+              "under": 0
+            },
+            "3.5": {
+              "over": 0,
+              "under": 0
+            },
+            "4.5": {
+              "over": 0,
+              "under": 0
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 0,
+          "draws": 0,
+          "loses": 0
+        },
+        "wins": {
+          "home": null,
+          "away": null
+        },
+        "loses": {
+          "home": null,
+          "away": null
+        },
+        "goals": {
+          "for": {
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "failed_to_score": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "penalty": {
+        "scored": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 0
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1584830,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-11T15:30:00+00:00",
+          "timestamp": 1783783800,
+          "periods": {
+            "first": 1783783800,
+            "second": 1783787400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1416,
+            "name": "Lokomotiv Sofia",
+            "logo": "https://media.api-sports.io/football/teams/1416.png",
+            "winner": null
+          },
+          "away": {
+            "id": 3320,
+            "name": "Teuta Durrës",
+            "logo": "https://media.api-sports.io/football/teams/3320.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1567535,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-04T15:00:00+00:00",
+          "timestamp": 1783177200,
+          "periods": {
+            "first": 1783177200,
+            "second": 1783180800
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1416,
+            "name": "Lokomotiv Sofia",
+            "logo": "https://media.api-sports.io/football/teams/1416.png",
+            "winner": null
+          },
+          "away": {
+            "id": 14393,
+            "name": "Dukagjini",
+            "logo": "https://media.api-sports.io/football/teams/14393.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1562851,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-01T12:00:00+00:00",
+          "timestamp": 1782907200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Cancelled",
+            "short": "CANC",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1416,
+            "name": "Lokomotiv Sofia",
+            "logo": "https://media.api-sports.io/football/teams/1416.png",
+            "winner": null
+          },
+          "away": {
+            "id": 2581,
+            "name": "FC Botosani",
+            "logo": "https://media.api-sports.io/football/teams/2581.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1567448,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-06-26T15:00:00+00:00",
+          "timestamp": 1782486000,
+          "periods": {
+            "first": 1782486000,
+            "second": 1782489600
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendly",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 1416,
+            "name": "Lokomotiv Sofia",
+            "logo": "https://media.api-sports.io/football/teams/1416.png",
+            "winner": true
+          },
+          "away": {
+            "id": 14281,
+            "name": "Drita",
+            "logo": "https://media.api-sports.io/football/teams/14281.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1541012,
+          "referee": "V. Mitrev",
+          "timezone": "UTC",
+          "date": "2026-05-22T15:00:00+00:00",
+          "timestamp": 1779462000,
+          "periods": {
+            "first": 1779462000,
+            "second": 1779465600
+          },
+          "venue": {
+            "id": 3512,
+            "name": "Stadion Spartak",
+            "city": "Varna"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 172,
+          "name": "First League",
+          "country": "Bulgaria",
+          "logo": "https://media.api-sports.io/football/leagues/172.png",
+          "flag": "https://media.api-sports.io/flags/bg.svg",
+          "season": 2025,
+          "round": "Relegation Group - 37",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 4660,
+            "name": "Spartak Varna",
+            "logo": "https://media.api-sports.io/football/teams/4660.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1416,
+            "name": "Lokomotiv Sofia",
+            "logo": "https://media.api-sports.io/football/teams/1416.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1541007,
+          "referee": "V. Zhelezov",
+          "timezone": "UTC",
+          "date": "2026-05-18T16:30:00+00:00",
+          "timestamp": 1779121800,
+          "periods": {
+            "first": 1779121800,
+            "second": 1779125400
+          },
+          "venue": {
+            "id": 1883,
+            "name": "Stadion Lokomotiv",
+            "city": "Sofia"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 172,
+          "name": "First League",
+          "country": "Bulgaria",
+          "logo": "https://media.api-sports.io/football/leagues/172.png",
+          "flag": "https://media.api-sports.io/flags/bg.svg",
+          "season": 2025,
+          "round": "Relegation Group - 36",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1416,
+            "name": "Lokomotiv Sofia",
+            "logo": "https://media.api-sports.io/football/teams/1416.png",
+            "winner": true
+          },
+          "away": {
+            "id": 854,
+            "name": "Slavia Sofia",
+            "logo": "https://media.api-sports.io/football/teams/854.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1541002,
+          "referee": "V. Chinkov",
+          "timezone": "UTC",
+          "date": "2026-05-14T17:15:00+00:00",
+          "timestamp": 1778778900,
+          "periods": {
+            "first": 1778778900,
+            "second": 1778782500
+          },
+          "venue": {
+            "id": 1883,
+            "name": "Stadion Lokomotiv",
+            "city": "Sofia"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 172,
+          "name": "First League",
+          "country": "Bulgaria",
+          "logo": "https://media.api-sports.io/football/leagues/172.png",
+          "flag": "https://media.api-sports.io/flags/bg.svg",
+          "season": 2025,
+          "round": "Relegation Group - 35",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1416,
+            "name": "Lokomotiv Sofia",
+            "logo": "https://media.api-sports.io/football/teams/1416.png",
+            "winner": null
+          },
+          "away": {
+            "id": 857,
+            "name": "Beroe",
+            "logo": "https://media.api-sports.io/football/teams/857.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1540999,
+          "referee": "S. Trenchev",
+          "timezone": "UTC",
+          "date": "2026-05-09T10:45:00+00:00",
+          "timestamp": 1778323500,
+          "periods": {
+            "first": 1778323500,
+            "second": 1778327100
+          },
+          "venue": {
+            "id": null,
+            "name": "Ogosta Stadium",
+            "city": "Montana"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 172,
+          "name": "First League",
+          "country": "Bulgaria",
+          "logo": "https://media.api-sports.io/football/leagues/172.png",
+          "flag": "https://media.api-sports.io/flags/bg.svg",
+          "season": 2025,
+          "round": "Relegation Group - 34",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1424,
+            "name": "Montana",
+            "logo": "https://media.api-sports.io/football/teams/1424.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1416,
+            "name": "Lokomotiv Sofia",
+            "logo": "https://media.api-sports.io/football/teams/1416.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1540994,
+          "referee": "A. Antov",
+          "timezone": "UTC",
+          "date": "2026-05-05T17:00:00+00:00",
+          "timestamp": 1778000400,
+          "periods": {
+            "first": 1778000400,
+            "second": 1778004000
+          },
+          "venue": {
+            "id": 1883,
+            "name": "Stadion Lokomotiv",
+            "city": "Sofia"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 172,
+          "name": "First League",
+          "country": "Bulgaria",
+          "logo": "https://media.api-sports.io/football/leagues/172.png",
+          "flag": "https://media.api-sports.io/flags/bg.svg",
+          "season": 2025,
+          "round": "Relegation Group - 33",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1416,
+            "name": "Lokomotiv Sofia",
+            "logo": "https://media.api-sports.io/football/teams/1416.png",
+            "winner": null
+          },
+          "away": {
+            "id": 859,
+            "name": "Botev Vratsa",
+            "logo": "https://media.api-sports.io/football/teams/859.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1540991,
+          "referee": "G. Stoyanov",
+          "timezone": "UTC",
+          "date": "2026-05-01T17:00:00+00:00",
+          "timestamp": 1777654800,
+          "periods": {
+            "first": 1777654800,
+            "second": 1777658400
+          },
+          "venue": {
+            "id": 289,
+            "name": "Druzhba",
+            "city": "Dobrich"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 172,
+          "name": "First League",
+          "country": "Bulgaria",
+          "logo": "https://media.api-sports.io/football/leagues/172.png",
+          "flag": "https://media.api-sports.io/flags/bg.svg",
+          "season": 2025,
+          "round": "Relegation Group - 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1427,
+            "name": "Dobrudzha",
+            "logo": "https://media.api-sports.io/football/teams/1427.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1416,
+            "name": "Lokomotiv Sofia",
+            "logo": "https://media.api-sports.io/football/teams/1416.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 3
           },
           "extratime": {
             "home": null,
