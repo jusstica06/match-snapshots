@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T02:29:16.971Z",
+  "generatedAt": "2026-07-22T02:27:30.371Z",
   "totalTeams": 132,
   "totalLeagues": 5,
   "teamsWithFallback": 118,
@@ -968,9 +968,27 @@
       "leagueId": 848,
       "leagueName": "UEFA Europa Conference League",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
+        "topScorer": {
+          "id": 43038,
+          "name": "F. Tănase",
+          "photo": "https://media.api-sports.io/football/players/43038.png",
+          "goals": 1,
+          "appearances": 1
+        },
+        "topAssist": {
+          "id": 271915,
+          "name": "Octavian Popescu",
+          "photo": "https://media.api-sports.io/football/players/271915.png",
+          "assists": 1,
+          "appearances": 1
+        },
+        "mostCards": {
+          "id": 271915,
+          "name": "Octavian Popescu",
+          "photo": "https://media.api-sports.io/football/players/271915.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
@@ -1569,14 +1587,14 @@
           "name": "T. Hytönen",
           "photo": "https://media.api-sports.io/football/players/264539.png",
           "goals": 4,
-          "appearances": 15
+          "appearances": 16
         },
         "topAssist": {
           "id": 327913,
           "name": "J. Kilo",
           "photo": "https://media.api-sports.io/football/players/327913.png",
           "assists": 5,
-          "appearances": 15
+          "appearances": 16
         },
         "mostCards": {
           "id": 55310,
