@@ -185,15 +185,15 @@
     ],
     "coverage": {
       "standings": false,
-      "players": false,
-      "topScorers": false,
+      "players": true,
+      "topScorers": true,
       "predictions": true,
       "odds": true,
       "fixtures": {
         "events": true,
         "lineups": true,
-        "statistics_fixtures": false,
-        "statistics_players": false
+        "statistics_fixtures": true,
+        "statistics_players": true
       }
     }
   }

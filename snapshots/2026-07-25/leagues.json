@@ -1,4 +1,86 @@
 {
+  "71": {
+    "id": 71,
+    "name": "Serie A",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/71.png",
+    "country": {
+      "name": "Brazil",
+      "code": "BR",
+      "flag": "https://media.api-sports.io/flags/br.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "103": {
+    "id": 103,
+    "name": "Eliteserien",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/103.png",
+    "country": {
+      "name": "Norway",
+      "code": "NO",
+      "flag": "https://media.api-sports.io/flags/no.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
   "106": {
     "id": 106,
     "name": "Ekstraklasa",
@@ -234,6 +316,44 @@
       }
     }
   },
+  "169": {
+    "id": 169,
+    "name": "Super League",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/169.png",
+    "country": {
+      "name": "China",
+      "code": "CN",
+      "flag": "https://media.api-sports.io/flags/cn.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
   "172": {
     "id": 172,
     "name": "First League",
@@ -270,11 +390,11 @@
       }
     }
   },
-  "208": {
-    "id": 208,
-    "name": "Challenge League",
+  "207": {
+    "id": 207,
+    "name": "Super League",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/208.png",
+    "logo": "https://media.api-sports.io/football/leagues/207.png",
     "country": {
       "name": "Switzerland",
       "code": "CH",
@@ -388,6 +508,48 @@
       }
     }
   },
+  "253": {
+    "id": 253,
+    "name": "Major League Soccer",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/253.png",
+    "country": {
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
   "283": {
     "id": 283,
     "name": "Liga I",
@@ -423,6 +585,80 @@
         "lineups": true,
         "statistics_fixtures": true,
         "statistics_players": true
+      }
+    }
+  },
+  "292": {
+    "id": 292,
+    "name": "K League 1",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/292.png",
+    "country": {
+      "name": "South-Korea",
+      "code": "KR",
+      "flag": "https://media.api-sports.io/flags/kr.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "345": {
+    "id": 345,
+    "name": "Czech Liga",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/345.png",
+    "country": {
+      "name": "Czech-Republic",
+      "code": "CZ",
+      "flag": "https://media.api-sports.io/flags/cz.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": false,
+      "topScorers": false,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": false,
+        "lineups": false,
+        "statistics_fixtures": false,
+        "statistics_players": false
       }
     }
   }
