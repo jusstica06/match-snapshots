@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T04:53:34.133Z",
+  "generatedAt": "2026-07-26T05:04:02.025Z",
   "totalTeams": 20,
   "totalLeagues": 8,
   "teamsWithFallback": 18,
@@ -346,12 +346,46 @@
       "leagueId": 283,
       "leagueName": "Liga I",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
+        "topScorer": {
+          "id": 30697,
+          "name": "A. Cordea",
+          "photo": "https://media.api-sports.io/football/players/30697.png",
+          "goals": 1,
+          "appearances": 1
+        },
+        "topAssist": {
+          "id": 322147,
+          "name": "A. Sfait",
+          "photo": "https://media.api-sports.io/football/players/322147.png",
+          "assists": 1,
+          "appearances": 1
+        },
+        "mostCards": {
+          "id": 43002,
+          "name": "D. Đoković",
+          "photo": "https://media.api-sports.io/football/players/43002.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
-      "topScorers": [],
-      "topAssists": []
+      "topScorers": [
+        {
+          "id": 30697,
+          "name": "A. Cordea",
+          "photo": "https://media.api-sports.io/football/players/30697.png",
+          "goals": 1,
+          "appearances": 1
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 322147,
+          "name": "A. Sfait",
+          "photo": "https://media.api-sports.io/football/players/322147.png",
+          "assists": 1,
+          "appearances": 1
+        }
+      ]
     },
     "2578": {
       "teamId": 2578,
@@ -432,20 +466,6 @@
           "photo": "https://media.api-sports.io/football/players/42660.png",
           "goals": 1,
           "appearances": 1
-        },
-        {
-          "id": 43217,
-          "name": "E. Papa",
-          "photo": "https://media.api-sports.io/football/players/43217.png",
-          "goals": 0,
-          "appearances": 1
-        },
-        {
-          "id": 43170,
-          "name": "S. Mailat",
-          "photo": "https://media.api-sports.io/football/players/43170.png",
-          "goals": 0,
-          "appearances": 1
         }
       ],
       "topAssists": [
@@ -461,20 +481,6 @@
           "name": "S. Mailat",
           "photo": "https://media.api-sports.io/football/players/43170.png",
           "assists": 1,
-          "appearances": 1
-        },
-        {
-          "id": 324272,
-          "name": "Z. Mitrov",
-          "photo": "https://media.api-sports.io/football/players/324272.png",
-          "assists": 0,
-          "appearances": 1
-        },
-        {
-          "id": 42660,
-          "name": "A. Dumiter",
-          "photo": "https://media.api-sports.io/football/players/42660.png",
-          "assists": 0,
           "appearances": 1
         }
       ]
@@ -514,11 +520,31 @@
       "leagueId": 283,
       "leagueName": "Liga I",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 134454,
+          "name": "A. Pașcanu",
+          "photo": "https://media.api-sports.io/football/players/134454.png",
+          "goals": 1,
+          "appearances": 1
+        },
         "topAssist": null,
-        "mostCards": null
+        "mostCards": {
+          "id": 154743,
+          "name": "B. Burmaz",
+          "photo": "https://media.api-sports.io/football/players/154743.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
-      "topScorers": [],
+      "topScorers": [
+        {
+          "id": 134454,
+          "name": "A. Pașcanu",
+          "photo": "https://media.api-sports.io/football/players/134454.png",
+          "goals": 1,
+          "appearances": 1
+        }
+      ],
       "topAssists": []
     }
   }
