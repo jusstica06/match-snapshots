@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-08-01T05:03:29.509Z",
+  "generatedAt": "2026-08-02T02:23:45.180Z",
   "totalFixtures": 60,
   "uniquePairs": 60,
   "data": {
     "1490369": {
       "matches": [
+        {
+          "fixtureId": 1490369,
+          "date": "2026-08-02T00:30:00+00:00",
+          "venue": "Soldier Field",
+          "leagueName": "Major League Soccer",
+          "homeTeamId": 1607,
+          "homeTeam": "Chicago Fire",
+          "homeWinner": true,
+          "awayTeamId": 18310,
+          "awayTeam": "Charlotte",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
         {
           "fixtureId": 1326502,
           "date": "2025-06-29T00:30:00+00:00",
@@ -119,16 +133,30 @@
         }
       ],
       "summary": {
-        "total": 8,
-        "homeWins": 3,
+        "total": 9,
+        "homeWins": 4,
         "awayWins": 5,
         "draws": 0,
-        "homeGoals": 16,
-        "awayGoals": 17
+        "homeGoals": 18,
+        "awayGoals": 18
       }
     },
     "1490370": {
       "matches": [
+        {
+          "fixtureId": 1490370,
+          "date": "2026-08-02T00:30:00+00:00",
+          "venue": "Allianz Field",
+          "leagueName": "Major League Soccer",
+          "homeTeamId": 1612,
+          "homeTeam": "Minnesota United FC",
+          "homeWinner": null,
+          "awayTeamId": 25484,
+          "awayTeam": "San Diego",
+          "awayWinner": null,
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
         {
           "fixtureId": 1490207,
           "date": "2026-04-12T02:30:00+00:00",
@@ -187,12 +215,12 @@
         }
       ],
       "summary": {
-        "total": 4,
+        "total": 5,
         "homeWins": 2,
         "awayWins": 2,
-        "draws": 0,
-        "homeGoals": 7,
-        "awayGoals": 7
+        "draws": 1,
+        "homeGoals": 8,
+        "awayGoals": 8
       }
     },
     "1490371": {
@@ -350,6 +378,20 @@
     "1490372": {
       "matches": [
         {
+          "fixtureId": 1490372,
+          "date": "2026-08-02T00:30:00+00:00",
+          "venue": "Energizer Park",
+          "leagueName": "Major League Soccer",
+          "homeTeamId": 20787,
+          "homeTeam": "St. Louis City",
+          "homeWinner": null,
+          "awayTeamId": 1606,
+          "awayTeam": "Real Salt Lake",
+          "awayWinner": null,
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
           "fixtureId": 1326707,
           "date": "2025-10-19T01:00:00+00:00",
           "venue": "Energizer Park",
@@ -449,12 +491,12 @@
         }
       ],
       "summary": {
-        "total": 7,
+        "total": 8,
         "homeWins": 1,
         "awayWins": 3,
-        "draws": 3,
-        "homeGoals": 12,
-        "awayGoals": 13
+        "draws": 4,
+        "homeGoals": 13,
+        "awayGoals": 14
       }
     },
     "1490373": {
@@ -1218,14 +1260,155 @@
       }
     },
     "1493041": {
-      "matches": [],
+      "matches": [
+        {
+          "fixtureId": 1491852,
+          "date": "2026-02-01T22:15:00+00:00",
+          "venue": "Alberto Jose Armando",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 451,
+          "homeTeam": "Boca Juniors",
+          "homeWinner": true,
+          "awayTeamId": 457,
+          "awayTeam": "Newells Old Boys",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1374214,
+          "date": "2025-10-05T22:00:00+00:00",
+          "venue": "Estadio Alberto J. Armando",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 451,
+          "homeTeam": "Boca Juniors",
+          "homeWinner": true,
+          "awayTeamId": 457,
+          "awayTeam": "Newells Old Boys",
+          "awayWinner": false,
+          "homeGoals": 5,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1334428,
+          "date": "2025-03-30T22:30:00+00:00",
+          "venue": "Estadio Marcelo Bielsa",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 457,
+          "homeTeam": "Newells Old Boys",
+          "homeWinner": true,
+          "awayTeamId": 451,
+          "awayTeam": "Boca Juniors",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1159022,
+          "date": "2024-12-09T00:00:00+00:00",
+          "venue": "Estadio Marcelo Alberto Bielsa",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 457,
+          "homeTeam": "Newells Old Boys",
+          "homeWinner": false,
+          "awayTeamId": 451,
+          "awayTeam": "Boca Juniors",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1158641,
+          "date": "2024-04-06T20:00:00+00:00",
+          "venue": "Estadio Marcelo Alberto Bielsa",
+          "leagueName": "Copa de la Liga Profesional",
+          "homeTeamId": 457,
+          "homeTeam": "Newells Old Boys",
+          "homeWinner": false,
+          "awayTeamId": 451,
+          "awayTeam": "Boca Juniors",
+          "awayWinner": true,
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "fixtureId": 971333,
+          "date": "2023-11-12T19:45:00+00:00",
+          "venue": "Estadio Alberto José Armando",
+          "leagueName": "Copa de la Liga Profesional",
+          "homeTeamId": 451,
+          "homeTeam": "Boca Juniors",
+          "homeWinner": true,
+          "awayTeamId": 457,
+          "awayTeam": "Newells Old Boys",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 971661,
+          "date": "2023-07-24T23:45:00+00:00",
+          "venue": "Estadio Alberto José Armando",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 451,
+          "homeTeam": "Boca Juniors",
+          "homeWinner": true,
+          "awayTeamId": 457,
+          "awayTeam": "Newells Old Boys",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 863530,
+          "date": "2022-10-16T18:30:00+00:00",
+          "venue": "Estadio Marcelo Alberto Bielsa",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 457,
+          "homeTeam": "Newells Old Boys",
+          "homeWinner": true,
+          "awayTeamId": 451,
+          "awayTeam": "Boca Juniors",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 720477,
+          "date": "2021-11-30T22:15:00+00:00",
+          "venue": "Estadio Alberto José Armando",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 451,
+          "homeTeam": "Boca Juniors",
+          "homeWinner": null,
+          "awayTeamId": 457,
+          "awayTeam": "Newells Old Boys",
+          "awayWinner": null,
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 674039,
+          "date": "2021-02-22T00:30:00+00:00",
+          "venue": "Estadio Marcelo Alberto Bielsa",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 457,
+          "homeTeam": "Newells Old Boys",
+          "homeWinner": false,
+          "awayTeamId": 451,
+          "awayTeam": "Boca Juniors",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        }
+      ],
       "summary": {
-        "total": 0,
-        "homeWins": 0,
-        "awayWins": 0,
-        "draws": 0,
-        "homeGoals": 0,
-        "awayGoals": 0
+        "total": 10,
+        "homeWins": 2,
+        "awayWins": 7,
+        "draws": 1,
+        "homeGoals": 6,
+        "awayGoals": 15
       }
     },
     "1493044": {
@@ -1381,42 +1564,13 @@
       }
     },
     "1494225": {
-      "matches": [
-        {
-          "fixtureId": 815879,
-          "date": "2022-02-19T14:15:00+00:00",
-          "venue": "Skytteholms IP",
-          "leagueName": "Svenska Cupen",
-          "homeTeamId": 377,
-          "homeTeam": "AIK Stockholm",
-          "homeWinner": true,
-          "awayTeamId": 2166,
-          "awayTeam": "Orgryte IS",
-          "awayWinner": false,
-          "homeGoals": 2,
-          "awayGoals": 0
-        },
-        {
-          "fixtureId": 291955,
-          "date": "2020-03-01T13:30:00+00:00",
-          "venue": "Bravida Arena",
-          "leagueName": "Svenska Cupen",
-          "homeTeamId": 2166,
-          "homeTeam": "Orgryte IS",
-          "homeWinner": false,
-          "awayTeamId": 377,
-          "awayTeam": "AIK Stockholm",
-          "awayWinner": true,
-          "homeGoals": 0,
-          "awayGoals": 1
-        }
-      ],
+      "matches": [],
       "summary": {
-        "total": 2,
-        "homeWins": 2,
+        "total": 0,
+        "homeWins": 0,
         "awayWins": 0,
         "draws": 0,
-        "homeGoals": 3,
+        "homeGoals": 0,
         "awayGoals": 0
       }
     },
@@ -2761,155 +2915,14 @@
       }
     },
     "1507020": {
-      "matches": [
-        {
-          "fixtureId": 1506952,
-          "date": "2026-04-25T07:30:00+00:00",
-          "venue": "Sungui Arena Park",
-          "leagueName": "K League 1",
-          "homeTeamId": 2763,
-          "homeTeam": "Incheon United",
-          "homeWinner": true,
-          "awayTeamId": 2761,
-          "awayTeam": "Jeju United FC",
-          "awayWinner": false,
-          "homeGoals": 1,
-          "awayGoals": 0
-        },
-        {
-          "fixtureId": 1311086,
-          "date": "2024-10-19T07:30:00+00:00",
-          "venue": "Sungui Arena Park",
-          "leagueName": "K League 1",
-          "homeTeamId": 2763,
-          "homeTeam": "Incheon United",
-          "homeWinner": false,
-          "awayTeamId": 2761,
-          "awayTeam": "Jeju United FC",
-          "awayWinner": true,
-          "homeGoals": 1,
-          "awayGoals": 2
-        },
-        {
-          "fixtureId": 1163055,
-          "date": "2024-08-10T10:30:00+00:00",
-          "venue": "Jeju World Cup Stadium",
-          "leagueName": "K League 1",
-          "homeTeamId": 2761,
-          "homeTeam": "Jeju United FC",
-          "homeWinner": false,
-          "awayTeamId": 2763,
-          "awayTeam": "Incheon United",
-          "awayWinner": true,
-          "homeGoals": 0,
-          "awayGoals": 1
-        },
-        {
-          "fixtureId": 1163015,
-          "date": "2024-06-26T10:30:00+00:00",
-          "venue": "Jeju World Cup Stadium",
-          "leagueName": "K League 1",
-          "homeTeamId": 2761,
-          "homeTeam": "Jeju United FC",
-          "homeWinner": true,
-          "awayTeamId": 2763,
-          "awayTeam": "Incheon United",
-          "awayWinner": false,
-          "homeGoals": 1,
-          "awayGoals": 0
-        },
-        {
-          "fixtureId": 1162933,
-          "date": "2024-04-06T07:30:00+00:00",
-          "venue": "Sungui Arena Park",
-          "leagueName": "K League 1",
-          "homeTeamId": 2763,
-          "homeTeam": "Incheon United",
-          "homeWinner": false,
-          "awayTeamId": 2761,
-          "awayTeam": "Jeju United FC",
-          "awayWinner": true,
-          "homeGoals": 0,
-          "awayGoals": 1
-        },
-        {
-          "fixtureId": 1002882,
-          "date": "2023-09-16T05:00:00+00:00",
-          "venue": "Sungui Arena Park",
-          "leagueName": "K League 1",
-          "homeTeamId": 2763,
-          "homeTeam": "Incheon United",
-          "homeWinner": true,
-          "awayTeamId": 2761,
-          "awayTeam": "Jeju United FC",
-          "awayWinner": false,
-          "homeGoals": 2,
-          "awayGoals": 1
-        },
-        {
-          "fixtureId": 1002776,
-          "date": "2023-05-10T10:30:00+00:00",
-          "venue": "Jeju World Cup Stadium",
-          "leagueName": "K League 1",
-          "homeTeamId": 2761,
-          "homeTeam": "Jeju United FC",
-          "homeWinner": true,
-          "awayTeamId": 2763,
-          "awayTeam": "Incheon United",
-          "awayWinner": false,
-          "homeGoals": 2,
-          "awayGoals": 0
-        },
-        {
-          "fixtureId": 1002724,
-          "date": "2023-03-12T07:30:00+00:00",
-          "venue": "Sungui Arena Park",
-          "leagueName": "K League 1",
-          "homeTeamId": 2763,
-          "homeTeam": "Incheon United",
-          "homeWinner": true,
-          "awayTeamId": 2761,
-          "awayTeam": "Jeju United FC",
-          "awayWinner": false,
-          "homeGoals": 1,
-          "awayGoals": 0
-        },
-        {
-          "fixtureId": 962342,
-          "date": "2022-10-11T10:30:00+00:00",
-          "venue": "Sungui Arena Park",
-          "leagueName": "K League 1",
-          "homeTeamId": 2763,
-          "homeTeam": "Incheon United",
-          "homeWinner": true,
-          "awayTeamId": 2761,
-          "awayTeam": "Jeju United FC",
-          "awayWinner": false,
-          "homeGoals": 3,
-          "awayGoals": 1
-        },
-        {
-          "fixtureId": 828367,
-          "date": "2022-09-06T10:00:00+00:00",
-          "venue": "Jeju World Cup Stadium",
-          "leagueName": "K League 1",
-          "homeTeamId": 2761,
-          "homeTeam": "Jeju United FC",
-          "homeWinner": false,
-          "awayTeamId": 2763,
-          "awayTeam": "Incheon United",
-          "awayWinner": true,
-          "homeGoals": 0,
-          "awayGoals": 1
-        }
-      ],
+      "matches": [],
       "summary": {
-        "total": 10,
-        "homeWins": 4,
-        "awayWins": 6,
+        "total": 0,
+        "homeWins": 0,
+        "awayWins": 0,
         "draws": 0,
-        "homeGoals": 8,
-        "awayGoals": 10
+        "homeGoals": 0,
+        "awayGoals": 0
       }
     },
     "1507021": {
@@ -3613,14 +3626,155 @@
       }
     },
     "1548982": {
-      "matches": [],
+      "matches": [
+        {
+          "fixtureId": 1379417,
+          "date": "2025-10-19T12:00:00+00:00",
+          "venue": "Right to Dream Park",
+          "leagueName": "Superliga",
+          "homeTeamId": 398,
+          "homeTeam": "FC Nordsjaelland",
+          "homeWinner": true,
+          "awayTeamId": 401,
+          "awayTeam": "Randers FC",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1379401,
+          "date": "2025-09-22T17:00:00+00:00",
+          "venue": "Cepheus Park",
+          "leagueName": "Superliga",
+          "homeTeamId": 401,
+          "homeTeam": "Randers FC",
+          "homeWinner": true,
+          "awayTeamId": 398,
+          "awayTeam": "FC Nordsjaelland",
+          "awayWinner": false,
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1362780,
+          "date": "2025-05-02T17:00:00+00:00",
+          "venue": "Cepheus Park Randers",
+          "leagueName": "Superliga",
+          "homeTeamId": 401,
+          "homeTeam": "Randers FC",
+          "homeWinner": true,
+          "awayTeamId": 398,
+          "awayTeam": "FC Nordsjaelland",
+          "awayWinner": false,
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 1362770,
+          "date": "2025-04-13T16:00:00+00:00",
+          "venue": "Right to Dream Park",
+          "leagueName": "Superliga",
+          "homeTeamId": 398,
+          "homeTeam": "FC Nordsjaelland",
+          "homeWinner": true,
+          "awayTeamId": 401,
+          "awayTeam": "Randers FC",
+          "awayWinner": false,
+          "homeGoals": 5,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 1205498,
+          "date": "2024-10-28T18:00:00+00:00",
+          "venue": "Cepheus Park Randers",
+          "leagueName": "Superliga",
+          "homeTeamId": 401,
+          "homeTeam": "Randers FC",
+          "homeWinner": true,
+          "awayTeamId": 398,
+          "awayTeam": "FC Nordsjaelland",
+          "awayWinner": false,
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1205468,
+          "date": "2024-09-16T17:00:00+00:00",
+          "venue": "Right to Dream Park",
+          "leagueName": "Superliga",
+          "homeTeamId": 398,
+          "homeTeam": "FC Nordsjaelland",
+          "homeWinner": null,
+          "awayTeamId": 401,
+          "awayTeam": "Randers FC",
+          "awayWinner": null,
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1220081,
+          "date": "2024-06-29T12:00:00+00:00",
+          "venue": null,
+          "leagueName": "Friendlies Clubs",
+          "homeTeamId": 401,
+          "homeTeam": "Randers FC",
+          "homeWinner": false,
+          "awayTeamId": 398,
+          "awayTeam": "FC Nordsjaelland",
+          "awayWinner": true,
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "fixtureId": 1035008,
+          "date": "2024-03-17T16:00:00+00:00",
+          "venue": "Right to Dream Park",
+          "leagueName": "Superliga",
+          "homeTeamId": 398,
+          "homeTeam": "FC Nordsjaelland",
+          "homeWinner": null,
+          "awayTeamId": 401,
+          "awayTeam": "Randers FC",
+          "awayWinner": null,
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1034897,
+          "date": "2023-08-13T12:00:00+00:00",
+          "venue": "Cepheus Park Randers",
+          "leagueName": "Superliga",
+          "homeTeamId": 401,
+          "homeTeam": "Randers FC",
+          "homeWinner": false,
+          "awayTeamId": 398,
+          "awayTeam": "FC Nordsjaelland",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 5
+        },
+        {
+          "fixtureId": 1017261,
+          "date": "2023-05-22T17:00:00+00:00",
+          "venue": "Right to Dream Park",
+          "leagueName": "Superliga",
+          "homeTeamId": 398,
+          "homeTeam": "FC Nordsjaelland",
+          "homeWinner": true,
+          "awayTeamId": 401,
+          "awayTeam": "Randers FC",
+          "awayWinner": false,
+          "homeGoals": 3,
+          "awayGoals": 1
+        }
+      ],
       "summary": {
-        "total": 0,
-        "homeWins": 0,
-        "awayWins": 0,
-        "draws": 0,
-        "homeGoals": 0,
-        "awayGoals": 0
+        "total": 10,
+        "homeWins": 5,
+        "awayWins": 3,
+        "draws": 2,
+        "homeGoals": 21,
+        "awayGoals": 17
       }
     },
     "1548983": {
@@ -5551,99 +5705,14 @@
       }
     },
     "1558166": {
-      "matches": [
-        {
-          "fixtureId": 574505,
-          "date": "2021-03-15T17:00:00+00:00",
-          "venue": "Stadion MOSiR",
-          "leagueName": "Ekstraklasa",
-          "homeTeamId": 3493,
-          "homeTeam": "Stal Mielec",
-          "homeWinner": true,
-          "awayTeamId": 3489,
-          "awayTeam": "Podbeskidzie",
-          "awayWinner": false,
-          "homeGoals": 2,
-          "awayGoals": 1
-        },
-        {
-          "fixtureId": 574380,
-          "date": "2020-10-03T13:00:00+00:00",
-          "venue": "Stadion Miejski",
-          "leagueName": "Ekstraklasa",
-          "homeTeamId": 3489,
-          "homeTeam": "Podbeskidzie",
-          "homeWinner": true,
-          "awayTeamId": 3493,
-          "awayTeam": "Stal Mielec",
-          "awayWinner": false,
-          "homeGoals": 1,
-          "awayGoals": 0
-        },
-        {
-          "fixtureId": 165220,
-          "date": "2019-11-30T11:40:00+00:00",
-          "venue": "Stadion MOSiR",
-          "leagueName": "I Liga",
-          "homeTeamId": 3493,
-          "homeTeam": "Stal Mielec",
-          "homeWinner": true,
-          "awayTeamId": 3489,
-          "awayTeam": "Podbeskidzie",
-          "awayWinner": false,
-          "homeGoals": 2,
-          "awayGoals": 1
-        },
-        {
-          "fixtureId": 165067,
-          "date": "2019-08-11T15:45:00+00:00",
-          "venue": "Stadion Miejski",
-          "leagueName": "I Liga",
-          "homeTeamId": 3489,
-          "homeTeam": "Podbeskidzie",
-          "homeWinner": true,
-          "awayTeamId": 3493,
-          "awayTeam": "Stal Mielec",
-          "awayWinner": false,
-          "homeGoals": 4,
-          "awayGoals": 1
-        },
-        {
-          "fixtureId": 124613,
-          "date": "2019-03-02T12:45:00+00:00",
-          "venue": "Stadion Miejski (Bielsko-Biała)",
-          "leagueName": "I Liga",
-          "homeTeamId": 3489,
-          "homeTeam": "Podbeskidzie",
-          "homeWinner": false,
-          "awayTeamId": 3493,
-          "awayTeam": "Stal Mielec",
-          "awayWinner": true,
-          "homeGoals": 0,
-          "awayGoals": 2
-        },
-        {
-          "fixtureId": 124463,
-          "date": "2018-08-17T18:30:00+00:00",
-          "venue": "Stadion MOSiR (Mielec)",
-          "leagueName": "I Liga",
-          "homeTeamId": 3493,
-          "homeTeam": "Stal Mielec",
-          "homeWinner": false,
-          "awayTeamId": 3489,
-          "awayTeam": "Podbeskidzie",
-          "awayWinner": true,
-          "homeGoals": 0,
-          "awayGoals": 1
-        }
-      ],
+      "matches": [],
       "summary": {
-        "total": 6,
-        "homeWins": 3,
-        "awayWins": 3,
+        "total": 0,
+        "homeWins": 0,
+        "awayWins": 0,
         "draws": 0,
-        "homeGoals": 7,
-        "awayGoals": 8
+        "homeGoals": 0,
+        "awayGoals": 0
       }
     },
     "1559969": {
@@ -6655,14 +6724,155 @@
       }
     },
     "1561898": {
-      "matches": [],
+      "matches": [
+        {
+          "fixtureId": 1390119,
+          "date": "2025-12-07T13:30:00+00:00",
+          "venue": "Lavanttal-Arena",
+          "leagueName": "Bundesliga",
+          "homeTeamId": 1025,
+          "homeTeam": "Wolfsberger AC",
+          "homeWinner": true,
+          "awayTeamId": 601,
+          "awayTeam": "Austria Vienna",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1390035,
+          "date": "2025-08-10T15:00:00+00:00",
+          "venue": "Generali Arena",
+          "leagueName": "Bundesliga",
+          "homeTeamId": 601,
+          "homeTeam": "Austria Vienna",
+          "homeWinner": false,
+          "awayTeamId": 1025,
+          "awayTeam": "Wolfsberger AC",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 1361692,
+          "date": "2025-05-18T15:00:00+00:00",
+          "venue": "Lavanttal Arena",
+          "leagueName": "Bundesliga",
+          "homeTeamId": 1025,
+          "homeTeam": "Wolfsberger AC",
+          "homeWinner": false,
+          "awayTeamId": 601,
+          "awayTeam": "Austria Vienna",
+          "awayWinner": true,
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 1361673,
+          "date": "2025-04-06T15:00:00+00:00",
+          "venue": "Generali Arena",
+          "leagueName": "Bundesliga",
+          "homeTeamId": 601,
+          "homeTeam": "Austria Vienna",
+          "homeWinner": null,
+          "awayTeamId": 1025,
+          "awayTeam": "Wolfsberger AC",
+          "awayWinner": null,
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1218646,
+          "date": "2024-11-09T16:00:00+00:00",
+          "venue": "Lavanttal Arena",
+          "leagueName": "Bundesliga",
+          "homeTeamId": 1025,
+          "homeTeam": "Wolfsberger AC",
+          "homeWinner": false,
+          "awayTeamId": 601,
+          "awayTeam": "Austria Vienna",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1218583,
+          "date": "2024-08-11T15:00:00+00:00",
+          "venue": "Generali Arena",
+          "leagueName": "Bundesliga",
+          "homeTeamId": 601,
+          "homeTeam": "Austria Vienna",
+          "homeWinner": true,
+          "awayTeamId": 1025,
+          "awayTeam": "Wolfsberger AC",
+          "awayWinner": false,
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1200648,
+          "date": "2024-05-21T17:00:00+00:00",
+          "venue": "Lavanttal Arena",
+          "leagueName": "Bundesliga",
+          "homeTeamId": 1025,
+          "homeTeam": "Wolfsberger AC",
+          "homeWinner": false,
+          "awayTeamId": 601,
+          "awayTeam": "Austria Vienna",
+          "awayWinner": true,
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 1183878,
+          "date": "2024-05-11T15:00:00+00:00",
+          "venue": "Generali Arena",
+          "leagueName": "Bundesliga",
+          "homeTeamId": 601,
+          "homeTeam": "Austria Vienna",
+          "homeWinner": false,
+          "awayTeamId": 1025,
+          "awayTeam": "Wolfsberger AC",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 4
+        },
+        {
+          "fixtureId": 1183864,
+          "date": "2024-04-13T15:00:00+00:00",
+          "venue": "Lavanttal Arena",
+          "leagueName": "Bundesliga",
+          "homeTeamId": 1025,
+          "homeTeam": "Wolfsberger AC",
+          "homeWinner": false,
+          "awayTeamId": 601,
+          "awayTeam": "Austria Vienna",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1042966,
+          "date": "2023-11-26T13:30:00+00:00",
+          "venue": "Lavanttal Arena",
+          "leagueName": "Bundesliga",
+          "homeTeamId": 1025,
+          "homeTeam": "Wolfsberger AC",
+          "homeWinner": true,
+          "awayTeamId": 601,
+          "awayTeam": "Austria Vienna",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        }
+      ],
       "summary": {
-        "total": 0,
-        "homeWins": 0,
-        "awayWins": 0,
-        "draws": 0,
-        "homeGoals": 0,
-        "awayGoals": 0
+        "total": 10,
+        "homeWins": 4,
+        "awayWins": 5,
+        "draws": 1,
+        "homeGoals": 12,
+        "awayGoals": 10
       }
     },
     "1561899": {
