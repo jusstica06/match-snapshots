@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-08-03T02:20:20.362Z",
+  "generatedAt": "2026-08-04T02:18:36.054Z",
   "ymd": "2026-08-04",
   "matches": [
+    {
+      "fixtureId": 1598825,
+      "leagueId": 2,
+      "season": 2026,
+      "kickoffTs": 1785866400000,
+      "homeTeamId": 1393,
+      "awayTeamId": 327,
+      "homeTeam": "Union St. Gilloise",
+      "awayTeam": "Bodo/Glimt",
+      "expectedHome": 2.452,
+      "expectedAway": 2.253,
+      "expectedTotal": 4.705,
+      "probOver25": 0.86348,
+      "probOver35": 0.7175199999999999,
+      "probBTTS": 0.83196
+    },
     {
       "fixtureId": 1607167,
       "leagueId": 2,
@@ -33,22 +49,6 @@
       "probOver25": 0.75014,
       "probOver35": 0.55334,
       "probBTTS": 0.73776
-    },
-    {
-      "fixtureId": 1598825,
-      "leagueId": 2,
-      "season": 2026,
-      "kickoffTs": 1785866400000,
-      "homeTeamId": 1393,
-      "awayTeamId": 327,
-      "homeTeam": "Union St. Gilloise",
-      "awayTeam": "Bodo/Glimt",
-      "expectedHome": 1.726,
-      "expectedAway": 2.051,
-      "expectedTotal": 3.777,
-      "probOver25": 0.7495400000000001,
-      "probOver35": 0.55254,
-      "probBTTS": 0.7342800000000002
     },
     {
       "fixtureId": 1605370,
@@ -83,22 +83,6 @@
       "probBTTS": 0.69986
     },
     {
-      "fixtureId": 1607176,
-      "leagueId": 3,
-      "season": 2026,
-      "kickoffTs": 1785870000000,
-      "homeTeamId": 5354,
-      "awayTeamId": 3502,
-      "homeTeam": "Larne",
-      "awayTeam": "Saburtalo",
-      "expectedHome": 1.882,
-      "expectedAway": 1.556,
-      "expectedTotal": 3.438,
-      "probOver25": 0.6918000000000001,
-      "probOver35": 0.48062000000000005,
-      "probBTTS": 0.68804
-    },
-    {
       "fixtureId": 1607168,
       "leagueId": 2,
       "season": 2026,
@@ -113,6 +97,22 @@
       "probOver25": 0.6849000000000001,
       "probOver35": 0.47254000000000007,
       "probBTTS": 0.68396
+    },
+    {
+      "fixtureId": 1607176,
+      "leagueId": 3,
+      "season": 2026,
+      "kickoffTs": 1785870000000,
+      "homeTeamId": 5354,
+      "awayTeamId": 3502,
+      "homeTeam": "Larne",
+      "awayTeam": "Saburtalo",
+      "expectedHome": 1.943,
+      "expectedAway": 1.424,
+      "expectedTotal": 3.367,
+      "probOver25": 0.6784800000000001,
+      "probOver35": 0.46496000000000004,
+      "probBTTS": 0.6698
     },
     {
       "fixtureId": 1607166,
@@ -187,12 +187,12 @@
       "awayTeamId": 455,
       "homeTeam": "Huracan",
       "awayTeam": "Atletico Tucuman",
-      "expectedHome": 1.064,
-      "expectedAway": 0.861,
-      "expectedTotal": 1.925,
-      "probOver25": 0.32576,
-      "probOver35": 0.14579999999999999,
-      "probBTTS": 0.39702000000000004
+      "expectedHome": 0.986,
+      "expectedAway": 0.791,
+      "expectedTotal": 1.777,
+      "probOver25": 0.2843,
+      "probOver35": 0.11888000000000001,
+      "probBTTS": 0.36078
     },
     {
       "fixtureId": 1493034,
@@ -203,15 +203,31 @@
       "awayTeamId": 460,
       "homeTeam": "Central Cordoba de Santiago",
       "awayTeam": "San Lorenzo",
-      "expectedHome": 1.29,
-      "expectedAway": 0.332,
-      "expectedTotal": 1.622,
-      "probOver25": 0.24136000000000002,
-      "probOver35": 0.09334,
-      "probBTTS": 0.21656000000000003
+      "expectedHome": 1.222,
+      "expectedAway": 0.338,
+      "expectedTotal": 1.56,
+      "probOver25": 0.22454000000000002,
+      "probOver35": 0.08388000000000001,
+      "probBTTS": 0.2142
     }
   ],
   "topOver25": [
+    {
+      "fixtureId": 1598825,
+      "leagueId": 2,
+      "season": 2026,
+      "kickoffTs": 1785866400000,
+      "homeTeamId": 1393,
+      "awayTeamId": 327,
+      "homeTeam": "Union St. Gilloise",
+      "awayTeam": "Bodo/Glimt",
+      "expectedHome": 2.452,
+      "expectedAway": 2.253,
+      "expectedTotal": 4.705,
+      "probOver25": 0.86348,
+      "probOver35": 0.7175199999999999,
+      "probBTTS": 0.83196
+    },
     {
       "fixtureId": 1607167,
       "leagueId": 2,
@@ -243,22 +259,6 @@
       "probOver25": 0.75014,
       "probOver35": 0.55334,
       "probBTTS": 0.73776
-    },
-    {
-      "fixtureId": 1598825,
-      "leagueId": 2,
-      "season": 2026,
-      "kickoffTs": 1785866400000,
-      "homeTeamId": 1393,
-      "awayTeamId": 327,
-      "homeTeam": "Union St. Gilloise",
-      "awayTeam": "Bodo/Glimt",
-      "expectedHome": 1.726,
-      "expectedAway": 2.051,
-      "expectedTotal": 3.777,
-      "probOver25": 0.7495400000000001,
-      "probOver35": 0.55254,
-      "probBTTS": 0.7342800000000002
     },
     {
       "fixtureId": 1605370,
@@ -293,22 +293,6 @@
       "probBTTS": 0.69986
     },
     {
-      "fixtureId": 1607176,
-      "leagueId": 3,
-      "season": 2026,
-      "kickoffTs": 1785870000000,
-      "homeTeamId": 5354,
-      "awayTeamId": 3502,
-      "homeTeam": "Larne",
-      "awayTeam": "Saburtalo",
-      "expectedHome": 1.882,
-      "expectedAway": 1.556,
-      "expectedTotal": 3.438,
-      "probOver25": 0.6918000000000001,
-      "probOver35": 0.48062000000000005,
-      "probBTTS": 0.68804
-    },
-    {
       "fixtureId": 1607168,
       "leagueId": 2,
       "season": 2026,
@@ -323,6 +307,22 @@
       "probOver25": 0.6849000000000001,
       "probOver35": 0.47254000000000007,
       "probBTTS": 0.68396
+    },
+    {
+      "fixtureId": 1607176,
+      "leagueId": 3,
+      "season": 2026,
+      "kickoffTs": 1785870000000,
+      "homeTeamId": 5354,
+      "awayTeamId": 3502,
+      "homeTeam": "Larne",
+      "awayTeam": "Saburtalo",
+      "expectedHome": 1.943,
+      "expectedAway": 1.424,
+      "expectedTotal": 3.367,
+      "probOver25": 0.6784800000000001,
+      "probOver35": 0.46496000000000004,
+      "probBTTS": 0.6698
     },
     {
       "fixtureId": 1607166,
@@ -375,6 +375,22 @@
   ],
   "topBTTS": [
     {
+      "fixtureId": 1598825,
+      "leagueId": 2,
+      "season": 2026,
+      "kickoffTs": 1785866400000,
+      "homeTeamId": 1393,
+      "awayTeamId": 327,
+      "homeTeam": "Union St. Gilloise",
+      "awayTeam": "Bodo/Glimt",
+      "expectedHome": 2.452,
+      "expectedAway": 2.253,
+      "expectedTotal": 4.705,
+      "probOver25": 0.86348,
+      "probOver35": 0.7175199999999999,
+      "probBTTS": 0.83196
+    },
+    {
       "fixtureId": 1607167,
       "leagueId": 2,
       "season": 2026,
@@ -405,22 +421,6 @@
       "probOver25": 0.75014,
       "probOver35": 0.55334,
       "probBTTS": 0.73776
-    },
-    {
-      "fixtureId": 1598825,
-      "leagueId": 2,
-      "season": 2026,
-      "kickoffTs": 1785866400000,
-      "homeTeamId": 1393,
-      "awayTeamId": 327,
-      "homeTeam": "Union St. Gilloise",
-      "awayTeam": "Bodo/Glimt",
-      "expectedHome": 1.726,
-      "expectedAway": 2.051,
-      "expectedTotal": 3.777,
-      "probOver25": 0.7495400000000001,
-      "probOver35": 0.55254,
-      "probBTTS": 0.7342800000000002
     },
     {
       "fixtureId": 1607164,
@@ -455,22 +455,6 @@
       "probBTTS": 0.69598
     },
     {
-      "fixtureId": 1607176,
-      "leagueId": 3,
-      "season": 2026,
-      "kickoffTs": 1785870000000,
-      "homeTeamId": 5354,
-      "awayTeamId": 3502,
-      "homeTeam": "Larne",
-      "awayTeam": "Saburtalo",
-      "expectedHome": 1.882,
-      "expectedAway": 1.556,
-      "expectedTotal": 3.438,
-      "probOver25": 0.6918000000000001,
-      "probOver35": 0.48062000000000005,
-      "probBTTS": 0.68804
-    },
-    {
       "fixtureId": 1607168,
       "leagueId": 2,
       "season": 2026,
@@ -485,6 +469,22 @@
       "probOver25": 0.6849000000000001,
       "probOver35": 0.47254000000000007,
       "probBTTS": 0.68396
+    },
+    {
+      "fixtureId": 1607176,
+      "leagueId": 3,
+      "season": 2026,
+      "kickoffTs": 1785870000000,
+      "homeTeamId": 5354,
+      "awayTeamId": 3502,
+      "homeTeam": "Larne",
+      "awayTeam": "Saburtalo",
+      "expectedHome": 1.943,
+      "expectedAway": 1.424,
+      "expectedTotal": 3.367,
+      "probOver25": 0.6784800000000001,
+      "probOver35": 0.46496000000000004,
+      "probBTTS": 0.6698
     },
     {
       "fixtureId": 1607166,
