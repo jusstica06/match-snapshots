@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T02:39:47.925Z",
+  "generatedAt": "2026-08-07T02:36:52.472Z",
   "totalTeams": 192,
   "totalLeagues": 29,
   "teamsWithFallback": 154,
@@ -3715,9 +3715,27 @@
       "leagueId": 172,
       "leagueName": "First League",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
+        "topScorer": {
+          "id": 11317,
+          "name": "G. Rusev",
+          "photo": "https://media.api-sports.io/football/players/11317.png",
+          "goals": 1,
+          "appearances": 3
+        },
+        "topAssist": {
+          "id": 354347,
+          "name": "H. Cuellar",
+          "photo": "https://media.api-sports.io/football/players/354347.png",
+          "assists": 1,
+          "appearances": 3
+        },
+        "mostCards": {
+          "id": 354347,
+          "name": "H. Cuellar",
+          "photo": "https://media.api-sports.io/football/players/354347.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
