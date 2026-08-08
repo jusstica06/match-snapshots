@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T02:35:31.269Z",
+  "generatedAt": "2026-08-08T02:24:57.145Z",
   "totalFixtures": 96,
   "uniquePairs": 96,
   "data": {
@@ -822,7 +822,7 @@
         {
           "fixtureId": 1491867,
           "date": "2026-02-09T22:15:00+00:00",
-          "venue": "Estadio Jorge Luis Hirschi",
+          "venue": "Estadio Ciudad de La Plata",
           "leagueName": "Liga Profesional Argentina",
           "homeTeamId": 450,
           "homeTeam": "Estudiantes L.P.",
@@ -859,6 +859,20 @@
     },
     "1493055": {
       "matches": [
+        {
+          "fixtureId": 1493055,
+          "date": "2026-08-08T00:45:00+00:00",
+          "venue": "Estadio Bautista Gargantini",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 473,
+          "homeTeam": "Independ. Rivadavia",
+          "homeWinner": true,
+          "awayTeamId": 2424,
+          "awayTeam": "Estudiantes de Rio Cuarto",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
         {
           "fixtureId": 1491868,
           "date": "2026-02-10T00:30:00+00:00",
@@ -917,11 +931,11 @@
         }
       ],
       "summary": {
-        "total": 4,
-        "homeWins": 1,
+        "total": 5,
+        "homeWins": 2,
         "awayWins": 2,
         "draws": 1,
-        "homeGoals": 3,
+        "homeGoals": 5,
         "awayGoals": 7
       }
     },
@@ -2016,14 +2030,155 @@
       }
     },
     "1507023": {
-      "matches": [],
+      "matches": [
+        {
+          "fixtureId": 1506934,
+          "date": "2026-04-11T07:30:00+00:00",
+          "venue": "Gwangju Football Stadium",
+          "leagueName": "K League 1",
+          "homeTeamId": 2759,
+          "homeTeam": "Gwangju FC",
+          "homeWinner": false,
+          "awayTeamId": 2745,
+          "awayTeam": "Bucheon FC 1995",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1391867,
+          "date": "2025-08-27T10:30:00+00:00",
+          "venue": "Bucheon Stadium",
+          "leagueName": "FA Cup",
+          "homeTeamId": 2745,
+          "homeTeam": "Bucheon FC 1995",
+          "homeWinner": false,
+          "awayTeamId": 2759,
+          "awayTeam": "Gwangju FC",
+          "awayWinner": true,
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 1391865,
+          "date": "2025-08-20T10:30:00+00:00",
+          "venue": "Gwangju World Cup Stadium",
+          "leagueName": "FA Cup",
+          "homeTeamId": 2759,
+          "homeTeam": "Gwangju FC",
+          "homeWinner": true,
+          "awayTeamId": 2745,
+          "awayTeam": "Bucheon FC 1995",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1196808,
+          "date": "2024-06-19T10:00:00+00:00",
+          "venue": "Bucheon Stadium",
+          "leagueName": "FA Cup",
+          "homeTeamId": 2745,
+          "homeTeam": "Bucheon FC 1995",
+          "homeWinner": false,
+          "awayTeamId": 2759,
+          "awayTeam": "Gwangju FC",
+          "awayWinner": true,
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "fixtureId": 829962,
+          "date": "2022-08-30T10:30:00+00:00",
+          "venue": "Bucheon Stadium",
+          "leagueName": "K League 2",
+          "homeTeamId": 2745,
+          "homeTeam": "Bucheon FC 1995",
+          "homeWinner": true,
+          "awayTeamId": 2759,
+          "awayTeam": "Gwangju FC",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 829906,
+          "date": "2022-07-05T10:00:00+00:00",
+          "venue": "Gwangju Football Stadium",
+          "leagueName": "K League 2",
+          "homeTeamId": 2759,
+          "homeTeam": "Gwangju FC",
+          "homeWinner": true,
+          "awayTeamId": 2745,
+          "awayTeam": "Bucheon FC 1995",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 860353,
+          "date": "2022-05-25T10:00:00+00:00",
+          "venue": "Bucheon Stadium",
+          "leagueName": "FA Cup",
+          "homeTeamId": 2745,
+          "homeTeam": "Bucheon FC 1995",
+          "homeWinner": true,
+          "awayTeamId": 2759,
+          "awayTeam": "Gwangju FC",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 829841,
+          "date": "2022-04-23T07:00:00+00:00",
+          "venue": "Gwangju Football Stadium",
+          "leagueName": "K League 2",
+          "homeTeamId": 2759,
+          "homeTeam": "Gwangju FC",
+          "homeWinner": true,
+          "awayTeamId": 2745,
+          "awayTeam": "Bucheon FC 1995",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 829813,
+          "date": "2022-03-20T04:30:00+00:00",
+          "venue": "Bucheon Stadium",
+          "leagueName": "K League 2",
+          "homeTeamId": 2745,
+          "homeTeam": "Bucheon FC 1995",
+          "homeWinner": true,
+          "awayTeamId": 2759,
+          "awayTeam": "Gwangju FC",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 101362,
+          "date": "2019-09-18T10:30:00+00:00",
+          "venue": "Gwangju World Cup Stadium (Gwangju)",
+          "leagueName": "K League 2",
+          "homeTeamId": 2759,
+          "homeTeam": "Gwangju FC",
+          "homeWinner": true,
+          "awayTeamId": 2745,
+          "awayTeam": "Bucheon FC 1995",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        }
+      ],
       "summary": {
-        "total": 0,
-        "homeWins": 0,
-        "awayWins": 0,
+        "total": 10,
+        "homeWins": 4,
+        "awayWins": 6,
         "draws": 0,
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 11,
+        "awayGoals": 13
       }
     },
     "1507025": {
@@ -5224,14 +5379,127 @@
       }
     },
     "1552429": {
-      "matches": [],
+      "matches": [
+        {
+          "fixtureId": 1389390,
+          "date": "2026-04-24T18:00:00+00:00",
+          "venue": "Parc des Sports",
+          "leagueName": "Ligue 2",
+          "homeTeamId": 3012,
+          "homeTeam": "Annecy",
+          "homeWinner": true,
+          "awayTeamId": 1297,
+          "awayTeam": "PAU",
+          "awayWinner": false,
+          "homeGoals": 5,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1389124,
+          "date": "2025-08-09T18:00:00+00:00",
+          "venue": "Nouste Camp",
+          "leagueName": "Ligue 2",
+          "homeTeamId": 1297,
+          "homeTeam": "PAU",
+          "homeWinner": true,
+          "awayTeamId": 3012,
+          "awayTeam": "Annecy",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1212686,
+          "date": "2025-03-28T19:00:00+00:00",
+          "venue": "Stade Nouste Camp",
+          "leagueName": "Ligue 2",
+          "homeTeamId": 1297,
+          "homeTeam": "PAU",
+          "homeWinner": true,
+          "awayTeamId": 3012,
+          "awayTeam": "Annecy",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1212543,
+          "date": "2024-11-01T19:00:00+00:00",
+          "venue": "Parc des Sports",
+          "leagueName": "Ligue 2",
+          "homeTeamId": 3012,
+          "homeTeam": "Annecy",
+          "homeWinner": true,
+          "awayTeamId": 1297,
+          "awayTeam": "PAU",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1046091,
+          "date": "2024-01-27T18:00:00+00:00",
+          "venue": "Parc des Sports",
+          "leagueName": "Ligue 2",
+          "homeTeamId": 3012,
+          "homeTeam": "Annecy",
+          "homeWinner": null,
+          "awayTeamId": 1297,
+          "awayTeam": "PAU",
+          "awayWinner": null,
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1045942,
+          "date": "2023-09-23T17:00:00+00:00",
+          "venue": "Stade Nouste Camp",
+          "leagueName": "Ligue 2",
+          "homeTeamId": 1297,
+          "homeTeam": "PAU",
+          "homeWinner": false,
+          "awayTeamId": 3012,
+          "awayTeam": "Annecy",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "fixtureId": 872059,
+          "date": "2023-01-28T18:00:00+00:00",
+          "venue": "Stade Nouste Camp",
+          "leagueName": "Ligue 2",
+          "homeTeamId": 1297,
+          "homeTeam": "PAU",
+          "homeWinner": null,
+          "awayTeamId": 3012,
+          "awayTeam": "Annecy",
+          "awayWinner": null,
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 871983,
+          "date": "2022-10-15T17:00:00+00:00",
+          "venue": "Parc des Sports",
+          "leagueName": "Ligue 2",
+          "homeTeamId": 3012,
+          "homeTeam": "Annecy",
+          "homeWinner": false,
+          "awayTeamId": 1297,
+          "awayTeam": "PAU",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 2
+        }
+      ],
       "summary": {
-        "total": 0,
-        "homeWins": 0,
-        "awayWins": 0,
-        "draws": 0,
-        "homeGoals": 0,
-        "awayGoals": 0
+        "total": 8,
+        "homeWins": 3,
+        "awayWins": 3,
+        "draws": 2,
+        "homeGoals": 8,
+        "awayGoals": 12
       }
     },
     "1552430": {
@@ -7071,14 +7339,155 @@
       }
     },
     "1555361": {
-      "matches": [],
+      "matches": [
+        {
+          "fixtureId": 1538473,
+          "date": "2026-05-03T14:30:00+00:00",
+          "venue": "Letzigrund Stadion",
+          "leagueName": "Super League",
+          "homeTeamId": 1013,
+          "homeTeam": "Grasshoppers",
+          "homeWinner": false,
+          "awayTeamId": 2184,
+          "awayTeam": "Servette FC",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 1494578,
+          "date": "2026-03-21T17:00:00+00:00",
+          "venue": "Stade de Genève",
+          "leagueName": "Super League",
+          "homeTeamId": 2184,
+          "homeTeam": "Servette FC",
+          "homeWinner": true,
+          "awayTeamId": 1013,
+          "awayTeam": "Grasshoppers",
+          "awayWinner": false,
+          "homeGoals": 5,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1382384,
+          "date": "2025-12-06T17:00:00+00:00",
+          "venue": "Letzigrund Stadion",
+          "leagueName": "Super League",
+          "homeTeamId": 1013,
+          "homeTeam": "Grasshoppers",
+          "homeWinner": false,
+          "awayTeamId": 2184,
+          "awayTeam": "Servette FC",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1382307,
+          "date": "2025-08-10T14:30:00+00:00",
+          "venue": "Stade de Genève",
+          "leagueName": "Super League",
+          "homeTeamId": 2184,
+          "homeTeam": "Servette FC",
+          "homeWinner": null,
+          "awayTeamId": 1013,
+          "awayTeam": "Grasshoppers",
+          "awayWinner": null,
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1327697,
+          "date": "2025-02-16T15:30:00+00:00",
+          "venue": "Stadion Letzigrund",
+          "leagueName": "Super League",
+          "homeTeamId": 1013,
+          "homeTeam": "Grasshoppers",
+          "homeWinner": false,
+          "awayTeamId": 2184,
+          "awayTeam": "Servette FC",
+          "awayWinner": true,
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 1222594,
+          "date": "2025-02-01T19:30:00+00:00",
+          "venue": "Stade de Genève",
+          "leagueName": "Super League",
+          "homeTeamId": 2184,
+          "homeTeam": "Servette FC",
+          "homeWinner": null,
+          "awayTeamId": 1013,
+          "awayTeam": "Grasshoppers",
+          "awayWinner": null,
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 1214852,
+          "date": "2024-09-21T16:00:00+00:00",
+          "venue": "Stadion Letzigrund",
+          "leagueName": "Super League",
+          "homeTeamId": 1013,
+          "homeTeam": "Grasshoppers",
+          "homeWinner": null,
+          "awayTeamId": 2184,
+          "awayTeam": "Servette FC",
+          "awayWinner": null,
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 1150748,
+          "date": "2024-04-20T16:00:00+00:00",
+          "venue": "Stade de Genève",
+          "leagueName": "Super League",
+          "homeTeamId": 2184,
+          "homeTeam": "Servette FC",
+          "homeWinner": true,
+          "awayTeamId": 1013,
+          "awayTeam": "Grasshoppers",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1048530,
+          "date": "2023-11-26T15:30:00+00:00",
+          "venue": "Stade de Genève",
+          "leagueName": "Super League",
+          "homeTeamId": 2184,
+          "homeTeam": "Servette FC",
+          "homeWinner": true,
+          "awayTeamId": 1013,
+          "awayTeam": "Grasshoppers",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1048443,
+          "date": "2023-07-22T16:00:00+00:00",
+          "venue": "Stadion Letzigrund",
+          "leagueName": "Super League",
+          "homeTeamId": 1013,
+          "homeTeam": "Grasshoppers",
+          "homeWinner": false,
+          "awayTeamId": 2184,
+          "awayTeam": "Servette FC",
+          "awayWinner": true,
+          "homeGoals": 1,
+          "awayGoals": 3
+        }
+      ],
       "summary": {
-        "total": 0,
-        "homeWins": 0,
+        "total": 10,
+        "homeWins": 7,
         "awayWins": 0,
-        "draws": 0,
-        "homeGoals": 0,
-        "awayGoals": 0
+        "draws": 3,
+        "homeGoals": 20,
+        "awayGoals": 6
       }
     },
     "1556634": {
@@ -10880,14 +11289,85 @@
       }
     },
     "1585696": {
-      "matches": [],
+      "matches": [
+        {
+          "fixtureId": 1398644,
+          "date": "2026-04-05T13:00:00+00:00",
+          "venue": "BG Grup 4 Eylül Stadyumu",
+          "leagueName": "1. Lig",
+          "homeTeamId": 1002,
+          "homeTeam": "Sivasspor",
+          "homeWinner": false,
+          "awayTeamId": 7402,
+          "awayTeam": "Esenler Erokspor",
+          "awayWinner": true,
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "fixtureId": 1398447,
+          "date": "2025-11-23T16:00:00+00:00",
+          "venue": "Esenler Stadium",
+          "leagueName": "1. Lig",
+          "homeTeamId": 7402,
+          "homeTeam": "Esenler Erokspor",
+          "homeWinner": true,
+          "awayTeamId": 1002,
+          "awayTeam": "Sivasspor",
+          "awayWinner": false,
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 978102,
+          "date": "2022-12-20T12:00:00+00:00",
+          "venue": "Yeni Sivas 4 Eylül Stadyumu",
+          "leagueName": "Türkiye Kupası",
+          "homeTeamId": 1002,
+          "homeTeam": "Sivasspor",
+          "homeWinner": true,
+          "awayTeamId": 7402,
+          "awayTeam": "Esenler Erokspor",
+          "awayWinner": false,
+          "homeGoals": 5,
+          "awayGoals": 2
+        },
+        {
+          "fixtureId": 256011,
+          "date": "2019-12-18T13:30:00+00:00",
+          "venue": "Yeni Sivas 4 Eylül Stadyumu",
+          "leagueName": "Türkiye Kupası",
+          "homeTeamId": 1002,
+          "homeTeam": "Sivasspor",
+          "homeWinner": false,
+          "awayTeamId": 7402,
+          "awayTeam": "Esenler Erokspor",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "fixtureId": 256010,
+          "date": "2019-12-03T15:30:00+00:00",
+          "venue": "Esenler Stadyumu",
+          "leagueName": "Türkiye Kupası",
+          "homeTeamId": 7402,
+          "homeTeam": "Esenler Erokspor",
+          "homeWinner": false,
+          "awayTeamId": 1002,
+          "awayTeam": "Sivasspor",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 2
+        }
+      ],
       "summary": {
-        "total": 0,
-        "homeWins": 0,
-        "awayWins": 0,
+        "total": 5,
+        "homeWins": 2,
+        "awayWins": 3,
         "draws": 0,
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 9,
+        "awayGoals": 8
       }
     },
     "1585697": {
