@@ -966,7 +966,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Evandro Almeida",
+            "name": "Mangueirão",
             "city": "Belem"
           },
           "status": {
@@ -1352,7 +1352,7 @@
       {
         "fixture": {
           "id": 1546851,
-          "referee": "F. Fernandes de Lima",
+          "referee": "Felipe Fernandes de Lima, Brazil",
           "timezone": "UTC",
           "date": "2026-08-06T23:00:00+00:00",
           "timestamp": 1786057200,
@@ -1422,7 +1422,7 @@
       {
         "fixture": {
           "id": 1546846,
-          "referee": "A. Gomes Stefano",
+          "referee": "Alex Gomes Stefano, Brazil",
           "timezone": "UTC",
           "date": "2026-08-02T22:30:00+00:00",
           "timestamp": 1785709800,
@@ -1912,7 +1912,7 @@
       {
         "fixture": {
           "id": 1537014,
-          "referee": "L. Casagrande",
+          "referee": "Lucas Casagrande, Brazil",
           "timezone": "UTC",
           "date": "2026-05-12T22:30:00+00:00",
           "timestamp": 1778625000,
@@ -2375,6 +2375,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1492321,
+          "referee": "B. Arleu",
+          "timezone": "UTC",
+          "date": "2026-08-09T00:00:00+00:00",
+          "timestamp": 1786233600,
+          "periods": {
+            "first": 1786233600,
+            "second": 1786237200
+          },
+          "venue": {
+            "id": 218,
+            "name": "Estadio Olimpico Nilton Santos",
+            "city": "Rio de Janeiro"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 9
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 120,
+            "name": "Botafogo",
+            "logo": "https://media.api-sports.io/football/teams/120.png",
+            "winner": null
+          },
+          "away": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1492311,
@@ -3004,76 +3074,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1535209,
-          "referee": "Guillermo Enrique Guerrero Alcivar, Ecuador",
-          "timezone": "UTC",
-          "date": "2026-05-21T00:00:00+00:00",
-          "timestamp": 1779321600,
-          "periods": {
-            "first": 1779321600,
-            "second": 1779325200
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Olimpico Patria",
-            "city": "Sucre"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 11,
-          "name": "CONMEBOL Sudamericana",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/11.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 15702,
-            "name": "Independiente Petrolero",
-            "logo": "https://media.api-sports.io/football/teams/15702.png",
-            "winner": false
-          },
-          "away": {
-            "id": 120,
-            "name": "Botafogo",
-            "logo": "https://media.api-sports.io/football/teams/120.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -3466,7 +3466,7 @@
       {
         "fixture": {
           "id": 1546848,
-          "referee": "R. Pereira",
+          "referee": "Rodrigo Jose Pereira de Lima, Brazil",
           "timezone": "UTC",
           "date": "2026-08-02T19:00:00+00:00",
           "timestamp": 1785697200,
@@ -4405,6 +4405,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492321,
+          "referee": "B. Arleu",
+          "timezone": "UTC",
+          "date": "2026-08-09T00:00:00+00:00",
+          "timestamp": 1786233600,
+          "periods": {
+            "first": 1786233600,
+            "second": 1786237200
+          },
+          "venue": {
+            "id": 218,
+            "name": "Estadio Olimpico Nilton Santos",
+            "city": "Rio de Janeiro"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 9
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 120,
+            "name": "Botafogo",
+            "logo": "https://media.api-sports.io/football/teams/120.png",
+            "winner": null
+          },
+          "away": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1546853,
           "referee": "W. Sampaio",
           "timezone": "UTC",
@@ -5022,76 +5092,6 @@
           "fulltime": {
             "home": 3,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492275,
-          "referee": "S. Sampaio",
-          "timezone": "UTC",
-          "date": "2026-05-23T22:00:00+00:00",
-          "timestamp": 1779573600,
-          "periods": {
-            "first": 1779573600,
-            "second": 1779577200
-          },
-          "venue": {
-            "id": null,
-            "name": "Estádio José Maria de Campos Maia",
-            "city": "Mirassol"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 17",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 7848,
-            "name": "Mirassol",
-            "logo": "https://media.api-sports.io/football/teams/7848.png",
-            "winner": true
-          },
-          "away": {
-            "id": 124,
-            "name": "Fluminense",
-            "logo": "https://media.api-sports.io/football/teams/124.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -7460,7 +7460,7 @@
       {
         "fixture": {
           "id": 1546851,
-          "referee": "F. Fernandes de Lima",
+          "referee": "Felipe Fernandes de Lima, Brazil",
           "timezone": "UTC",
           "date": "2026-08-06T23:00:00+00:00",
           "timestamp": 1786057200,
@@ -7530,7 +7530,7 @@
       {
         "fixture": {
           "id": 1546846,
-          "referee": "A. Gomes Stefano",
+          "referee": "Alex Gomes Stefano, Brazil",
           "timezone": "UTC",
           "date": "2026-08-02T22:30:00+00:00",
           "timestamp": 1785709800,
@@ -9488,7 +9488,7 @@
       {
         "fixture": {
           "id": 1546858,
-          "referee": "B. Machado",
+          "referee": "Braulio Da Silva Machado, Brazil",
           "timezone": "UTC",
           "date": "2026-08-06T23:00:00+00:00",
           "timestamp": 1786057200,
@@ -10498,7 +10498,7 @@
       {
         "fixture": {
           "id": 1546852,
-          "referee": "M. Delgado",
+          "referee": "Matheus Delgado Candançan, Brazil",
           "timezone": "UTC",
           "date": "2026-08-05T22:00:00+00:00",
           "timestamp": 1785967200,
@@ -10568,7 +10568,7 @@
       {
         "fixture": {
           "id": 1546845,
-          "referee": "R. Claus",
+          "referee": "Raphael Claus, Brazil",
           "timezone": "UTC",
           "date": "2026-08-02T21:30:00+00:00",
           "timestamp": 1785706200,
@@ -11520,7 +11520,7 @@
       {
         "fixture": {
           "id": 1546858,
-          "referee": "B. Machado",
+          "referee": "Braulio Da Silva Machado, Brazil",
           "timezone": "UTC",
           "date": "2026-08-06T23:00:00+00:00",
           "timestamp": 1786057200,
@@ -18499,7 +18499,7 @@
       {
         "fixture": {
           "id": 1607572,
-          "referee": "Atilla Karaoglan, Türkiye",
+          "referee": "A. Karaoglan",
           "timezone": "UTC",
           "date": "2026-08-06T18:00:00+00:00",
           "timestamp": 1786039200,
@@ -18639,7 +18639,7 @@
       {
         "fixture": {
           "id": 1593497,
-          "referee": "Christos Vergetis, Greece",
+          "referee": "C. Vergetis",
           "timezone": "UTC",
           "date": "2026-07-30T18:00:00+00:00",
           "timestamp": 1785434400,
@@ -18779,7 +18779,7 @@
       {
         "fixture": {
           "id": 1593495,
-          "referee": "Miguel Nogueira, Portugal",
+          "referee": "M. Nogueira",
           "timezone": "UTC",
           "date": "2026-07-23T18:00:00+00:00",
           "timestamp": 1784829600,
@@ -28469,7 +28469,7 @@
       {
         "fixture": {
           "id": 1607577,
-          "referee": "Christian-Petru Ciochirca, Austria",
+          "referee": "P. Ciochirca",
           "timezone": "UTC",
           "date": "2026-08-06T18:30:00+00:00",
           "timestamp": 1786041000,
@@ -28539,7 +28539,7 @@
       {
         "fixture": {
           "id": 1556528,
-          "referee": "Dalibor Cerny, Czechia",
+          "referee": "D. Cerny",
           "timezone": "UTC",
           "date": "2026-07-30T19:00:00+00:00",
           "timestamp": 1785438000,
@@ -32458,708 +32458,7 @@
         }
       }
     },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1556633,
-          "referee": "M. MacDermid",
-          "timezone": "UTC",
-          "date": "2026-08-03T18:30:00+00:00",
-          "timestamp": 1785781800,
-          "periods": {
-            "first": 1785781800,
-            "second": 1785785400
-          },
-          "venue": {
-            "id": 1386,
-            "name": "Celtic Park",
-            "city": "Glasgow"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 179,
-          "name": "Premiership",
-          "country": "Scotland",
-          "logo": "https://media.api-sports.io/football/leagues/179.png",
-          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-          "season": 2026,
-          "round": "Regular Season - 1",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 247,
-            "name": "Celtic",
-            "logo": "https://media.api-sports.io/football/teams/247.png",
-            "winner": true
-          },
-          "away": {
-            "id": 253,
-            "name": "Dundee",
-            "logo": "https://media.api-sports.io/football/teams/253.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1563027,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-25T14:00:00+00:00",
-          "timestamp": 1784988000,
-          "periods": {
-            "first": 1784988000,
-            "second": 1784991600
-          },
-          "venue": {
-            "id": null,
-            "name": "Celtic Park",
-            "city": "Glasgow"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 247,
-            "name": "Celtic",
-            "logo": "https://media.api-sports.io/football/teams/247.png",
-            "winner": null
-          },
-          "away": {
-            "id": 489,
-            "name": "AC Milan",
-            "logo": "https://media.api-sports.io/football/teams/489.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1562943,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-18T14:00:00+00:00",
-          "timestamp": 1784383200,
-          "periods": {
-            "first": 1784383200,
-            "second": 1784386800
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 1
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 247,
-            "name": "Celtic",
-            "logo": "https://media.api-sports.io/football/teams/247.png",
-            "winner": null
-          },
-          "away": {
-            "id": 70,
-            "name": "Middlesbrough",
-            "logo": "https://media.api-sports.io/football/teams/70.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1554946,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-14T16:30:00+00:00",
-          "timestamp": 1784046600,
-          "periods": {
-            "first": 1784046600,
-            "second": 1784050200
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 228,
-            "name": "Sporting CP",
-            "logo": "https://media.api-sports.io/football/teams/228.png",
-            "winner": true
-          },
-          "away": {
-            "id": 247,
-            "name": "Celtic",
-            "logo": "https://media.api-sports.io/football/teams/247.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 4,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1554772,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-07T17:00:00+00:00",
-          "timestamp": 1783443600,
-          "periods": {
-            "first": 1783443600,
-            "second": 1783447200
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 3854,
-            "name": "Shelbourne",
-            "logo": "https://media.api-sports.io/football/teams/3854.png",
-            "winner": null
-          },
-          "away": {
-            "id": 247,
-            "name": "Celtic",
-            "logo": "https://media.api-sports.io/football/teams/247.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1541860,
-          "referee": "Steven McLean, Scotland",
-          "timezone": "UTC",
-          "date": "2026-05-23T14:00:00+00:00",
-          "timestamp": 1779544800,
-          "periods": {
-            "first": 1779544800,
-            "second": 1779548400
-          },
-          "venue": {
-            "id": 2617,
-            "name": "Hampden Park",
-            "city": "Glasgow"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 181,
-          "name": "FA Cup",
-          "country": "Scotland",
-          "logo": "https://media.api-sports.io/football/leagues/181.png",
-          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-          "season": 2025,
-          "round": "Final",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 247,
-            "name": "Celtic",
-            "logo": "https://media.api-sports.io/football/teams/247.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1388,
-            "name": "Dunfermline",
-            "logo": "https://media.api-sports.io/football/teams/1388.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1540032,
-          "referee": "D. Robertson",
-          "timezone": "UTC",
-          "date": "2026-05-16T11:30:00+00:00",
-          "timestamp": 1778931000,
-          "periods": {
-            "first": 1778931000,
-            "second": 1778934600
-          },
-          "venue": {
-            "id": 1386,
-            "name": "Celtic Park",
-            "city": "Glasgow"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 10
-          }
-        },
-        "league": {
-          "id": 179,
-          "name": "Premiership",
-          "country": "Scotland",
-          "logo": "https://media.api-sports.io/football/leagues/179.png",
-          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-          "season": 2025,
-          "round": "Championship Group - 38",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 247,
-            "name": "Celtic",
-            "logo": "https://media.api-sports.io/football/teams/247.png",
-            "winner": true
-          },
-          "away": {
-            "id": 254,
-            "name": "Heart Of Midlothian",
-            "logo": "https://media.api-sports.io/football/teams/254.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1540030,
-          "referee": "J. Beaton",
-          "timezone": "UTC",
-          "date": "2026-05-13T19:00:00+00:00",
-          "timestamp": 1778698800,
-          "periods": {
-            "first": 1778698800,
-            "second": 1778702400
-          },
-          "venue": {
-            "id": 1398,
-            "name": "Fir Park",
-            "city": "Motherwell"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 11
-          }
-        },
-        "league": {
-          "id": 179,
-          "name": "Premiership",
-          "country": "Scotland",
-          "logo": "https://media.api-sports.io/football/leagues/179.png",
-          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-          "season": 2025,
-          "round": "Championship Group - 37",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 256,
-            "name": "Motherwell",
-            "logo": "https://media.api-sports.io/football/teams/256.png",
-            "winner": false
-          },
-          "away": {
-            "id": 247,
-            "name": "Celtic",
-            "logo": "https://media.api-sports.io/football/teams/247.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1540028,
-          "referee": "N. Walsh",
-          "timezone": "UTC",
-          "date": "2026-05-10T11:00:00+00:00",
-          "timestamp": 1778410800,
-          "periods": {
-            "first": 1778410800,
-            "second": 1778414400
-          },
-          "venue": {
-            "id": 1386,
-            "name": "Celtic Park",
-            "city": "Glasgow"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 179,
-          "name": "Premiership",
-          "country": "Scotland",
-          "logo": "https://media.api-sports.io/football/leagues/179.png",
-          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-          "season": 2025,
-          "round": "Championship Group - 36",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 247,
-            "name": "Celtic",
-            "logo": "https://media.api-sports.io/football/teams/247.png",
-            "winner": true
-          },
-          "away": {
-            "id": 257,
-            "name": "Rangers",
-            "logo": "https://media.api-sports.io/football/teams/257.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1540024,
-          "referee": "D. Dickinson",
-          "timezone": "UTC",
-          "date": "2026-05-03T11:00:00+00:00",
-          "timestamp": 1777806000,
-          "periods": {
-            "first": 1777806000,
-            "second": 1777809600
-          },
-          "venue": {
-            "id": null,
-            "name": "Easter Road",
-            "city": "Edinburgh"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 179,
-          "name": "Premiership",
-          "country": "Scotland",
-          "logo": "https://media.api-sports.io/football/leagues/179.png",
-          "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-          "season": 2025,
-          "round": "Championship Group - 35",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 249,
-            "name": "Hibernian",
-            "logo": "https://media.api-sports.io/football/teams/249.png",
-            "winner": false
-          },
-          "away": {
-            "id": 247,
-            "name": "Celtic",
-            "logo": "https://media.api-sports.io/football/teams/247.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
+    "lastFixtures": []
   },
   "249": {
     "statistics": {
@@ -33604,7 +32903,7 @@
       {
         "fixture": {
           "id": 1591948,
-          "referee": "Mihaly Kapraly, Hungary",
+          "referee": "M. Kapraly",
           "timezone": "UTC",
           "date": "2026-07-30T19:00:00+00:00",
           "timestamp": 1785438000,
@@ -36470,7 +35769,7 @@
       {
         "fixture": {
           "id": 1607586,
-          "referee": "Dalibor Cerny, Czechia",
+          "referee": "D. Cerny",
           "timezone": "UTC",
           "date": "2026-08-06T16:00:00+00:00",
           "timestamp": 1786032000,
@@ -36610,7 +35909,7 @@
       {
         "fixture": {
           "id": 1556534,
-          "referee": "Joonas Jaanovits, Estonia",
+          "referee": "J. Jaanovits",
           "timezone": "UTC",
           "date": "2026-07-30T17:00:00+00:00",
           "timestamp": 1785430800,
@@ -36620,7 +35919,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Torsvollur",
+            "name": "Gundadalur",
             "city": "Torshavn"
           },
           "status": {
@@ -36680,7 +35979,7 @@
       {
         "fixture": {
           "id": 1556517,
-          "referee": "Patryk Gryckiewicz, Poland",
+          "referee": "P. Gryckiewicz",
           "timezone": "UTC",
           "date": "2026-07-23T18:45:00+00:00",
           "timestamp": 1784832300,
@@ -46398,7 +45697,7 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 9
+          "played": 10
         },
         {
           "formation": "4-4-2",
@@ -54532,7 +53831,7 @@
       {
         "fixture": {
           "id": 1607594,
-          "referee": "Henrik Nalbandyan, Armenia",
+          "referee": "H. Nalbandyan",
           "timezone": "UTC",
           "date": "2026-08-06T17:00:00+00:00",
           "timestamp": 1786035600,
@@ -54542,7 +53841,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Miejski Stadion Piłkarski Raków w Częstochowie",
+            "name": "Miejski Stadion Pilkarski Rakow",
             "city": "Czestochowa"
           },
           "status": {
@@ -55546,7 +54845,7 @@
       {
         "fixture": {
           "id": 1607583,
-          "referee": "Antoni Bandić, Bosnia & Herzegovina",
+          "referee": "A. Bandic",
           "timezone": "UTC",
           "date": "2026-08-06T17:00:00+00:00",
           "timestamp": 1786035600,
@@ -55686,7 +54985,7 @@
       {
         "fixture": {
           "id": 1593510,
-          "referee": "Sigurd Smehus Kringstad, Norway",
+          "referee": "S. Kringstad",
           "timezone": "UTC",
           "date": "2026-07-30T16:30:00+00:00",
           "timestamp": 1785429000,
@@ -55826,7 +55125,7 @@
       {
         "fixture": {
           "id": 1593486,
-          "referee": "Dmytro Panchyshyn, Ukraine",
+          "referee": "D. Panchyshyn",
           "timezone": "UTC",
           "date": "2026-07-21T17:00:00+00:00",
           "timestamp": 1784653200,
@@ -67580,7 +66879,7 @@
       {
         "fixture": {
           "id": 1607598,
-          "referee": "Samuel Barrott, England",
+          "referee": "S. Barrott",
           "timezone": "UTC",
           "date": "2026-08-06T18:00:00+00:00",
           "timestamp": 1786039200,
@@ -71342,12 +70641,12 @@
               "percentage": "4.00%"
             },
             "76-90": {
-              "total": 4,
-              "percentage": "16.00%"
+              "total": 5,
+              "percentage": "20.00%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "4.00%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -71597,7 +70896,7 @@
       {
         "fixture": {
           "id": 1493032,
-          "referee": "Luis Lobo Medina, Argentina",
+          "referee": "L. Lobo Medina",
           "timezone": "UTC",
           "date": "2026-08-02T17:30:00+00:00",
           "timestamp": 1785691800,
@@ -72157,7 +71456,7 @@
       {
         "fixture": {
           "id": 1492044,
-          "referee": "Nazareno Arasa, Argentina",
+          "referee": "N. Arasa",
           "timezone": "UTC",
           "date": "2026-04-26T20:30:00+00:00",
           "timestamp": 1777235400,
@@ -72167,7 +71466,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Julio César Villagra",
+            "name": "Estadio Julio Cesar Villagra",
             "city": "Cordoba"
           },
           "status": {
@@ -72356,24 +71655,24 @@
               "percentage": "18.18%"
             },
             "31-45": {
-              "total": 4,
-              "percentage": "18.18%"
+              "total": 5,
+              "percentage": "22.73%"
             },
             "46-60": {
-              "total": 2,
-              "percentage": "9.09%"
+              "total": 1,
+              "percentage": "4.55%"
             },
             "61-75": {
               "total": 3,
               "percentage": "13.64%"
             },
             "76-90": {
-              "total": 7,
-              "percentage": "31.82%"
+              "total": 8,
+              "percentage": "36.36%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "4.55%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -72424,12 +71723,12 @@
               "percentage": "14.29%"
             },
             "31-45": {
-              "total": 4,
-              "percentage": "19.05%"
+              "total": 5,
+              "percentage": "23.81%"
             },
             "46-60": {
-              "total": 6,
-              "percentage": "28.57%"
+              "total": 5,
+              "percentage": "23.81%"
             },
             "61-75": {
               "total": 1,
@@ -72623,7 +71922,7 @@
       {
         "fixture": {
           "id": 1493043,
-          "referee": "Yael Falcon Perez, Argentina",
+          "referee": "Y. Perez",
           "timezone": "UTC",
           "date": "2026-08-01T23:30:00+00:00",
           "timestamp": 1785627000,
@@ -72634,7 +71933,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Presidente Peron",
-            "city": "Cordoba"
+            "city": "Avellaneda"
           },
           "status": {
             "long": "Match Finished",
@@ -73043,7 +72342,7 @@
       {
         "fixture": {
           "id": 1544851,
-          "referee": "Dario Herrera, Argentina",
+          "referee": "D. Herrera",
           "timezone": "UTC",
           "date": "2026-05-13T21:45:00+00:00",
           "timestamp": 1778708700,
@@ -73053,7 +72352,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Gigante de Arroyito",
+            "name": "Estadio Gigante de Arroyito",
             "city": "Rosario"
           },
           "status": {
@@ -73394,12 +72693,12 @@
               "percentage": "19.05%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "9.52%"
+              "total": 4,
+              "percentage": "19.05%"
             },
             "91-105": {
-              "total": 2,
-              "percentage": "9.52%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -73462,12 +72761,12 @@
               "percentage": "15.38%"
             },
             "76-90": {
-              "total": 8,
-              "percentage": "30.77%"
+              "total": 9,
+              "percentage": "34.62%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "3.85%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -73641,7 +72940,7 @@
       {
         "fixture": {
           "id": 1493036,
-          "referee": "Sebastian Nicolas Martinez, Argentina",
+          "referee": "S. Martinez",
           "timezone": "UTC",
           "date": "2026-08-01T21:00:00+00:00",
           "timestamp": 1785618000,
@@ -73651,7 +72950,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Ciudad de La Plata",
+            "name": "Estadio Jorge Luis Hirschi",
             "city": "La Plata"
           },
           "status": {
@@ -73991,7 +73290,7 @@
       {
         "fixture": {
           "id": 1492045,
-          "referee": "Carlos Andres Gariano, Argentina",
+          "referee": "A. Gariano",
           "timezone": "UTC",
           "date": "2026-04-23T23:00:00+00:00",
           "timestamp": 1776985200,
@@ -74001,7 +73300,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Norberto Tomaghello",
+            "name": "Estadio Norberto Tito Tomaghello",
             "city": "Gobernador Julio A. Costa"
           },
           "status": {
@@ -74061,7 +73360,7 @@
       {
         "fixture": {
           "id": 1492035,
-          "referee": "Sebastian Nicolas Martinez, Argentina",
+          "referee": "S. Martinez",
           "timezone": "UTC",
           "date": "2026-04-18T22:30:00+00:00",
           "timestamp": 1776551400,
@@ -74072,7 +73371,7 @@
           "venue": {
             "id": null,
             "name": "Libertadores de America",
-            "city": "Buenos Aires"
+            "city": "Avellaneda"
           },
           "status": {
             "long": "Match Finished",
@@ -74131,7 +73430,7 @@
       {
         "fixture": {
           "id": 1492016,
-          "referee": "Luis Lobo Medina, Argentina",
+          "referee": "L. Lobo Medina",
           "timezone": "UTC",
           "date": "2026-04-13T19:30:00+00:00",
           "timestamp": 1776108600,
@@ -74141,7 +73440,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Norberto Tomaghello",
+            "name": "Estadio Norberto Tito Tomaghello",
             "city": "Gobernador Julio A. Costa"
           },
           "status": {
@@ -74675,7 +73974,7 @@
       {
         "fixture": {
           "id": 1493039,
-          "referee": "Bruno Amiconi, Argentina",
+          "referee": "B. Amiconi",
           "timezone": "UTC",
           "date": "2026-08-04T00:15:00+00:00",
           "timestamp": 1785802500,
@@ -74745,7 +74044,7 @@
       {
         "fixture": {
           "id": 1493025,
-          "referee": "Pablo Dovalo, Argentina",
+          "referee": "P. Dovalo",
           "timezone": "UTC",
           "date": "2026-07-30T22:00:00+00:00",
           "timestamp": 1785448800,
@@ -74755,7 +74054,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Bautista Gargantini",
+            "name": "Estadio Juan Bautista Gargantini",
             "city": "Mendoza"
           },
           "status": {
@@ -75305,7 +74604,7 @@
       {
         "fixture": {
           "id": 1492020,
-          "referee": "Fernando Echenique, Argentina",
+          "referee": "F. Echenique",
           "timezone": "UTC",
           "date": "2026-04-12T20:30:00+00:00",
           "timestamp": 1776025800,
@@ -75434,24 +74733,24 @@
               "percentage": "7.41%"
             },
             "31-45": {
-              "total": 5,
-              "percentage": "18.52%"
+              "total": 6,
+              "percentage": "22.22%"
             },
             "46-60": {
-              "total": 7,
-              "percentage": "25.93%"
+              "total": 6,
+              "percentage": "22.22%"
             },
             "61-75": {
               "total": 3,
               "percentage": "11.11%"
             },
             "76-90": {
-              "total": 5,
-              "percentage": "18.52%"
+              "total": 7,
+              "percentage": "25.93%"
             },
             "91-105": {
-              "total": 2,
-              "percentage": "7.41%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -75502,12 +74801,12 @@
               "percentage": "8.00%"
             },
             "31-45": {
-              "total": 5,
-              "percentage": "20.00%"
+              "total": 6,
+              "percentage": "24.00%"
             },
             "46-60": {
-              "total": 2,
-              "percentage": "8.00%"
+              "total": 1,
+              "percentage": "4.00%"
             },
             "61-75": {
               "total": 5,
@@ -75684,8 +74983,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493054,
+          "referee": "N. Ramirez",
+          "timezone": "UTC",
+          "date": "2026-08-09T00:30:00+00:00",
+          "timestamp": 1786235400,
+          "periods": {
+            "first": 1786235400,
+            "second": 1786239000
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": "Avellaneda"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 79,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 4",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 453,
+            "name": "Independiente",
+            "logo": "https://media.api-sports.io/football/teams/453.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1064,
+            "name": "Platense",
+            "logo": "https://media.api-sports.io/football/teams/1064.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493046,
-          "referee": "Leandro Rey Hilfer, Argentina",
+          "referee": "L. Rey Hilfer",
           "timezone": "UTC",
           "date": "2026-08-03T22:00:00+00:00",
           "timestamp": 1785794400,
@@ -75755,7 +75124,7 @@
       {
         "fixture": {
           "id": 1493024,
-          "referee": "Pablo Echavarria, Argentina",
+          "referee": "P. Echavarria",
           "timezone": "UTC",
           "date": "2026-07-31T00:15:00+00:00",
           "timestamp": 1785456900,
@@ -75766,7 +75135,7 @@
           "venue": {
             "id": null,
             "name": "Libertadores de America",
-            "city": "Buenos Aires"
+            "city": "Avellaneda"
           },
           "status": {
             "long": "Match Finished",
@@ -75825,7 +75194,7 @@
       {
         "fixture": {
           "id": 1493006,
-          "referee": "Pablo Dovalo, Argentina",
+          "referee": "P. Dovalo",
           "timezone": "UTC",
           "date": "2026-07-26T20:15:00+00:00",
           "timestamp": 1785096900,
@@ -75835,7 +75204,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Ciudad de La Plata",
+            "name": "Estadio Jorge Luis Hirschi",
             "city": "La Plata"
           },
           "status": {
@@ -76035,7 +75404,7 @@
       {
         "fixture": {
           "id": 1491950,
-          "referee": "Pablo Dovalo, Argentina",
+          "referee": "P. Dovalo",
           "timezone": "UTC",
           "date": "2026-05-02T21:45:00+00:00",
           "timestamp": 1777758300,
@@ -76045,7 +75414,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Pedro Bidegain",
+            "name": "Estadio Pedro Bidegain",
             "city": "Buenos Aires"
           },
           "status": {
@@ -76175,7 +75544,7 @@
       {
         "fixture": {
           "id": 1492035,
-          "referee": "Sebastian Nicolas Martinez, Argentina",
+          "referee": "S. Martinez",
           "timezone": "UTC",
           "date": "2026-04-18T22:30:00+00:00",
           "timestamp": 1776551400,
@@ -76186,7 +75555,7 @@
           "venue": {
             "id": null,
             "name": "Libertadores de America",
-            "city": "Buenos Aires"
+            "city": "Avellaneda"
           },
           "status": {
             "long": "Match Finished",
@@ -76311,76 +75680,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1492004,
-          "referee": "Leandro Rey Hilfer, Argentina",
-          "timezone": "UTC",
-          "date": "2026-04-04T20:30:00+00:00",
-          "timestamp": 1775334600,
-          "periods": {
-            "first": 1775334600,
-            "second": 1775338200
-          },
-          "venue": {
-            "id": null,
-            "name": "Libertadores de America",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - 13",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 453,
-            "name": "Independiente",
-            "logo": "https://media.api-sports.io/football/teams/453.png",
-            "winner": true
-          },
-          "away": {
-            "id": 436,
-            "name": "Racing Club",
-            "logo": "https://media.api-sports.io/football/teams/436.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -76456,12 +75755,12 @@
               "percentage": "11.11%"
             },
             "76-90": {
-              "total": 8,
-              "percentage": "44.44%"
+              "total": 9,
+              "percentage": "50.00%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "5.56%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -76703,7 +76002,7 @@
       {
         "fixture": {
           "id": 1493041,
-          "referee": "Andres Merlos, Argentina",
+          "referee": "A. Merlos",
           "timezone": "UTC",
           "date": "2026-08-02T20:00:00+00:00",
           "timestamp": 1785700800,
@@ -76773,7 +76072,7 @@
       {
         "fixture": {
           "id": 1493024,
-          "referee": "Pablo Echavarria, Argentina",
+          "referee": "P. Echavarria",
           "timezone": "UTC",
           "date": "2026-07-31T00:15:00+00:00",
           "timestamp": 1785456900,
@@ -76784,7 +76083,7 @@
           "venue": {
             "id": null,
             "name": "Libertadores de America",
-            "city": "Buenos Aires"
+            "city": "Avellaneda"
           },
           "status": {
             "long": "Match Finished",
@@ -77193,7 +76492,7 @@
       {
         "fixture": {
           "id": 1492001,
-          "referee": "Hernan Mastrangelo, Argentina",
+          "referee": "H. Mastrangelo",
           "timezone": "UTC",
           "date": "2026-04-05T23:30:00+00:00",
           "timestamp": 1775431800,
@@ -77203,7 +76502,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Alfredo Terrera",
+            "name": "Estadio Unico Madre de Ciudades",
             "city": "Santiago del Estero"
           },
           "status": {
@@ -77333,7 +76632,7 @@
       {
         "fixture": {
           "id": 1491995,
-          "referee": "Sebastian Zunino, Argentina",
+          "referee": "S. Zunino",
           "timezone": "UTC",
           "date": "2026-03-21T20:45:00+00:00",
           "timestamp": 1774125900,
@@ -77729,7 +77028,7 @@
       {
         "fixture": {
           "id": 1493033,
-          "referee": "Carlos Andres Gariano, Argentina",
+          "referee": "A. Gariano",
           "timezone": "UTC",
           "date": "2026-08-01T21:00:00+00:00",
           "timestamp": 1785618000,
@@ -77739,7 +77038,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Julio César Villagra",
+            "name": "Estadio Julio Cesar Villagra",
             "city": "Cordoba"
           },
           "status": {
@@ -77939,7 +77238,7 @@
       {
         "fixture": {
           "id": 1545165,
-          "referee": "Nazareno Arasa, Argentina",
+          "referee": "N. Arasa",
           "timezone": "UTC",
           "date": "2026-05-17T20:00:00+00:00",
           "timestamp": 1779048000,
@@ -77949,7 +77248,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Diego Armando Maradona",
+            "name": "Estadio Diego Armando Maradona",
             "city": "Buenos Aires"
           },
           "status": {
@@ -78568,12 +77867,12 @@
               "percentage": "22.22%"
             },
             "76-90": {
-              "total": null,
-              "percentage": null
-            },
-            "91-105": {
               "total": 1,
               "percentage": "5.56%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": 1,
@@ -78837,7 +78136,7 @@
       {
         "fixture": {
           "id": 1493028,
-          "referee": "Fernando Echenique, Argentina",
+          "referee": "F. Echenique",
           "timezone": "UTC",
           "date": "2026-07-28T22:00:00+00:00",
           "timestamp": 1785276000,
@@ -78847,7 +78146,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Pedro Bidegain",
+            "name": "Estadio Pedro Bidegain",
             "city": "Buenos Aires"
           },
           "status": {
@@ -79047,7 +78346,7 @@
       {
         "fixture": {
           "id": 1535229,
-          "referee": "C. Ortega",
+          "referee": "Carlos Ortega, Colombia",
           "timezone": "UTC",
           "date": "2026-05-27T00:30:00+00:00",
           "timestamp": 1779841800,
@@ -79057,7 +78356,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Pedro Bidegain",
+            "name": "Pedro Bidegain",
             "city": "Buenos Aires"
           },
           "status": {
@@ -79257,7 +78556,7 @@
       {
         "fixture": {
           "id": 1535193,
-          "referee": "J. Cabero",
+          "referee": "Jose Cabero Rebolledo, Chile",
           "timezone": "UTC",
           "date": "2026-05-06T02:00:00+00:00",
           "timestamp": 1778032800,
@@ -79267,7 +78566,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Alejandro Serrano Aguilar",
+            "name": "Alejandro Serrano Aguilar",
             "city": "Cuenca"
           },
           "status": {
@@ -79327,7 +78626,7 @@
       {
         "fixture": {
           "id": 1491950,
-          "referee": "Pablo Dovalo, Argentina",
+          "referee": "P. Dovalo",
           "timezone": "UTC",
           "date": "2026-05-02T21:45:00+00:00",
           "timestamp": 1777758300,
@@ -79337,7 +78636,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Pedro Bidegain",
+            "name": "Estadio Pedro Bidegain",
             "city": "Buenos Aires"
           },
           "status": {
@@ -79397,7 +78696,7 @@
       {
         "fixture": {
           "id": 1535183,
-          "referee": "Jhon Alexander Ospina Londono, Colombia",
+          "referee": "J. Ospina",
           "timezone": "UTC",
           "date": "2026-04-28T22:00:00+00:00",
           "timestamp": 1777413600,
@@ -79407,7 +78706,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Pedro Bidegain",
+            "name": "Estadio Pedro Bidegain",
             "city": "Buenos Aires"
           },
           "status": {
@@ -79538,12 +78837,12 @@
               "percentage": "10.53%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "10.53%"
+              "total": 4,
+              "percentage": "21.05%"
             },
             "91-105": {
-              "total": 2,
-              "percentage": "10.53%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -79594,24 +78893,24 @@
               "percentage": "5.00%"
             },
             "31-45": {
-              "total": 2,
-              "percentage": "10.00%"
+              "total": 3,
+              "percentage": "15.00%"
             },
             "46-60": {
-              "total": 7,
-              "percentage": "35.00%"
+              "total": 6,
+              "percentage": "30.00%"
             },
             "61-75": {
               "total": 4,
               "percentage": "20.00%"
             },
             "76-90": {
-              "total": 4,
-              "percentage": "20.00%"
+              "total": 5,
+              "percentage": "25.00%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "5.00%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -79784,6 +79083,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493056,
+          "referee": "S. Zunino",
+          "timezone": "UTC",
+          "date": "2026-08-09T00:30:00+00:00",
+          "timestamp": 1786235400,
+          "periods": {
+            "first": 1786235400,
+            "second": 1786239000
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Presidente Peron",
+            "city": "Cordoba"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 88,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 4",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 478,
+            "name": "Instituto Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/478.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1066,
+            "name": "Gimnasia M.",
+            "logo": "https://media.api-sports.io/football/teams/1066.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493040,
           "referee": "N. Arasa",
           "timezone": "UTC",
@@ -79925,7 +79294,7 @@
       {
         "fixture": {
           "id": 1493016,
-          "referee": "Andres Merlos, Argentina",
+          "referee": "A. Merlos",
           "timezone": "UTC",
           "date": "2026-07-24T22:00:00+00:00",
           "timestamp": 1784930400,
@@ -80205,7 +79574,7 @@
       {
         "fixture": {
           "id": 1492036,
-          "referee": "Hernan Mastrangelo, Argentina",
+          "referee": "H. Mastrangelo",
           "timezone": "UTC",
           "date": "2026-04-18T20:15:00+00:00",
           "timestamp": 1776543300,
@@ -80215,7 +79584,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Mario Alberto Kempes",
+            "name": "Estadio Presidente Peron",
             "city": "Cordoba"
           },
           "status": {
@@ -80275,7 +79644,7 @@
       {
         "fixture": {
           "id": 1492017,
-          "referee": "Nazareno Arasa, Argentina",
+          "referee": "N. Arasa",
           "timezone": "UTC",
           "date": "2026-04-11T18:00:00+00:00",
           "timestamp": 1775930400,
@@ -80286,7 +79655,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Guillermo Laza",
-            "city": "Flores"
+            "city": "Buenos Aires"
           },
           "status": {
             "long": "Match Finished",
@@ -80386,76 +79755,6 @@
             "id": 442,
             "name": "Defensa Y Justicia",
             "logo": "https://media.api-sports.io/football/teams/442.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1503685,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-04-02T00:15:00+00:00",
-          "timestamp": 1775088900,
-          "periods": {
-            "first": 1775088900,
-            "second": 1775092500
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 130,
-          "name": "Copa Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/130.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Round of 64",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 478,
-            "name": "Instituto Cordoba",
-            "logo": "https://media.api-sports.io/football/teams/478.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1948,
-            "name": "Atlanta",
-            "logo": "https://media.api-sports.io/football/teams/1948.png",
             "winner": false
           }
         },
@@ -83788,7 +83087,7 @@
       {
         "fixture": {
           "id": 1559972,
-          "referee": "S. Volek",
+          "referee": "Stanislav Volek, Czechia",
           "timezone": "UTC",
           "date": "2026-08-01T15:00:00+00:00",
           "timestamp": 1785596400,
@@ -83798,7 +83097,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Mestsky stadion v Ostrave-Vitkovicich",
+            "name": "Městský stadion (Ostrava-Vítkovice)",
             "city": "Ostrava"
           },
           "status": {
@@ -83858,7 +83157,7 @@
       {
         "fixture": {
           "id": 1559966,
-          "referee": "O. Pechanec",
+          "referee": "Ondrej Pechanec, Czechia",
           "timezone": "UTC",
           "date": "2026-07-26T13:00:00+00:00",
           "timestamp": 1785070800,
@@ -84790,7 +84089,7 @@
       {
         "fixture": {
           "id": 1551065,
-          "referee": "Georgi Stoyanov, Bulgaria",
+          "referee": "G. Stoyanov",
           "timezone": "UTC",
           "date": "2026-08-02T16:00:00+00:00",
           "timestamp": 1785686400,
@@ -84860,7 +84159,7 @@
       {
         "fixture": {
           "id": 1556536,
-          "referee": "Sayat Karabaev, Kazakhstan",
+          "referee": "S. Karabaev",
           "timezone": "UTC",
           "date": "2026-07-30T18:00:00+00:00",
           "timestamp": 1785434400,
@@ -84930,7 +84229,7 @@
       {
         "fixture": {
           "id": 1551058,
-          "referee": "G. Davidov",
+          "referee": "Georgi Dimitrov, Bulgaria",
           "timezone": "UTC",
           "date": "2026-07-27T16:00:00+00:00",
           "timestamp": 1785168000,
@@ -84940,7 +84239,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Gradski stadion",
+            "name": "Gradski Stadium",
             "city": "Ruse"
           },
           "status": {
@@ -85000,7 +84299,7 @@
       {
         "fixture": {
           "id": 1556513,
-          "referee": "Alessandro Dudic, Switzerland",
+          "referee": "A. Dudic",
           "timezone": "UTC",
           "date": "2026-07-23T18:30:00+00:00",
           "timestamp": 1784831400,
@@ -85010,8 +84309,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Bloomfield",
-            "city": "Tel Aviv"
+            "name": "DVTK Stadion",
+            "city": "Miskolc"
           },
           "status": {
             "long": "Match Finished",
@@ -85070,7 +84369,7 @@
       {
         "fixture": {
           "id": 1551050,
-          "referee": "M. Grebencharski",
+          "referee": "Marijan Grebencharski, Bulgaria",
           "timezone": "UTC",
           "date": "2026-07-18T18:15:00+00:00",
           "timestamp": 1784398500,
@@ -85862,7 +85161,7 @@
       {
         "fixture": {
           "id": 1561896,
-          "referee": "A. Sadikovski",
+          "referee": "Alain Sadikovski, Austria",
           "timezone": "UTC",
           "date": "2026-08-01T17:30:00+00:00",
           "timestamp": 1785605400,
@@ -89823,7 +89122,7 @@
       {
         "fixture": {
           "id": 1607574,
-          "referee": "Lawrence Visser, Belgium",
+          "referee": "L. Visser",
           "timezone": "UTC",
           "date": "2026-08-06T17:30:00+00:00",
           "timestamp": 1786037400,
@@ -89893,7 +89192,7 @@
       {
         "fixture": {
           "id": 1561898,
-          "referee": "A. Harkam",
+          "referee": "Alexander Harkam, Austria",
           "timezone": "UTC",
           "date": "2026-08-02T15:00:00+00:00",
           "timestamp": 1785682800,
@@ -89963,7 +89262,7 @@
       {
         "fixture": {
           "id": 1591946,
-          "referee": "Luca Zufferli, Italy",
+          "referee": "L. Zufferli",
           "timezone": "UTC",
           "date": "2026-07-30T18:30:00+00:00",
           "timestamp": 1785436200,
@@ -90103,7 +89402,7 @@
       {
         "fixture": {
           "id": 1591943,
-          "referee": "Helgi Mikael Jonasson, Iceland",
+          "referee": "H. M. Jonasson",
           "timezone": "UTC",
           "date": "2026-07-23T15:00:00+00:00",
           "timestamp": 1784818800,
@@ -90829,7 +90128,7 @@
       {
         "fixture": {
           "id": 1607589,
-          "referee": "Viktor Kopievskiy, Ukraine",
+          "referee": "V. Kopiyevsky",
           "timezone": "UTC",
           "date": "2026-08-06T18:30:00+00:00",
           "timestamp": 1786041000,
@@ -91109,7 +90408,7 @@
       {
         "fixture": {
           "id": 1556516,
-          "referee": "Viktor Shimusik, Belarus",
+          "referee": "V. Shimusik",
           "timezone": "UTC",
           "date": "2026-07-23T18:30:00+00:00",
           "timestamp": 1784831400,
@@ -91119,7 +90418,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Cornaredo",
+            "name": "AIL Arena",
             "city": "Lugano"
           },
           "status": {
@@ -91831,7 +91130,7 @@
       {
         "fixture": {
           "id": 1607600,
-          "referee": "Marc Nagtegaal, Netherlands",
+          "referee": "M. Nagtegaal",
           "timezone": "UTC",
           "date": "2026-08-06T17:00:00+00:00",
           "timestamp": 1786035600,
@@ -91841,7 +91140,7 @@
           },
           "venue": {
             "id": null,
-            "name": "FK Žalgiris Stadium",
+            "name": "LFF stadionas",
             "city": "Vilnius"
           },
           "status": {
@@ -94836,7 +94135,7 @@
       {
         "fixture": {
           "id": 1607590,
-          "referee": "Matthew Degabriele, Malta",
+          "referee": "M. De Gabriele",
           "timezone": "UTC",
           "date": "2026-08-06T16:00:00+00:00",
           "timestamp": 1786032000,
@@ -94976,7 +94275,7 @@
       {
         "fixture": {
           "id": 1593513,
-          "referee": "Joakim Ostling, Sweden",
+          "referee": "J. Sars",
           "timezone": "UTC",
           "date": "2026-07-30T18:15:00+00:00",
           "timestamp": 1785435300,
@@ -94986,7 +94285,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Tourbillon",
+            "name": "Stade de Tourbillon",
             "city": "Sion"
           },
           "status": {
@@ -95116,7 +94415,7 @@
       {
         "fixture": {
           "id": 1593478,
-          "referee": "Miloš Savović, Montenegro",
+          "referee": "M. Savovic",
           "timezone": "UTC",
           "date": "2026-07-23T17:00:00+00:00",
           "timestamp": 1784826000,
@@ -95127,7 +94426,7 @@
           "venue": {
             "id": null,
             "name": "Sumgayit City Stadium",
-            "city": "Sumqayit"
+            "city": "Sumgayit"
           },
           "status": {
             "long": "Match Finished",
@@ -95833,7 +95132,7 @@
       {
         "fixture": {
           "id": 1607583,
-          "referee": "Antoni Bandić, Bosnia & Herzegovina",
+          "referee": "A. Bandic",
           "timezone": "UTC",
           "date": "2026-08-06T17:00:00+00:00",
           "timestamp": 1786035600,
@@ -95903,7 +95202,7 @@
       {
         "fixture": {
           "id": 1556533,
-          "referee": "Genc Nuza, Kosovo",
+          "referee": "G. Nuza",
           "timezone": "UTC",
           "date": "2026-07-30T18:30:00+00:00",
           "timestamp": 1785436200,
@@ -95973,7 +95272,7 @@
       {
         "fixture": {
           "id": 1556515,
-          "referee": "Granit Maqedonci, Sweden",
+          "referee": "G. Maqedonci",
           "timezone": "UTC",
           "date": "2026-07-23T18:30:00+00:00",
           "timestamp": 1784831400,
@@ -95983,7 +95282,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Tsentralnyi Stadium",
+            "name": "Orlen Stadion",
             "city": "Cherkasy"
           },
           "status": {
@@ -96905,7 +96204,7 @@
       {
         "fixture": {
           "id": 1565206,
-          "referee": "M. Barbu",
+          "referee": "Marian Barbu, Romania",
           "timezone": "UTC",
           "date": "2026-08-01T18:30:00+00:00",
           "timestamp": 1785609000,
@@ -97045,7 +96344,7 @@
       {
         "fixture": {
           "id": 1565193,
-          "referee": "I. Kovacs",
+          "referee": "Istvan Kovacs, Romania",
           "timezone": "UTC",
           "date": "2026-07-25T17:30:00+00:00",
           "timestamp": 1785000600,
@@ -97055,7 +96354,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadionul Arcul de Triumf",
+            "name": "National Arena",
             "city": "Bucharest"
           },
           "status": {
@@ -97185,7 +96484,7 @@
       {
         "fixture": {
           "id": 1565190,
-          "referee": "R. Vidican",
+          "referee": "Rares George Vidican, Romania",
           "timezone": "UTC",
           "date": "2026-07-18T18:15:00+00:00",
           "timestamp": 1784398500,
@@ -98859,7 +98158,7 @@
       {
         "fixture": {
           "id": 1607586,
-          "referee": "Dalibor Cerny, Czechia",
+          "referee": "D. Cerny",
           "timezone": "UTC",
           "date": "2026-08-06T16:00:00+00:00",
           "timestamp": 1786032000,
@@ -98999,7 +98298,7 @@
       {
         "fixture": {
           "id": 1556529,
-          "referee": "Seth Galia, Gibraltar",
+          "referee": "S. Galia",
           "timezone": "UTC",
           "date": "2026-07-30T18:45:00+00:00",
           "timestamp": 1785437100,
@@ -99139,7 +98438,7 @@
       {
         "fixture": {
           "id": 1556514,
-          "referee": "Simovic Novak, Serbia",
+          "referee": "N. Simovic",
           "timezone": "UTC",
           "date": "2026-07-23T16:00:00+00:00",
           "timestamp": 1784822400,
@@ -99861,7 +99160,7 @@
       {
         "fixture": {
           "id": 1607587,
-          "referee": "Eric Wattellier, France",
+          "referee": "E. Wattellier",
           "timezone": "UTC",
           "date": "2026-08-06T15:00:00+00:00",
           "timestamp": 1786028400,
@@ -99871,7 +99170,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Veritas Stadium",
+            "name": "Veritas Stadion",
             "city": "Turku"
           },
           "status": {
@@ -100001,7 +99300,7 @@
       {
         "fixture": {
           "id": 1593499,
-          "referee": "Dominik Stary, Czechia",
+          "referee": "D. Stary",
           "timezone": "UTC",
           "date": "2026-07-30T14:00:00+00:00",
           "timestamp": 1785420000,
@@ -100141,7 +99440,7 @@
       {
         "fixture": {
           "id": 1593494,
-          "referee": "Dumitru Muntean, Moldova",
+          "referee": "D. Muntean",
           "timezone": "UTC",
           "date": "2026-07-23T17:30:00+00:00",
           "timestamp": 1784827800,
@@ -104601,27 +103900,27 @@
           "minute": {
             "0-15": {
               "total": 3,
-              "percentage": "14.29%"
+              "percentage": "13.64%"
             },
             "16-30": {
               "total": 3,
-              "percentage": "14.29%"
+              "percentage": "13.64%"
             },
             "31-45": {
               "total": 1,
-              "percentage": "4.76%"
+              "percentage": "4.55%"
             },
             "46-60": {
-              "total": 6,
-              "percentage": "28.57%"
+              "total": 7,
+              "percentage": "31.82%"
             },
             "61-75": {
               "total": 1,
-              "percentage": "4.76%"
+              "percentage": "4.55%"
             },
             "76-90": {
               "total": 7,
-              "percentage": "33.33%"
+              "percentage": "31.82%"
             },
             "91-105": {
               "total": null,
@@ -104669,27 +103968,27 @@
           "minute": {
             "0-15": {
               "total": 4,
-              "percentage": "11.43%"
+              "percentage": "11.76%"
             },
             "16-30": {
               "total": 4,
-              "percentage": "11.43%"
+              "percentage": "11.76%"
             },
             "31-45": {
               "total": 8,
-              "percentage": "22.86%"
+              "percentage": "23.53%"
             },
             "46-60": {
-              "total": 6,
-              "percentage": "17.14%"
+              "total": 5,
+              "percentage": "14.71%"
             },
             "61-75": {
               "total": 6,
-              "percentage": "17.14%"
+              "percentage": "17.65%"
             },
             "76-90": {
               "total": 7,
-              "percentage": "20.00%"
+              "percentage": "20.59%"
             },
             "91-105": {
               "total": null,
@@ -108861,708 +108160,7 @@
         }
       }
     },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1607591,
-          "referee": "Danilo Nikolic, Serbia",
-          "timezone": "UTC",
-          "date": "2026-08-06T16:00:00+00:00",
-          "timestamp": 1786032000,
-          "periods": {
-            "first": 1786032000,
-            "second": 1786035600
-          },
-          "venue": {
-            "id": null,
-            "name": "A. Le Coq Arena",
-            "city": "Tallinn"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 848,
-          "name": "UEFA Europa Conference League",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/848.png",
-          "flag": null,
-          "season": 2026,
-          "round": "3rd Qualifying Round",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 3528,
-            "name": "Paide",
-            "logo": "https://media.api-sports.io/football/teams/3528.png",
-            "winner": false
-          },
-          "away": {
-            "id": 781,
-            "name": "Rapid Vienna",
-            "logo": "https://media.api-sports.io/football/teams/781.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 4
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 4
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1561899,
-          "referee": "J. Semler",
-          "timezone": "UTC",
-          "date": "2026-08-02T17:00:00+00:00",
-          "timestamp": 1785690000,
-          "periods": {
-            "first": 1785690000,
-            "second": 1785693600
-          },
-          "venue": {
-            "id": null,
-            "name": "Allianz Stadion",
-            "city": "Vienna"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 218,
-          "name": "Bundesliga",
-          "country": "Austria",
-          "logo": "https://media.api-sports.io/football/leagues/218.png",
-          "flag": "https://media.api-sports.io/flags/at.svg",
-          "season": 2026,
-          "round": "Regular Season - 1",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 781,
-            "name": "Rapid Vienna",
-            "logo": "https://media.api-sports.io/football/teams/781.png",
-            "winner": true
-          },
-          "away": {
-            "id": 618,
-            "name": "SCR Altach",
-            "logo": "https://media.api-sports.io/football/teams/618.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1593514,
-          "referee": "Visar Kastrati, Kosovo",
-          "timezone": "UTC",
-          "date": "2026-07-29T18:30:00+00:00",
-          "timestamp": 1785349800,
-          "periods": {
-            "first": 1785349800,
-            "second": 1785353400
-          },
-          "venue": {
-            "id": null,
-            "name": "Allianz Stadion",
-            "city": "Vienna"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 848,
-          "name": "UEFA Europa Conference League",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/848.png",
-          "flag": null,
-          "season": 2026,
-          "round": "2nd Qualifying Round",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 781,
-            "name": "Rapid Vienna",
-            "logo": "https://media.api-sports.io/football/teams/781.png",
-            "winner": true
-          },
-          "away": {
-            "id": 591,
-            "name": "FC Santa Coloma",
-            "logo": "https://media.api-sports.io/football/teams/591.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 6,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 6,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1560901,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-26T18:30:00+00:00",
-          "timestamp": 1785090600,
-          "periods": {
-            "first": 1785090600,
-            "second": 1785094200
-          },
-          "venue": {
-            "id": null,
-            "name": "Wienerberg Arena",
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 220,
-          "name": "Cup",
-          "country": "Austria",
-          "logo": "https://media.api-sports.io/football/leagues/220.png",
-          "flag": "https://media.api-sports.io/flags/at.svg",
-          "season": 2026,
-          "round": "Round of 64",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 5008,
-            "name": "Wienerberg",
-            "logo": "https://media.api-sports.io/football/teams/5008.png",
-            "winner": false
-          },
-          "away": {
-            "id": 781,
-            "name": "Rapid Vienna",
-            "logo": "https://media.api-sports.io/football/teams/781.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1593485,
-          "referee": "Matthew MacDermid, Scotland",
-          "timezone": "UTC",
-          "date": "2026-07-23T17:00:00+00:00",
-          "timestamp": 1784826000,
-          "periods": {
-            "first": 1784826000,
-            "second": 1784829600
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadi Nacional",
-            "city": "Andorra la Vella"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 848,
-          "name": "UEFA Europa Conference League",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/848.png",
-          "flag": null,
-          "season": 2026,
-          "round": "2nd Qualifying Round",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 591,
-            "name": "FC Santa Coloma",
-            "logo": "https://media.api-sports.io/football/teams/591.png",
-            "winner": false
-          },
-          "away": {
-            "id": 781,
-            "name": "Rapid Vienna",
-            "logo": "https://media.api-sports.io/football/teams/781.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1560748,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-18T17:00:00+00:00",
-          "timestamp": 1784394000,
-          "periods": {
-            "first": 1784394000,
-            "second": 1784397600
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 781,
-            "name": "Rapid Vienna",
-            "logo": "https://media.api-sports.io/football/teams/781.png",
-            "winner": true
-          },
-          "away": {
-            "id": 175,
-            "name": "Hamburger SV",
-            "logo": "https://media.api-sports.io/football/teams/175.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1583324,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-15T16:00:00+00:00",
-          "timestamp": 1784131200,
-          "periods": {
-            "first": 1784131200,
-            "second": 1784134800
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 781,
-            "name": "Rapid Vienna",
-            "logo": "https://media.api-sports.io/football/teams/781.png",
-            "winner": true
-          },
-          "away": {
-            "id": 617,
-            "name": "Panathinaikos",
-            "logo": "https://media.api-sports.io/football/teams/617.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 4,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1548834,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-12T13:00:00+00:00",
-          "timestamp": 1783861200,
-          "periods": {
-            "first": 1783861200,
-            "second": 1783864800
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 22213,
-            "name": "WSPG Wels",
-            "logo": "https://media.api-sports.io/football/teams/22213.png",
-            "winner": false
-          },
-          "away": {
-            "id": 781,
-            "name": "Rapid Vienna",
-            "logo": "https://media.api-sports.io/football/teams/781.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1548783,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-05T15:15:00+00:00",
-          "timestamp": 1783264500,
-          "periods": {
-            "first": 1783264500,
-            "second": 1783268100
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 781,
-            "name": "Rapid Vienna",
-            "logo": "https://media.api-sports.io/football/teams/781.png",
-            "winner": null
-          },
-          "away": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1554751,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-05T13:00:00+00:00",
-          "timestamp": 1783256400,
-          "periods": {
-            "first": 1783256400,
-            "second": 1783260000
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 1
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 781,
-            "name": "Rapid Vienna",
-            "logo": "https://media.api-sports.io/football/teams/781.png",
-            "winner": null
-          },
-          "away": {
-            "id": 3724,
-            "name": "Pardubice",
-            "logo": "https://media.api-sports.io/football/teams/3724.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
+    "lastFixtures": []
   },
   "783": {
     "statistics": {
@@ -118176,7 +116774,7 @@
       {
         "fixture": {
           "id": 1551057,
-          "referee": "M. Velikov",
+          "referee": "Martin Velikov, Bulgaria",
           "timezone": "UTC",
           "date": "2026-07-27T18:15:00+00:00",
           "timestamp": 1785176100,
@@ -118186,7 +116784,7 @@
           },
           "venue": {
             "id": null,
-            "name": "National Stadium Vasil Levski",
+            "name": "Vasil Levski National Stadium",
             "city": "Sofia"
           },
           "status": {
@@ -118316,7 +116914,7 @@
       {
         "fixture": {
           "id": 1551052,
-          "referee": "R. Gidzhenov",
+          "referee": "Radoslav Gidzhenov, Bulgaria",
           "timezone": "UTC",
           "date": "2026-07-20T16:15:00+00:00",
           "timestamp": 1784564100,
@@ -119112,7 +117710,7 @@
       {
         "fixture": {
           "id": 1551051,
-          "referee": "V. Mitrev",
+          "referee": "Ventsislav Mitrev, Bulgaria",
           "timezone": "UTC",
           "date": "2026-07-18T16:00:00+00:00",
           "timestamp": 1784390400,
@@ -119122,7 +117720,7 @@
           },
           "venue": {
             "id": null,
-            "name": "National Stadium Vasil Levski",
+            "name": "Vasil Levski National Stadium",
             "city": "Sofia"
           },
           "status": {
@@ -121968,7 +120566,7 @@
       {
         "fixture": {
           "id": 1607597,
-          "referee": "Adam Ladeback, Sweden",
+          "referee": "A. Ladeback",
           "timezone": "UTC",
           "date": "2026-08-06T17:00:00+00:00",
           "timestamp": 1786035600,
@@ -121978,7 +120576,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Sheriff Stadium",
+            "name": "Sheriff Arena",
             "city": "Tiraspol"
           },
           "status": {
@@ -125980,7 +124578,7 @@
       {
         "fixture": {
           "id": 1561898,
-          "referee": "A. Harkam",
+          "referee": "Alexander Harkam, Austria",
           "timezone": "UTC",
           "date": "2026-08-02T15:00:00+00:00",
           "timestamp": 1785682800,
@@ -126982,7 +125580,7 @@
       {
         "fixture": {
           "id": 1561894,
-          "referee": "S. Gishamer",
+          "referee": "Sebastian Gishamer, Austria",
           "timezone": "UTC",
           "date": "2026-07-31T17:30:00+00:00",
           "timestamp": 1785519000,
@@ -127984,7 +126582,7 @@
       {
         "fixture": {
           "id": 1561897,
-          "referee": "H. Lechner",
+          "referee": "Harald Lechner, Austria",
           "timezone": "UTC",
           "date": "2026-08-02T15:00:00+00:00",
           "timestamp": 1785682800,
@@ -128997,8 +127595,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493054,
+          "referee": "N. Ramirez",
+          "timezone": "UTC",
+          "date": "2026-08-09T00:30:00+00:00",
+          "timestamp": 1786235400,
+          "periods": {
+            "first": 1786235400,
+            "second": 1786239000
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": "Avellaneda"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 79,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 4",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 453,
+            "name": "Independiente",
+            "logo": "https://media.api-sports.io/football/teams/453.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1064,
+            "name": "Platense",
+            "logo": "https://media.api-sports.io/football/teams/1064.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493042,
-          "referee": "Daniel Zamora, Argentina",
+          "referee": "D. Zamora",
           "timezone": "UTC",
           "date": "2026-08-03T22:00:00+00:00",
           "timestamp": 1785794400,
@@ -129009,7 +127677,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Ciudad de Vicente Lopez",
-            "city": "Florida"
+            "city": "Buenos Aires"
           },
           "status": {
             "long": "Match Finished",
@@ -129624,76 +128292,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1492053,
-          "referee": "H. Mastrangelo",
-          "timezone": "UTC",
-          "date": "2026-04-25T00:30:00+00:00",
-          "timestamp": 1777077000,
-          "periods": {
-            "first": 1777077000,
-            "second": 1777080600
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Ciudad de Vicente Lopez",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1064,
-            "name": "Platense",
-            "logo": "https://media.api-sports.io/football/teams/1064.png",
-            "winner": false
-          },
-          "away": {
-            "id": 460,
-            "name": "San Lorenzo",
-            "logo": "https://media.api-sports.io/football/teams/460.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -129757,12 +128355,12 @@
               "percentage": "5.88%"
             },
             "31-45": {
-              "total": 2,
-              "percentage": "11.76%"
-            },
-            "46-60": {
               "total": 5,
               "percentage": "29.41%"
+            },
+            "46-60": {
+              "total": 2,
+              "percentage": "11.76%"
             },
             "61-75": {
               "total": 4,
@@ -129837,12 +128435,12 @@
               "percentage": "17.39%"
             },
             "76-90": {
-              "total": 6,
-              "percentage": "26.09%"
+              "total": 7,
+              "percentage": "30.43%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "4.35%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -130027,8 +128625,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493056,
+          "referee": "S. Zunino",
+          "timezone": "UTC",
+          "date": "2026-08-09T00:30:00+00:00",
+          "timestamp": 1786235400,
+          "periods": {
+            "first": 1786235400,
+            "second": 1786239000
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Presidente Peron",
+            "city": "Cordoba"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 88,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 4",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 478,
+            "name": "Instituto Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/478.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1066,
+            "name": "Gimnasia M.",
+            "logo": "https://media.api-sports.io/football/teams/1066.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493038,
-          "referee": "Juan Pablo Loustau, Argentina",
+          "referee": "J. P. Loustau",
           "timezone": "UTC",
           "date": "2026-08-01T18:30:00+00:00",
           "timestamp": 1785609000,
@@ -130038,7 +128706,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Víctor Legrotaglie",
+            "name": "Victor Legrotaglie",
             "city": "Mendoza"
           },
           "status": {
@@ -130098,7 +128766,7 @@
       {
         "fixture": {
           "id": 1493028,
-          "referee": "Fernando Echenique, Argentina",
+          "referee": "F. Echenique",
           "timezone": "UTC",
           "date": "2026-07-28T22:00:00+00:00",
           "timestamp": 1785276000,
@@ -130108,7 +128776,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Pedro Bidegain",
+            "name": "Estadio Pedro Bidegain",
             "city": "Buenos Aires"
           },
           "status": {
@@ -130168,7 +128836,7 @@
       {
         "fixture": {
           "id": 1493008,
-          "referee": "Carlos Andres Gariano, Argentina",
+          "referee": "A. Gariano",
           "timezone": "UTC",
           "date": "2026-07-24T19:45:00+00:00",
           "timestamp": 1784922300,
@@ -130178,7 +128846,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Víctor Legrotaglie",
+            "name": "Victor Legrotaglie",
             "city": "Mendoza"
           },
           "status": {
@@ -130518,7 +129186,7 @@
       {
         "fixture": {
           "id": 1492024,
-          "referee": "Juan Pablo Loustau, Argentina",
+          "referee": "J. P. Loustau",
           "timezone": "UTC",
           "date": "2026-04-12T18:00:00+00:00",
           "timestamp": 1776016800,
@@ -130529,7 +129197,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Ciudad de Vicente Lopez",
-            "city": "Florida"
+            "city": "Buenos Aires"
           },
           "status": {
             "long": "Match Finished",
@@ -130644,76 +129312,6 @@
           "fulltime": {
             "home": 3,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1491995,
-          "referee": "Sebastian Zunino, Argentina",
-          "timezone": "UTC",
-          "date": "2026-03-21T20:45:00+00:00",
-          "timestamp": 1774125900,
-          "periods": {
-            "first": 1774125900,
-            "second": 1774129500
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Marcelo Bielsa",
-            "city": "Rosario"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - 12",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 457,
-            "name": "Newells Old Boys",
-            "logo": "https://media.api-sports.io/football/teams/457.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1066,
-            "name": "Gimnasia M.",
-            "logo": "https://media.api-sports.io/football/teams/1066.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -133734,313 +132332,12 @@
     ]
   },
   "1122": {
-    "statistics": {
-      "league": {
-        "id": 345,
-        "name": "Czech Liga",
-        "country": "Czech-Republic",
-        "logo": "https://media.api-sports.io/football/leagues/345.png",
-        "flag": "https://media.api-sports.io/flags/cz.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 1122,
-        "name": "FK Jablonec",
-        "logo": "https://media.api-sports.io/football/teams/1122.png"
-      },
-      "form": "WW",
-      "fixtures": {
-        "played": {
-          "home": 1,
-          "away": 1,
-          "total": 2
-        },
-        "wins": {
-          "home": 1,
-          "away": 1,
-          "total": 2
-        },
-        "draws": {
-          "home": 0,
-          "away": 0,
-          "total": 0
-        },
-        "loses": {
-          "home": 0,
-          "away": 0,
-          "total": 0
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 2,
-            "away": 2,
-            "total": 4
-          },
-          "average": {
-            "home": "2.0",
-            "away": "2.0",
-            "total": "2.0"
-          },
-          "minute": {
-            "0-15": {
-              "total": null,
-              "percentage": null
-            },
-            "16-30": {
-              "total": null,
-              "percentage": null
-            },
-            "31-45": {
-              "total": 1,
-              "percentage": "33.33%"
-            },
-            "46-60": {
-              "total": 1,
-              "percentage": "33.33%"
-            },
-            "61-75": {
-              "total": 1,
-              "percentage": "33.33%"
-            },
-            "76-90": {
-              "total": null,
-              "percentage": null
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 2,
-              "under": 0
-            },
-            "1.5": {
-              "over": 2,
-              "under": 0
-            },
-            "2.5": {
-              "over": 0,
-              "under": 2
-            },
-            "3.5": {
-              "over": 0,
-              "under": 2
-            },
-            "4.5": {
-              "over": 0,
-              "under": 2
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 1,
-            "away": 0,
-            "total": 1
-          },
-          "average": {
-            "home": "1.0",
-            "away": "0.0",
-            "total": "0.5"
-          },
-          "minute": {
-            "0-15": {
-              "total": 1,
-              "percentage": "50.00%"
-            },
-            "16-30": {
-              "total": 1,
-              "percentage": "50.00%"
-            },
-            "31-45": {
-              "total": null,
-              "percentage": null
-            },
-            "46-60": {
-              "total": null,
-              "percentage": null
-            },
-            "61-75": {
-              "total": null,
-              "percentage": null
-            },
-            "76-90": {
-              "total": null,
-              "percentage": null
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 1,
-              "under": 1
-            },
-            "1.5": {
-              "over": 0,
-              "under": 2
-            },
-            "2.5": {
-              "over": 0,
-              "under": 2
-            },
-            "3.5": {
-              "over": 0,
-              "under": 2
-            },
-            "4.5": {
-              "over": 0,
-              "under": 2
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 2,
-          "draws": 0,
-          "loses": 0
-        },
-        "wins": {
-          "home": "2-1",
-          "away": "0-2"
-        },
-        "loses": {
-          "home": null,
-          "away": null
-        },
-        "goals": {
-          "for": {
-            "home": 2,
-            "away": 2
-          },
-          "against": {
-            "home": 1,
-            "away": 0
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 0,
-        "away": 1,
-        "total": 1
-      },
-      "failed_to_score": {
-        "home": 0,
-        "away": 0,
-        "total": 0
-      },
-      "penalty": {
-        "scored": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "missed": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "total": 0
-      },
-      "lineups": [
-        {
-          "formation": "4-2-3-1",
-          "played": 1
-        },
-        {
-          "formation": "3-4-1-2",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": 1,
-            "percentage": "50.00%"
-          },
-          "76-90": {
-            "total": 1,
-            "percentage": "50.00%"
-          },
-          "91-105": {
-            "total": null,
-            "percentage": null
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": null,
-            "percentage": null
-          },
-          "91-105": {
-            "total": null,
-            "percentage": null
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
+    "statistics": null,
     "lastFixtures": [
       {
         "fixture": {
           "id": 1607588,
-          "referee": "Nathan Verboomen, Belgium",
+          "referee": "N. Verboomen",
           "timezone": "UTC",
           "date": "2026-08-06T16:00:00+00:00",
           "timestamp": 1786032000,
@@ -134050,8 +132347,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Střelnice",
-            "city": "Jablonec"
+            "name": "Stadion Strelnice",
+            "city": "Jablonec nad Nisou"
           },
           "status": {
             "long": "Match Finished",
@@ -134110,7 +132407,7 @@
       {
         "fixture": {
           "id": 1559970,
-          "referee": "A. Bohata",
+          "referee": "Antonin Bohata, Czechia",
           "timezone": "UTC",
           "date": "2026-08-02T18:00:00+00:00",
           "timestamp": 1785693600,
@@ -134120,7 +132417,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Arnosta Kostala",
+            "name": "Letni Stadion",
             "city": "Pardubice"
           },
           "status": {
@@ -134180,7 +132477,7 @@
       {
         "fixture": {
           "id": 1556535,
-          "referee": "Florjan Lata, Albania",
+          "referee": "F. Lata",
           "timezone": "UTC",
           "date": "2026-07-30T16:00:00+00:00",
           "timestamp": 1785427200,
@@ -134190,8 +132487,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Střelnice",
-            "city": "Jablonec"
+            "name": "Stadion Strelnice",
+            "city": "Jablonec nad Nisou"
           },
           "status": {
             "long": "Match Finished",
@@ -134320,7 +132617,7 @@
       {
         "fixture": {
           "id": 1556523,
-          "referee": "Matteo Marchetti, Italy",
+          "referee": "M. Marchetti",
           "timezone": "UTC",
           "date": "2026-07-23T18:00:00+00:00",
           "timestamp": 1784829600,
@@ -134330,7 +132627,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Varteks",
+            "name": "Gradski stadion Varazdin",
             "city": "Varaždin"
           },
           "status": {
@@ -134740,329 +133037,12 @@
     ]
   },
   "1163": {
-    "statistics": {
-      "league": {
-        "id": 244,
-        "name": "Veikkausliiga",
-        "country": "Finland",
-        "logo": "https://media.api-sports.io/football/leagues/244.png",
-        "flag": "https://media.api-sports.io/flags/fi.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 1163,
-        "name": "Ilves",
-        "logo": "https://media.api-sports.io/football/teams/1163.png"
-      },
-      "form": "LLDLDWDLWLWWLDLWWL",
-      "fixtures": {
-        "played": {
-          "home": 8,
-          "away": 10,
-          "total": 18
-        },
-        "wins": {
-          "home": 5,
-          "away": 1,
-          "total": 6
-        },
-        "draws": {
-          "home": 1,
-          "away": 3,
-          "total": 4
-        },
-        "loses": {
-          "home": 2,
-          "away": 6,
-          "total": 8
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 14,
-            "away": 15,
-            "total": 29
-          },
-          "average": {
-            "home": "1.8",
-            "away": "1.5",
-            "total": "1.6"
-          },
-          "minute": {
-            "0-15": {
-              "total": 5,
-              "percentage": "16.67%"
-            },
-            "16-30": {
-              "total": 6,
-              "percentage": "20.00%"
-            },
-            "31-45": {
-              "total": 5,
-              "percentage": "16.67%"
-            },
-            "46-60": {
-              "total": 5,
-              "percentage": "16.67%"
-            },
-            "61-75": {
-              "total": 4,
-              "percentage": "13.33%"
-            },
-            "76-90": {
-              "total": 5,
-              "percentage": "16.67%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 16,
-              "under": 2
-            },
-            "1.5": {
-              "over": 8,
-              "under": 10
-            },
-            "2.5": {
-              "over": 3,
-              "under": 15
-            },
-            "3.5": {
-              "over": 1,
-              "under": 17
-            },
-            "4.5": {
-              "over": 1,
-              "under": 17
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 8,
-            "away": 23,
-            "total": 31
-          },
-          "average": {
-            "home": "1.0",
-            "away": "2.3",
-            "total": "1.7"
-          },
-          "minute": {
-            "0-15": {
-              "total": 4,
-              "percentage": "13.33%"
-            },
-            "16-30": {
-              "total": 5,
-              "percentage": "16.67%"
-            },
-            "31-45": {
-              "total": 9,
-              "percentage": "30.00%"
-            },
-            "46-60": {
-              "total": 5,
-              "percentage": "16.67%"
-            },
-            "61-75": {
-              "total": 2,
-              "percentage": "6.67%"
-            },
-            "76-90": {
-              "total": 5,
-              "percentage": "16.67%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 13,
-              "under": 5
-            },
-            "1.5": {
-              "over": 10,
-              "under": 8
-            },
-            "2.5": {
-              "over": 5,
-              "under": 13
-            },
-            "3.5": {
-              "over": 2,
-              "under": 16
-            },
-            "4.5": {
-              "over": 1,
-              "under": 17
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 2,
-          "draws": 1,
-          "loses": 2
-        },
-        "wins": {
-          "home": "5-0",
-          "away": "1-3"
-        },
-        "loses": {
-          "home": "1-3",
-          "away": "5-0"
-        },
-        "goals": {
-          "for": {
-            "home": 5,
-            "away": 3
-          },
-          "against": {
-            "home": 3,
-            "away": 5
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 5,
-        "away": 0,
-        "total": 5
-      },
-      "failed_to_score": {
-        "home": 0,
-        "away": 2,
-        "total": 2
-      },
-      "penalty": {
-        "scored": {
-          "total": 6,
-          "percentage": "100.00%"
-        },
-        "missed": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "total": 6
-      },
-      "lineups": [
-        {
-          "formation": "3-4-2-1",
-          "played": 9
-        },
-        {
-          "formation": "4-2-3-1",
-          "played": 2
-        },
-        {
-          "formation": "4-3-3",
-          "played": 2
-        },
-        {
-          "formation": "4-4-2",
-          "played": 1
-        },
-        {
-          "formation": "4-3-1-2",
-          "played": 1
-        },
-        {
-          "formation": "3-4-3",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 3,
-            "percentage": "10.34%"
-          },
-          "16-30": {
-            "total": 3,
-            "percentage": "10.34%"
-          },
-          "31-45": {
-            "total": 4,
-            "percentage": "13.79%"
-          },
-          "46-60": {
-            "total": 5,
-            "percentage": "17.24%"
-          },
-          "61-75": {
-            "total": 3,
-            "percentage": "10.34%"
-          },
-          "76-90": {
-            "total": 7,
-            "percentage": "24.14%"
-          },
-          "91-105": {
-            "total": 4,
-            "percentage": "13.79%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": 1,
-            "percentage": "100.00%"
-          },
-          "76-90": {
-            "total": null,
-            "percentage": null
-          },
-          "91-105": {
-            "total": null,
-            "percentage": null
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
+    "statistics": null,
     "lastFixtures": [
       {
         "fixture": {
           "id": 1607596,
-          "referee": "Ishmael Barbara, Malta",
+          "referee": "I. Barbara",
           "timezone": "UTC",
           "date": "2026-08-06T18:45:00+00:00",
           "timestamp": 1786041900,
@@ -135072,7 +133052,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion HNK Rijeka Dean Šćulac",
+            "name": "Stadion HNK Rijeka",
             "city": "Rijeka"
           },
           "status": {
@@ -135202,7 +133182,7 @@
       {
         "fixture": {
           "id": 1593506,
-          "referee": "Mervan Bejtullahu, Kosovo",
+          "referee": "M. Bejtullahu",
           "timezone": "UTC",
           "date": "2026-07-30T16:00:00+00:00",
           "timestamp": 1785427200,
@@ -135212,7 +133192,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Tammela Stadium",
+            "name": "Tammelan Stadion",
             "city": "Tampere"
           },
           "status": {
@@ -135482,7 +133462,7 @@
       {
         "fixture": {
           "id": 1554423,
-          "referee": "Jacob A. Sundberg, Denmark",
+          "referee": "J. Sundberg",
           "timezone": "UTC",
           "date": "2026-07-16T16:00:00+00:00",
           "timestamp": 1784217600,
@@ -135492,7 +133472,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Tammela Stadium",
+            "name": "Tammelan Stadion",
             "city": "Tampere"
           },
           "status": {
@@ -136072,7 +134052,7 @@
       {
         "fixture": {
           "id": 1607587,
-          "referee": "Eric Wattellier, France",
+          "referee": "E. Wattellier",
           "timezone": "UTC",
           "date": "2026-08-06T15:00:00+00:00",
           "timestamp": 1786028400,
@@ -136082,7 +134062,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Veritas Stadium",
+            "name": "Veritas Stadion",
             "city": "Turku"
           },
           "status": {
@@ -136212,7 +134192,7 @@
       {
         "fixture": {
           "id": 1593507,
-          "referee": "Nathan Verboomen, Belgium",
+          "referee": "N. Verboomen",
           "timezone": "UTC",
           "date": "2026-07-30T16:00:00+00:00",
           "timestamp": 1785427200,
@@ -136222,7 +134202,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Veritas Stadium",
+            "name": "Veritas Stadion",
             "city": "Turku"
           },
           "status": {
@@ -136492,7 +134472,7 @@
       {
         "fixture": {
           "id": 1554424,
-          "referee": "Karel Roucek, Czechia",
+          "referee": "K. Roucek",
           "timezone": "UTC",
           "date": "2026-07-16T15:00:00+00:00",
           "timestamp": 1784214000,
@@ -136502,7 +134482,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Veritas Stadium",
+            "name": "Veritas Stadion",
             "city": "Turku"
           },
           "status": {
@@ -143187,7 +141167,7 @@
       {
         "fixture": {
           "id": 1556535,
-          "referee": "Florjan Lata, Albania",
+          "referee": "F. Lata",
           "timezone": "UTC",
           "date": "2026-07-30T16:00:00+00:00",
           "timestamp": 1785427200,
@@ -143197,8 +141177,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Střelnice",
-            "city": "Jablonec"
+            "name": "Stadion Strelnice",
+            "city": "Jablonec nad Nisou"
           },
           "status": {
             "long": "Match Finished",
@@ -143257,7 +141237,7 @@
       {
         "fixture": {
           "id": 1556523,
-          "referee": "Matteo Marchetti, Italy",
+          "referee": "M. Marchetti",
           "timezone": "UTC",
           "date": "2026-07-23T18:00:00+00:00",
           "timestamp": 1784829600,
@@ -143267,7 +141247,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Varteks",
+            "name": "Gradski stadion Varazdin",
             "city": "Varaždin"
           },
           "status": {
@@ -148282,7 +146262,7 @@
       {
         "fixture": {
           "id": 1556512,
-          "referee": "Peiman Simani, Finland",
+          "referee": "P. Simani",
           "timezone": "UTC",
           "date": "2026-07-23T17:00:00+00:00",
           "timestamp": 1784826000,
@@ -150158,7 +148138,7 @@
       {
         "fixture": {
           "id": 1559974,
-          "referee": "D. Vokoun",
+          "referee": "Daniel Vokoun, Czechia",
           "timezone": "UTC",
           "date": "2026-08-02T13:00:00+00:00",
           "timestamp": 1785675600,
@@ -150168,7 +148148,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Andruv stadion",
+            "name": "Andruv Stadion",
             "city": "Olomouc"
           },
           "status": {
@@ -150929,12 +148909,12 @@
               "percentage": "27.78%"
             },
             "76-90": {
-              "total": 1,
-              "percentage": "5.56%"
+              "total": 2,
+              "percentage": "11.11%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "5.56%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -151172,7 +149152,7 @@
       {
         "fixture": {
           "id": 1493035,
-          "referee": "Dario Herrera, Argentina",
+          "referee": "D. Herrera",
           "timezone": "UTC",
           "date": "2026-08-02T17:30:00+00:00",
           "timestamp": 1785691800,
@@ -151183,7 +149163,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Guillermo Laza",
-            "city": "Flores"
+            "city": "Buenos Aires"
           },
           "status": {
             "long": "Match Finished",
@@ -151312,7 +149292,7 @@
       {
         "fixture": {
           "id": 1493014,
-          "referee": "Nazareno Arasa, Argentina",
+          "referee": "N. Arasa",
           "timezone": "UTC",
           "date": "2026-07-25T22:15:00+00:00",
           "timestamp": 1785017700,
@@ -151662,7 +149642,7 @@
       {
         "fixture": {
           "id": 1491939,
-          "referee": "Dario Herrera, Argentina",
+          "referee": "D. Herrera",
           "timezone": "UTC",
           "date": "2026-05-02T17:00:00+00:00",
           "timestamp": 1777741200,
@@ -151672,7 +149652,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Claudio Chiqui Tapia",
+            "name": "Claudio Fabian Tapia",
             "city": "Barracas"
           },
           "status": {
@@ -151732,7 +149712,7 @@
       {
         "fixture": {
           "id": 1535171,
-          "referee": "K. Ortega",
+          "referee": "Kevin Ortega, Peru",
           "timezone": "UTC",
           "date": "2026-04-29T00:00:00+00:00",
           "timestamp": 1777420800,
@@ -151742,8 +149722,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Florencio Sola",
-            "city": "Buenos Aires"
+            "name": "Estadio Claudio Chiqui Tapia",
+            "city": "Barracas"
           },
           "status": {
             "long": "Match Finished",
@@ -152182,7 +150162,7 @@
       {
         "fixture": {
           "id": 1565200,
-          "referee": "A. Moroita",
+          "referee": "Andrei Moroita, Romania",
           "timezone": "UTC",
           "date": "2026-07-31T15:30:00+00:00",
           "timestamp": 1785511800,
@@ -152252,7 +150232,7 @@
       {
         "fixture": {
           "id": 1565195,
-          "referee": "H. Fesnic",
+          "referee": "Horatiu Fesnic, Romania",
           "timezone": "UTC",
           "date": "2026-07-24T18:30:00+00:00",
           "timestamp": 1784917800,
@@ -152322,7 +150302,7 @@
       {
         "fixture": {
           "id": 1565185,
-          "referee": "M. Barbu",
+          "referee": "Marian Barbu, Romania",
           "timezone": "UTC",
           "date": "2026-07-17T18:30:00+00:00",
           "timestamp": 1784313000,
@@ -152332,7 +150312,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadionul Steaua",
+            "name": "National Arena",
             "city": "Bucharest"
           },
           "status": {
@@ -153188,7 +151168,7 @@
       {
         "fixture": {
           "id": 1565206,
-          "referee": "M. Barbu",
+          "referee": "Marian Barbu, Romania",
           "timezone": "UTC",
           "date": "2026-08-01T18:30:00+00:00",
           "timestamp": 1785609000,
@@ -153258,7 +151238,7 @@
       {
         "fixture": {
           "id": 1565195,
-          "referee": "H. Fesnic",
+          "referee": "Horatiu Fesnic, Romania",
           "timezone": "UTC",
           "date": "2026-07-24T18:30:00+00:00",
           "timestamp": 1784917800,
@@ -153328,7 +151308,7 @@
       {
         "fixture": {
           "id": 1565188,
-          "referee": "G. Catalin",
+          "referee": "George Catalin Roman, Romania",
           "timezone": "UTC",
           "date": "2026-07-19T16:30:00+00:00",
           "timestamp": 1784478600,
@@ -157181,7 +155161,7 @@
       {
         "fixture": {
           "id": 1607584,
-          "referee": "Bastien Dechepy, France",
+          "referee": "B. Dechepy",
           "timezone": "UTC",
           "date": "2026-08-06T18:00:00+00:00",
           "timestamp": 1786039200,
@@ -157321,7 +155301,7 @@
       {
         "fixture": {
           "id": 1593505,
-          "referee": "Bence Csonka, Hungary",
+          "referee": "B. Csonka",
           "timezone": "UTC",
           "date": "2026-07-30T18:30:00+00:00",
           "timestamp": 1785436200,
@@ -157331,7 +155311,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadium Katovice",
+            "name": "Stadion miejski w Katowicach",
             "city": "Katowice"
           },
           "status": {
@@ -157461,7 +155441,7 @@
       {
         "fixture": {
           "id": 1593496,
-          "referee": "Sven Wolfensberger, Switzerland",
+          "referee": "S. Wolfensberger",
           "timezone": "UTC",
           "date": "2026-07-23T18:30:00+00:00",
           "timestamp": 1784831400,
@@ -159180,7 +157160,7 @@
       {
         "fixture": {
           "id": 1607594,
-          "referee": "Henrik Nalbandyan, Armenia",
+          "referee": "H. Nalbandyan",
           "timezone": "UTC",
           "date": "2026-08-06T17:00:00+00:00",
           "timestamp": 1786035600,
@@ -159190,7 +157170,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Miejski Stadion Piłkarski Raków w Częstochowie",
+            "name": "Miejski Stadion Pilkarski Rakow",
             "city": "Czestochowa"
           },
           "status": {
@@ -159320,7 +157300,7 @@
       {
         "fixture": {
           "id": 1556541,
-          "referee": "Pavle Ilic, Serbia",
+          "referee": "P. Ilic",
           "timezone": "UTC",
           "date": "2026-07-30T17:30:00+00:00",
           "timestamp": 1785432600,
@@ -165167,7 +163147,7 @@
       {
         "fixture": {
           "id": 1559972,
-          "referee": "S. Volek",
+          "referee": "Stanislav Volek, Czechia",
           "timezone": "UTC",
           "date": "2026-08-01T15:00:00+00:00",
           "timestamp": 1785596400,
@@ -165177,7 +163157,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Mestsky stadion v Ostrave-Vitkovicich",
+            "name": "Městský stadion (Ostrava-Vítkovice)",
             "city": "Ostrava"
           },
           "status": {
@@ -165237,7 +163217,7 @@
       {
         "fixture": {
           "id": 1559968,
-          "referee": "D. Cerny",
+          "referee": "Dalibor Cerny, Czechia",
           "timezone": "UTC",
           "date": "2026-07-25T15:00:00+00:00",
           "timestamp": 1784991600,
@@ -166169,7 +164149,7 @@
       {
         "fixture": {
           "id": 1559975,
-          "referee": "M. Pansky",
+          "referee": "Michal Pansky, Czechia",
           "timezone": "UTC",
           "date": "2026-08-01T15:00:00+00:00",
           "timestamp": 1785596400,
@@ -166179,7 +164159,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Mestsky stadion Miroslava Valenty",
+            "name": "Mestsky Fotbalovy Stadion",
             "city": "Uherske Hradiste"
           },
           "status": {
@@ -166239,7 +164219,7 @@
       {
         "fixture": {
           "id": 1559966,
-          "referee": "O. Pechanec",
+          "referee": "Ondrej Pechanec, Czechia",
           "timezone": "UTC",
           "date": "2026-07-26T13:00:00+00:00",
           "timestamp": 1785070800,
@@ -167241,7 +165221,7 @@
       {
         "fixture": {
           "id": 1559969,
-          "referee": "P. Orel",
+          "referee": "Pavel Orel, Czechia",
           "timezone": "UTC",
           "date": "2026-08-02T15:30:00+00:00",
           "timestamp": 1785684600,
@@ -167251,7 +165231,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Dolicek",
+            "name": "Dolicek Stadium",
             "city": "Prague"
           },
           "status": {
@@ -167381,7 +165361,7 @@
       {
         "fixture": {
           "id": 1559962,
-          "referee": "O. Berka",
+          "referee": "Ondrej Berka, Czechia",
           "timezone": "UTC",
           "date": "2026-07-26T18:00:00+00:00",
           "timestamp": 1785088800,
@@ -168173,7 +166153,7 @@
       {
         "fixture": {
           "id": 1559970,
-          "referee": "A. Bohata",
+          "referee": "Antonin Bohata, Czechia",
           "timezone": "UTC",
           "date": "2026-08-02T18:00:00+00:00",
           "timestamp": 1785693600,
@@ -168183,7 +166163,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadion Arnosta Kostala",
+            "name": "Letni Stadion",
             "city": "Pardubice"
           },
           "status": {
@@ -168243,7 +166223,7 @@
       {
         "fixture": {
           "id": 1559962,
-          "referee": "O. Berka",
+          "referee": "Ondrej Berka, Czechia",
           "timezone": "UTC",
           "date": "2026-07-26T18:00:00+00:00",
           "timestamp": 1785088800,
@@ -171169,7 +169149,7 @@
       {
         "fixture": {
           "id": 1559975,
-          "referee": "M. Pansky",
+          "referee": "Michal Pansky, Czechia",
           "timezone": "UTC",
           "date": "2026-08-01T15:00:00+00:00",
           "timestamp": 1785596400,
@@ -171179,7 +169159,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Mestsky stadion Miroslava Valenty",
+            "name": "Mestsky Fotbalovy Stadion",
             "city": "Uherske Hradiste"
           },
           "status": {
@@ -171239,7 +169219,7 @@
       {
         "fixture": {
           "id": 1559964,
-          "referee": "A. Trska",
+          "referee": "Adam Trska, Czechia",
           "timezone": "UTC",
           "date": "2026-07-27T16:00:00+00:00",
           "timestamp": 1785168000,
@@ -182168,7 +180148,7 @@
       {
         "fixture": {
           "id": 1565204,
-          "referee": "G. Gaman",
+          "referee": "George Catalin Gaman, Romania",
           "timezone": "UTC",
           "date": "2026-07-31T18:30:00+00:00",
           "timestamp": 1785522600,
@@ -182178,7 +180158,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadionul Otelul",
+            "name": "Stadionul Oțelul",
             "city": "Galati"
           },
           "status": {
@@ -182238,7 +180218,7 @@
       {
         "fixture": {
           "id": 1565198,
-          "referee": "S. Vadana",
+          "referee": "Sorin Dan Vadana, Romania",
           "timezone": "UTC",
           "date": "2026-07-24T15:30:00+00:00",
           "timestamp": 1784907000,
@@ -182248,7 +180228,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Arena Francisc Neuman",
+            "name": "Stadionul Francisc von Neumann",
             "city": "Arad"
           },
           "status": {
@@ -182308,7 +180288,7 @@
       {
         "fixture": {
           "id": 1565187,
-          "referee": "F. Andrei",
+          "referee": "Florin Andrei, Romania",
           "timezone": "UTC",
           "date": "2026-07-18T15:30:00+00:00",
           "timestamp": 1784388600,
@@ -182318,7 +180298,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadionul Otelul",
+            "name": "Stadionul Oțelul",
             "city": "Galati"
           },
           "status": {
@@ -185197,7 +183177,7 @@
       {
         "fixture": {
           "id": 1546855,
-          "referee": "D. Lacerda",
+          "referee": "Davi de Oliveira Lacerda, Brazil",
           "timezone": "UTC",
           "date": "2026-08-05T22:30:00+00:00",
           "timestamp": 1785969000,
@@ -185267,7 +183247,7 @@
       {
         "fixture": {
           "id": 1546847,
-          "referee": "S. Sampaio",
+          "referee": "Savio Pereira Sampaio, Brazil",
           "timezone": "UTC",
           "date": "2026-08-02T21:00:00+00:00",
           "timestamp": 1785704400,
@@ -185617,7 +183597,7 @@
       {
         "fixture": {
           "id": 1535323,
-          "referee": "C. Benitez",
+          "referee": "Carlos P. Benitez, Paraguay",
           "timezone": "UTC",
           "date": "2026-05-26T22:00:00+00:00",
           "timestamp": 1779832800,
@@ -188128,7 +186108,7 @@
         },
         {
           "formation": "4-2-3-1",
-          "played": 5
+          "played": 6
         },
         {
           "formation": "4-1-4-1",
