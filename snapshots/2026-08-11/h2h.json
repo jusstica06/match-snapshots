@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-08-10T02:18:49.266Z",
+  "generatedAt": "2026-08-11T02:16:46.674Z",
   "totalFixtures": 14,
   "uniquePairs": 14,
   "data": {
     "1493061": {
       "matches": [
+        {
+          "fixtureId": 1493061,
+          "date": "2026-08-11T00:15:00+00:00",
+          "venue": "Estadio 15 de Abril",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 441,
+          "homeTeam": "Union Santa Fe",
+          "homeWinner": false,
+          "awayTeamId": 1065,
+          "awayTeam": "Central Cordoba de Santiago",
+          "awayWinner": true,
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
         {
           "fixtureId": 1491866,
           "date": "2026-02-07T00:00:00+00:00",
@@ -130,29 +144,15 @@
           "awayWinner": false,
           "homeGoals": 2,
           "awayGoals": 0
-        },
-        {
-          "fixtureId": 329207,
-          "date": "2020-04-19T19:00:00+00:00",
-          "venue": "Estadio Alfredo Terrera",
-          "leagueName": "Copa de la Superliga",
-          "homeTeamId": 1065,
-          "homeTeam": "Central Cordoba de Santiago",
-          "homeWinner": null,
-          "awayTeamId": 441,
-          "awayTeam": "Union Santa Fe",
-          "awayWinner": null,
-          "homeGoals": null,
-          "awayGoals": null
         }
       ],
       "summary": {
         "total": 10,
         "homeWins": 2,
-        "awayWins": 6,
-        "draws": 2,
-        "homeGoals": 6,
-        "awayGoals": 16
+        "awayWins": 7,
+        "draws": 1,
+        "homeGoals": 7,
+        "awayGoals": 18
       }
     },
     "1598827": {
@@ -250,14 +250,43 @@
       }
     },
     "1598829": {
-      "matches": [],
+      "matches": [
+        {
+          "fixtureId": 1598824,
+          "date": "2026-08-04T18:00:00+00:00",
+          "venue": "Georgios Karaiskakis Stadium",
+          "leagueName": "UEFA Champions League",
+          "homeTeamId": 553,
+          "homeTeam": "Olympiakos Piraeus",
+          "homeWinner": null,
+          "awayTeamId": 413,
+          "awayTeam": "NEC Nijmegen",
+          "awayWinner": null,
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1225702,
+          "date": "2024-07-27T13:30:00+00:00",
+          "venue": "RivaKids Sport BSO Maurik",
+          "leagueName": "Friendlies Clubs",
+          "homeTeamId": 413,
+          "homeTeam": "NEC Nijmegen",
+          "homeWinner": false,
+          "awayTeamId": 553,
+          "awayTeam": "Olympiakos Piraeus",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 2
+        }
+      ],
       "summary": {
-        "total": 0,
+        "total": 2,
         "homeWins": 0,
-        "awayWins": 0,
-        "draws": 0,
+        "awayWins": 1,
+        "draws": 1,
         "homeGoals": 0,
-        "awayGoals": 0
+        "awayGoals": 2
       }
     },
     "1605371": {
