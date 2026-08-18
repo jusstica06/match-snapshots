@@ -1335,6 +1335,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493068,
+          "referee": "A. Gariano",
+          "timezone": "UTC",
+          "date": "2026-08-18T00:30:00+00:00",
+          "timestamp": 1787013000,
+          "periods": {
+            "first": 1787013000,
+            "second": 1787016600
+          },
+          "venue": {
+            "id": null,
+            "name": "Victor Legrotaglie",
+            "city": "Mendoza"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 73,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 5",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1066,
+            "name": "Gimnasia M.",
+            "logo": "https://media.api-sports.io/football/teams/1066.png",
+            "winner": true
+          },
+          "away": {
+            "id": 456,
+            "name": "Talleres Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/456.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493059,
           "referee": "L. Lobo Medina",
           "timezone": "UTC",
@@ -1952,76 +2022,6 @@
           "fulltime": {
             "home": 2,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492016,
-          "referee": "L. Lobo Medina",
-          "timezone": "UTC",
-          "date": "2026-04-13T19:30:00+00:00",
-          "timestamp": 1776108600,
-          "periods": {
-            "first": 1776108600,
-            "second": 1776112200
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Norberto Tito Tomaghello",
-            "city": "Gobernador Julio A. Costa"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - 14",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 442,
-            "name": "Defensa Y Justicia",
-            "logo": "https://media.api-sports.io/football/teams/442.png",
-            "winner": false
-          },
-          "away": {
-            "id": 456,
-            "name": "Talleres Cordoba",
-            "logo": "https://media.api-sports.io/football/teams/456.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
           },
           "extratime": {
             "home": null,
@@ -6352,7 +6352,7 @@
       {
         "fixture": {
           "id": 1494738,
-          "referee": "R. Saggi",
+          "referee": "Rohit Saggi, Norway",
           "timezone": "UTC",
           "date": "2026-08-14T17:00:00+00:00",
           "timestamp": 1786726800,
@@ -6422,7 +6422,7 @@
       {
         "fixture": {
           "id": 1494731,
-          "referee": "T. Hansen",
+          "referee": "Tore Hansen, Norway",
           "timezone": "UTC",
           "date": "2026-08-08T14:00:00+00:00",
           "timestamp": 1786197600,
@@ -6492,7 +6492,7 @@
       {
         "fixture": {
           "id": 1494722,
-          "referee": "C. Moen",
+          "referee": "Christian Moen, Norway",
           "timezone": "UTC",
           "date": "2026-08-01T16:00:00+00:00",
           "timestamp": 1785600000,
@@ -6562,7 +6562,7 @@
       {
         "fixture": {
           "id": 1494709,
-          "referee": "S. Sletner",
+          "referee": "Stian Rovig Sletner, Norway",
           "timezone": "UTC",
           "date": "2026-07-26T17:15:00+00:00",
           "timestamp": 1785086100,
@@ -6632,7 +6632,7 @@
       {
         "fixture": {
           "id": 1494680,
-          "referee": "R. Saggi",
+          "referee": "Rohit Saggi, Norway",
           "timezone": "UTC",
           "date": "2026-07-22T17:00:00+00:00",
           "timestamp": 1784739600,
@@ -6702,7 +6702,7 @@
       {
         "fixture": {
           "id": 1494707,
-          "referee": "O. Nilsen",
+          "referee": "Ola Hobber Nilsen, Norway",
           "timezone": "UTC",
           "date": "2026-07-18T16:00:00+00:00",
           "timestamp": 1784390400,
@@ -6772,7 +6772,7 @@
       {
         "fixture": {
           "id": 1494698,
-          "referee": "M. Grotta",
+          "referee": "Marius Grotta, Norway",
           "timezone": "UTC",
           "date": "2026-07-12T17:15:00+00:00",
           "timestamp": 1783876500,
@@ -6912,7 +6912,7 @@
       {
         "fixture": {
           "id": 1494671,
-          "referee": "M. Stofringshaug",
+          "referee": "Mathias Stofringshaug, Norway",
           "timezone": "UTC",
           "date": "2026-05-24T16:00:00+00:00",
           "timestamp": 1779638400,
@@ -7111,12 +7111,12 @@
               "percentage": "17.07%"
             },
             "31-45": {
-              "total": 3,
-              "percentage": "7.32%"
+              "total": 4,
+              "percentage": "9.76%"
             },
             "46-60": {
-              "total": 10,
-              "percentage": "24.39%"
+              "total": 9,
+              "percentage": "21.95%"
             },
             "61-75": {
               "total": 8,
@@ -7307,31 +7307,31 @@
         "yellow": {
           "0-15": {
             "total": 1,
-            "percentage": "3.03%"
+            "percentage": "2.94%"
           },
           "16-30": {
             "total": 1,
-            "percentage": "3.03%"
+            "percentage": "2.94%"
           },
           "31-45": {
             "total": 5,
-            "percentage": "15.15%"
+            "percentage": "14.71%"
           },
           "46-60": {
-            "total": 5,
-            "percentage": "15.15%"
+            "total": 6,
+            "percentage": "17.65%"
           },
           "61-75": {
             "total": 5,
-            "percentage": "15.15%"
+            "percentage": "14.71%"
           },
           "76-90": {
             "total": 10,
-            "percentage": "30.30%"
+            "percentage": "29.41%"
           },
           "91-105": {
             "total": 6,
-            "percentage": "18.18%"
+            "percentage": "17.65%"
           },
           "106-120": {
             "total": null,
@@ -7378,7 +7378,7 @@
       {
         "fixture": {
           "id": 1523239,
-          "referee": "Ilgiz Tantashev, Uzbekistan",
+          "referee": "I. Tantashev",
           "timezone": "UTC",
           "date": "2026-08-15T11:35:00+00:00",
           "timestamp": 1786793700,
@@ -7388,7 +7388,7 @@
           },
           "venue": {
             "id": null,
-            "name": "TEDA Football Stadium",
+            "name": "Olympic Sports Center Stadium",
             "city": "Tianjin"
           },
           "status": {
@@ -7518,7 +7518,7 @@
       {
         "fixture": {
           "id": 1523221,
-          "referee": "Liang Songshang, China",
+          "referee": "Liang Songshang",
           "timezone": "UTC",
           "date": "2026-08-01T11:35:00+00:00",
           "timestamp": 1785584100,
@@ -7588,7 +7588,7 @@
       {
         "fixture": {
           "id": 1523216,
-          "referee": "Ko Hyung-jin, South Korea",
+          "referee": "K. Hyung-Jin",
           "timezone": "UTC",
           "date": "2026-07-26T11:35:00+00:00",
           "timestamp": 1785065700,
@@ -7598,7 +7598,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Wuliangye Sports Center Stadium",
+            "name": "Chengdu Phoenix Hill Sports Park",
             "city": "Chengdu"
           },
           "status": {
@@ -7669,7 +7669,7 @@
           "venue": {
             "id": null,
             "name": "Dalian Football Youth Training Base Stadium",
-            "city": null
+            "city": "Dalian"
           },
           "status": {
             "long": "Match Finished",
@@ -7728,7 +7728,7 @@
       {
         "fixture": {
           "id": 1523203,
-          "referee": "Lei Zhang, China",
+          "referee": "Zhang Lei",
           "timezone": "UTC",
           "date": "2026-07-17T11:35:00+00:00",
           "timestamp": 1784288100,
@@ -8137,12 +8137,12 @@
               "percentage": "11.90%"
             },
             "31-45": {
-              "total": 8,
-              "percentage": "19.05%"
+              "total": 9,
+              "percentage": "21.43%"
             },
             "46-60": {
-              "total": 8,
-              "percentage": "19.05%"
+              "total": 7,
+              "percentage": "16.67%"
             },
             "61-75": {
               "total": 10,
@@ -8408,7 +8408,7 @@
       {
         "fixture": {
           "id": 1523241,
-          "referee": "Liang Songshang, China",
+          "referee": "Liang Songshang",
           "timezone": "UTC",
           "date": "2026-08-15T12:00:00+00:00",
           "timestamp": 1786795200,
@@ -8898,7 +8898,7 @@
       {
         "fixture": {
           "id": 1523186,
-          "referee": "Yuchen Mu, China",
+          "referee": "Y. Mu",
           "timezone": "UTC",
           "date": "2026-06-28T11:00:00+00:00",
           "timestamp": 1782644400,
@@ -9439,6 +9439,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1493068,
+          "referee": "A. Gariano",
+          "timezone": "UTC",
+          "date": "2026-08-18T00:30:00+00:00",
+          "timestamp": 1787013000,
+          "periods": {
+            "first": 1787013000,
+            "second": 1787016600
+          },
+          "venue": {
+            "id": null,
+            "name": "Victor Legrotaglie",
+            "city": "Mendoza"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 73,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 5",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1066,
+            "name": "Gimnasia M.",
+            "logo": "https://media.api-sports.io/football/teams/1066.png",
+            "winner": true
+          },
+          "away": {
+            "id": 456,
+            "name": "Talleres Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/456.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1493056,
@@ -10058,76 +10128,6 @@
           "fulltime": {
             "home": 1,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492003,
-          "referee": "A. Carranza",
-          "timezone": "UTC",
-          "date": "2026-04-03T18:00:00+00:00",
-          "timestamp": 1775239200,
-          "periods": {
-            "first": 1775239200,
-            "second": 1775242800
-          },
-          "venue": {
-            "id": null,
-            "name": "Victor Legrotaglie",
-            "city": "Mendoza"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - 13",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1066,
-            "name": "Gimnasia M.",
-            "logo": "https://media.api-sports.io/football/teams/1066.png",
-            "winner": true
-          },
-          "away": {
-            "id": 438,
-            "name": "Velez Sarsfield",
-            "logo": "https://media.api-sports.io/football/teams/438.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 2
           },
           "extratime": {
             "home": null,
