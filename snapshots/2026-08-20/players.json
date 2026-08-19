@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T02:07:34.669Z",
+  "generatedAt": "2026-08-19T02:08:00.214Z",
   "totalTeams": 98,
   "totalLeagues": 7,
-  "teamsWithFallback": 87,
+  "teamsWithFallback": 86,
   "data": {
     "51": {
       "teamId": 51,
@@ -130,9 +130,9 @@
           "appearances": 3
         },
         "mostCards": {
-          "id": 161939,
-          "name": "Tomás Araújo",
-          "photo": "https://media.api-sports.io/football/players/161939.png",
+          "id": 15623,
+          "name": "A. Bah",
+          "photo": "https://media.api-sports.io/football/players/15623.png",
           "yellowCards": 1,
           "redCards": 0
         }
@@ -425,8 +425,8 @@
           "id": 161943,
           "name": "N. Holm",
           "photo": "https://media.api-sports.io/football/players/161943.png",
-          "goals": 6,
-          "appearances": 17
+          "goals": 2,
+          "appearances": 4
         },
         "topAssist": {
           "id": 98842,
@@ -443,7 +443,15 @@
           "redCards": 0
         }
       },
-      "topScorers": [],
+      "topScorers": [
+        {
+          "id": 161943,
+          "name": "N. Holm",
+          "photo": "https://media.api-sports.io/football/players/161943.png",
+          "goals": 2,
+          "appearances": 4
+        }
+      ],
       "topAssists": []
     },
     "321": {
@@ -532,10 +540,10 @@
           "appearances": 3
         },
         "mostCards": {
-          "id": 386310,
-          "name": "Guilherme Manuel Serrão Montóia",
-          "photo": "https://media.api-sports.io/football/players/386310.png",
-          "yellowCards": 2,
+          "id": 40559,
+          "name": "K. Jóźwiak",
+          "photo": "https://media.api-sports.io/football/players/40559.png",
+          "yellowCards": 1,
           "redCards": 0
         }
       },
@@ -589,9 +597,9 @@
           "appearances": 2
         },
         "topAssist": {
-          "id": 15491,
-          "name": "Joel Pereira",
-          "photo": "https://media.api-sports.io/football/players/15491.png",
+          "id": 27760,
+          "name": "L. Palma",
+          "photo": "https://media.api-sports.io/football/players/27760.png",
           "assists": 1,
           "appearances": 2
         },
@@ -941,20 +949,6 @@
           "photo": "https://media.api-sports.io/football/players/389022.png",
           "goals": 1,
           "appearances": 0
-        },
-        {
-          "id": 47309,
-          "name": "Guevara",
-          "photo": "https://media.api-sports.io/football/players/47309.png",
-          "goals": 0,
-          "appearances": 1
-        },
-        {
-          "id": 143,
-          "name": "Carles Aleñá",
-          "photo": "https://media.api-sports.io/football/players/143.png",
-          "goals": 0,
-          "appearances": 1
         }
       ],
       "topAssists": [
@@ -978,20 +972,6 @@
           "photo": "https://media.api-sports.io/football/players/389022.png",
           "assists": 0,
           "appearances": 0
-        },
-        {
-          "id": 47309,
-          "name": "Guevara",
-          "photo": "https://media.api-sports.io/football/players/47309.png",
-          "assists": 0,
-          "appearances": 1
-        },
-        {
-          "id": 143,
-          "name": "Carles Aleñá",
-          "photo": "https://media.api-sports.io/football/players/143.png",
-          "assists": 0,
-          "appearances": 1
         }
       ]
     },
@@ -1086,7 +1066,13 @@
       "leagueId": 848,
       "leagueName": "UEFA Europa Conference League",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 1541,
+          "name": "R. Almeyda",
+          "photo": "https://media.api-sports.io/football/players/1541.png",
+          "goals": 1,
+          "appearances": 2
+        },
         "topAssist": null,
         "mostCards": null
       },
@@ -1261,11 +1247,11 @@
       "leagueName": "UEFA Europa Conference League",
       "keyPlayers": {
         "topScorer": {
-          "id": 263813,
-          "name": "K. Boateng",
-          "photo": "https://media.api-sports.io/football/players/263813.png",
-          "goals": 2,
-          "appearances": 3
+          "id": 7528,
+          "name": "R. Ranftl",
+          "photo": "https://media.api-sports.io/football/players/7528.png",
+          "goals": 1,
+          "appearances": 4
         },
         "topAssist": {
           "id": 7681,
@@ -1275,22 +1261,14 @@
           "appearances": 4
         },
         "mostCards": {
-          "id": 7528,
-          "name": "R. Ranftl",
-          "photo": "https://media.api-sports.io/football/players/7528.png",
+          "id": 277304,
+          "name": "F. Wustinger",
+          "photo": "https://media.api-sports.io/football/players/277304.png",
           "yellowCards": 2,
           "redCards": 0
         }
       },
-      "topScorers": [
-        {
-          "id": 263813,
-          "name": "K. Boateng",
-          "photo": "https://media.api-sports.io/football/players/263813.png",
-          "goals": 2,
-          "appearances": 3
-        }
-      ],
+      "topScorers": [],
       "topAssists": [
         {
           "id": 7681,
@@ -1449,9 +1427,27 @@
       "leagueId": 848,
       "leagueName": "UEFA Europa Conference League",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
+        "topScorer": {
+          "id": 579,
+          "name": "A. Živković",
+          "photo": "https://media.api-sports.io/football/players/579.png",
+          "goals": 1,
+          "appearances": 4
+        },
+        "topAssist": {
+          "id": 579,
+          "name": "A. Živković",
+          "photo": "https://media.api-sports.io/football/players/579.png",
+          "assists": 1,
+          "appearances": 4
+        },
+        "mostCards": {
+          "id": 579,
+          "name": "A. Živković",
+          "photo": "https://media.api-sports.io/football/players/579.png",
+          "yellowCards": 0,
+          "redCards": 1
+        }
       },
       "topScorers": [],
       "topAssists": []
@@ -1526,9 +1522,9 @@
       "leagueName": "UEFA Europa Conference League",
       "keyPlayers": {
         "topScorer": {
-          "id": 161935,
-          "name": "Tiago Araújo",
-          "photo": "https://media.api-sports.io/football/players/161935.png",
+          "id": 328978,
+          "name": "M. Sonko",
+          "photo": "https://media.api-sports.io/football/players/328978.png",
           "goals": 1,
           "appearances": 2
         },
@@ -1566,29 +1562,45 @@
       "leagueName": "UEFA Europa League",
       "keyPlayers": {
         "topScorer": {
-          "id": 28326,
-          "name": "E. Botka",
-          "photo": "https://media.api-sports.io/football/players/28326.png",
+          "id": 199779,
+          "name": "B. Yusuf",
+          "photo": "https://media.api-sports.io/football/players/199779.png",
           "goals": 1,
-          "appearances": 1
+          "appearances": 2
         },
         "topAssist": {
-          "id": 313152,
-          "name": "Z. Gruber",
-          "photo": "https://media.api-sports.io/football/players/313152.png",
-          "assists": 1,
+          "id": 199779,
+          "name": "B. Yusuf",
+          "photo": "https://media.api-sports.io/football/players/199779.png",
+          "assists": 0,
           "appearances": 2
         },
         "mostCards": {
-          "id": 130148,
-          "name": "M. Corbu",
-          "photo": "https://media.api-sports.io/football/players/130148.png",
+          "id": 199779,
+          "name": "B. Yusuf",
+          "photo": "https://media.api-sports.io/football/players/199779.png",
           "yellowCards": 1,
           "redCards": 0
         }
       },
-      "topScorers": [],
-      "topAssists": []
+      "topScorers": [
+        {
+          "id": 199779,
+          "name": "B. Yusuf",
+          "photo": "https://media.api-sports.io/football/players/199779.png",
+          "goals": 1,
+          "appearances": 2
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 199779,
+          "name": "B. Yusuf",
+          "photo": "https://media.api-sports.io/football/players/199779.png",
+          "assists": 0,
+          "appearances": 2
+        }
+      ]
     },
     "652": {
       "teamId": 652,
@@ -1819,12 +1831,40 @@
       "leagueId": 3,
       "leagueName": "UEFA Europa League",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 197253,
+          "name": "Pastor",
+          "photo": "https://media.api-sports.io/football/players/197253.png",
+          "goals": 0,
+          "appearances": 2
+        },
+        "topAssist": {
+          "id": 197253,
+          "name": "Pastor",
+          "photo": "https://media.api-sports.io/football/players/197253.png",
+          "assists": 1,
+          "appearances": 2
+        },
         "mostCards": null
       },
-      "topScorers": [],
-      "topAssists": []
+      "topScorers": [
+        {
+          "id": 197253,
+          "name": "Pastor",
+          "photo": "https://media.api-sports.io/football/players/197253.png",
+          "goals": 0,
+          "appearances": 2
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 197253,
+          "name": "Pastor",
+          "photo": "https://media.api-sports.io/football/players/197253.png",
+          "assists": 1,
+          "appearances": 2
+        }
+      ]
     },
     "998": {
       "teamId": 998,
@@ -1978,7 +2018,13 @@
       "leagueId": 3,
       "leagueName": "UEFA Europa League",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 417556,
+          "name": "K. Kostoulas",
+          "photo": "https://media.api-sports.io/football/players/417556.png",
+          "goals": 1,
+          "appearances": 1
+        },
         "topAssist": null,
         "mostCards": null
       },
@@ -2132,8 +2178,8 @@
           "id": 66055,
           "name": "P. Musa",
           "photo": "https://media.api-sports.io/football/players/66055.png",
-          "goals": 14,
-          "appearances": 17
+          "goals": 13,
+          "appearances": 15
         },
         "topAssist": {
           "id": 64310,
@@ -2155,8 +2201,8 @@
           "id": 66055,
           "name": "P. Musa",
           "photo": "https://media.api-sports.io/football/players/66055.png",
-          "goals": 14,
-          "appearances": 17
+          "goals": 13,
+          "appearances": 15
         }
       ],
       "topAssists": []
@@ -2456,10 +2502,10 @@
       "leagueName": "Major League Soccer",
       "keyPlayers": {
         "topScorer": {
-          "id": 6517,
-          "name": "J. Pereyra",
-          "photo": "https://media.api-sports.io/football/players/6517.png",
-          "goals": 2,
+          "id": 6659,
+          "name": "T. Chancalay",
+          "photo": "https://media.api-sports.io/football/players/6659.png",
+          "goals": 1,
           "appearances": 3
         },
         "topAssist": {
@@ -2467,7 +2513,7 @@
           "name": "J. Pereyra",
           "photo": "https://media.api-sports.io/football/players/6517.png",
           "assists": 6,
-          "appearances": 19
+          "appearances": 17
         },
         "mostCards": {
           "id": 79258,
@@ -2484,7 +2530,7 @@
           "name": "J. Pereyra",
           "photo": "https://media.api-sports.io/football/players/6517.png",
           "assists": 6,
-          "appearances": 19
+          "appearances": 17
         }
       ]
     },
@@ -2837,7 +2883,13 @@
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
-        "mostCards": null
+        "mostCards": {
+          "id": 41379,
+          "name": "G. Makaridze",
+          "photo": "https://media.api-sports.io/football/players/41379.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
@@ -2850,18 +2902,18 @@
       "leagueName": "UEFA Europa League",
       "keyPlayers": {
         "topScorer": {
-          "id": 41624,
-          "name": "Sandro Lima",
-          "photo": "https://media.api-sports.io/football/players/41624.png",
+          "id": 65374,
+          "name": "Z. Shaghoyan",
+          "photo": "https://media.api-sports.io/football/players/65374.png",
           "goals": 1,
-          "appearances": 6
+          "appearances": 4
         },
         "topAssist": {
           "id": 96576,
           "name": "Zidane Banjaqui",
           "photo": "https://media.api-sports.io/football/players/96576.png",
           "assists": 1,
-          "appearances": 6
+          "appearances": 2
         },
         "mostCards": {
           "id": 9856,
