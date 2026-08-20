@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T02:14:25.329Z",
+  "generatedAt": "2026-08-20T02:12:10.675Z",
   "totalTeams": 106,
   "totalLeagues": 26,
-  "teamsWithFallback": 80,
+  "teamsWithFallback": 79,
   "data": {
     "42": {
       "teamId": 42,
@@ -425,12 +425,40 @@
       "leagueId": 95,
       "leagueName": "Segunda Liga",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 177841,
+          "name": "Dudu",
+          "photo": "https://media.api-sports.io/football/players/177841.png",
+          "goals": 0,
+          "appearances": 1
+        },
+        "topAssist": {
+          "id": 177841,
+          "name": "Dudu",
+          "photo": "https://media.api-sports.io/football/players/177841.png",
+          "assists": 0,
+          "appearances": 1
+        },
         "mostCards": null
       },
-      "topScorers": [],
-      "topAssists": []
+      "topScorers": [
+        {
+          "id": 177841,
+          "name": "Dudu",
+          "photo": "https://media.api-sports.io/football/players/177841.png",
+          "goals": 0,
+          "appearances": 1
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 177841,
+          "name": "Dudu",
+          "photo": "https://media.api-sports.io/football/players/177841.png",
+          "assists": 0,
+          "appearances": 1
+        }
+      ]
     },
     "218": {
       "teamId": 218,
@@ -467,7 +495,13 @@
           "assists": 0,
           "appearances": 1
         },
-        "mostCards": null
+        "mostCards": {
+          "id": 567695,
+          "name": "A. Cabral",
+          "photo": "https://media.api-sports.io/football/players/567695.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {
@@ -488,6 +522,20 @@
           "id": 400513,
           "name": "Gonçalo Carvalho Moreira",
           "photo": "https://media.api-sports.io/football/players/400513.png",
+          "goals": 0,
+          "appearances": 1
+        },
+        {
+          "id": 668283,
+          "name": "Rui Silva",
+          "photo": "https://media.api-sports.io/football/players/668283.png",
+          "goals": 0,
+          "appearances": 1
+        },
+        {
+          "id": 567695,
+          "name": "A. Cabral",
+          "photo": "https://media.api-sports.io/football/players/567695.png",
           "goals": 0,
           "appearances": 1
         }
@@ -511,6 +559,20 @@
           "id": 400513,
           "name": "Gonçalo Carvalho Moreira",
           "photo": "https://media.api-sports.io/football/players/400513.png",
+          "assists": 0,
+          "appearances": 1
+        },
+        {
+          "id": 668283,
+          "name": "Rui Silva",
+          "photo": "https://media.api-sports.io/football/players/668283.png",
+          "assists": 0,
+          "appearances": 1
+        },
+        {
+          "id": 567695,
+          "name": "A. Cabral",
+          "photo": "https://media.api-sports.io/football/players/567695.png",
           "assists": 0,
           "appearances": 1
         }
