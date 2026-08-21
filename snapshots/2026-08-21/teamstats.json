@@ -14327,7 +14327,708 @@
         }
       }
     },
-    "lastFixtures": []
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1576453,
+          "referee": "F. Jesus",
+          "timezone": "UTC",
+          "date": "2026-08-15T13:00:00+00:00",
+          "timestamp": 1786798800,
+          "periods": {
+            "first": 1786798800,
+            "second": 1786802400
+          },
+          "venue": {
+            "id": 3514,
+            "name": "Estádio Dr. Magalhães Pessoa",
+            "city": "Leiria"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 9
+          }
+        },
+        "league": {
+          "id": 95,
+          "name": "Segunda Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/95.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2026,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 4662,
+            "name": "União de Leiria",
+            "logo": "https://media.api-sports.io/football/teams/4662.png",
+            "winner": false
+          },
+          "away": {
+            "id": 229,
+            "name": "Benfica B",
+            "logo": "https://media.api-sports.io/football/teams/229.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1576441,
+          "referee": "D. Rosa",
+          "timezone": "UTC",
+          "date": "2026-08-10T17:00:00+00:00",
+          "timestamp": 1786381200,
+          "periods": {
+            "first": 1786381200,
+            "second": 1786384800
+          },
+          "venue": {
+            "id": null,
+            "name": "Benfica Campus",
+            "city": "Seixal"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
+          }
+        },
+        "league": {
+          "id": 95,
+          "name": "Segunda Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/95.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2026,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 229,
+            "name": "Benfica B",
+            "logo": "https://media.api-sports.io/football/teams/229.png",
+            "winner": true
+          },
+          "away": {
+            "id": 244,
+            "name": "Leixoes",
+            "logo": "https://media.api-sports.io/football/teams/244.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1585027,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-08-01T16:30:00+00:00",
+          "timestamp": 1785601800,
+          "periods": {
+            "first": 1785601800,
+            "second": 1785605400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 4872,
+            "name": "Atlético CP",
+            "logo": "https://media.api-sports.io/football/teams/4872.png",
+            "winner": false
+          },
+          "away": {
+            "id": 229,
+            "name": "Benfica B",
+            "logo": "https://media.api-sports.io/football/teams/229.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1585009,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-08-01T09:00:00+00:00",
+          "timestamp": 1785574800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Cancelled",
+            "short": "CANC",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 229,
+            "name": "Benfica B",
+            "logo": "https://media.api-sports.io/football/teams/229.png",
+            "winner": null
+          },
+          "away": {
+            "id": 245,
+            "name": "Mafra",
+            "logo": "https://media.api-sports.io/football/teams/245.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1584978,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-25T17:00:00+00:00",
+          "timestamp": 1784998800,
+          "periods": {
+            "first": 1784998800,
+            "second": 1785002400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 229,
+            "name": "Benfica B",
+            "logo": "https://media.api-sports.io/football/teams/229.png",
+            "winner": true
+          },
+          "away": {
+            "id": 10140,
+            "name": "Mérida AD",
+            "logo": "https://media.api-sports.io/football/teams/10140.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 4,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1584950,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-25T09:30:00+00:00",
+          "timestamp": 1784971800,
+          "periods": {
+            "first": 1784971800,
+            "second": 1784975400
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 229,
+            "name": "Benfica B",
+            "logo": "https://media.api-sports.io/football/teams/229.png",
+            "winner": true
+          },
+          "away": {
+            "id": 4716,
+            "name": "Casa Pia",
+            "logo": "https://media.api-sports.io/football/teams/4716.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1604598,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-22T17:00:00+00:00",
+          "timestamp": 1784739600,
+          "periods": {
+            "first": 1784739600,
+            "second": 1784743200
+          },
+          "venue": {
+            "id": null,
+            "name": "Benfica Campus",
+            "city": "Seixal"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendly",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 229,
+            "name": "Benfica B",
+            "logo": "https://media.api-sports.io/football/teams/229.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2939,
+            "name": "Al-Nassr",
+            "logo": "https://media.api-sports.io/football/teams/2939.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1584879,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-18T09:30:00+00:00",
+          "timestamp": 1784367000,
+          "periods": {
+            "first": 1784367000,
+            "second": 1784370600
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 229,
+            "name": "Benfica B",
+            "logo": "https://media.api-sports.io/football/teams/229.png",
+            "winner": null
+          },
+          "away": {
+            "id": 4799,
+            "name": "Torreense",
+            "logo": "https://media.api-sports.io/football/teams/4799.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1584848,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-15T10:00:00+00:00",
+          "timestamp": 1784109600,
+          "periods": {
+            "first": 1784109600,
+            "second": 1784113200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 229,
+            "name": "Benfica B",
+            "logo": "https://media.api-sports.io/football/teams/229.png",
+            "winner": null
+          },
+          "away": {
+            "id": 15207,
+            "name": "Lusitano Évora 1911",
+            "logo": "https://media.api-sports.io/football/teams/15207.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1584795,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-11T09:30:00+00:00",
+          "timestamp": 1783762200,
+          "periods": {
+            "first": 1783762200,
+            "second": 1783765800
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 229,
+            "name": "Benfica B",
+            "logo": "https://media.api-sports.io/football/teams/229.png",
+            "winner": null
+          },
+          "away": {
+            "id": 4796,
+            "name": "Sintrense",
+            "logo": "https://media.api-sports.io/football/teams/4796.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   },
   "239": {
     "statistics": {
@@ -26642,7 +27343,7 @@
       {
         "fixture": {
           "id": 1494246,
-          "referee": "Adi Aganovic, Sweden",
+          "referee": "A. Aganovic",
           "timezone": "UTC",
           "date": "2026-08-17T17:00:00+00:00",
           "timestamp": 1786986000,
@@ -26712,7 +27413,7 @@
       {
         "fixture": {
           "id": 1494235,
-          "referee": "Adam Ladeback, Sweden",
+          "referee": "A. Ladeback",
           "timezone": "UTC",
           "date": "2026-08-09T12:00:00+00:00",
           "timestamp": 1786276800,
@@ -26782,7 +27483,7 @@
       {
         "fixture": {
           "id": 1494231,
-          "referee": "Mohammed Al-Hakim, Sweden",
+          "referee": "M. Al-Hakim",
           "timezone": "UTC",
           "date": "2026-08-01T13:00:00+00:00",
           "timestamp": 1785589200,
@@ -26852,7 +27553,7 @@
       {
         "fixture": {
           "id": 1494220,
-          "referee": "Granit Maqedonci, Sweden",
+          "referee": "G. Maqedonci",
           "timezone": "UTC",
           "date": "2026-07-27T17:00:00+00:00",
           "timestamp": 1785171600,
@@ -26922,7 +27623,7 @@
       {
         "fixture": {
           "id": 1494212,
-          "referee": "Erik Mattsson, Sweden",
+          "referee": "E. Mattsson",
           "timezone": "UTC",
           "date": "2026-07-19T14:30:00+00:00",
           "timestamp": 1784471400,
@@ -26992,7 +27693,7 @@
       {
         "fixture": {
           "id": 1494207,
-          "referee": "Victor Wolf, Sweden",
+          "referee": "V. Wolf",
           "timezone": "UTC",
           "date": "2026-07-11T15:30:00+00:00",
           "timestamp": 1783783800,
@@ -27062,7 +27763,7 @@
       {
         "fixture": {
           "id": 1494197,
-          "referee": "Oscar Johnson, Sweden",
+          "referee": "O. Johnson",
           "timezone": "UTC",
           "date": "2026-07-06T17:00:00+00:00",
           "timestamp": 1783357200,
@@ -27202,7 +27903,7 @@
       {
         "fixture": {
           "id": 1494188,
-          "referee": "Tess Olofsson, Sweden",
+          "referee": "T. Olofsson",
           "timezone": "UTC",
           "date": "2026-05-31T12:00:00+00:00",
           "timestamp": 1780228800,
@@ -27272,7 +27973,7 @@
       {
         "fixture": {
           "id": 1494178,
-          "referee": "Fredrik Klitte, Sweden",
+          "referee": "F. Klitte",
           "timezone": "UTC",
           "date": "2026-05-25T17:00:00+00:00",
           "timestamp": 1779728400,
@@ -27648,7 +28349,7 @@
       {
         "fixture": {
           "id": 1494248,
-          "referee": "Adam Ladeback, Sweden",
+          "referee": "A. Ladeback",
           "timezone": "UTC",
           "date": "2026-08-15T13:00:00+00:00",
           "timestamp": 1786798800,
@@ -27718,7 +28419,7 @@
       {
         "fixture": {
           "id": 1494239,
-          "referee": "Victor Wolf, Sweden",
+          "referee": "V. Wolf",
           "timezone": "UTC",
           "date": "2026-08-10T17:00:00+00:00",
           "timestamp": 1786381200,
@@ -27788,7 +28489,7 @@
       {
         "fixture": {
           "id": 1494232,
-          "referee": "Kristoffer Karlsson, Sweden",
+          "referee": "K. Karlsson",
           "timezone": "UTC",
           "date": "2026-08-03T17:00:00+00:00",
           "timestamp": 1785776400,
@@ -27858,7 +28559,7 @@
       {
         "fixture": {
           "id": 1494223,
-          "referee": "Oscar Johnson, Sweden",
+          "referee": "O. Johnson",
           "timezone": "UTC",
           "date": "2026-07-26T12:00:00+00:00",
           "timestamp": 1785067200,
@@ -27928,7 +28629,7 @@
       {
         "fixture": {
           "id": 1494210,
-          "referee": "Joakim Sars, Sweden",
+          "referee": "J. Sars",
           "timezone": "UTC",
           "date": "2026-07-19T14:30:00+00:00",
           "timestamp": 1784471400,
@@ -27998,7 +28699,7 @@
       {
         "fixture": {
           "id": 1494201,
-          "referee": "Richard Sundell, Sweden",
+          "referee": "R. Sundell",
           "timezone": "UTC",
           "date": "2026-07-12T14:30:00+00:00",
           "timestamp": 1783866600,
@@ -28208,7 +28909,7 @@
       {
         "fixture": {
           "id": 1494185,
-          "referee": "Fredrik Klitte, Sweden",
+          "referee": "F. Klitte",
           "timezone": "UTC",
           "date": "2026-05-30T13:00:00+00:00",
           "timestamp": 1780146000,
@@ -28278,7 +28979,7 @@
       {
         "fixture": {
           "id": 1494184,
-          "referee": "Kristoffer Karlsson, Sweden",
+          "referee": "K. Karlsson",
           "timezone": "UTC",
           "date": "2026-05-24T12:00:00+00:00",
           "timestamp": 1779624000,
@@ -42691,7 +43392,7 @@
       {
         "fixture": {
           "id": 1493074,
-          "referee": "Leandro Rey Hilfer, Argentina",
+          "referee": "L. Rey Hilfer",
           "timezone": "UTC",
           "date": "2026-08-15T17:30:00+00:00",
           "timestamp": 1786815000,
@@ -42701,7 +43402,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Pedro Bidegain",
+            "name": "Estadio Pedro Bidegain",
             "city": "Buenos Aires"
           },
           "status": {
@@ -43121,7 +43822,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Julio César Villagra",
+            "name": "Estadio Julio Cesar Villagra",
             "city": "Cordoba"
           },
           "status": {
@@ -43251,7 +43952,7 @@
       {
         "fixture": {
           "id": 1491951,
-          "referee": "Sebastian Zunino, Argentina",
+          "referee": "S. Zunino",
           "timezone": "UTC",
           "date": "2026-05-02T21:45:00+00:00",
           "timestamp": 1777758300,
@@ -43262,7 +43963,7 @@
           "venue": {
             "id": null,
             "name": "Estadio 15 de Abril",
-            "city": "Santa Fe de la Vera Cruz"
+            "city": "Santa Fe"
           },
           "status": {
             "long": "Match Finished",
@@ -43729,7 +44430,7 @@
       {
         "fixture": {
           "id": 1493074,
-          "referee": "Leandro Rey Hilfer, Argentina",
+          "referee": "L. Rey Hilfer",
           "timezone": "UTC",
           "date": "2026-08-15T17:30:00+00:00",
           "timestamp": 1786815000,
@@ -43739,7 +44440,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Pedro Bidegain",
+            "name": "Estadio Pedro Bidegain",
             "city": "Buenos Aires"
           },
           "status": {
@@ -43869,7 +44570,7 @@
       {
         "fixture": {
           "id": 1493034,
-          "referee": "Sebastian Zunino, Argentina",
+          "referee": "S. Zunino",
           "timezone": "UTC",
           "date": "2026-08-04T00:15:00+00:00",
           "timestamp": 1785802500,
@@ -43879,7 +44580,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Unico Madre De Ciudades",
+            "name": "Estadio Unico Madre de Ciudades",
             "city": "Santiago del Estero"
           },
           "status": {
@@ -43939,7 +44640,7 @@
       {
         "fixture": {
           "id": 1493028,
-          "referee": "F. Echenique",
+          "referee": "Fernando Echenique, Argentina",
           "timezone": "UTC",
           "date": "2026-07-28T22:00:00+00:00",
           "timestamp": 1785276000,
@@ -43949,7 +44650,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Pedro Bidegain",
+            "name": "Pedro Bidegain",
             "city": "Buenos Aires"
           },
           "status": {
@@ -44219,7 +44920,7 @@
       {
         "fixture": {
           "id": 1535216,
-          "referee": "Alexis Herrera, Venezuela",
+          "referee": "A. Herrera",
           "timezone": "UTC",
           "date": "2026-05-20T22:00:00+00:00",
           "timestamp": 1779314400,
@@ -44229,7 +44930,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estádio Urbano Caldeira",
+            "name": "Estadio Urbano Caldeira",
             "city": "Santos"
           },
           "status": {
@@ -44771,7 +45472,7 @@
       {
         "fixture": {
           "id": 1493062,
-          "referee": "Juan Pafundi, Argentina",
+          "referee": "J. Pafundi",
           "timezone": "UTC",
           "date": "2026-08-15T17:30:00+00:00",
           "timestamp": 1786815000,
@@ -44841,7 +45542,7 @@
       {
         "fixture": {
           "id": 1493057,
-          "referee": "Pablo Echavarria, Argentina",
+          "referee": "P. Echavarria",
           "timezone": "UTC",
           "date": "2026-08-07T22:30:00+00:00",
           "timestamp": 1786141800,
@@ -44851,7 +45552,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Gigante de Arroyito",
+            "name": "Estadio Gigante de Arroyito",
             "city": "Rosario"
           },
           "status": {
@@ -44911,7 +45612,7 @@
       {
         "fixture": {
           "id": 1493032,
-          "referee": "Luis Lobo Medina, Argentina",
+          "referee": "L. Lobo Medina",
           "timezone": "UTC",
           "date": "2026-08-02T17:30:00+00:00",
           "timestamp": 1785691800,
@@ -45331,7 +46032,7 @@
       {
         "fixture": {
           "id": 1492028,
-          "referee": "Nazareno Arasa, Argentina",
+          "referee": "N. Arasa",
           "timezone": "UTC",
           "date": "2026-04-19T16:30:00+00:00",
           "timestamp": 1776616200,
@@ -46770,7 +47471,7 @@
       {
         "fixture": {
           "id": 1569877,
-          "referee": "Iosu Galech Apezteguia, Spain",
+          "referee": "I. Galech",
           "timezone": "UTC",
           "date": "2026-08-16T17:00:00+00:00",
           "timestamp": 1786899600,
@@ -46780,7 +47481,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadi Montilivi",
+            "name": "Estadio Municipal de Montilivi",
             "city": "Girona"
           },
           "status": {
@@ -51807,7 +52508,7 @@
       {
         "fixture": {
           "id": 1569873,
-          "referee": "Daniel Miranda Bolano, Spain",
+          "referee": "D. Miranda",
           "timezone": "UTC",
           "date": "2026-08-16T17:00:00+00:00",
           "timestamp": 1786899600,
@@ -67854,7 +68555,7 @@
       {
         "fixture": {
           "id": 1564795,
-          "referee": "Claudio Giuseppe Allegretta, Italy",
+          "referee": "C. G. Allegretta",
           "timezone": "UTC",
           "date": "2026-08-15T16:00:00+00:00",
           "timestamp": 1786809600,
@@ -68554,7 +69255,299 @@
     ]
   },
   "2061": {
-    "statistics": null,
+    "statistics": {
+      "league": {
+        "id": 120,
+        "name": "1. Division",
+        "country": "Denmark",
+        "logo": "https://media.api-sports.io/football/leagues/120.png",
+        "flag": "https://media.api-sports.io/flags/dk.svg",
+        "season": 2026
+      },
+      "team": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png"
+      },
+      "form": "WDDW",
+      "fixtures": {
+        "played": {
+          "home": 2,
+          "away": 2,
+          "total": 4
+        },
+        "wins": {
+          "home": 1,
+          "away": 1,
+          "total": 2
+        },
+        "draws": {
+          "home": 1,
+          "away": 1,
+          "total": 2
+        },
+        "loses": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 4,
+            "away": 4,
+            "total": 8
+          },
+          "average": {
+            "home": "2.0",
+            "away": "2.0",
+            "total": "2.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": 1,
+              "percentage": "11.11%"
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": 5,
+              "percentage": "55.56%"
+            },
+            "61-75": {
+              "total": 2,
+              "percentage": "22.22%"
+            },
+            "76-90": {
+              "total": 1,
+              "percentage": "11.11%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 4,
+              "under": 0
+            },
+            "1.5": {
+              "over": 2,
+              "under": 2
+            },
+            "2.5": {
+              "over": 2,
+              "under": 2
+            },
+            "3.5": {
+              "over": 0,
+              "under": 4
+            },
+            "4.5": {
+              "over": 0,
+              "under": 4
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 1,
+            "away": 1,
+            "total": 2
+          },
+          "average": {
+            "home": "0.5",
+            "away": "0.5",
+            "total": "0.5"
+          },
+          "minute": {
+            "0-15": {
+              "total": 1,
+              "percentage": "100.00%"
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 2,
+              "under": 2
+            },
+            "1.5": {
+              "over": 0,
+              "under": 4
+            },
+            "2.5": {
+              "over": 0,
+              "under": 4
+            },
+            "3.5": {
+              "over": 0,
+              "under": 4
+            },
+            "4.5": {
+              "over": 0,
+              "under": 4
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 1,
+          "draws": 2,
+          "loses": 0
+        },
+        "wins": {
+          "home": "3-0",
+          "away": "0-3"
+        },
+        "loses": {
+          "home": null,
+          "away": null
+        },
+        "goals": {
+          "for": {
+            "home": 3,
+            "away": 3
+          },
+          "against": {
+            "home": 1,
+            "away": 1
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      },
+      "failed_to_score": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "penalty": {
+        "scored": {
+          "total": 1,
+          "percentage": "100.00%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 1
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": 2,
+            "percentage": "100.00%"
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
     "lastFixtures": [
       {
         "fixture": {
@@ -75571,7 +76564,7 @@
       {
         "fixture": {
           "id": 1493067,
-          "referee": "Fernando Echenique, Argentina",
+          "referee": "F. Echenique",
           "timezone": "UTC",
           "date": "2026-08-17T17:45:00+00:00",
           "timestamp": 1786988700,
@@ -75582,7 +76575,7 @@
           "venue": {
             "id": null,
             "name": "Antonio Candini",
-            "city": "Rio Cuarto"
+            "city": "Cordoba"
           },
           "status": {
             "long": "Match Finished",
@@ -75851,7 +76844,7 @@
       {
         "fixture": {
           "id": 1493007,
-          "referee": "Brian Ferreyra, Argentina",
+          "referee": "B. Ferreyra",
           "timezone": "UTC",
           "date": "2026-07-25T17:45:00+00:00",
           "timestamp": 1785001500,
@@ -75862,7 +76855,7 @@
           "venue": {
             "id": null,
             "name": "Antonio Candini",
-            "city": "Rio Cuarto"
+            "city": "Cordoba"
           },
           "status": {
             "long": "Match Finished",
@@ -75921,7 +76914,7 @@
       {
         "fixture": {
           "id": 1491942,
-          "referee": "Andres Merlos, Argentina",
+          "referee": "A. Merlos",
           "timezone": "UTC",
           "date": "2026-05-05T00:30:00+00:00",
           "timestamp": 1777941000,
@@ -75932,7 +76925,7 @@
           "venue": {
             "id": null,
             "name": "Antonio Candini",
-            "city": "Rio Cuarto"
+            "city": "Cordoba"
           },
           "status": {
             "long": "Match Finished",
@@ -75991,7 +76984,7 @@
       {
         "fixture": {
           "id": 1492048,
-          "referee": "Dario Herrera, Argentina",
+          "referee": "D. Herrera",
           "timezone": "UTC",
           "date": "2026-04-24T22:15:00+00:00",
           "timestamp": 1777068900,
@@ -76002,7 +76995,7 @@
           "venue": {
             "id": null,
             "name": "Antonio Candini",
-            "city": "Rio Cuarto"
+            "city": "Cordoba"
           },
           "status": {
             "long": "Match Finished",
@@ -76061,7 +77054,7 @@
       {
         "fixture": {
           "id": 1492033,
-          "referee": "Luis Lobo Medina, Argentina",
+          "referee": "L. Lobo Medina",
           "timezone": "UTC",
           "date": "2026-04-18T18:00:00+00:00",
           "timestamp": 1776535200,
@@ -77583,7 +78576,7 @@
       {
         "fixture": {
           "id": 1561575,
-          "referee": null,
+          "referee": "M. Abu Shaqarah",
           "timezone": "UTC",
           "date": "2026-08-18T18:00:00+00:00",
           "timestamp": 1787076000,
@@ -79587,7 +80580,7 @@
       {
         "fixture": {
           "id": 1561577,
-          "referee": null,
+          "referee": "M. Al Ismail",
           "timezone": "UTC",
           "date": "2026-08-18T16:15:00+00:00",
           "timestamp": 1787069700,
@@ -80589,7 +81582,7 @@
       {
         "fixture": {
           "id": 1561574,
-          "referee": null,
+          "referee": "M. Al Shamrani",
           "timezone": "UTC",
           "date": "2026-08-18T18:00:00+00:00",
           "timestamp": 1787076000,
@@ -100580,7 +101573,7 @@
       {
         "fixture": {
           "id": 1561575,
-          "referee": null,
+          "referee": "M. Abu Shaqarah",
           "timezone": "UTC",
           "date": "2026-08-18T18:00:00+00:00",
           "timestamp": 1787076000,
@@ -101335,12 +102328,12 @@
               "percentage": null
             },
             "16-30": {
-              "total": 1,
-              "percentage": "50.00%"
+              "total": null,
+              "percentage": null
             },
             "31-45": {
               "total": 1,
-              "percentage": "50.00%"
+              "percentage": "100.00%"
             },
             "46-60": {
               "total": null,
@@ -101403,8 +102396,8 @@
               "percentage": null
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "100.00%"
             },
             "31-45": {
               "total": null,
@@ -104577,7 +105570,7 @@
       {
         "fixture": {
           "id": 1561574,
-          "referee": null,
+          "referee": "M. Al Shamrani",
           "timezone": "UTC",
           "date": "2026-08-18T18:00:00+00:00",
           "timestamp": 1787076000,
