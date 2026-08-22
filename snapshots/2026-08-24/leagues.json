@@ -43,11 +43,11 @@
       }
     }
   },
-  "61": {
-    "id": 61,
-    "name": "Ligue 1",
+  "62": {
+    "id": 62,
+    "name": "Ligue 2",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/61.png",
+    "logo": "https://media.api-sports.io/football/leagues/62.png",
     "country": {
       "name": "France",
       "code": "FR",
@@ -75,27 +75,27 @@
     ],
     "coverage": {
       "standings": true,
-      "players": false,
-      "topScorers": false,
+      "players": true,
+      "topScorers": true,
       "predictions": true,
       "odds": true,
       "fixtures": {
-        "events": false,
-        "lineups": false,
-        "statistics_fixtures": false,
-        "statistics_players": false
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
       }
     }
   },
-  "62": {
-    "id": 62,
-    "name": "Ligue 2",
+  "71": {
+    "id": 71,
+    "name": "Serie A",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/62.png",
+    "logo": "https://media.api-sports.io/football/leagues/71.png",
     "country": {
-      "name": "France",
-      "code": "FR",
-      "flag": "https://media.api-sports.io/flags/fr.svg"
+      "name": "Brazil",
+      "code": "BR",
+      "flag": "https://media.api-sports.io/flags/br.svg"
     },
     "season": 2026,
     "seasons": [
@@ -169,6 +169,50 @@
       }
     }
   },
+  "94": {
+    "id": 94,
+    "name": "Primeira Liga",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/94.png",
+    "country": {
+      "name": "Portugal",
+      "code": "PT",
+      "flag": "https://media.api-sports.io/flags/pt.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
   "95": {
     "id": 95,
     "name": "Segunda Liga",
@@ -207,85 +251,6 @@
       }
     }
   },
-  "98": {
-    "id": 98,
-    "name": "J1 League",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/98.png",
-    "country": {
-      "name": "Japan",
-      "code": "JP",
-      "flag": "https://media.api-sports.io/flags/jp.svg"
-    },
-    "season": 2027,
-    "seasons": [
-      2012,
-      2013,
-      2014,
-      2015,
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026,
-      2027
-    ],
-    "coverage": {
-      "standings": true,
-      "players": true,
-      "topScorers": true,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": true,
-        "statistics_players": true
-      }
-    }
-  },
-  "106": {
-    "id": 106,
-    "name": "Ekstraklasa",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/106.png",
-    "country": {
-      "name": "Poland",
-      "code": "PL",
-      "flag": "https://media.api-sports.io/flags/pl.svg"
-    },
-    "season": 2026,
-    "seasons": [
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "coverage": {
-      "standings": true,
-      "players": true,
-      "topScorers": true,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": true,
-        "statistics_players": true
-      }
-    }
-  },
   "107": {
     "id": 107,
     "name": "I Liga",
@@ -298,49 +263,6 @@
     },
     "season": 2026,
     "seasons": [
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "coverage": {
-      "standings": true,
-      "players": false,
-      "topScorers": false,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": false,
-        "statistics_players": false
-      }
-    }
-  },
-  "110": {
-    "id": 110,
-    "name": "Premier League",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/110.png",
-    "country": {
-      "name": "Wales",
-      "code": "GB-WLS",
-      "flag": "https://media.api-sports.io/flags/gb-wls.svg"
-    },
-    "season": 2026,
-    "seasons": [
-      2011,
-      2012,
-      2013,
-      2014,
-      2015,
-      2016,
-      2017,
       2018,
       2019,
       2020,
@@ -403,11 +325,11 @@
       }
     }
   },
-  "120": {
-    "id": 120,
-    "name": "1. Division",
+  "119": {
+    "id": 119,
+    "name": "Superliga",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/120.png",
+    "logo": "https://media.api-sports.io/football/leagues/119.png",
     "country": {
       "name": "Denmark",
       "code": "DK",
@@ -434,15 +356,15 @@
     ],
     "coverage": {
       "standings": true,
-      "players": false,
-      "topScorers": false,
+      "players": true,
+      "topScorers": true,
       "predictions": true,
       "odds": true,
       "fixtures": {
         "events": true,
         "lineups": true,
-        "statistics_fixtures": false,
-        "statistics_players": false
+        "statistics_fixtures": true,
+        "statistics_players": true
       }
     }
   },
@@ -485,11 +407,11 @@
       }
     }
   },
-  "136": {
-    "id": 136,
-    "name": "Serie B",
+  "135": {
+    "id": 135,
+    "name": "Serie A",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/136.png",
+    "logo": "https://media.api-sports.io/football/leagues/135.png",
     "country": {
       "name": "Italy",
       "code": "IT",
@@ -497,6 +419,12 @@
     },
     "season": 2026,
     "seasons": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
       2016,
       2017,
       2018,
@@ -602,88 +530,6 @@
         "lineups": true,
         "statistics_fixtures": true,
         "statistics_players": true
-      }
-    }
-  },
-  "144": {
-    "id": 144,
-    "name": "Jupiler Pro League",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/144.png",
-    "country": {
-      "name": "Belgium",
-      "code": "BE",
-      "flag": "https://media.api-sports.io/flags/be.svg"
-    },
-    "season": 2026,
-    "seasons": [
-      2010,
-      2011,
-      2012,
-      2013,
-      2014,
-      2015,
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "coverage": {
-      "standings": true,
-      "players": true,
-      "topScorers": true,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": true,
-        "statistics_players": true
-      }
-    }
-  },
-  "145": {
-    "id": 145,
-    "name": "Challenger Pro League",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/145.png",
-    "country": {
-      "name": "Belgium",
-      "code": "BE",
-      "flag": "https://media.api-sports.io/flags/be.svg"
-    },
-    "season": 2026,
-    "seasons": [
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "coverage": {
-      "standings": true,
-      "players": false,
-      "topScorers": false,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": false,
-        "statistics_players": false
       }
     }
   },
@@ -809,141 +655,18 @@
       }
     }
   },
-  "208": {
-    "id": 208,
-    "name": "Challenge League",
+  "235": {
+    "id": 235,
+    "name": "Premier League",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/208.png",
+    "logo": "https://media.api-sports.io/football/leagues/235.png",
     "country": {
-      "name": "Switzerland",
-      "code": "CH",
-      "flag": "https://media.api-sports.io/flags/ch.svg"
+      "name": "Russia",
+      "code": "RU",
+      "flag": "https://media.api-sports.io/flags/ru.svg"
     },
     "season": 2026,
     "seasons": [
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "coverage": {
-      "standings": true,
-      "players": false,
-      "topScorers": false,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": false,
-        "statistics_players": false
-      }
-    }
-  },
-  "210": {
-    "id": 210,
-    "name": "HNL",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/210.png",
-    "country": {
-      "name": "Croatia",
-      "code": "HR",
-      "flag": "https://media.api-sports.io/flags/hr.svg"
-    },
-    "season": 2026,
-    "seasons": [
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "coverage": {
-      "standings": true,
-      "players": true,
-      "topScorers": true,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": true,
-        "statistics_players": true
-      }
-    }
-  },
-  "218": {
-    "id": 218,
-    "name": "Bundesliga",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/218.png",
-    "country": {
-      "name": "Austria",
-      "code": "AT",
-      "flag": "https://media.api-sports.io/flags/at.svg"
-    },
-    "season": 2026,
-    "seasons": [
-      2011,
-      2012,
-      2013,
-      2014,
-      2015,
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "coverage": {
-      "standings": true,
-      "players": true,
-      "topScorers": true,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": true,
-        "statistics_players": true
-      }
-    }
-  },
-  "244": {
-    "id": 244,
-    "name": "Veikkausliiga",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/244.png",
-    "country": {
-      "name": "Finland",
-      "code": "FI",
-      "flag": "https://media.api-sports.io/flags/fi.svg"
-    },
-    "season": 2026,
-    "seasons": [
-      2012,
-      2013,
-      2014,
-      2015,
       2016,
       2017,
       2018,
@@ -1008,6 +731,44 @@
       }
     }
   },
+  "287": {
+    "id": 287,
+    "name": "Prva Liga",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/287.png",
+    "country": {
+      "name": "Serbia",
+      "code": "RS",
+      "flag": "https://media.api-sports.io/flags/rs.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": false,
+      "topScorers": false,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": false,
+        "statistics_players": false
+      }
+    }
+  },
   "307": {
     "id": 307,
     "name": "Pro League",
@@ -1043,6 +804,40 @@
         "lineups": true,
         "statistics_fixtures": true,
         "statistics_players": true
+      }
+    }
+  },
+  "705": {
+    "id": 705,
+    "name": "Campionato Primavera - 1",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/705.png",
+    "country": {
+      "name": "Italy",
+      "code": "IT",
+      "flag": "https://media.api-sports.io/flags/it.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": false,
+      "players": false,
+      "topScorers": false,
+      "predictions": true,
+      "odds": false,
+      "fixtures": {
+        "events": false,
+        "lineups": false,
+        "statistics_fixtures": false,
+        "statistics_players": false
       }
     }
   }
