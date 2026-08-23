@@ -68,15 +68,15 @@
     ],
     "coverage": {
       "standings": true,
-      "players": false,
-      "topScorers": false,
+      "players": true,
+      "topScorers": true,
       "predictions": true,
       "odds": true,
       "fixtures": {
-        "events": false,
-        "lineups": false,
-        "statistics_fixtures": false,
-        "statistics_players": false
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
       }
     }
   },
@@ -155,15 +155,15 @@
     ],
     "coverage": {
       "standings": true,
-      "players": false,
-      "topScorers": false,
+      "players": true,
+      "topScorers": true,
       "predictions": true,
       "odds": true,
       "fixtures": {
-        "events": false,
-        "lineups": false,
-        "statistics_fixtures": false,
-        "statistics_players": false
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
       }
     }
   },
@@ -723,8 +723,8 @@
     ],
     "coverage": {
       "standings": true,
-      "players": false,
-      "topScorers": false,
+      "players": true,
+      "topScorers": true,
       "predictions": true,
       "odds": true,
       "fixtures": {
@@ -1509,13 +1509,13 @@
       2026
     ],
     "coverage": {
-      "standings": false,
+      "standings": true,
       "players": false,
       "topScorers": false,
       "predictions": true,
-      "odds": false,
+      "odds": true,
       "fixtures": {
-        "events": false,
+        "events": true,
         "lineups": false,
         "statistics_fixtures": false,
         "statistics_players": false
