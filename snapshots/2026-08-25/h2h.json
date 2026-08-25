@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-08-24T02:09:12.281Z",
-  "totalFixtures": 13,
-  "uniquePairs": 13,
+  "generatedAt": "2026-08-25T02:03:00.762Z",
+  "totalFixtures": 14,
+  "uniquePairs": 14,
   "data": {
     "1493085": {
       "matches": [
+        {
+          "fixtureId": 1493085,
+          "date": "2026-08-25T00:15:00+00:00",
+          "venue": "Estadio Ciudad de Lanus",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 446,
+          "homeTeam": "Lanus",
+          "homeWinner": null,
+          "awayTeamId": 458,
+          "awayTeam": "Argentinos JRS",
+          "awayWinner": null,
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
         {
           "fixtureId": 1544178,
           "date": "2026-05-10T01:15:00+00:00",
@@ -22,7 +36,7 @@
         {
           "fixtureId": 1491893,
           "date": "2026-03-27T00:00:00+00:00",
-          "venue": "Diego Armando Maradona",
+          "venue": "Estadio Diego Armando Maradona",
           "leagueName": "Liga Profesional Argentina",
           "homeTeamId": 458,
           "homeTeam": "Argentinos JRS",
@@ -130,33 +144,33 @@
           "awayWinner": null,
           "homeGoals": 0,
           "awayGoals": 0
-        },
-        {
-          "fixtureId": 240826,
-          "date": "2019-09-07T20:10:00+00:00",
-          "venue": "Estadio Julio Humberto Grondona (Avellaneda, Provincia de Buenos Aires)",
-          "leagueName": "Copa Argentina",
-          "homeTeamId": 446,
-          "homeTeam": "Lanus",
-          "homeWinner": true,
-          "awayTeamId": 458,
-          "awayTeam": "Argentinos JRS",
-          "awayWinner": false,
-          "homeGoals": 4,
-          "awayGoals": 1
         }
       ],
       "summary": {
         "total": 10,
-        "homeWins": 2,
+        "homeWins": 1,
         "awayWins": 6,
-        "draws": 2,
-        "homeGoals": 6,
+        "draws": 3,
+        "homeGoals": 3,
         "awayGoals": 13
       }
     },
     "1493090": {
       "matches": [
+        {
+          "fixtureId": 1493090,
+          "date": "2026-08-25T00:15:00+00:00",
+          "venue": "Estadio Mario Alberto Kempes",
+          "leagueName": "Liga Profesional Argentina",
+          "homeTeamId": 456,
+          "homeTeam": "Talleres Cordoba",
+          "homeWinner": null,
+          "awayTeamId": 437,
+          "awayTeam": "Rosario Central",
+          "awayWinner": null,
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
         {
           "fixtureId": 1491904,
           "date": "2026-02-21T01:15:00+00:00",
@@ -282,20 +296,6 @@
           "awayWinner": false,
           "homeGoals": 4,
           "awayGoals": 1
-        },
-        {
-          "fixtureId": 329262,
-          "date": "2020-05-10T19:00:00+00:00",
-          "venue": "Estadio Francisco Cabasés",
-          "leagueName": "Copa de la Superliga",
-          "homeTeamId": 456,
-          "homeTeam": "Talleres Cordoba",
-          "homeWinner": null,
-          "awayTeamId": 437,
-          "awayTeam": "Rosario Central",
-          "awayWinner": null,
-          "homeGoals": null,
-          "awayGoals": null
         }
       ],
       "summary": {
@@ -303,8 +303,8 @@
         "homeWins": 4,
         "awayWins": 2,
         "draws": 4,
-        "homeGoals": 15,
-        "awayGoals": 9
+        "homeGoals": 17,
+        "awayGoals": 11
       }
     },
     "1507040": {
@@ -1380,14 +1380,97 @@
       }
     },
     "1622627": {
-      "matches": [],
+      "matches": [
+        {
+          "fixtureId": 1622624,
+          "date": "2026-08-19T19:00:00+00:00",
+          "venue": "Goffertstadion",
+          "leagueName": "UEFA Champions League",
+          "homeTeamId": 413,
+          "homeTeam": "NEC Nijmegen",
+          "homeWinner": false,
+          "awayTeamId": 327,
+          "awayTeam": "Bodo/Glimt",
+          "awayWinner": true,
+          "homeGoals": 1,
+          "awayGoals": 3
+        }
+      ],
       "summary": {
-        "total": 0,
-        "homeWins": 0,
+        "total": 1,
+        "homeWins": 1,
         "awayWins": 0,
         "draws": 0,
-        "homeGoals": 0,
-        "awayGoals": 0
+        "homeGoals": 3,
+        "awayGoals": 1
+      }
+    },
+    "1632346": {
+      "matches": [
+        {
+          "fixtureId": 1346848,
+          "date": "2025-02-13T20:00:00+00:00",
+          "venue": "Estadio Olímpico de la UCV",
+          "leagueName": "Sudamericano U20",
+          "homeTeamId": 16202,
+          "homeTeam": "Paraguay U20",
+          "homeWinner": true,
+          "awayTeamId": 10307,
+          "awayTeam": "Uruguay U20",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 1323411,
+          "date": "2025-01-27T23:30:00+00:00",
+          "venue": "Estadio Metropolitano de Fútbol de Lara",
+          "leagueName": "Sudamericano U20",
+          "homeTeamId": 10307,
+          "homeTeam": "Uruguay U20",
+          "homeWinner": true,
+          "awayTeamId": 16202,
+          "awayTeam": "Paraguay U20",
+          "awayWinner": false,
+          "homeGoals": 6,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 996510,
+          "date": "2023-02-09T22:30:00+00:00",
+          "venue": "Estadio Metropolitano de Techo",
+          "leagueName": "Sudamericano U20",
+          "homeTeamId": 10307,
+          "homeTeam": "Uruguay U20",
+          "homeWinner": true,
+          "awayTeamId": 16202,
+          "awayTeam": "Paraguay U20",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "fixtureId": 668020,
+          "date": "2019-01-26T22:30:00+00:00",
+          "venue": "Estadio Fiscal de Talca",
+          "leagueName": "Sudamericano U20",
+          "homeTeamId": 10307,
+          "homeTeam": "Uruguay U20",
+          "homeWinner": true,
+          "awayTeamId": 16202,
+          "awayTeam": "Paraguay U20",
+          "awayWinner": false,
+          "homeGoals": 1,
+          "awayGoals": 0
+        }
+      ],
+      "summary": {
+        "total": 4,
+        "homeWins": 3,
+        "awayWins": 1,
+        "draws": 0,
+        "homeGoals": 8,
+        "awayGoals": 1
       }
     }
   }

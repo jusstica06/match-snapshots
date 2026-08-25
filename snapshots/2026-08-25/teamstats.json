@@ -2450,7 +2450,7 @@
       {
         "fixture": {
           "id": 1552127,
-          "referee": "Serdar Gozubuyuk, Netherlands",
+          "referee": "S. Gozubuyuk",
           "timezone": "UTC",
           "date": "2026-08-15T14:30:00+00:00",
           "timestamp": 1786804200,
@@ -2590,7 +2590,7 @@
       {
         "fixture": {
           "id": 1552118,
-          "referee": "Allard Lindhout, Netherlands",
+          "referee": "M. Vos",
           "timezone": "UTC",
           "date": "2026-08-08T14:30:00+00:00",
           "timestamp": 1786199400,
@@ -3335,6 +3335,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493090,
+          "referee": "S. Martinez",
+          "timezone": "UTC",
+          "date": "2026-08-25T00:15:00+00:00",
+          "timestamp": 1787616900,
+          "periods": {
+            "first": 1787616900,
+            "second": 1787620500
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Mario Alberto Kempes",
+            "city": "Cordoba"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 85,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 456,
+            "name": "Talleres Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/456.png",
+            "winner": null
+          },
+          "away": {
+            "id": 437,
+            "name": "Rosario Central",
+            "logo": "https://media.api-sports.io/football/teams/437.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1547767,
           "referee": "A. Herrera",
           "timezone": "UTC",
@@ -3476,7 +3546,7 @@
       {
         "fixture": {
           "id": 1547764,
-          "referee": "A. M. Matonte Cabrera",
+          "referee": "Andres Matonte, Uruguay",
           "timezone": "UTC",
           "date": "2026-08-14T00:30:00+00:00",
           "timestamp": 1786667400,
@@ -3486,7 +3556,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Gigante de Arroyito",
+            "name": "Gigante de Arroyito",
             "city": "Rosario"
           },
           "status": {
@@ -3756,7 +3826,7 @@
       {
         "fixture": {
           "id": 1493003,
-          "referee": "Sebastian Zunino, Argentina",
+          "referee": "S. Zunino",
           "timezone": "UTC",
           "date": "2026-07-23T22:30:00+00:00",
           "timestamp": 1784845800,
@@ -3766,7 +3836,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Julio César Villagra",
+            "name": "Estadio Julio Cesar Villagra",
             "city": "Cordoba"
           },
           "status": {
@@ -3951,76 +4021,6 @@
           },
           "fulltime": {
             "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1535311,
-          "referee": "Flavio Rodrigues De Souza, Brazil",
-          "timezone": "UTC",
-          "date": "2026-05-19T22:00:00+00:00",
-          "timestamp": 1779228000,
-          "periods": {
-            "first": 1779228000,
-            "second": 1779231600
-          },
-          "venue": {
-            "id": null,
-            "name": "Gigante de Arroyito",
-            "city": "Rosario"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 13,
-          "name": "CONMEBOL Libertadores",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/13.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 437,
-            "name": "Rosario Central",
-            "logo": "https://media.api-sports.io/football/teams/437.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2840,
-            "name": "UCV",
-            "logo": "https://media.api-sports.io/football/teams/2840.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 4,
             "away": 0
           },
           "extratime": {
@@ -4341,6 +4341,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493085,
+          "referee": "Sebastian Zunino, Argentina",
+          "timezone": "UTC",
+          "date": "2026-08-25T00:15:00+00:00",
+          "timestamp": 1787616900,
+          "periods": {
+            "first": 1787616900,
+            "second": 1787620500
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Ciudad de Lanus",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 86,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 446,
+            "name": "Lanus",
+            "logo": "https://media.api-sports.io/football/teams/446.png",
+            "winner": null
+          },
+          "away": {
+            "id": 458,
+            "name": "Argentinos JRS",
+            "logo": "https://media.api-sports.io/football/teams/458.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493069,
           "referee": "S. Martinez",
           "timezone": "UTC",
@@ -4412,7 +4482,7 @@
       {
         "fixture": {
           "id": 1493059,
-          "referee": "Luis Lobo Medina, Argentina",
+          "referee": "L. Lobo Medina",
           "timezone": "UTC",
           "date": "2026-08-12T00:00:00+00:00",
           "timestamp": 1786492800,
@@ -4422,7 +4492,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Mario Alberto Kempes",
+            "name": "Estadio Mario Alberto Kempes",
             "city": "Cordoba"
           },
           "status": {
@@ -4622,7 +4692,7 @@
       {
         "fixture": {
           "id": 1547783,
-          "referee": "Carlos Betancur, Colombia",
+          "referee": "C. A. Betancur Gutierrez",
           "timezone": "UTC",
           "date": "2026-07-30T00:30:00+00:00",
           "timestamp": 1785371400,
@@ -4968,76 +5038,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1535307,
-          "referee": "A. Rojas",
-          "timezone": "UTC",
-          "date": "2026-05-21T00:30:00+00:00",
-          "timestamp": 1779323400,
-          "periods": {
-            "first": 1779323400,
-            "second": 1779327000
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Rodrigo Paz Delgado",
-            "city": "Quito"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 13,
-          "name": "CONMEBOL Libertadores",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/13.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1158,
-            "name": "LDU de Quito",
-            "logo": "https://media.api-sports.io/football/teams/1158.png",
-            "winner": true
-          },
-          "away": {
-            "id": 446,
-            "name": "Lanus",
-            "logo": "https://media.api-sports.io/football/teams/446.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -5371,6 +5371,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493090,
+          "referee": "S. Martinez",
+          "timezone": "UTC",
+          "date": "2026-08-25T00:15:00+00:00",
+          "timestamp": 1787616900,
+          "periods": {
+            "first": 1787616900,
+            "second": 1787620500
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Mario Alberto Kempes",
+            "city": "Cordoba"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 85,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 456,
+            "name": "Talleres Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/456.png",
+            "winner": null
+          },
+          "away": {
+            "id": 437,
+            "name": "Rosario Central",
+            "logo": "https://media.api-sports.io/football/teams/437.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493068,
           "referee": "A. Gariano",
           "timezone": "UTC",
@@ -5442,7 +5512,7 @@
       {
         "fixture": {
           "id": 1493059,
-          "referee": "Luis Lobo Medina, Argentina",
+          "referee": "L. Lobo Medina",
           "timezone": "UTC",
           "date": "2026-08-12T00:00:00+00:00",
           "timestamp": 1786492800,
@@ -5452,7 +5522,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Mario Alberto Kempes",
+            "name": "Estadio Mario Alberto Kempes",
             "city": "Cordoba"
           },
           "status": {
@@ -5652,7 +5722,7 @@
       {
         "fixture": {
           "id": 1493011,
-          "referee": "Jorge Balino, Argentina",
+          "referee": "J. Balino",
           "timezone": "UTC",
           "date": "2026-07-25T20:00:00+00:00",
           "timestamp": 1785009600,
@@ -5792,7 +5862,7 @@
       {
         "fixture": {
           "id": 1544176,
-          "referee": "Dario Herrera, Argentina",
+          "referee": "D. Herrera",
           "timezone": "UTC",
           "date": "2026-05-09T19:30:00+00:00",
           "timestamp": 1778355000,
@@ -5802,7 +5872,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Mario Alberto Kempes",
+            "name": "Estadio Mario Alberto Kempes",
             "city": "Cordoba"
           },
           "status": {
@@ -5987,76 +6057,6 @@
           },
           "fulltime": {
             "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492040,
-          "referee": "F. Echenique",
-          "timezone": "UTC",
-          "date": "2026-04-19T23:30:00+00:00",
-          "timestamp": 1776641400,
-          "periods": {
-            "first": 1776641400,
-            "second": 1776645000
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Mario Alberto Kempes",
-            "city": "Cordoba"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - 15",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 456,
-            "name": "Talleres Cordoba",
-            "logo": "https://media.api-sports.io/football/teams/456.png",
-            "winner": true
-          },
-          "away": {
-            "id": 476,
-            "name": "Deportivo Riestra",
-            "logo": "https://media.api-sports.io/football/teams/476.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
             "away": 0
           },
           "extratime": {
@@ -6395,6 +6395,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1493085,
+          "referee": "Sebastian Zunino, Argentina",
+          "timezone": "UTC",
+          "date": "2026-08-25T00:15:00+00:00",
+          "timestamp": 1787616900,
+          "periods": {
+            "first": 1787616900,
+            "second": 1787620500
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Ciudad de Lanus",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 86,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 446,
+            "name": "Lanus",
+            "logo": "https://media.api-sports.io/football/teams/446.png",
+            "winner": null
+          },
+          "away": {
+            "id": 458,
+            "name": "Argentinos JRS",
+            "logo": "https://media.api-sports.io/football/teams/458.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1493073,
@@ -6748,7 +6818,7 @@
       {
         "fixture": {
           "id": 1545165,
-          "referee": "Nazareno Arasa, Argentina",
+          "referee": "N. Arasa",
           "timezone": "UTC",
           "date": "2026-05-17T20:00:00+00:00",
           "timestamp": 1779048000,
@@ -6758,7 +6828,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Diego Armando Maradona",
+            "name": "Estadio Diego Armando Maradona",
             "city": "Buenos Aires"
           },
           "status": {
@@ -7014,76 +7084,6 @@
           "fulltime": {
             "home": 2,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492049,
-          "referee": "A. Penel",
-          "timezone": "UTC",
-          "date": "2026-04-28T00:00:00+00:00",
-          "timestamp": 1777334400,
-          "periods": {
-            "first": 1777334400,
-            "second": 1777338000
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Tomas Adolfo Duco",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 445,
-            "name": "Huracan",
-            "logo": "https://media.api-sports.io/football/teams/445.png",
-            "winner": false
-          },
-          "away": {
-            "id": 458,
-            "name": "Argentinos JRS",
-            "logo": "https://media.api-sports.io/football/teams/458.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
           },
           "extratime": {
             "home": null,
@@ -7456,6 +7456,76 @@
           "fulltime": {
             "home": 0,
             "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1618926,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-08-12T16:00:00+00:00",
+          "timestamp": 1786550400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 532,
+            "name": "Valencia",
+            "logo": "https://media.api-sports.io/football/teams/532.png",
+            "winner": false
+          },
+          "away": {
+            "id": 5278,
+            "name": "Teruel",
+            "logo": "https://media.api-sports.io/football/teams/5278.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
           },
           "extratime": {
             "home": null,
@@ -8016,76 +8086,6 @@
           "fulltime": {
             "home": 3,
             "away": 4
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1391177,
-          "referee": "A. Quintero",
-          "timezone": "UTC",
-          "date": "2026-05-14T17:00:00+00:00",
-          "timestamp": 1778778000,
-          "periods": {
-            "first": 1778778000,
-            "second": 1778781600
-          },
-          "venue": {
-            "id": 1497,
-            "name": "Estadio de Mestalla",
-            "city": "Valencia"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 140,
-          "name": "La Liga",
-          "country": "Spain",
-          "logo": "https://media.api-sports.io/football/leagues/140.png",
-          "flag": "https://media.api-sports.io/flags/es.svg",
-          "season": 2025,
-          "round": "Regular Season - 36",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 532,
-            "name": "Valencia",
-            "logo": "https://media.api-sports.io/football/teams/532.png",
-            "winner": null
-          },
-          "away": {
-            "id": 728,
-            "name": "Rayo Vallecano",
-            "logo": "https://media.api-sports.io/football/teams/728.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -10546,7 +10546,7 @@
       {
         "fixture": {
           "id": 1561905,
-          "referee": "Arnes Talic, Austria",
+          "referee": "A. Talic",
           "timezone": "UTC",
           "date": "2026-08-09T17:00:00+00:00",
           "timestamp": 1786294800,
@@ -10616,7 +10616,7 @@
       {
         "fixture": {
           "id": 1561894,
-          "referee": "Sebastian Gishamer, Austria",
+          "referee": "S. Gishamer",
           "timezone": "UTC",
           "date": "2026-07-31T17:30:00+00:00",
           "timestamp": 1785519000,
@@ -11420,7 +11420,7 @@
       {
         "fixture": {
           "id": 1507037,
-          "referee": "Min-Seok Song, South Korea",
+          "referee": "Song Min-Seok",
           "timezone": "UTC",
           "date": "2026-08-22T10:30:00+00:00",
           "timestamp": 1787394600,
@@ -11560,7 +11560,7 @@
       {
         "fixture": {
           "id": 1507031,
-          "referee": "Dong Jun Lee, South Korea",
+          "referee": "Lee Dong-Jun",
           "timezone": "UTC",
           "date": "2026-08-16T10:30:00+00:00",
           "timestamp": 1786876200,
@@ -11630,7 +11630,7 @@
       {
         "fixture": {
           "id": 1507023,
-          "referee": "Yong-jun Shin, South Korea",
+          "referee": "Shin Yong-Jun",
           "timezone": "UTC",
           "date": "2026-08-08T11:00:00+00:00",
           "timestamp": 1786186800,
@@ -11700,7 +11700,7 @@
       {
         "fixture": {
           "id": 1507016,
-          "referee": "Ko Hyung-jin, South Korea",
+          "referee": "K. Hyung-Jin",
           "timezone": "UTC",
           "date": "2026-08-01T10:30:00+00:00",
           "timestamp": 1785580200,
@@ -11840,7 +11840,7 @@
       {
         "fixture": {
           "id": 1507014,
-          "referee": "Cheol-Jun Choi, South Korea",
+          "referee": "C. Choi",
           "timezone": "UTC",
           "date": "2026-07-26T10:30:00+00:00",
           "timestamp": 1785061800,
@@ -11910,7 +11910,7 @@
       {
         "fixture": {
           "id": 1507007,
-          "referee": "Tae-Hwan Seol, South Korea",
+          "referee": "Seol Tae-Hwan",
           "timezone": "UTC",
           "date": "2026-07-22T10:30:00+00:00",
           "timestamp": 1784716200,
@@ -12442,7 +12442,7 @@
       {
         "fixture": {
           "id": 1507035,
-          "referee": "Tae-Hwan Seol, South Korea",
+          "referee": "Seol Tae-Hwan",
           "timezone": "UTC",
           "date": "2026-08-22T10:30:00+00:00",
           "timestamp": 1787394600,
@@ -12582,7 +12582,7 @@
       {
         "fixture": {
           "id": 1507029,
-          "referee": "Yong-jun Shin, South Korea",
+          "referee": "Shin Yong-Jun",
           "timezone": "UTC",
           "date": "2026-08-15T10:30:00+00:00",
           "timestamp": 1786789800,
@@ -12652,7 +12652,7 @@
       {
         "fixture": {
           "id": 1507026,
-          "referee": "Min-Seok Song, South Korea",
+          "referee": "Song Min-Seok",
           "timezone": "UTC",
           "date": "2026-08-08T11:00:00+00:00",
           "timestamp": 1786186800,
@@ -12792,7 +12792,7 @@
       {
         "fixture": {
           "id": 1507020,
-          "referee": "Dae-Yong Kim, South Korea",
+          "referee": "Kim Dae-Yong",
           "timezone": "UTC",
           "date": "2026-08-02T10:30:00+00:00",
           "timestamp": 1785666600,
@@ -12932,7 +12932,7 @@
       {
         "fixture": {
           "id": 1507013,
-          "referee": "Byungjin Park, South Korea",
+          "referee": "Park Byung-Jin",
           "timezone": "UTC",
           "date": "2026-07-26T10:30:00+00:00",
           "timestamp": 1785061800,
@@ -13002,7 +13002,7 @@
       {
         "fixture": {
           "id": 1507004,
-          "referee": "Woo-Sung Kim, South Korea",
+          "referee": "Kim Woo-Sung",
           "timezone": "UTC",
           "date": "2026-07-21T10:30:00+00:00",
           "timestamp": 1784629800,
@@ -13460,7 +13460,7 @@
       {
         "fixture": {
           "id": 1507036,
-          "referee": "Ko Hyung-jin, South Korea",
+          "referee": "K. Hyung-Jin",
           "timezone": "UTC",
           "date": "2026-08-22T10:30:00+00:00",
           "timestamp": 1787394600,
@@ -13600,7 +13600,7 @@
       {
         "fixture": {
           "id": 1507031,
-          "referee": "Dong Jun Lee, South Korea",
+          "referee": "Lee Dong-Jun",
           "timezone": "UTC",
           "date": "2026-08-16T10:30:00+00:00",
           "timestamp": 1786876200,
@@ -13670,7 +13670,7 @@
       {
         "fixture": {
           "id": 1507026,
-          "referee": "Min-Seok Song, South Korea",
+          "referee": "Song Min-Seok",
           "timezone": "UTC",
           "date": "2026-08-08T11:00:00+00:00",
           "timestamp": 1786186800,
@@ -13740,7 +13740,7 @@
       {
         "fixture": {
           "id": 1507017,
-          "referee": "Jong-Hyeok Kim, South Korea",
+          "referee": "K. Jonghyeok",
           "timezone": "UTC",
           "date": "2026-08-01T10:30:00+00:00",
           "timestamp": 1785580200,
@@ -13810,7 +13810,7 @@
       {
         "fixture": {
           "id": 1507011,
-          "referee": "Yong-jun Shin, South Korea",
+          "referee": "Shin Yong-Jun",
           "timezone": "UTC",
           "date": "2026-07-25T10:30:00+00:00",
           "timestamp": 1784975400,
@@ -13880,7 +13880,7 @@
       {
         "fixture": {
           "id": 1507005,
-          "referee": "Hyun Jae Choi, South Korea",
+          "referee": "H. Choi",
           "timezone": "UTC",
           "date": "2026-07-21T10:30:00+00:00",
           "timestamp": 1784629800,
@@ -14020,7 +14020,7 @@
       {
         "fixture": {
           "id": 1506994,
-          "referee": "Dae-Yong Kim, South Korea",
+          "referee": "Kim Dae-Yong",
           "timezone": "UTC",
           "date": "2026-07-11T10:30:00+00:00",
           "timestamp": 1783765800,
@@ -14494,7 +14494,7 @@
       {
         "fixture": {
           "id": 1507037,
-          "referee": "Min-Seok Song, South Korea",
+          "referee": "Song Min-Seok",
           "timezone": "UTC",
           "date": "2026-08-22T10:30:00+00:00",
           "timestamp": 1787394600,
@@ -14634,7 +14634,7 @@
       {
         "fixture": {
           "id": 1507028,
-          "referee": "Ko Hyung-jin, South Korea",
+          "referee": "K. Hyung-Jin",
           "timezone": "UTC",
           "date": "2026-08-15T10:30:00+00:00",
           "timestamp": 1786789800,
@@ -14704,7 +14704,7 @@
       {
         "fixture": {
           "id": 1507027,
-          "referee": "Dong Jun Lee, South Korea",
+          "referee": "Lee Dong-Jun",
           "timezone": "UTC",
           "date": "2026-08-08T11:00:00+00:00",
           "timestamp": 1786186800,
@@ -14844,7 +14844,7 @@
       {
         "fixture": {
           "id": 1507011,
-          "referee": "Yong-jun Shin, South Korea",
+          "referee": "Shin Yong-Jun",
           "timezone": "UTC",
           "date": "2026-07-25T10:30:00+00:00",
           "timestamp": 1784975400,
@@ -14914,7 +14914,7 @@
       {
         "fixture": {
           "id": 1507009,
-          "referee": "Dae-Yong Kim, South Korea",
+          "referee": "Kim Dae-Yong",
           "timezone": "UTC",
           "date": "2026-07-22T10:30:00+00:00",
           "timestamp": 1784716200,
@@ -15508,7 +15508,7 @@
       {
         "fixture": {
           "id": 1507034,
-          "referee": "Dae-Yong Kim, South Korea",
+          "referee": "Kim Dae-Yong",
           "timezone": "UTC",
           "date": "2026-08-22T10:30:00+00:00",
           "timestamp": 1787394600,
@@ -15578,7 +15578,7 @@
       {
         "fixture": {
           "id": 1507030,
-          "referee": "Woo-Sung Kim, South Korea",
+          "referee": "Kim Woo-Sung",
           "timezone": "UTC",
           "date": "2026-08-15T10:30:00+00:00",
           "timestamp": 1786789800,
@@ -15648,7 +15648,7 @@
       {
         "fixture": {
           "id": 1507025,
-          "referee": "Byungjin Park, South Korea",
+          "referee": "Park Byung-Jin",
           "timezone": "UTC",
           "date": "2026-08-08T11:00:00+00:00",
           "timestamp": 1786186800,
@@ -15718,7 +15718,7 @@
       {
         "fixture": {
           "id": 1507017,
-          "referee": "Jong-Hyeok Kim, South Korea",
+          "referee": "K. Jonghyeok",
           "timezone": "UTC",
           "date": "2026-08-01T10:30:00+00:00",
           "timestamp": 1785580200,
@@ -15928,7 +15928,7 @@
       {
         "fixture": {
           "id": 1507009,
-          "referee": "Dae-Yong Kim, South Korea",
+          "referee": "Kim Dae-Yong",
           "timezone": "UTC",
           "date": "2026-07-22T10:30:00+00:00",
           "timestamp": 1784716200,
@@ -16530,7 +16530,7 @@
       {
         "fixture": {
           "id": 1507035,
-          "referee": "Tae-Hwan Seol, South Korea",
+          "referee": "Seol Tae-Hwan",
           "timezone": "UTC",
           "date": "2026-08-22T10:30:00+00:00",
           "timestamp": 1787394600,
@@ -16670,7 +16670,7 @@
       {
         "fixture": {
           "id": 1507032,
-          "referee": "Min-Seok Song, South Korea",
+          "referee": "Song Min-Seok",
           "timezone": "UTC",
           "date": "2026-08-16T10:30:00+00:00",
           "timestamp": 1786876200,
@@ -16740,7 +16740,7 @@
       {
         "fixture": {
           "id": 1507025,
-          "referee": "Byungjin Park, South Korea",
+          "referee": "Park Byung-Jin",
           "timezone": "UTC",
           "date": "2026-08-08T11:00:00+00:00",
           "timestamp": 1786186800,
@@ -16950,7 +16950,7 @@
       {
         "fixture": {
           "id": 1507010,
-          "referee": "Dong Jun Lee, South Korea",
+          "referee": "Lee Dong-Jun",
           "timezone": "UTC",
           "date": "2026-07-25T10:30:00+00:00",
           "timestamp": 1784975400,
@@ -17020,7 +17020,7 @@
       {
         "fixture": {
           "id": 1507008,
-          "referee": "Ko Hyung-jin, South Korea",
+          "referee": "Ko Hyung-Jin",
           "timezone": "UTC",
           "date": "2026-07-22T10:30:00+00:00",
           "timestamp": 1784716200,
@@ -24271,6 +24271,1003 @@
       }
     ]
   },
+  "10307": {
+    "statistics": {
+      "league": {
+        "id": 10,
+        "name": "Friendlies",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/10.png",
+        "flag": null,
+        "season": 2026
+      },
+      "team": {
+        "id": 10307,
+        "name": "Uruguay U20",
+        "logo": "https://media.api-sports.io/football/teams/10307.png"
+      },
+      "form": null,
+      "fixtures": {
+        "played": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "wins": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "draws": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "loses": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 0
+            },
+            "1.5": {
+              "over": 0,
+              "under": 0
+            },
+            "2.5": {
+              "over": 0,
+              "under": 0
+            },
+            "3.5": {
+              "over": 0,
+              "under": 0
+            },
+            "4.5": {
+              "over": 0,
+              "under": 0
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          },
+          "average": {
+            "home": "0.0",
+            "away": "0.0",
+            "total": "0.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 0,
+              "under": 0
+            },
+            "1.5": {
+              "over": 0,
+              "under": 0
+            },
+            "2.5": {
+              "over": 0,
+              "under": 0
+            },
+            "3.5": {
+              "over": 0,
+              "under": 0
+            },
+            "4.5": {
+              "over": 0,
+              "under": 0
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 0,
+          "draws": 0,
+          "loses": 0
+        },
+        "wins": {
+          "home": null,
+          "away": null
+        },
+        "loses": {
+          "home": null,
+          "away": null
+        },
+        "goals": {
+          "for": {
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "home": 0,
+            "away": 0
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "failed_to_score": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "penalty": {
+        "scored": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 0
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1405697,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-07-24T20:45:00+00:00",
+          "timestamp": 1753389900,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 0,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 940,
+          "name": "COTIF Tournament",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/940.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Group Stage - 3",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10307,
+            "name": "Uruguay U20",
+            "logo": "https://media.api-sports.io/football/teams/10307.png",
+            "winner": false
+          },
+          "away": {
+            "id": 11038,
+            "name": "Mauritania U20",
+            "logo": "https://media.api-sports.io/football/teams/11038.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1405693,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-07-22T20:45:00+00:00",
+          "timestamp": 1753217100,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 0,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 940,
+          "name": "COTIF Tournament",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/940.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Group Stage - 2",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10307,
+            "name": "Uruguay U20",
+            "logo": "https://media.api-sports.io/football/teams/10307.png",
+            "winner": true
+          },
+          "away": {
+            "id": 10314,
+            "name": "Venezuela U20",
+            "logo": "https://media.api-sports.io/football/teams/10314.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1405689,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-07-20T20:45:00+00:00",
+          "timestamp": 1753044300,
+          "periods": {
+            "first": 1753044300,
+            "second": 1753047900
+          },
+          "venue": {
+            "id": 0,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 940,
+          "name": "COTIF Tournament",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/940.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Group Stage - 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10307,
+            "name": "Uruguay U20",
+            "logo": "https://media.api-sports.io/football/teams/10307.png",
+            "winner": true
+          },
+          "away": {
+            "id": 10301,
+            "name": "Saudi Arabia U20",
+            "logo": "https://media.api-sports.io/football/teams/10301.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1346851,
+          "referee": "Paulo Cesar Zanovelli da Silva",
+          "timezone": "UTC",
+          "date": "2025-02-16T19:00:00+00:00",
+          "timestamp": 1739732400,
+          "periods": {
+            "first": 1739732400,
+            "second": 1739736000
+          },
+          "venue": {
+            "id": 1655,
+            "name": "Estadio Olímpico General José Antonio Anzoátegui",
+            "city": "Puerto la Cruz"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 773,
+          "name": "Sudamericano U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/773.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Final Group Stage - 5",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10307,
+            "name": "Uruguay U20",
+            "logo": "https://media.api-sports.io/football/teams/10307.png",
+            "winner": false
+          },
+          "away": {
+            "id": 10285,
+            "name": "Colombia U20",
+            "logo": "https://media.api-sports.io/football/teams/10285.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 3
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1346848,
+          "referee": "J. Cabero",
+          "timezone": "UTC",
+          "date": "2025-02-13T20:00:00+00:00",
+          "timestamp": 1739476800,
+          "periods": {
+            "first": 1739476800,
+            "second": 1739480400
+          },
+          "venue": {
+            "id": 1653,
+            "name": "Estadio Olímpico de la UCV",
+            "city": "Caracas"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 773,
+          "name": "Sudamericano U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/773.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Final Group Stage - 4",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "logo": "https://media.api-sports.io/football/teams/16202.png",
+            "winner": true
+          },
+          "away": {
+            "id": 10307,
+            "name": "Uruguay U20",
+            "logo": "https://media.api-sports.io/football/teams/10307.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1345736,
+          "referee": "M. Ramírez",
+          "timezone": "UTC",
+          "date": "2025-02-11T01:00:00+00:00",
+          "timestamp": 1739235600,
+          "periods": {
+            "first": 1739235600,
+            "second": 1739239200
+          },
+          "venue": {
+            "id": 2851,
+            "name": "Estadio Nacional Brígido Iriarte",
+            "city": "Caracas"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 773,
+          "name": "Sudamericano U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/773.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Final Group Stage - 3",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 16201,
+            "name": "Chile U20",
+            "logo": "https://media.api-sports.io/football/teams/16201.png",
+            "winner": null
+          },
+          "away": {
+            "id": 10307,
+            "name": "Uruguay U20",
+            "logo": "https://media.api-sports.io/football/teams/10307.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1346844,
+          "referee": "M. Espinoza",
+          "timezone": "UTC",
+          "date": "2025-02-07T22:30:00+00:00",
+          "timestamp": 1738967400,
+          "periods": {
+            "first": 1738967400,
+            "second": 1738971000
+          },
+          "venue": {
+            "id": 2851,
+            "name": "Estadio Nacional Brígido Iriarte",
+            "city": "Caracas"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 773,
+          "name": "Sudamericano U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/773.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Final Group Stage - 2",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10307,
+            "name": "Uruguay U20",
+            "logo": "https://media.api-sports.io/football/teams/10307.png",
+            "winner": false
+          },
+          "away": {
+            "id": 10284,
+            "name": "Argentina U20",
+            "logo": "https://media.api-sports.io/football/teams/10284.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1346841,
+          "referee": "A. Colombo",
+          "timezone": "UTC",
+          "date": "2025-02-04T22:30:00+00:00",
+          "timestamp": 1738708200,
+          "periods": {
+            "first": 1738708200,
+            "second": 1738711800
+          },
+          "venue": {
+            "id": 2851,
+            "name": "Estadio Nacional Brígido Iriarte",
+            "city": "Caracas"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 773,
+          "name": "Sudamericano U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/773.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Final Group Stage - 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10307,
+            "name": "Uruguay U20",
+            "logo": "https://media.api-sports.io/football/teams/10307.png",
+            "winner": false
+          },
+          "away": {
+            "id": 16200,
+            "name": "Brazil U20",
+            "logo": "https://media.api-sports.io/football/teams/16200.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1323415,
+          "referee": "Paulo Cesar Zanovelli da Silva",
+          "timezone": "UTC",
+          "date": "2025-01-31T23:30:00+00:00",
+          "timestamp": 1738366200,
+          "periods": {
+            "first": 1738366200,
+            "second": 1738369800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Metropolitano de Fútbol de Lara",
+            "city": "Barquisimeto"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
+          }
+        },
+        "league": {
+          "id": 773,
+          "name": "Sudamericano U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/773.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Group Stage - 5",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10314,
+            "name": "Venezuela U20",
+            "logo": "https://media.api-sports.io/football/teams/10314.png",
+            "winner": true
+          },
+          "away": {
+            "id": 10307,
+            "name": "Uruguay U20",
+            "logo": "https://media.api-sports.io/football/teams/10307.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1323413,
+          "referee": "Á. Cajas",
+          "timezone": "UTC",
+          "date": "2025-01-29T21:00:00+00:00",
+          "timestamp": 1738184400,
+          "periods": {
+            "first": 1738184400,
+            "second": 1738188000
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Metropolitano de Fútbol de Lara",
+            "city": "Barquisimeto"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 773,
+          "name": "Sudamericano U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/773.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Group Stage - 4",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10307,
+            "name": "Uruguay U20",
+            "logo": "https://media.api-sports.io/football/teams/10307.png",
+            "winner": true
+          },
+          "away": {
+            "id": 16203,
+            "name": "Peru U20",
+            "logo": "https://media.api-sports.io/football/teams/16203.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
   "10511": {
     "statistics": {
       "league": {
@@ -26270,6 +27267,1003 @@
           "fulltime": {
             "home": 4,
             "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  },
+  "16202": {
+    "statistics": {
+      "league": {
+        "id": 10,
+        "name": "Friendlies",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/10.png",
+        "flag": null,
+        "season": 2026
+      },
+      "team": {
+        "id": 16202,
+        "name": "Paraguay U20",
+        "logo": "https://media.api-sports.io/football/teams/16202.png"
+      },
+      "form": "LL",
+      "fixtures": {
+        "played": {
+          "home": 0,
+          "away": 2,
+          "total": 2
+        },
+        "wins": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "draws": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "loses": {
+          "home": 0,
+          "away": 2,
+          "total": 2
+        }
+      },
+      "goals": {
+        "for": {
+          "total": {
+            "home": 0,
+            "away": 2,
+            "total": 2
+          },
+          "average": {
+            "home": "0.0",
+            "away": "1.0",
+            "total": "1.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": 1,
+              "percentage": "50.00%"
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": 1,
+              "percentage": "50.00%"
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 2,
+              "under": 0
+            },
+            "1.5": {
+              "over": 0,
+              "under": 2
+            },
+            "2.5": {
+              "over": 0,
+              "under": 2
+            },
+            "3.5": {
+              "over": 0,
+              "under": 2
+            },
+            "4.5": {
+              "over": 0,
+              "under": 2
+            }
+          }
+        },
+        "against": {
+          "total": {
+            "home": 0,
+            "away": 6,
+            "total": 6
+          },
+          "average": {
+            "home": "0.0",
+            "away": "3.0",
+            "total": "3.0"
+          },
+          "minute": {
+            "0-15": {
+              "total": 1,
+              "percentage": "16.67%"
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": 2,
+              "percentage": "33.33%"
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": 1,
+              "percentage": "16.67%"
+            },
+            "76-90": {
+              "total": 2,
+              "percentage": "33.33%"
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "under_over": {
+            "0.5": {
+              "over": 2,
+              "under": 0
+            },
+            "1.5": {
+              "over": 2,
+              "under": 0
+            },
+            "2.5": {
+              "over": 2,
+              "under": 0
+            },
+            "3.5": {
+              "over": 0,
+              "under": 2
+            },
+            "4.5": {
+              "over": 0,
+              "under": 2
+            }
+          }
+        }
+      },
+      "biggest": {
+        "streak": {
+          "wins": 0,
+          "draws": 0,
+          "loses": 2
+        },
+        "wins": {
+          "home": null,
+          "away": null
+        },
+        "loses": {
+          "home": null,
+          "away": "3-1"
+        },
+        "goals": {
+          "for": {
+            "home": 0,
+            "away": 1
+          },
+          "against": {
+            "home": 0,
+            "away": 3
+          }
+        }
+      },
+      "clean_sheet": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "failed_to_score": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "penalty": {
+        "scored": {
+          "total": 1,
+          "percentage": "100.00%"
+        },
+        "missed": {
+          "total": 0,
+          "percentage": "0%"
+        },
+        "total": 1
+      },
+      "lineups": [],
+      "cards": {
+        "yellow": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "red": {
+          "0-15": {
+            "total": null,
+            "percentage": null
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": null,
+            "percentage": null
+          },
+          "76-90": {
+            "total": null,
+            "percentage": null
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        }
+      }
+    },
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1537180,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-31T19:00:00+00:00",
+          "timestamp": 1774983600,
+          "periods": {
+            "first": 1774983600,
+            "second": 1774987200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 16200,
+            "name": "Brazil U20",
+            "logo": "https://media.api-sports.io/football/teams/16200.png",
+            "winner": true
+          },
+          "away": {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "logo": "https://media.api-sports.io/football/teams/16202.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1537194,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-28T22:00:00+00:00",
+          "timestamp": 1774735200,
+          "periods": {
+            "first": 1774735200,
+            "second": 1774738800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Martins Pereira",
+            "city": "Sao Jose dos Campos"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 16200,
+            "name": "Brazil U20",
+            "logo": "https://media.api-sports.io/football/teams/16200.png",
+            "winner": true
+          },
+          "away": {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "logo": "https://media.api-sports.io/football/teams/16202.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1480425,
+          "referee": "Keylor Herrera Villalobos, Costa Rica",
+          "timezone": "UTC",
+          "date": "2025-10-08T23:00:00+00:00",
+          "timestamp": 1759964400,
+          "periods": {
+            "first": 1759964400,
+            "second": 1759968000
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Fiscal de Talca",
+            "city": "Talca"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "AET",
+            "elapsed": 120,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 490,
+          "name": "World Cup - U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/490.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Round of 16",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "logo": "https://media.api-sports.io/football/teams/16202.png",
+            "winner": false
+          },
+          "away": {
+            "id": 10296,
+            "name": "Norway U20",
+            "logo": "https://media.api-sports.io/football/teams/10296.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": 0,
+            "away": 1
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1377338,
+          "referee": "K. Al Turais",
+          "timezone": "UTC",
+          "date": "2025-10-03T20:00:00+00:00",
+          "timestamp": 1759521600,
+          "periods": {
+            "first": 1759521600,
+            "second": 1759525200
+          },
+          "venue": {
+            "id": 316,
+            "name": "Estadio Nacional Julio Martínez Prádanos",
+            "city": "Santiago de Chile"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 490,
+          "name": "World Cup - U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/490.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Group Stage - 3",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10305,
+            "name": "Ukraine U20",
+            "logo": "https://media.api-sports.io/football/teams/10305.png",
+            "winner": true
+          },
+          "away": {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "logo": "https://media.api-sports.io/football/teams/16202.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1377328,
+          "referee": "I. Peljto",
+          "timezone": "UTC",
+          "date": "2025-09-30T23:00:00+00:00",
+          "timestamp": 1759273200,
+          "periods": {
+            "first": 1759273200,
+            "second": 1759276800
+          },
+          "venue": {
+            "id": 341,
+            "name": "Estadio Elías Figueroa Brander",
+            "city": "Valparaíso"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
+          }
+        },
+        "league": {
+          "id": 490,
+          "name": "World Cup - U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/490.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Group Stage - 2",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10291,
+            "name": "Korea Republic U20",
+            "logo": "https://media.api-sports.io/football/teams/10291.png",
+            "winner": null
+          },
+          "away": {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "logo": "https://media.api-sports.io/football/teams/16202.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1377316,
+          "referee": "J. Sanchez",
+          "timezone": "UTC",
+          "date": "2025-09-27T23:00:00+00:00",
+          "timestamp": 1759014000,
+          "periods": {
+            "first": 1759014000,
+            "second": 1759017600
+          },
+          "venue": {
+            "id": 341,
+            "name": "Estadio Elías Figueroa Brander",
+            "city": "Valparaíso"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 490,
+          "name": "World Cup - U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/490.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Group Stage - 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "logo": "https://media.api-sports.io/football/teams/16202.png",
+            "winner": true
+          },
+          "away": {
+            "id": 10297,
+            "name": "Panama U20",
+            "logo": "https://media.api-sports.io/football/teams/10297.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1484977,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-09-21T19:00:00+00:00",
+          "timestamp": 1758481200,
+          "periods": {
+            "first": 1758481200,
+            "second": 1758484800
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "logo": "https://media.api-sports.io/football/teams/16202.png",
+            "winner": null
+          },
+          "away": {
+            "id": 10290,
+            "name": "Japan U20",
+            "logo": "https://media.api-sports.io/football/teams/10290.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1484973,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-09-17T19:00:00+00:00",
+          "timestamp": 1758135600,
+          "periods": {
+            "first": 1758135600,
+            "second": 1758139200
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies 1",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "logo": "https://media.api-sports.io/football/teams/16202.png",
+            "winner": null
+          },
+          "away": {
+            "id": 10285,
+            "name": "Colombia U20",
+            "logo": "https://media.api-sports.io/football/teams/10285.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1486479,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-09-14T19:00:00+00:00",
+          "timestamp": 1757876400,
+          "periods": {
+            "first": 1757876400,
+            "second": 1757880000
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Friendlies",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "logo": "https://media.api-sports.io/football/teams/16202.png",
+            "winner": null
+          },
+          "away": {
+            "id": 10301,
+            "name": "Saudi Arabia U20",
+            "logo": "https://media.api-sports.io/football/teams/10301.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1346852,
+          "referee": "A. Colombo",
+          "timezone": "UTC",
+          "date": "2025-02-17T00:30:00+00:00",
+          "timestamp": 1739752200,
+          "periods": {
+            "first": 1739752200,
+            "second": 1739755800
+          },
+          "venue": {
+            "id": 1655,
+            "name": "Estadio Olímpico General José Antonio Anzoátegui",
+            "city": "Puerto la Cruz"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 773,
+          "name": "Sudamericano U20",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/773.png",
+          "flag": null,
+          "season": 2025,
+          "round": "Final Group Stage - 5",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10284,
+            "name": "Argentina U20",
+            "logo": "https://media.api-sports.io/football/teams/10284.png",
+            "winner": false
+          },
+          "away": {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "logo": "https://media.api-sports.io/football/teams/16202.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
           },
           "extratime": {
             "home": null,
