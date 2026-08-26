@@ -4314,7 +4314,7 @@
       {
         "fixture": {
           "id": 1593289,
-          "referee": "Michalis Matsoukas, Greece",
+          "referee": "M. Matsoukas",
           "timezone": "UTC",
           "date": "2026-08-22T17:00:00+00:00",
           "timestamp": 1787418000,
@@ -7336,7 +7336,7 @@
       {
         "fixture": {
           "id": 1551084,
-          "referee": "G. Davidov",
+          "referee": "Georgi Dimitrov, Bulgaria",
           "timezone": "UTC",
           "date": "2026-08-22T18:15:00+00:00",
           "timestamp": 1787422500,
@@ -7346,7 +7346,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Vivacom Arena Georgi Asparuhov",
+            "name": "Georgi Asparuhov Stadium",
             "city": "Sofia"
           },
           "status": {
@@ -7686,7 +7686,7 @@
       {
         "fixture": {
           "id": 1551064,
-          "referee": "M. Grebencharski",
+          "referee": "Marijan Grebencharski, Bulgaria",
           "timezone": "UTC",
           "date": "2026-08-01T16:00:00+00:00",
           "timestamp": 1785600000,
@@ -7696,7 +7696,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Vivacom Arena Georgi Asparuhov",
+            "name": "Georgi Asparuhov Stadium",
             "city": "Sofia"
           },
           "status": {
@@ -7826,7 +7826,7 @@
       {
         "fixture": {
           "id": 1551060,
-          "referee": "N. Popov",
+          "referee": "Nikola Popov, Bulgaria",
           "timezone": "UTC",
           "date": "2026-07-25T18:15:00+00:00",
           "timestamp": 1785003300,
@@ -9347,76 +9347,6 @@
     "lastFixtures": [
       {
         "fixture": {
-          "id": 1629870,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-08-22T14:00:00+00:00",
-          "timestamp": 1787407200,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 0,
-            "name": "Midjord kunstgras",
-            "city": "Stavanger"
-          },
-          "status": {
-            "long": "Match Postponed",
-            "short": "PST",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 105,
-          "name": "NM Cupen",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/105.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2027,
-          "round": "Round 1",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 6971,
-            "name": "Brodd",
-            "logo": "https://media.api-sports.io/football/teams/6971.png",
-            "winner": null
-          },
-          "away": {
-            "id": 759,
-            "name": "Viking",
-            "logo": "https://media.api-sports.io/football/teams/759.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1622620,
           "referee": "S. Gozubuyuk",
           "timezone": "UTC",
@@ -10034,6 +9964,76 @@
           "fulltime": {
             "home": 1,
             "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1494671,
+          "referee": "M. Stofringshaug",
+          "timezone": "UTC",
+          "date": "2026-05-24T16:00:00+00:00",
+          "timestamp": 1779638400,
+          "periods": {
+            "first": 1779638400,
+            "second": 1779642000
+          },
+          "venue": {
+            "id": null,
+            "name": "Kristiansund Stadion",
+            "city": "Kristiansund"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
+          }
+        },
+        "league": {
+          "id": 103,
+          "name": "Eliteserien",
+          "country": "Norway",
+          "logo": "https://media.api-sports.io/football/leagues/103.png",
+          "flag": "https://media.api-sports.io/flags/no.svg",
+          "season": 2026,
+          "round": "Regular Season - 10",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 320,
+            "name": "Kristiansund BK",
+            "logo": "https://media.api-sports.io/football/teams/320.png",
+            "winner": false
+          },
+          "away": {
+            "id": 759,
+            "name": "Viking",
+            "logo": "https://media.api-sports.io/football/teams/759.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
           },
           "extratime": {
             "home": null,
@@ -14251,12 +14251,12 @@
               "percentage": "10.00%"
             },
             "76-90": {
-              "total": 12,
-              "percentage": "24.00%"
+              "total": 13,
+              "percentage": "26.00%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.00%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -15197,12 +15197,12 @@
               "percentage": "20.00%"
             },
             "76-90": {
-              "total": 4,
-              "percentage": "13.33%"
+              "total": 5,
+              "percentage": "16.67%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "3.33%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,

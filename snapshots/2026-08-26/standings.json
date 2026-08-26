@@ -23,6 +23,25 @@
     {
       "rank": 2,
       "team": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "points": 6,
+      "all": {
+        "played": 2,
+        "win": 2,
+        "draw": 0,
+        "lose": 0,
+        "goals": {
+          "for": 2,
+          "against": 0
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "team": {
         "id": 542,
         "name": "Alaves",
         "logo": "https://media.api-sports.io/football/teams/542.png"
@@ -40,7 +59,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "team": {
         "id": 530,
         "name": "Atletico Madrid",
@@ -59,7 +78,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "team": {
         "id": 529,
         "name": "Barcelona",
@@ -78,7 +97,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "team": {
         "id": 540,
         "name": "Espanyol",
@@ -97,7 +116,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "team": {
         "id": 541,
         "name": "Real Madrid",
@@ -112,25 +131,6 @@
         "goals": {
           "for": 2,
           "against": 1
-        }
-      }
-    },
-    {
-      "rank": 7,
-      "team": {
-        "id": 543,
-        "name": "Real Betis",
-        "logo": "https://media.api-sports.io/football/teams/543.png"
-      },
-      "points": 3,
-      "all": {
-        "played": 1,
-        "win": 1,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 1,
-          "against": 0
         }
       }
     },
@@ -194,25 +194,6 @@
     {
       "rank": 11,
       "team": {
-        "id": 532,
-        "name": "Valencia",
-        "logo": "https://media.api-sports.io/football/teams/532.png"
-      },
-      "points": 1,
-      "all": {
-        "played": 1,
-        "win": 0,
-        "draw": 1,
-        "lose": 0,
-        "goals": {
-          "for": 0,
-          "against": 0
-        }
-      }
-    },
-    {
-      "rank": 12,
-      "team": {
         "id": 727,
         "name": "Osasuna",
         "logo": "https://media.api-sports.io/football/teams/727.png"
@@ -230,7 +211,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "team": {
         "id": 538,
         "name": "Celta Vigo",
@@ -249,7 +230,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "team": {
         "id": 4665,
         "name": "Racing Santander",
@@ -268,7 +249,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "team": {
         "id": 728,
         "name": "Rayo Vallecano",
@@ -283,6 +264,25 @@
         "goals": {
           "for": 2,
           "against": 3
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media.api-sports.io/football/teams/532.png"
+      },
+      "points": 1,
+      "all": {
+        "played": 2,
+        "win": 0,
+        "draw": 1,
+        "lose": 1,
+        "goals": {
+          "for": 0,
+          "against": 1
         }
       }
     },
@@ -390,20 +390,39 @@
         "name": "FC Seoul",
         "logo": "https://media.api-sports.io/football/teams/2766.png"
       },
-      "points": 50,
+      "points": 53,
       "all": {
-        "played": 24,
-        "win": 15,
+        "played": 25,
+        "win": 16,
         "draw": 5,
         "lose": 4,
         "goals": {
-          "for": 46,
+          "for": 47,
           "against": 19
         }
       }
     },
     {
       "rank": 2,
+      "team": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png"
+      },
+      "points": 38,
+      "all": {
+        "played": 25,
+        "win": 10,
+        "draw": 8,
+        "lose": 7,
+        "goals": {
+          "for": 31,
+          "against": 22
+        }
+      }
+    },
+    {
+      "rank": 3,
       "team": {
         "id": 2767,
         "name": "Ulsan Hyundai FC",
@@ -418,25 +437,6 @@
         "goals": {
           "for": 37,
           "against": 34
-        }
-      }
-    },
-    {
-      "rank": 3,
-      "team": {
-        "id": 2762,
-        "name": "Jeonbuk Motors",
-        "logo": "https://media.api-sports.io/football/teams/2762.png"
-      },
-      "points": 37,
-      "all": {
-        "played": 24,
-        "win": 10,
-        "draw": 7,
-        "lose": 7,
-        "goals": {
-          "for": 31,
-          "against": 22
         }
       }
     },
@@ -468,18 +468,37 @@
       },
       "points": 35,
       "all": {
-        "played": 24,
+        "played": 25,
         "win": 9,
         "draw": 8,
-        "lose": 7,
+        "lose": 8,
         "goals": {
-          "for": 27,
-          "against": 24
+          "for": 28,
+          "against": 26
         }
       }
     },
     {
       "rank": 6,
+      "team": {
+        "id": 2764,
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png"
+      },
+      "points": 34,
+      "all": {
+        "played": 25,
+        "win": 10,
+        "draw": 4,
+        "lose": 11,
+        "goals": {
+          "for": 24,
+          "against": 29
+        }
+      }
+    },
+    {
+      "rank": 7,
       "team": {
         "id": 2763,
         "name": "Incheon United",
@@ -494,25 +513,6 @@
         "goals": {
           "for": 30,
           "against": 25
-        }
-      }
-    },
-    {
-      "rank": 7,
-      "team": {
-        "id": 2764,
-        "name": "Pohang Steelers",
-        "logo": "https://media.api-sports.io/football/teams/2764.png"
-      },
-      "points": 31,
-      "all": {
-        "played": 24,
-        "win": 9,
-        "draw": 4,
-        "lose": 11,
-        "goals": {
-          "for": 22,
-          "against": 28
         }
       }
     },
@@ -544,13 +544,13 @@
       },
       "points": 30,
       "all": {
-        "played": 24,
+        "played": 25,
         "win": 7,
         "draw": 9,
-        "lose": 8,
+        "lose": 9,
         "goals": {
           "for": 27,
-          "against": 27
+          "against": 28
         }
       }
     },
@@ -580,11 +580,11 @@
         "name": "Gimcheon Sangmu FC",
         "logo": "https://media.api-sports.io/football/teams/2768.png"
       },
-      "points": 26,
+      "points": 27,
       "all": {
-        "played": 24,
+        "played": 25,
         "win": 4,
-        "draw": 14,
+        "draw": 15,
         "lose": 6,
         "goals": {
           "for": 23,
@@ -616,6 +616,25 @@
     {
       "rank": 1,
       "team": {
+        "id": 2939,
+        "name": "Al-Nassr",
+        "logo": "https://media.api-sports.io/football/teams/2939.png"
+      },
+      "points": 9,
+      "all": {
+        "played": 3,
+        "win": 3,
+        "draw": 0,
+        "lose": 0,
+        "goals": {
+          "for": 10,
+          "against": 2
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "team": {
         "id": 2938,
         "name": "Al-Ittihad FC",
         "logo": "https://media.api-sports.io/football/teams/2938.png"
@@ -629,25 +648,6 @@
         "goals": {
           "for": 5,
           "against": 3
-        }
-      }
-    },
-    {
-      "rank": 2,
-      "team": {
-        "id": 2939,
-        "name": "Al-Nassr",
-        "logo": "https://media.api-sports.io/football/teams/2939.png"
-      },
-      "points": 6,
-      "all": {
-        "played": 2,
-        "win": 2,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 7,
-          "against": 0
         }
       }
     },
@@ -692,25 +692,6 @@
     {
       "rank": 5,
       "team": {
-        "id": 2934,
-        "name": "Al-Ettifaq",
-        "logo": "https://media.api-sports.io/football/teams/2934.png"
-      },
-      "points": 6,
-      "all": {
-        "played": 2,
-        "win": 2,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 5,
-          "against": 2
-        }
-      }
-    },
-    {
-      "rank": 6,
-      "team": {
         "id": 2933,
         "name": "Al-Qadisiyah FC",
         "logo": "https://media.api-sports.io/football/teams/2933.png"
@@ -724,6 +705,25 @@
         "goals": {
           "for": 5,
           "against": 2
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "team": {
+        "id": 2934,
+        "name": "Al-Ettifaq",
+        "logo": "https://media.api-sports.io/football/teams/2934.png"
+      },
+      "points": 6,
+      "all": {
+        "played": 3,
+        "win": 2,
+        "draw": 0,
+        "lose": 1,
+        "goals": {
+          "for": 7,
+          "against": 5
         }
       }
     },
@@ -768,6 +768,25 @@
     {
       "rank": 9,
       "team": {
+        "id": 2928,
+        "name": "Al Khaleej Saihat",
+        "logo": "https://media.api-sports.io/football/teams/2928.png"
+      },
+      "points": 3,
+      "all": {
+        "played": 3,
+        "win": 0,
+        "draw": 3,
+        "lose": 0,
+        "goals": {
+          "for": 1,
+          "against": 1
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "team": {
         "id": 26738,
         "name": "Al Diriyah",
         "logo": "https://media.api-sports.io/football/teams/26738.png"
@@ -785,7 +804,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "team": {
         "id": 2945,
         "name": "Al-Hazm",
@@ -804,36 +823,17 @@
       }
     },
     {
-      "rank": 11,
-      "team": {
-        "id": 2928,
-        "name": "Al Khaleej Saihat",
-        "logo": "https://media.api-sports.io/football/teams/2928.png"
-      },
-      "points": 2,
-      "all": {
-        "played": 2,
-        "win": 0,
-        "draw": 2,
-        "lose": 0,
-        "goals": {
-          "for": 0,
-          "against": 0
-        }
-      }
-    },
-    {
       "rank": 12,
       "team": {
         "id": 2936,
         "name": "Al Taawon",
         "logo": "https://media.api-sports.io/football/teams/2936.png"
       },
-      "points": 1,
+      "points": 2,
       "all": {
-        "played": 2,
+        "played": 3,
         "win": 0,
-        "draw": 1,
+        "draw": 2,
         "lose": 1,
         "goals": {
           "for": 2,
@@ -848,20 +848,77 @@
         "name": "Al Shabab",
         "logo": "https://media.api-sports.io/football/teams/2940.png"
       },
-      "points": 1,
+      "points": 2,
       "all": {
-        "played": 2,
+        "played": 3,
         "win": 0,
-        "draw": 1,
+        "draw": 2,
         "lose": 1,
         "goals": {
-          "for": 1,
-          "against": 3
+          "for": 4,
+          "against": 6
         }
       }
     },
     {
       "rank": 14,
+      "team": {
+        "id": 2944,
+        "name": "Al-Fayha",
+        "logo": "https://media.api-sports.io/football/teams/2944.png"
+      },
+      "points": 1,
+      "all": {
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goals": {
+          "for": 1,
+          "against": 5
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "team": {
+        "id": 2951,
+        "name": "Abha",
+        "logo": "https://media.api-sports.io/football/teams/2951.png"
+      },
+      "points": 1,
+      "all": {
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goals": {
+          "for": 2,
+          "against": 7
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "team": {
+        "id": 10511,
+        "name": "Al Riyadh",
+        "logo": "https://media.api-sports.io/football/teams/10511.png"
+      },
+      "points": 1,
+      "all": {
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goals": {
+          "for": 5,
+          "against": 11
+        }
+      }
+    },
+    {
+      "rank": 17,
       "team": {
         "id": 2930,
         "name": "Al-Faisaly FC",
@@ -880,26 +937,7 @@
       }
     },
     {
-      "rank": 15,
-      "team": {
-        "id": 2944,
-        "name": "Al-Fayha",
-        "logo": "https://media.api-sports.io/football/teams/2944.png"
-      },
-      "points": 0,
-      "all": {
-        "played": 2,
-        "win": 0,
-        "draw": 0,
-        "lose": 2,
-        "goals": {
-          "for": 1,
-          "against": 5
-        }
-      }
-    },
-    {
-      "rank": 16,
+      "rank": 18,
       "team": {
         "id": 2931,
         "name": "Al-Fateh",
@@ -914,44 +952,6 @@
         "goals": {
           "for": 0,
           "against": 4
-        }
-      }
-    },
-    {
-      "rank": 17,
-      "team": {
-        "id": 2951,
-        "name": "Abha",
-        "logo": "https://media.api-sports.io/football/teams/2951.png"
-      },
-      "points": 0,
-      "all": {
-        "played": 2,
-        "win": 0,
-        "draw": 0,
-        "lose": 2,
-        "goals": {
-          "for": 1,
-          "against": 6
-        }
-      }
-    },
-    {
-      "rank": 18,
-      "team": {
-        "id": 10511,
-        "name": "Al Riyadh",
-        "logo": "https://media.api-sports.io/football/teams/10511.png"
-      },
-      "points": 0,
-      "all": {
-        "played": 2,
-        "win": 0,
-        "draw": 0,
-        "lose": 2,
-        "goals": {
-          "for": 2,
-          "against": 8
         }
       }
     }
