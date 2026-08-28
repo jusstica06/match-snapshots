@@ -43,98 +43,11 @@
       }
     }
   },
-  "40": {
-    "id": 40,
-    "name": "Championship",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/40.png",
-    "country": {
-      "name": "England",
-      "code": "GB-ENG",
-      "flag": "https://media.api-sports.io/flags/gb-eng.svg"
-    },
-    "season": 2026,
-    "seasons": [
-      2011,
-      2012,
-      2013,
-      2014,
-      2015,
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "coverage": {
-      "standings": true,
-      "players": true,
-      "topScorers": true,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": true,
-        "statistics_players": true
-      }
-    }
-  },
   "61": {
     "id": 61,
     "name": "Ligue 1",
     "type": "League",
     "logo": "https://media.api-sports.io/football/leagues/61.png",
-    "country": {
-      "name": "France",
-      "code": "FR",
-      "flag": "https://media.api-sports.io/flags/fr.svg"
-    },
-    "season": 2026,
-    "seasons": [
-      2010,
-      2011,
-      2012,
-      2013,
-      2014,
-      2015,
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "coverage": {
-      "standings": true,
-      "players": true,
-      "topScorers": true,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": true,
-        "statistics_players": true
-      }
-    }
-  },
-  "62": {
-    "id": 62,
-    "name": "Ligue 2",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/62.png",
     "country": {
       "name": "France",
       "code": "FR",
@@ -469,49 +382,6 @@
       }
     }
   },
-  "98": {
-    "id": 98,
-    "name": "J1 League",
-    "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/98.png",
-    "country": {
-      "name": "Japan",
-      "code": "JP",
-      "flag": "https://media.api-sports.io/flags/jp.svg"
-    },
-    "season": 2027,
-    "seasons": [
-      2012,
-      2013,
-      2014,
-      2015,
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026,
-      2027
-    ],
-    "coverage": {
-      "standings": true,
-      "players": true,
-      "topScorers": true,
-      "predictions": true,
-      "odds": true,
-      "fixtures": {
-        "events": true,
-        "lineups": true,
-        "statistics_fixtures": true,
-        "statistics_players": true
-      }
-    }
-  },
   "103": {
     "id": 103,
     "name": "Eliteserien",
@@ -634,6 +504,49 @@
     },
     "season": 2026,
     "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": true
+      }
+    }
+  },
+  "119": {
+    "id": 119,
+    "name": "Superliga",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/119.png",
+    "country": {
+      "name": "Denmark",
+      "code": "DK",
+      "flag": "https://media.api-sports.io/flags/dk.svg"
+    },
+    "season": 2026,
+    "seasons": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
       2016,
       2017,
       2018,
@@ -988,20 +901,18 @@
       }
     }
   },
-  "169": {
-    "id": 169,
-    "name": "Super League",
+  "172": {
+    "id": 172,
+    "name": "First League",
     "type": "League",
-    "logo": "https://media.api-sports.io/football/leagues/169.png",
+    "logo": "https://media.api-sports.io/football/leagues/172.png",
     "country": {
-      "name": "China",
-      "code": "CN",
-      "flag": "https://media.api-sports.io/flags/cn.svg"
+      "name": "Bulgaria",
+      "code": "BG",
+      "flag": "https://media.api-sports.io/flags/bg.svg"
     },
     "season": 2026,
     "seasons": [
-      2016,
-      2017,
       2018,
       2019,
       2020,
@@ -1022,7 +933,7 @@
         "events": true,
         "lineups": true,
         "statistics_fixtures": true,
-        "statistics_players": true
+        "statistics_players": false
       }
     }
   },
