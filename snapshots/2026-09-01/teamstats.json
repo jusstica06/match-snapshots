@@ -1073,12 +1073,12 @@
               "percentage": "11.11%"
             },
             "76-90": {
-              "total": 3,
-              "percentage": "33.33%"
+              "total": 2,
+              "percentage": "22.22%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "11.11%"
             },
             "106-120": {
               "total": null,
@@ -2079,12 +2079,12 @@
               "percentage": "11.11%"
             },
             "76-90": {
-              "total": 3,
-              "percentage": "33.33%"
+              "total": 2,
+              "percentage": "22.22%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "11.11%"
             },
             "106-120": {
               "total": null,
@@ -3149,12 +3149,12 @@
               "percentage": null
             },
             "76-90": {
-              "total": 2,
-              "percentage": "33.33%"
+              "total": 1,
+              "percentage": "16.67%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "16.67%"
             },
             "106-120": {
               "total": null,
@@ -4087,12 +4087,12 @@
               "percentage": "33.33%"
             },
             "76-90": {
-              "total": 1,
-              "percentage": "33.33%"
-            },
-            "91-105": {
               "total": null,
               "percentage": null
+            },
+            "91-105": {
+              "total": 1,
+              "percentage": "33.33%"
             },
             "106-120": {
               "total": null,
@@ -5157,12 +5157,12 @@
               "percentage": null
             },
             "76-90": {
-              "total": 1,
-              "percentage": "25.00%"
+              "total": null,
+              "percentage": null
             },
             "91-105": {
-              "total": 1,
-              "percentage": "25.00%"
+              "total": 2,
+              "percentage": "50.00%"
             },
             "106-120": {
               "total": null,
@@ -8175,12 +8175,12 @@
               "percentage": "20.00%"
             },
             "76-90": {
-              "total": 1,
-              "percentage": "20.00%"
-            },
-            "91-105": {
               "total": null,
               "percentage": null
+            },
+            "91-105": {
+              "total": 1,
+              "percentage": "20.00%"
             },
             "106-120": {
               "total": null,
@@ -12187,12 +12187,12 @@
               "percentage": "11.11%"
             },
             "76-90": {
-              "total": 3,
-              "percentage": "33.33%"
+              "total": 2,
+              "percentage": "22.22%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "11.11%"
             },
             "106-120": {
               "total": null,
@@ -14119,12 +14119,12 @@
               "percentage": "25.00%"
             },
             "31-45": {
-              "total": 2,
-              "percentage": "8.33%"
+              "total": 1,
+              "percentage": "4.17%"
             },
             "46-60": {
-              "total": 5,
-              "percentage": "20.83%"
+              "total": 6,
+              "percentage": "25.00%"
             },
             "61-75": {
               "total": 4,
@@ -14381,6 +14381,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493105,
+          "referee": "F. Tello",
+          "timezone": "UTC",
+          "date": "2026-09-01T00:15:00+00:00",
+          "timestamp": 1788221700,
+          "periods": {
+            "first": 1788221700,
+            "second": 1788225300
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Jose Dellagiovanna",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 78,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 452,
+            "name": "Tigre",
+            "logo": "https://media.api-sports.io/football/teams/452.png",
+            "winner": null
+          },
+          "away": {
+            "id": 2432,
+            "name": "Barracas Central",
+            "logo": "https://media.api-sports.io/football/teams/2432.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493091,
           "referee": "Pablo Echavarria, Argentina",
           "timezone": "UTC",
@@ -14522,7 +14592,7 @@
       {
         "fixture": {
           "id": 1493062,
-          "referee": "J. Pafundi",
+          "referee": "Juan Pafundi, Argentina",
           "timezone": "UTC",
           "date": "2026-08-15T17:30:00+00:00",
           "timestamp": 1786815000,
@@ -14662,7 +14732,7 @@
       {
         "fixture": {
           "id": 1493060,
-          "referee": "Carlos Andres Gariano, Argentina",
+          "referee": "A. Gariano",
           "timezone": "UTC",
           "date": "2026-08-08T20:00:00+00:00",
           "timestamp": 1786219200,
@@ -14802,7 +14872,7 @@
       {
         "fixture": {
           "id": 1493043,
-          "referee": "Yael Falcon Perez, Argentina",
+          "referee": "Y. Perez",
           "timezone": "UTC",
           "date": "2026-08-01T23:30:00+00:00",
           "timestamp": 1785627000,
@@ -14813,7 +14883,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Presidente Peron",
-            "city": "Cordoba"
+            "city": "Avellaneda"
           },
           "status": {
             "long": "Match Finished",
@@ -14942,7 +15012,7 @@
       {
         "fixture": {
           "id": 1493007,
-          "referee": "Brian Ferreyra, Argentina",
+          "referee": "B. Ferreyra",
           "timezone": "UTC",
           "date": "2026-07-25T17:45:00+00:00",
           "timestamp": 1785001500,
@@ -14953,7 +15023,7 @@
           "venue": {
             "id": null,
             "name": "Antonio Candini",
-            "city": "Rio Cuarto"
+            "city": "Cordoba"
           },
           "status": {
             "long": "Match Finished",
@@ -14998,76 +15068,6 @@
           "fulltime": {
             "home": 1,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1547777,
-          "referee": "C. A. Betancur Gutierrez",
-          "timezone": "UTC",
-          "date": "2026-07-21T22:00:00+00:00",
-          "timestamp": 1784671200,
-          "periods": {
-            "first": 1784671200,
-            "second": 1784674800
-          },
-          "venue": {
-            "id": null,
-            "name": "Gran Parque Central",
-            "city": "Montevideo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 11,
-          "name": "CONMEBOL Sudamericana",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/11.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Round of 32",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2356,
-            "name": "Club Nacional",
-            "logo": "https://media.api-sports.io/football/teams/2356.png",
-            "winner": false
-          },
-          "away": {
-            "id": 452,
-            "name": "Tigre",
-            "logo": "https://media.api-sports.io/football/teams/452.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 3
           },
           "extratime": {
             "home": null,
@@ -15419,8 +15419,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493102,
+          "referee": "A. Gariano",
+          "timezone": "UTC",
+          "date": "2026-09-01T00:15:00+00:00",
+          "timestamp": 1788221700,
+          "periods": {
+            "first": 1788221700,
+            "second": 1788225300
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Presidente Peron",
+            "city": "Cordoba"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 78,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 478,
+            "name": "Instituto Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/478.png",
+            "winner": true
+          },
+          "away": {
+            "id": 460,
+            "name": "San Lorenzo",
+            "logo": "https://media.api-sports.io/football/teams/460.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493081,
-          "referee": "Nazareno Arasa, Argentina",
+          "referee": "N. Arasa",
           "timezone": "UTC",
           "date": "2026-08-21T23:00:00+00:00",
           "timestamp": 1787353200,
@@ -15431,7 +15501,7 @@
           "venue": {
             "id": null,
             "name": "Antonio Candini",
-            "city": "Rio Cuarto"
+            "city": "Cordoba"
           },
           "status": {
             "long": "Match Finished",
@@ -16046,76 +16116,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1544182,
-          "referee": "Sebastian Zunino, Argentina",
-          "timezone": "UTC",
-          "date": "2026-05-10T22:00:00+00:00",
-          "timestamp": 1778450400,
-          "periods": {
-            "first": 1778450400,
-            "second": 1778454000
-          },
-          "venue": {
-            "id": 46,
-            "name": "Estadio Monumental",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "PEN",
-            "elapsed": 120,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - Round of 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 435,
-            "name": "River Plate",
-            "logo": "https://media.api-sports.io/football/teams/435.png",
-            "winner": true
-          },
-          "away": {
-            "id": 460,
-            "name": "San Lorenzo",
-            "logo": "https://media.api-sports.io/football/teams/460.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": 4,
-            "away": 3
-          }
-        }
       }
     ]
   },
@@ -16247,12 +16247,12 @@
               "percentage": "5.00%"
             },
             "31-45": {
-              "total": 3,
-              "percentage": "15.00%"
+              "total": 2,
+              "percentage": "10.00%"
             },
             "46-60": {
-              "total": 6,
-              "percentage": "30.00%"
+              "total": 7,
+              "percentage": "35.00%"
             },
             "61-75": {
               "total": 4,
@@ -16437,8 +16437,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493102,
+          "referee": "A. Gariano",
+          "timezone": "UTC",
+          "date": "2026-09-01T00:15:00+00:00",
+          "timestamp": 1788221700,
+          "periods": {
+            "first": 1788221700,
+            "second": 1788225300
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Presidente Peron",
+            "city": "Cordoba"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 78,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 478,
+            "name": "Instituto Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/478.png",
+            "winner": true
+          },
+          "away": {
+            "id": 460,
+            "name": "San Lorenzo",
+            "logo": "https://media.api-sports.io/football/teams/460.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1549148,
-          "referee": null,
+          "referee": "L. Rey Hilfer",
           "timezone": "UTC",
           "date": "2026-08-28T00:15:00+00:00",
           "timestamp": 1787876100,
@@ -16496,8 +16566,8 @@
             "away": 1
           },
           "extratime": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
           },
           "penalty": {
             "home": 3,
@@ -16508,7 +16578,7 @@
       {
         "fixture": {
           "id": 1493078,
-          "referee": "A. Merlos",
+          "referee": "Andres Merlos, Argentina",
           "timezone": "UTC",
           "date": "2026-08-22T19:00:00+00:00",
           "timestamp": 1787425200,
@@ -16519,7 +16589,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Monumental Jose Fierro",
-            "city": "Tucuman"
+            "city": "San Miguel de Tucuman"
           },
           "status": {
             "long": "Match Finished",
@@ -16858,7 +16928,7 @@
       {
         "fixture": {
           "id": 1493016,
-          "referee": "Andres Merlos, Argentina",
+          "referee": "A. Merlos",
           "timezone": "UTC",
           "date": "2026-07-24T22:00:00+00:00",
           "timestamp": 1784930400,
@@ -16998,7 +17068,7 @@
       {
         "fixture": {
           "id": 1491942,
-          "referee": "A. Merlos",
+          "referee": "Andres Merlos, Argentina",
           "timezone": "UTC",
           "date": "2026-05-05T00:30:00+00:00",
           "timestamp": 1777941000,
@@ -17009,7 +17079,7 @@
           "venue": {
             "id": null,
             "name": "Antonio Candini",
-            "city": "Cordoba"
+            "city": "Rio Cuarto"
           },
           "status": {
             "long": "Match Finished",
@@ -17054,76 +17124,6 @@
           "fulltime": {
             "home": 0,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492052,
-          "referee": "Bruno Amiconi, Argentina",
-          "timezone": "UTC",
-          "date": "2026-04-26T20:30:00+00:00",
-          "timestamp": 1777235400,
-          "periods": {
-            "first": 1777235400,
-            "second": 1777239000
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Marcelo Bielsa",
-            "city": "Rosario"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 457,
-            "name": "Newells Old Boys",
-            "logo": "https://media.api-sports.io/football/teams/457.png",
-            "winner": null
-          },
-          "away": {
-            "id": 478,
-            "name": "Instituto Cordoba",
-            "logo": "https://media.api-sports.io/football/teams/478.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -17197,12 +17197,12 @@
               "percentage": "10.53%"
             },
             "31-45": {
-              "total": 3,
-              "percentage": "15.79%"
-            },
-            "46-60": {
               "total": 4,
               "percentage": "21.05%"
+            },
+            "46-60": {
+              "total": 3,
+              "percentage": "15.79%"
             },
             "61-75": {
               "total": 4,
@@ -17452,7 +17452,7 @@
       {
         "fixture": {
           "id": 1555373,
-          "referee": "S. Scharer",
+          "referee": "Sandro Schärer, Switzerland",
           "timezone": "UTC",
           "date": "2026-08-29T18:30:00+00:00",
           "timestamp": 1788028200,
@@ -17522,7 +17522,7 @@
       {
         "fixture": {
           "id": 1555367,
-          "referee": "D. Blanco",
+          "referee": "Desiree Grundbacher, Switzerland",
           "timezone": "UTC",
           "date": "2026-08-23T12:00:00+00:00",
           "timestamp": 1787486400,
@@ -17662,7 +17662,7 @@
       {
         "fixture": {
           "id": 1555360,
-          "referee": "A. Kanagasingam",
+          "referee": "Anojen Kanagasingam, Switzerland",
           "timezone": "UTC",
           "date": "2026-08-08T16:00:00+00:00",
           "timestamp": 1786204800,
@@ -17732,7 +17732,7 @@
       {
         "fixture": {
           "id": 1555355,
-          "referee": "U. Schnyder",
+          "referee": "Urs Schnyder, Switzerland",
           "timezone": "UTC",
           "date": "2026-08-01T18:30:00+00:00",
           "timestamp": 1785609000,
@@ -17802,7 +17802,7 @@
       {
         "fixture": {
           "id": 1555350,
-          "referee": "A. Kanagasingam",
+          "referee": "Lukas Fahndrich, Switzerland",
           "timezone": "UTC",
           "date": "2026-07-26T12:00:00+00:00",
           "timestamp": 1785067200,
@@ -18458,7 +18458,7 @@
       {
         "fixture": {
           "id": 1555371,
-          "referee": "L. Fahndrich",
+          "referee": "Lukas Fahndrich, Switzerland",
           "timezone": "UTC",
           "date": "2026-08-29T16:00:00+00:00",
           "timestamp": 1788019200,
@@ -18528,7 +18528,7 @@
       {
         "fixture": {
           "id": 1555366,
-          "referee": "A. Kanagasingam",
+          "referee": "Anojen Kanagasingam, Switzerland",
           "timezone": "UTC",
           "date": "2026-08-22T18:30:00+00:00",
           "timestamp": 1787423400,
@@ -18538,7 +18538,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Letzigrund Stadion",
+            "name": "Letzigrund",
             "city": "Zurich"
           },
           "status": {
@@ -18668,7 +18668,7 @@
       {
         "fixture": {
           "id": 1555362,
-          "referee": "L. Fahndrich",
+          "referee": "Lukas Fahndrich, Switzerland",
           "timezone": "UTC",
           "date": "2026-08-09T12:00:00+00:00",
           "timestamp": 1786276800,
@@ -18678,7 +18678,7 @@
           },
           "venue": {
             "id": null,
-            "name": "AIL Arena",
+            "name": "Cornaredo",
             "city": "Lugano"
           },
           "status": {
@@ -18738,7 +18738,7 @@
       {
         "fixture": {
           "id": 1555354,
-          "referee": "J. von Mandach",
+          "referee": "Johannes von Mandach, Switzerland",
           "timezone": "UTC",
           "date": "2026-08-01T16:00:00+00:00",
           "timestamp": 1785600000,
@@ -18748,7 +18748,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Letzigrund Stadion",
+            "name": "Letzigrund",
             "city": "Zurich"
           },
           "status": {
@@ -18808,7 +18808,7 @@
       {
         "fixture": {
           "id": 1555352,
-          "referee": "S. Wolfensberger",
+          "referee": "Sven Wolfensberger, Switzerland",
           "timezone": "UTC",
           "date": "2026-07-26T14:30:00+00:00",
           "timestamp": 1785076200,
@@ -19464,7 +19464,7 @@
       {
         "fixture": {
           "id": 1585719,
-          "referee": "Emre Kargin, Türkiye",
+          "referee": "E. Kargin",
           "timezone": "UTC",
           "date": "2026-08-28T18:30:00+00:00",
           "timestamp": 1787941800,
@@ -19534,7 +19534,7 @@
       {
         "fixture": {
           "id": 1585709,
-          "referee": "Yusuf Adnan Kendirciler, Türkiye",
+          "referee": "Y. A. Kendirciler",
           "timezone": "UTC",
           "date": "2026-08-22T18:30:00+00:00",
           "timestamp": 1787423400,
@@ -19604,7 +19604,7 @@
       {
         "fixture": {
           "id": 1585707,
-          "referee": "Burak Pakkan, Türkiye",
+          "referee": "B. Pakkan",
           "timezone": "UTC",
           "date": "2026-08-16T18:30:00+00:00",
           "timestamp": 1786905000,
@@ -19674,7 +19674,7 @@
       {
         "fixture": {
           "id": 1585689,
-          "referee": "Melih Aldemir, Türkiye",
+          "referee": "M. Aldemir",
           "timezone": "UTC",
           "date": "2026-08-08T18:30:00+00:00",
           "timestamp": 1786213800,
@@ -23304,12 +23304,12 @@
               "percentage": null
             },
             "31-45": {
-              "total": 5,
-              "percentage": "83.33%"
+              "total": 4,
+              "percentage": "66.67%"
             },
             "46-60": {
-              "total": 1,
-              "percentage": "16.67%"
+              "total": 2,
+              "percentage": "33.33%"
             },
             "61-75": {
               "total": null,
@@ -24318,12 +24318,12 @@
               "percentage": "40.00%"
             },
             "76-90": {
-              "total": 1,
-              "percentage": "20.00%"
-            },
-            "91-105": {
               "total": null,
               "percentage": null
+            },
+            "91-105": {
+              "total": 1,
+              "percentage": "20.00%"
             },
             "106-120": {
               "total": null,
@@ -28319,12 +28319,12 @@
               "percentage": null
             },
             "76-90": {
-              "total": 7,
-              "percentage": "35.00%"
+              "total": 6,
+              "percentage": "30.00%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "5.00%"
             },
             "106-120": {
               "total": null,
@@ -28493,8 +28493,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493105,
+          "referee": "F. Tello",
+          "timezone": "UTC",
+          "date": "2026-09-01T00:15:00+00:00",
+          "timestamp": 1788221700,
+          "periods": {
+            "first": 1788221700,
+            "second": 1788225300
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Jose Dellagiovanna",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 78,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 452,
+            "name": "Tigre",
+            "logo": "https://media.api-sports.io/football/teams/452.png",
+            "winner": null
+          },
+          "away": {
+            "id": 2432,
+            "name": "Barracas Central",
+            "logo": "https://media.api-sports.io/football/teams/2432.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1549147,
-          "referee": null,
+          "referee": "M. Ramirez",
           "timezone": "UTC",
           "date": "2026-08-27T22:00:00+00:00",
           "timestamp": 1787868000,
@@ -28564,7 +28634,7 @@
       {
         "fixture": {
           "id": 1493079,
-          "referee": "Hernan Mastrangelo, Argentina",
+          "referee": "H. Mastrangelo",
           "timezone": "UTC",
           "date": "2026-08-23T17:45:00+00:00",
           "timestamp": 1787507100,
@@ -28574,7 +28644,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Claudio Chiqui Tapia",
+            "name": "Claudio Fabian Tapia",
             "city": "Barracas"
           },
           "status": {
@@ -28774,7 +28844,7 @@
       {
         "fixture": {
           "id": 1493035,
-          "referee": "Dario Herrera, Argentina",
+          "referee": "D. Herrera",
           "timezone": "UTC",
           "date": "2026-08-02T17:30:00+00:00",
           "timestamp": 1785691800,
@@ -28785,7 +28855,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Guillermo Laza",
-            "city": "Flores"
+            "city": "Buenos Aires"
           },
           "status": {
             "long": "Match Finished",
@@ -28844,7 +28914,7 @@
       {
         "fixture": {
           "id": 1493019,
-          "referee": "Sebastian Zunino, Argentina",
+          "referee": "S. Zunino",
           "timezone": "UTC",
           "date": "2026-07-29T17:30:00+00:00",
           "timestamp": 1785346200,
@@ -28854,7 +28924,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Claudio Chiqui Tapia",
+            "name": "Claudio Fabian Tapia",
             "city": "Barracas"
           },
           "status": {
@@ -29109,76 +29179,6 @@
           },
           "fulltime": {
             "home": 3,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1535202,
-          "referee": "G. A. Vargas Carreno",
-          "timezone": "UTC",
-          "date": "2026-05-19T22:00:00+00:00",
-          "timestamp": 1779228000,
-          "periods": {
-            "first": 1779228000,
-            "second": 1779231600
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Bicentenario de La Florida",
-            "city": "Santiago de Chile"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 11,
-          "name": "CONMEBOL Sudamericana",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/11.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2329,
-            "name": "A. Italiano",
-            "logo": "https://media.api-sports.io/football/teams/2329.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2432,
-            "name": "Barracas Central",
-            "logo": "https://media.api-sports.io/football/teams/2432.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
             "away": 0
           },
           "extratime": {
@@ -31494,7 +31494,7 @@
       {
         "fixture": {
           "id": 1603002,
-          "referee": "Shukri Alhunfush, Saudi Arabia",
+          "referee": "M. Al-Hanfoosh",
           "timezone": "UTC",
           "date": "2026-08-29T16:05:00+00:00",
           "timestamp": 1788019500,
@@ -31634,7 +31634,7 @@
       {
         "fixture": {
           "id": 1602988,
-          "referee": "Sami Al Jires, Saudi Arabia",
+          "referee": "I. Al Jurays",
           "timezone": "UTC",
           "date": "2026-08-22T18:00:00+00:00",
           "timestamp": 1787421600,
@@ -32500,7 +32500,7 @@
       {
         "fixture": {
           "id": 1603000,
-          "referee": "Istvan Kovacs, Romania",
+          "referee": "I. Kovacs",
           "timezone": "UTC",
           "date": "2026-08-28T18:00:00+00:00",
           "timestamp": 1787940000,
@@ -32570,7 +32570,7 @@
       {
         "fixture": {
           "id": 1602981,
-          "referee": "Danny Makkelie, Netherlands",
+          "referee": "D. Makkelie",
           "timezone": "UTC",
           "date": "2026-08-20T18:00:00+00:00",
           "timestamp": 1787248800,
@@ -32580,8 +32580,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Al Majma'ah Sport City",
-            "city": "Al Majmaah"
+            "name": "King Abdullah Sports City Stadium",
+            "city": "Buraidah"
           },
           "status": {
             "long": "Match Finished",
@@ -33506,7 +33506,7 @@
       {
         "fixture": {
           "id": 1585727,
-          "referee": "Burak Kamalak, Türkiye",
+          "referee": "B. Kamalak",
           "timezone": "UTC",
           "date": "2026-08-28T18:30:00+00:00",
           "timestamp": 1787941800,
@@ -33576,7 +33576,7 @@
       {
         "fixture": {
           "id": 1585712,
-          "referee": "Yusuf Ziya Gunduz, Türkiye",
+          "referee": "Y. Gunduz",
           "timezone": "UTC",
           "date": "2026-08-23T16:00:00+00:00",
           "timestamp": 1787500800,
@@ -33646,7 +33646,7 @@
       {
         "fixture": {
           "id": 1585699,
-          "referee": "Erdem Mertoglu, Türkiye",
+          "referee": "E. Mertoglu",
           "timezone": "UTC",
           "date": "2026-08-17T18:30:00+00:00",
           "timestamp": 1786991400,
@@ -33656,7 +33656,7 @@
           },
           "venue": {
             "id": null,
-            "name": "16 Mayis Sehir Stadyumu",
+            "name": "Batman Stadium",
             "city": "Batman"
           },
           "status": {
@@ -33716,7 +33716,7 @@
       {
         "fixture": {
           "id": 1585692,
-          "referee": "Alpaslan Sen, Türkiye",
+          "referee": "A. Sen",
           "timezone": "UTC",
           "date": "2026-08-07T18:30:00+00:00",
           "timestamp": 1786127400,
@@ -34508,7 +34508,7 @@
       {
         "fixture": {
           "id": 1585724,
-          "referee": "Muhammet Alperen Copur, Türkiye",
+          "referee": "M. Copur",
           "timezone": "UTC",
           "date": "2026-08-28T16:00:00+00:00",
           "timestamp": 1787932800,
@@ -34578,7 +34578,7 @@
       {
         "fixture": {
           "id": 1585717,
-          "referee": "Oguzhan Gokcen, Türkiye",
+          "referee": "O. Gokcen",
           "timezone": "UTC",
           "date": "2026-08-22T16:00:00+00:00",
           "timestamp": 1787414400,
@@ -34648,7 +34648,7 @@
       {
         "fixture": {
           "id": 1585703,
-          "referee": "Ayberk Demirbas, Türkiye",
+          "referee": "A. Demirbas",
           "timezone": "UTC",
           "date": "2026-08-15T16:00:00+00:00",
           "timestamp": 1786809600,
@@ -34718,7 +34718,7 @@
       {
         "fixture": {
           "id": 1585697,
-          "referee": "Burak Demirkiran, Türkiye",
+          "referee": "B. Demirkiran",
           "timezone": "UTC",
           "date": "2026-08-08T16:00:00+00:00",
           "timestamp": 1786204800,
@@ -35518,7 +35518,7 @@
       {
         "fixture": {
           "id": 1585728,
-          "referee": "Dogukan Yildirim, Türkiye",
+          "referee": "D. Yildirim",
           "timezone": "UTC",
           "date": "2026-08-28T16:00:00+00:00",
           "timestamp": 1787932800,
@@ -35528,7 +35528,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Pendik Stadium",
+            "name": "Pendik Stadyumu",
             "city": "Istanbul"
           },
           "status": {
@@ -35588,7 +35588,7 @@
       {
         "fixture": {
           "id": 1585710,
-          "referee": "Turgut Doman, Türkiye",
+          "referee": "T. Doman",
           "timezone": "UTC",
           "date": "2026-08-23T14:00:00+00:00",
           "timestamp": 1787493600,
@@ -35658,7 +35658,7 @@
       {
         "fixture": {
           "id": 1585708,
-          "referee": "Omer Faruk Gultekin, Türkiye",
+          "referee": "O. F. Gultekin",
           "timezone": "UTC",
           "date": "2026-08-16T18:30:00+00:00",
           "timestamp": 1786905000,
@@ -35728,7 +35728,7 @@
       {
         "fixture": {
           "id": 1585690,
-          "referee": "Berkay Erdemir, Türkiye",
+          "referee": "B. Erdemir",
           "timezone": "UTC",
           "date": "2026-08-08T14:00:00+00:00",
           "timestamp": 1786197600,
@@ -36520,7 +36520,7 @@
       {
         "fixture": {
           "id": 1585724,
-          "referee": "Muhammet Alperen Copur, Türkiye",
+          "referee": "M. Copur",
           "timezone": "UTC",
           "date": "2026-08-28T16:00:00+00:00",
           "timestamp": 1787932800,
@@ -36590,7 +36590,7 @@
       {
         "fixture": {
           "id": 1585710,
-          "referee": "Turgut Doman, Türkiye",
+          "referee": "T. Doman",
           "timezone": "UTC",
           "date": "2026-08-23T14:00:00+00:00",
           "timestamp": 1787493600,
@@ -36660,7 +36660,7 @@
       {
         "fixture": {
           "id": 1585705,
-          "referee": "Kaan Kara, Türkiye",
+          "referee": "K. Kara",
           "timezone": "UTC",
           "date": "2026-08-16T16:00:00+00:00",
           "timestamp": 1786896000,
@@ -36730,7 +36730,7 @@
       {
         "fixture": {
           "id": 1585689,
-          "referee": "Melih Aldemir, Türkiye",
+          "referee": "M. Aldemir",
           "timezone": "UTC",
           "date": "2026-08-08T18:30:00+00:00",
           "timestamp": 1786213800,
@@ -37522,7 +37522,7 @@
       {
         "fixture": {
           "id": 1585728,
-          "referee": "Dogukan Yildirim, Türkiye",
+          "referee": "D. Yildirim",
           "timezone": "UTC",
           "date": "2026-08-28T16:00:00+00:00",
           "timestamp": 1787932800,
@@ -37532,7 +37532,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Pendik Stadium",
+            "name": "Pendik Stadyumu",
             "city": "Istanbul"
           },
           "status": {
@@ -37592,7 +37592,7 @@
       {
         "fixture": {
           "id": 1585709,
-          "referee": "Yusuf Adnan Kendirciler, Türkiye",
+          "referee": "Y. A. Kendirciler",
           "timezone": "UTC",
           "date": "2026-08-22T18:30:00+00:00",
           "timestamp": 1787423400,
@@ -37662,7 +37662,7 @@
       {
         "fixture": {
           "id": 1585705,
-          "referee": "Kaan Kara, Türkiye",
+          "referee": "K. Kara",
           "timezone": "UTC",
           "date": "2026-08-16T16:00:00+00:00",
           "timestamp": 1786896000,
@@ -37732,7 +37732,7 @@
       {
         "fixture": {
           "id": 1585694,
-          "referee": "Muhammetali Metoglu, Türkiye",
+          "referee": "M. Metoglu",
           "timezone": "UTC",
           "date": "2026-08-10T18:30:00+00:00",
           "timestamp": 1786386600,
@@ -37742,7 +37742,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Pendik Stadium",
+            "name": "Pendik Stadyumu",
             "city": "Istanbul"
           },
           "status": {
@@ -38532,7 +38532,7 @@
       {
         "fixture": {
           "id": 1585719,
-          "referee": "Emre Kargin, Türkiye",
+          "referee": "E. Kargin",
           "timezone": "UTC",
           "date": "2026-08-28T18:30:00+00:00",
           "timestamp": 1787941800,
@@ -38602,7 +38602,7 @@
       {
         "fixture": {
           "id": 1585715,
-          "referee": "Birkan Altindas, Türkiye",
+          "referee": "B. Altindas",
           "timezone": "UTC",
           "date": "2026-08-23T18:30:00+00:00",
           "timestamp": 1787509800,
@@ -38612,7 +38612,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Yusuf Ziya Öniş Stadium",
+            "name": "Yusuf Ziya Onis",
             "city": "Istanbul"
           },
           "status": {
@@ -38672,7 +38672,7 @@
       {
         "fixture": {
           "id": 1585701,
-          "referee": "Suleyman Bahadir, Türkiye",
+          "referee": "B. Suleyman",
           "timezone": "UTC",
           "date": "2026-08-14T18:30:00+00:00",
           "timestamp": 1786732200,
@@ -43522,7 +43522,7 @@
       {
         "fixture": {
           "id": 1585727,
-          "referee": "Burak Kamalak, Türkiye",
+          "referee": "B. Kamalak",
           "timezone": "UTC",
           "date": "2026-08-28T18:30:00+00:00",
           "timestamp": 1787941800,
@@ -43592,7 +43592,7 @@
       {
         "fixture": {
           "id": 1585711,
-          "referee": "Ibrahim Guner, Türkiye",
+          "referee": "I. Guner",
           "timezone": "UTC",
           "date": "2026-08-22T18:30:00+00:00",
           "timestamp": 1787423400,
@@ -43662,7 +43662,7 @@
       {
         "fixture": {
           "id": 1585708,
-          "referee": "Omer Faruk Gultekin, Türkiye",
+          "referee": "O. F. Gultekin",
           "timezone": "UTC",
           "date": "2026-08-16T18:30:00+00:00",
           "timestamp": 1786905000,
