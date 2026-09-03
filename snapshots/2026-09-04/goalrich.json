@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T02:07:05.984Z",
+  "generatedAt": "2026-09-03T01:58:38.685Z",
   "ymd": "2026-09-04",
   "matches": [
     {
@@ -17,6 +17,22 @@
       "probOver25": 0.84916,
       "probOver35": 0.6948200000000001,
       "probBTTS": 0.79762
+    },
+    {
+      "fixtureId": 1551777,
+      "leagueId": 89,
+      "season": 2026,
+      "kickoffTs": 1788544800000,
+      "homeTeamId": 419,
+      "awayTeamId": 425,
+      "homeTeam": "Almere City FC",
+      "awayTeam": "Jong Ajax",
+      "expectedHome": 2.825,
+      "expectedAway": 1.666,
+      "expectedTotal": 4.491,
+      "probOver25": 0.8420400000000001,
+      "probOver35": 0.6838000000000001,
+      "probBTTS": 0.7783400000000001
     },
     {
       "fixtureId": 1575149,
@@ -99,22 +115,6 @@
       "probBTTS": 0.75104
     },
     {
-      "fixtureId": 1551330,
-      "leagueId": 120,
-      "season": 2026,
-      "kickoffTs": 1788537600000,
-      "homeTeamId": 395,
-      "awayTeamId": 399,
-      "homeTeam": "Vejle",
-      "awayTeam": "Vendsyssel FF",
-      "expectedHome": 2.364,
-      "expectedAway": 1.49,
-      "expectedTotal": 3.854,
-      "probOver25": 0.7613000000000001,
-      "probOver35": 0.56808,
-      "probBTTS": 0.71948
-    },
-    {
       "fixtureId": 1584394,
       "leagueId": 203,
       "season": 2026,
@@ -129,22 +129,6 @@
       "probOver25": 0.7610199999999999,
       "probOver35": 0.5677000000000001,
       "probBTTS": 0.7392400000000001
-    },
-    {
-      "fixtureId": 1494750,
-      "leagueId": 103,
-      "season": 2026,
-      "kickoffTs": 1788541200000,
-      "homeTeamId": 2149,
-      "awayTeamId": 327,
-      "homeTeam": "Fredrikstad",
-      "awayTeam": "Bodo/Glimt",
-      "expectedHome": 1.497,
-      "expectedAway": 2.25,
-      "expectedTotal": 3.747,
-      "probOver25": 0.7447400000000001,
-      "probOver35": 0.54638,
-      "probBTTS": 0.71252
     },
     {
       "fixtureId": 1551778,
@@ -179,20 +163,20 @@
       "probBTTS": 0.72548
     },
     {
-      "fixtureId": 1551777,
-      "leagueId": 89,
+      "fixtureId": 1494750,
+      "leagueId": 103,
       "season": 2026,
-      "kickoffTs": 1788544800000,
-      "homeTeamId": 419,
-      "awayTeamId": 425,
-      "homeTeam": "Almere City FC",
-      "awayTeam": "Jong Ajax",
-      "expectedHome": 2.649,
-      "expectedAway": 1.007,
-      "expectedTotal": 3.656,
-      "probOver25": 0.7298,
-      "probOver35": 0.52728,
-      "probBTTS": 0.60756
+      "kickoffTs": 1788541200000,
+      "homeTeamId": 2149,
+      "awayTeamId": 327,
+      "homeTeam": "Fredrikstad",
+      "awayTeam": "Bodo/Glimt",
+      "expectedHome": 1.472,
+      "expectedAway": 2.213,
+      "expectedTotal": 3.685,
+      "probOver25": 0.73476,
+      "probOver35": 0.5335400000000001,
+      "probBTTS": 0.70454
     },
     {
       "fixtureId": 1555047,
@@ -227,22 +211,6 @@
       "probBTTS": 0.6998800000000001
     },
     {
-      "fixtureId": 1558617,
-      "leagueId": 144,
-      "season": 2026,
-      "kickoffTs": 1788547500000,
-      "homeTeamId": 259,
-      "awayTeamId": 569,
-      "homeTeam": "Lommel United",
-      "awayTeam": "Club Brugge KV",
-      "expectedHome": 1.861,
-      "expectedAway": 1.599,
-      "expectedTotal": 3.46,
-      "probOver25": 0.6958599999999999,
-      "probOver35": 0.48546000000000006,
-      "probBTTS": 0.6928799999999999
-    },
-    {
       "fixtureId": 1570365,
       "leagueId": 140,
       "season": 2026,
@@ -257,6 +225,38 @@
       "probOver25": 0.69364,
       "probOver35": 0.48284,
       "probBTTS": 0.68962
+    },
+    {
+      "fixtureId": 1551330,
+      "leagueId": 120,
+      "season": 2026,
+      "kickoffTs": 1788537600000,
+      "homeTeamId": 395,
+      "awayTeamId": 399,
+      "homeTeam": "Vejle",
+      "awayTeam": "Vendsyssel FF",
+      "expectedHome": 2.307,
+      "expectedAway": 1.106,
+      "expectedTotal": 3.413,
+      "probOver25": 0.68712,
+      "probOver35": 0.47514,
+      "probBTTS": 0.6212200000000001
+    },
+    {
+      "fixtureId": 1558617,
+      "leagueId": 144,
+      "season": 2026,
+      "kickoffTs": 1788547500000,
+      "homeTeamId": 259,
+      "awayTeamId": 569,
+      "homeTeam": "Lommel United",
+      "awayTeam": "Club Brugge KV",
+      "expectedHome": 1.805,
+      "expectedAway": 1.551,
+      "expectedTotal": 3.356,
+      "probOver25": 0.6764399999999999,
+      "probOver35": 0.46254,
+      "probBTTS": 0.6777799999999999
     },
     {
       "fixtureId": 1552750,
@@ -307,22 +307,6 @@
       "probBTTS": 0.67108
     },
     {
-      "fixtureId": 1549010,
-      "leagueId": 119,
-      "season": 2026,
-      "kickoffTs": 1788541200000,
-      "homeTeamId": 2070,
-      "awayTeamId": 625,
-      "homeTeam": "Viborg",
-      "awayTeam": "Lyngby",
-      "expectedHome": 1.612,
-      "expectedAway": 1.657,
-      "expectedTotal": 3.269,
-      "probOver25": 0.65946,
-      "probOver35": 0.44308000000000003,
-      "probBTTS": 0.66746
-    },
-    {
       "fixtureId": 1552753,
       "leagueId": 61,
       "season": 2026,
@@ -337,6 +321,22 @@
       "probOver25": 0.6558600000000001,
       "probOver35": 0.43901999999999997,
       "probBTTS": 0.6633
+    },
+    {
+      "fixtureId": 1549010,
+      "leagueId": 119,
+      "season": 2026,
+      "kickoffTs": 1788541200000,
+      "homeTeamId": 2070,
+      "awayTeamId": 625,
+      "homeTeam": "Viborg",
+      "awayTeam": "Lyngby",
+      "expectedHome": 1.602,
+      "expectedAway": 1.646,
+      "expectedTotal": 3.248,
+      "probOver25": 0.65526,
+      "probOver35": 0.43832000000000004,
+      "probBTTS": 0.6642199999999999
     },
     {
       "fixtureId": 1575936,
@@ -355,6 +355,22 @@
       "probBTTS": 0.65692
     },
     {
+      "fixtureId": 1569361,
+      "leagueId": 705,
+      "season": 2026,
+      "kickoffTs": 1788512400000,
+      "homeTeamId": 24736,
+      "awayTeamId": 24739,
+      "homeTeam": "Lecce U20",
+      "awayTeam": "Roma U20",
+      "expectedHome": 1.57,
+      "expectedAway": 1.655,
+      "expectedTotal": 3.225,
+      "probOver25": 0.65066,
+      "probOver35": 0.43312,
+      "probBTTS": 0.66038
+    },
+    {
       "fixtureId": 1575935,
       "leagueId": 110,
       "season": 2026,
@@ -369,22 +385,6 @@
       "probOver25": 0.6491600000000001,
       "probOver35": 0.43146,
       "probBTTS": 0.5266000000000001
-    },
-    {
-      "fixtureId": 1569361,
-      "leagueId": 705,
-      "season": 2026,
-      "kickoffTs": 1788512400000,
-      "homeTeamId": 24736,
-      "awayTeamId": 24739,
-      "homeTeam": "Lecce U20",
-      "awayTeam": "Roma U20",
-      "expectedHome": 1.468,
-      "expectedAway": 1.716,
-      "expectedTotal": 3.184,
-      "probOver25": 0.64226,
-      "probOver35": 0.42384,
-      "probBTTS": 0.65106
     },
     {
       "fixtureId": 1551331,
@@ -433,22 +433,6 @@
       "probOver25": 0.6221,
       "probOver35": 0.40196,
       "probBTTS": 0.59836
-    },
-    {
-      "fixtureId": 1548526,
-      "leagueId": 210,
-      "season": 2026,
-      "kickoffTs": 1788544800000,
-      "homeTeamId": 1483,
-      "awayTeamId": 1016,
-      "homeTeam": "NK Varazdin",
-      "awayTeam": "Istra 1961",
-      "expectedHome": 1.61,
-      "expectedAway": 1.398,
-      "expectedTotal": 3.008,
-      "probOver25": 0.60476,
-      "probOver35": 0.38358000000000003,
-      "probBTTS": 0.6226200000000001
     },
     {
       "fixtureId": 1555049,
@@ -595,20 +579,20 @@
       "probBTTS": 0.5772
     },
     {
-      "fixtureId": 1551781,
-      "leagueId": 89,
+      "fixtureId": 1494754,
+      "leagueId": 103,
       "season": 2026,
-      "kickoffTs": 1788544800000,
-      "homeTeamId": 200,
-      "awayTeamId": 423,
-      "homeTeam": "Vitesse",
-      "awayTeam": "FC OSS",
-      "expectedHome": 1.399,
-      "expectedAway": 1.339,
-      "expectedTotal": 2.738,
-      "probOver25": 0.5422,
-      "probOver35": 0.32116,
-      "probBTTS": 0.5763
+      "kickoffTs": 1788548400000,
+      "homeTeamId": 332,
+      "awayTeamId": 759,
+      "homeTeam": "Sandefjord",
+      "awayTeam": "Viking",
+      "expectedHome": 1.017,
+      "expectedAway": 1.652,
+      "expectedTotal": 2.669,
+      "probOver25": 0.5253,
+      "probOver35": 0.30528000000000005,
+      "probBTTS": 0.53602
     },
     {
       "fixtureId": 1552462,
@@ -643,6 +627,22 @@
       "probBTTS": 0.48662000000000005
     },
     {
+      "fixtureId": 1494748,
+      "leagueId": 103,
+      "season": 2026,
+      "kickoffTs": 1788541200000,
+      "homeTeamId": 757,
+      "awayTeamId": 334,
+      "homeTeam": "Aalesund",
+      "awayTeam": "Start",
+      "expectedHome": 1.88,
+      "expectedAway": 0.696,
+      "expectedTotal": 2.576,
+      "probOver25": 0.502,
+      "probOver35": 0.28398,
+      "probBTTS": 0.44282
+    },
+    {
       "fixtureId": 1552153,
       "leagueId": 88,
       "season": 2026,
@@ -657,6 +657,22 @@
       "probOver25": 0.49795999999999996,
       "probOver35": 0.28030000000000005,
       "probBTTS": 0.5315799999999999
+    },
+    {
+      "fixtureId": 1548526,
+      "leagueId": 210,
+      "season": 2026,
+      "kickoffTs": 1788544800000,
+      "homeTeamId": 1483,
+      "awayTeamId": 1016,
+      "homeTeam": "NK Varazdin",
+      "awayTeam": "Istra 1961",
+      "expectedHome": 1.298,
+      "expectedAway": 1.233,
+      "expectedTotal": 2.531,
+      "probOver25": 0.49052000000000007,
+      "probOver35": 0.27376,
+      "probBTTS": 0.53572
     },
     {
       "fixtureId": 1552460,
@@ -707,20 +723,20 @@
       "probBTTS": 0.5050600000000001
     },
     {
-      "fixtureId": 1494754,
-      "leagueId": 103,
+      "fixtureId": 1551781,
+      "leagueId": 89,
       "season": 2026,
-      "kickoffTs": 1788548400000,
-      "homeTeamId": 332,
-      "awayTeamId": 759,
-      "homeTeam": "Sandefjord",
-      "awayTeam": "Viking",
-      "expectedHome": 0.911,
-      "expectedAway": 1.48,
-      "expectedTotal": 2.391,
-      "probOver25": 0.45392000000000005,
-      "probOver35": 0.24236000000000002,
-      "probBTTS": 0.48156
+      "kickoffTs": 1788544800000,
+      "homeTeamId": 200,
+      "awayTeamId": 423,
+      "homeTeam": "Vitesse",
+      "awayTeam": "FC OSS",
+      "expectedHome": 0.686,
+      "expectedAway": 1.602,
+      "expectedTotal": 2.288,
+      "probOver25": 0.42634000000000005,
+      "probOver35": 0.21978,
+      "probBTTS": 0.41444000000000003
     },
     {
       "fixtureId": 1551329,
@@ -755,38 +771,6 @@
       "probBTTS": 0.40490000000000004
     },
     {
-      "fixtureId": 1494748,
-      "leagueId": 103,
-      "season": 2026,
-      "kickoffTs": 1788541200000,
-      "homeTeamId": 757,
-      "awayTeamId": 334,
-      "homeTeam": "Aalesund",
-      "awayTeam": "Start",
-      "expectedHome": 1.655,
-      "expectedAway": 0.613,
-      "expectedTotal": 2.268,
-      "probOver25": 0.42092,
-      "probOver35": 0.21550000000000002,
-      "probBTTS": 0.3879
-    },
-    {
-      "fixtureId": 1552459,
-      "leagueId": 62,
-      "season": 2026,
-      "kickoffTs": 1788544800000,
-      "homeTeamId": 1299,
-      "awayTeamId": 89,
-      "homeTeam": "Boulogne",
-      "awayTeam": "Dijon",
-      "expectedHome": 0.868,
-      "expectedAway": 1.386,
-      "expectedTotal": 2.254,
-      "probOver25": 0.41706000000000004,
-      "probOver35": 0.21250000000000002,
-      "probBTTS": 0.45464000000000004
-    },
-    {
       "fixtureId": 1565239,
       "leagueId": 283,
       "season": 2026,
@@ -819,22 +803,6 @@
       "probBTTS": 0.45848000000000005
     },
     {
-      "fixtureId": 1551096,
-      "leagueId": 172,
-      "season": 2026,
-      "kickoffTs": 1788545700000,
-      "homeTeamId": 1430,
-      "awayTeamId": 634,
-      "homeTeam": "Arda Kardzhali",
-      "awayTeam": "Botev Plovdiv",
-      "expectedHome": 1.194,
-      "expectedAway": 0.956,
-      "expectedTotal": 2.15,
-      "probOver25": 0.38858,
-      "probOver35": 0.19052000000000002,
-      "probBTTS": 0.44882
-    },
-    {
       "fixtureId": 1558204,
       "leagueId": 107,
       "season": 2026,
@@ -851,6 +819,22 @@
       "probBTTS": 0.44592000000000004
     },
     {
+      "fixtureId": 1552459,
+      "leagueId": 62,
+      "season": 2026,
+      "kickoffTs": 1788544800000,
+      "homeTeamId": 1299,
+      "awayTeamId": 89,
+      "homeTeam": "Boulogne",
+      "awayTeam": "Dijon",
+      "expectedHome": 0.842,
+      "expectedAway": 1.256,
+      "expectedTotal": 2.098,
+      "probOver25": 0.37412,
+      "probOver35": 0.17984,
+      "probBTTS": 0.42634000000000005
+    },
+    {
       "fixtureId": 1575485,
       "leagueId": 94,
       "season": 2026,
@@ -865,6 +849,22 @@
       "probOver25": 0.37390000000000007,
       "probOver35": 0.17964000000000002,
       "probBTTS": 0.44170000000000004
+    },
+    {
+      "fixtureId": 1551096,
+      "leagueId": 172,
+      "season": 2026,
+      "kickoffTs": 1788545700000,
+      "homeTeamId": 1430,
+      "awayTeamId": 634,
+      "homeTeam": "Arda Kardzhali",
+      "awayTeam": "Botev Plovdiv",
+      "expectedHome": 1.114,
+      "expectedAway": 0.892,
+      "expectedTotal": 2.006,
+      "probOver25": 0.34844,
+      "probOver35": 0.16144,
+      "probBTTS": 0.41568000000000005
     },
     {
       "fixtureId": 1552465,
@@ -899,20 +899,20 @@
       "probBTTS": 0.37532
     },
     {
-      "fixtureId": 1551101,
-      "leagueId": 172,
+      "fixtureId": 1601885,
+      "leagueId": 419,
       "season": 2026,
-      "kickoffTs": 1788537600000,
-      "homeTeamId": 856,
-      "awayTeamId": 859,
-      "homeTeam": "Septemvri Sofia",
-      "awayTeam": "Botev Vratsa",
-      "expectedHome": 1.04,
-      "expectedAway": 0.844,
-      "expectedTotal": 1.884,
-      "probOver25": 0.31432000000000004,
-      "probOver35": 0.13814,
-      "probBTTS": 0.38722
+      "kickoffTs": 1788530400000,
+      "homeTeamId": 627,
+      "awayTeamId": 5570,
+      "homeTeam": "Qabala",
+      "awayTeam": "Imisli FK",
+      "expectedHome": 0.893,
+      "expectedAway": 0.995,
+      "expectedTotal": 1.888,
+      "probOver25": 0.31538,
+      "probOver35": 0.13890000000000002,
+      "probBTTS": 0.39105999999999996
     },
     {
       "fixtureId": 1569910,
@@ -931,20 +931,20 @@
       "probBTTS": 0.36490000000000006
     },
     {
-      "fixtureId": 1601885,
-      "leagueId": 419,
+      "fixtureId": 1551101,
+      "leagueId": 172,
       "season": 2026,
-      "kickoffTs": 1788530400000,
-      "homeTeamId": 627,
-      "awayTeamId": 5570,
-      "homeTeam": "Qabala",
-      "awayTeam": "Imisli FK",
-      "expectedHome": 0.924,
-      "expectedAway": 0.681,
-      "expectedTotal": 1.605,
-      "probOver25": 0.23672000000000004,
-      "probOver35": 0.09068000000000001,
-      "probBTTS": 0.31462
+      "kickoffTs": 1788537600000,
+      "homeTeamId": 856,
+      "awayTeamId": 859,
+      "homeTeam": "Septemvri Sofia",
+      "awayTeam": "Botev Vratsa",
+      "expectedHome": 0.912,
+      "expectedAway": 0.74,
+      "expectedTotal": 1.652,
+      "probOver25": 0.24966,
+      "probOver35": 0.09802,
+      "probBTTS": 0.33006
     },
     {
       "fixtureId": 1601886,
@@ -1011,6 +1011,22 @@
       "probOver25": 0.84916,
       "probOver35": 0.6948200000000001,
       "probBTTS": 0.79762
+    },
+    {
+      "fixtureId": 1551777,
+      "leagueId": 89,
+      "season": 2026,
+      "kickoffTs": 1788544800000,
+      "homeTeamId": 419,
+      "awayTeamId": 425,
+      "homeTeam": "Almere City FC",
+      "awayTeam": "Jong Ajax",
+      "expectedHome": 2.825,
+      "expectedAway": 1.666,
+      "expectedTotal": 4.491,
+      "probOver25": 0.8420400000000001,
+      "probOver35": 0.6838000000000001,
+      "probBTTS": 0.7783400000000001
     },
     {
       "fixtureId": 1575149,
@@ -1093,22 +1109,6 @@
       "probBTTS": 0.75104
     },
     {
-      "fixtureId": 1551330,
-      "leagueId": 120,
-      "season": 2026,
-      "kickoffTs": 1788537600000,
-      "homeTeamId": 395,
-      "awayTeamId": 399,
-      "homeTeam": "Vejle",
-      "awayTeam": "Vendsyssel FF",
-      "expectedHome": 2.364,
-      "expectedAway": 1.49,
-      "expectedTotal": 3.854,
-      "probOver25": 0.7613000000000001,
-      "probOver35": 0.56808,
-      "probBTTS": 0.71948
-    },
-    {
       "fixtureId": 1584394,
       "leagueId": 203,
       "season": 2026,
@@ -1123,22 +1123,6 @@
       "probOver25": 0.7610199999999999,
       "probOver35": 0.5677000000000001,
       "probBTTS": 0.7392400000000001
-    },
-    {
-      "fixtureId": 1494750,
-      "leagueId": 103,
-      "season": 2026,
-      "kickoffTs": 1788541200000,
-      "homeTeamId": 2149,
-      "awayTeamId": 327,
-      "homeTeam": "Fredrikstad",
-      "awayTeam": "Bodo/Glimt",
-      "expectedHome": 1.497,
-      "expectedAway": 2.25,
-      "expectedTotal": 3.747,
-      "probOver25": 0.7447400000000001,
-      "probOver35": 0.54638,
-      "probBTTS": 0.71252
     },
     {
       "fixtureId": 1551778,
@@ -1173,20 +1157,20 @@
       "probBTTS": 0.72548
     },
     {
-      "fixtureId": 1551777,
-      "leagueId": 89,
+      "fixtureId": 1494750,
+      "leagueId": 103,
       "season": 2026,
-      "kickoffTs": 1788544800000,
-      "homeTeamId": 419,
-      "awayTeamId": 425,
-      "homeTeam": "Almere City FC",
-      "awayTeam": "Jong Ajax",
-      "expectedHome": 2.649,
-      "expectedAway": 1.007,
-      "expectedTotal": 3.656,
-      "probOver25": 0.7298,
-      "probOver35": 0.52728,
-      "probBTTS": 0.60756
+      "kickoffTs": 1788541200000,
+      "homeTeamId": 2149,
+      "awayTeamId": 327,
+      "homeTeam": "Fredrikstad",
+      "awayTeam": "Bodo/Glimt",
+      "expectedHome": 1.472,
+      "expectedAway": 2.213,
+      "expectedTotal": 3.685,
+      "probOver25": 0.73476,
+      "probOver35": 0.5335400000000001,
+      "probBTTS": 0.70454
     },
     {
       "fixtureId": 1555047,
@@ -1221,22 +1205,6 @@
       "probBTTS": 0.6998800000000001
     },
     {
-      "fixtureId": 1558617,
-      "leagueId": 144,
-      "season": 2026,
-      "kickoffTs": 1788547500000,
-      "homeTeamId": 259,
-      "awayTeamId": 569,
-      "homeTeam": "Lommel United",
-      "awayTeam": "Club Brugge KV",
-      "expectedHome": 1.861,
-      "expectedAway": 1.599,
-      "expectedTotal": 3.46,
-      "probOver25": 0.6958599999999999,
-      "probOver35": 0.48546000000000006,
-      "probBTTS": 0.6928799999999999
-    },
-    {
       "fixtureId": 1570365,
       "leagueId": 140,
       "season": 2026,
@@ -1251,6 +1219,38 @@
       "probOver25": 0.69364,
       "probOver35": 0.48284,
       "probBTTS": 0.68962
+    },
+    {
+      "fixtureId": 1551330,
+      "leagueId": 120,
+      "season": 2026,
+      "kickoffTs": 1788537600000,
+      "homeTeamId": 395,
+      "awayTeamId": 399,
+      "homeTeam": "Vejle",
+      "awayTeam": "Vendsyssel FF",
+      "expectedHome": 2.307,
+      "expectedAway": 1.106,
+      "expectedTotal": 3.413,
+      "probOver25": 0.68712,
+      "probOver35": 0.47514,
+      "probBTTS": 0.6212200000000001
+    },
+    {
+      "fixtureId": 1558617,
+      "leagueId": 144,
+      "season": 2026,
+      "kickoffTs": 1788547500000,
+      "homeTeamId": 259,
+      "awayTeamId": 569,
+      "homeTeam": "Lommel United",
+      "awayTeam": "Club Brugge KV",
+      "expectedHome": 1.805,
+      "expectedAway": 1.551,
+      "expectedTotal": 3.356,
+      "probOver25": 0.6764399999999999,
+      "probOver35": 0.46254,
+      "probBTTS": 0.6777799999999999
     },
     {
       "fixtureId": 1552750,
@@ -1301,22 +1301,6 @@
       "probBTTS": 0.67108
     },
     {
-      "fixtureId": 1549010,
-      "leagueId": 119,
-      "season": 2026,
-      "kickoffTs": 1788541200000,
-      "homeTeamId": 2070,
-      "awayTeamId": 625,
-      "homeTeam": "Viborg",
-      "awayTeam": "Lyngby",
-      "expectedHome": 1.612,
-      "expectedAway": 1.657,
-      "expectedTotal": 3.269,
-      "probOver25": 0.65946,
-      "probOver35": 0.44308000000000003,
-      "probBTTS": 0.66746
-    },
-    {
       "fixtureId": 1552753,
       "leagueId": 61,
       "season": 2026,
@@ -1331,6 +1315,22 @@
       "probOver25": 0.6558600000000001,
       "probOver35": 0.43901999999999997,
       "probBTTS": 0.6633
+    },
+    {
+      "fixtureId": 1549010,
+      "leagueId": 119,
+      "season": 2026,
+      "kickoffTs": 1788541200000,
+      "homeTeamId": 2070,
+      "awayTeamId": 625,
+      "homeTeam": "Viborg",
+      "awayTeam": "Lyngby",
+      "expectedHome": 1.602,
+      "expectedAway": 1.646,
+      "expectedTotal": 3.248,
+      "probOver25": 0.65526,
+      "probOver35": 0.43832000000000004,
+      "probBTTS": 0.6642199999999999
     },
     {
       "fixtureId": 1575936,
@@ -1349,6 +1349,22 @@
       "probBTTS": 0.65692
     },
     {
+      "fixtureId": 1569361,
+      "leagueId": 705,
+      "season": 2026,
+      "kickoffTs": 1788512400000,
+      "homeTeamId": 24736,
+      "awayTeamId": 24739,
+      "homeTeam": "Lecce U20",
+      "awayTeam": "Roma U20",
+      "expectedHome": 1.57,
+      "expectedAway": 1.655,
+      "expectedTotal": 3.225,
+      "probOver25": 0.65066,
+      "probOver35": 0.43312,
+      "probBTTS": 0.66038
+    },
+    {
       "fixtureId": 1575935,
       "leagueId": 110,
       "season": 2026,
@@ -1363,22 +1379,6 @@
       "probOver25": 0.6491600000000001,
       "probOver35": 0.43146,
       "probBTTS": 0.5266000000000001
-    },
-    {
-      "fixtureId": 1569361,
-      "leagueId": 705,
-      "season": 2026,
-      "kickoffTs": 1788512400000,
-      "homeTeamId": 24736,
-      "awayTeamId": 24739,
-      "homeTeam": "Lecce U20",
-      "awayTeam": "Roma U20",
-      "expectedHome": 1.468,
-      "expectedAway": 1.716,
-      "expectedTotal": 3.184,
-      "probOver25": 0.64226,
-      "probOver35": 0.42384,
-      "probBTTS": 0.65106
     },
     {
       "fixtureId": 1551331,
@@ -1427,22 +1427,6 @@
       "probOver25": 0.6221,
       "probOver35": 0.40196,
       "probBTTS": 0.59836
-    },
-    {
-      "fixtureId": 1548526,
-      "leagueId": 210,
-      "season": 2026,
-      "kickoffTs": 1788544800000,
-      "homeTeamId": 1483,
-      "awayTeamId": 1016,
-      "homeTeam": "NK Varazdin",
-      "awayTeam": "Istra 1961",
-      "expectedHome": 1.61,
-      "expectedAway": 1.398,
-      "expectedTotal": 3.008,
-      "probOver25": 0.60476,
-      "probOver35": 0.38358000000000003,
-      "probBTTS": 0.6226200000000001
     },
     {
       "fixtureId": 1555049,
@@ -1607,6 +1591,22 @@
       "probBTTS": 0.79498
     },
     {
+      "fixtureId": 1551777,
+      "leagueId": 89,
+      "season": 2026,
+      "kickoffTs": 1788544800000,
+      "homeTeamId": 419,
+      "awayTeamId": 425,
+      "homeTeam": "Almere City FC",
+      "awayTeam": "Jong Ajax",
+      "expectedHome": 2.825,
+      "expectedAway": 1.666,
+      "expectedTotal": 4.491,
+      "probOver25": 0.8420400000000001,
+      "probOver35": 0.6838000000000001,
+      "probBTTS": 0.7783400000000001
+    },
+    {
       "fixtureId": 1576161,
       "leagueId": 79,
       "season": 2026,
@@ -1719,22 +1719,6 @@
       "probBTTS": 0.72548
     },
     {
-      "fixtureId": 1551330,
-      "leagueId": 120,
-      "season": 2026,
-      "kickoffTs": 1788537600000,
-      "homeTeamId": 395,
-      "awayTeamId": 399,
-      "homeTeam": "Vejle",
-      "awayTeam": "Vendsyssel FF",
-      "expectedHome": 2.364,
-      "expectedAway": 1.49,
-      "expectedTotal": 3.854,
-      "probOver25": 0.7613000000000001,
-      "probOver35": 0.56808,
-      "probBTTS": 0.71948
-    },
-    {
       "fixtureId": 1494750,
       "leagueId": 103,
       "season": 2026,
@@ -1743,12 +1727,12 @@
       "awayTeamId": 327,
       "homeTeam": "Fredrikstad",
       "awayTeam": "Bodo/Glimt",
-      "expectedHome": 1.497,
-      "expectedAway": 2.25,
-      "expectedTotal": 3.747,
-      "probOver25": 0.7447400000000001,
-      "probOver35": 0.54638,
-      "probBTTS": 0.71252
+      "expectedHome": 1.472,
+      "expectedAway": 2.213,
+      "expectedTotal": 3.685,
+      "probOver25": 0.73476,
+      "probOver35": 0.5335400000000001,
+      "probBTTS": 0.70454
     },
     {
       "fixtureId": 1603012,
@@ -1783,22 +1767,6 @@
       "probBTTS": 0.6969600000000001
     },
     {
-      "fixtureId": 1558617,
-      "leagueId": 144,
-      "season": 2026,
-      "kickoffTs": 1788547500000,
-      "homeTeamId": 259,
-      "awayTeamId": 569,
-      "homeTeam": "Lommel United",
-      "awayTeam": "Club Brugge KV",
-      "expectedHome": 1.861,
-      "expectedAway": 1.599,
-      "expectedTotal": 3.46,
-      "probOver25": 0.6958599999999999,
-      "probOver35": 0.48546000000000006,
-      "probBTTS": 0.6928799999999999
-    },
-    {
       "fixtureId": 1570365,
       "leagueId": 140,
       "season": 2026,
@@ -1813,6 +1781,22 @@
       "probOver25": 0.69364,
       "probOver35": 0.48284,
       "probBTTS": 0.68962
+    },
+    {
+      "fixtureId": 1558617,
+      "leagueId": 144,
+      "season": 2026,
+      "kickoffTs": 1788547500000,
+      "homeTeamId": 259,
+      "awayTeamId": 569,
+      "homeTeam": "Lommel United",
+      "awayTeam": "Club Brugge KV",
+      "expectedHome": 1.805,
+      "expectedAway": 1.551,
+      "expectedTotal": 3.356,
+      "probOver25": 0.6764399999999999,
+      "probOver35": 0.46254,
+      "probBTTS": 0.6777799999999999
     },
     {
       "fixtureId": 1557393,
@@ -1855,12 +1839,12 @@
       "awayTeamId": 625,
       "homeTeam": "Viborg",
       "awayTeam": "Lyngby",
-      "expectedHome": 1.612,
-      "expectedAway": 1.657,
-      "expectedTotal": 3.269,
-      "probOver25": 0.65946,
-      "probOver35": 0.44308000000000003,
-      "probBTTS": 0.66746
+      "expectedHome": 1.602,
+      "expectedAway": 1.646,
+      "expectedTotal": 3.248,
+      "probOver25": 0.65526,
+      "probOver35": 0.43832000000000004,
+      "probBTTS": 0.6642199999999999
     },
     {
       "fixtureId": 1552753,
@@ -1879,6 +1863,22 @@
       "probBTTS": 0.6633
     },
     {
+      "fixtureId": 1569361,
+      "leagueId": 705,
+      "season": 2026,
+      "kickoffTs": 1788512400000,
+      "homeTeamId": 24736,
+      "awayTeamId": 24739,
+      "homeTeam": "Lecce U20",
+      "awayTeam": "Roma U20",
+      "expectedHome": 1.57,
+      "expectedAway": 1.655,
+      "expectedTotal": 3.225,
+      "probOver25": 0.65066,
+      "probOver35": 0.43312,
+      "probBTTS": 0.66038
+    },
+    {
       "fixtureId": 1575936,
       "leagueId": 110,
       "season": 2026,
@@ -1893,22 +1893,6 @@
       "probOver25": 0.65164,
       "probOver35": 0.43424,
       "probBTTS": 0.65692
-    },
-    {
-      "fixtureId": 1569361,
-      "leagueId": 705,
-      "season": 2026,
-      "kickoffTs": 1788512400000,
-      "homeTeamId": 24736,
-      "awayTeamId": 24739,
-      "homeTeam": "Lecce U20",
-      "awayTeam": "Roma U20",
-      "expectedHome": 1.468,
-      "expectedAway": 1.716,
-      "expectedTotal": 3.184,
-      "probOver25": 0.64226,
-      "probOver35": 0.42384,
-      "probBTTS": 0.65106
     },
     {
       "fixtureId": 1552750,
@@ -1943,36 +1927,20 @@
       "probBTTS": 0.6228800000000001
     },
     {
-      "fixtureId": 1548526,
-      "leagueId": 210,
+      "fixtureId": 1551330,
+      "leagueId": 120,
       "season": 2026,
-      "kickoffTs": 1788544800000,
-      "homeTeamId": 1483,
-      "awayTeamId": 1016,
-      "homeTeam": "NK Varazdin",
-      "awayTeam": "Istra 1961",
-      "expectedHome": 1.61,
-      "expectedAway": 1.398,
-      "expectedTotal": 3.008,
-      "probOver25": 0.60476,
-      "probOver35": 0.38358000000000003,
-      "probBTTS": 0.6226200000000001
-    },
-    {
-      "fixtureId": 1551777,
-      "leagueId": 89,
-      "season": 2026,
-      "kickoffTs": 1788544800000,
-      "homeTeamId": 419,
-      "awayTeamId": 425,
-      "homeTeam": "Almere City FC",
-      "awayTeam": "Jong Ajax",
-      "expectedHome": 2.649,
-      "expectedAway": 1.007,
-      "expectedTotal": 3.656,
-      "probOver25": 0.7298,
-      "probOver35": 0.52728,
-      "probBTTS": 0.60756
+      "kickoffTs": 1788537600000,
+      "homeTeamId": 395,
+      "awayTeamId": 399,
+      "homeTeam": "Vejle",
+      "awayTeam": "Vendsyssel FF",
+      "expectedHome": 2.307,
+      "expectedAway": 1.106,
+      "expectedTotal": 3.413,
+      "probOver25": 0.68712,
+      "probOver35": 0.47514,
+      "probBTTS": 0.6212200000000001
     },
     {
       "fixtureId": 1569362,
@@ -2053,22 +2021,6 @@
       "probOver25": 0.5432,
       "probOver35": 0.32208000000000003,
       "probBTTS": 0.5772
-    },
-    {
-      "fixtureId": 1551781,
-      "leagueId": 89,
-      "season": 2026,
-      "kickoffTs": 1788544800000,
-      "homeTeamId": 200,
-      "awayTeamId": 423,
-      "homeTeam": "Vitesse",
-      "awayTeam": "FC OSS",
-      "expectedHome": 1.399,
-      "expectedAway": 1.339,
-      "expectedTotal": 2.738,
-      "probOver25": 0.5422,
-      "probOver35": 0.32116,
-      "probBTTS": 0.5763
     },
     {
       "fixtureId": 1575933,
@@ -2181,6 +2133,38 @@
       "probOver25": 0.5735600000000001,
       "probOver35": 0.35168000000000005,
       "probBTTS": 0.53666
+    },
+    {
+      "fixtureId": 1494754,
+      "leagueId": 103,
+      "season": 2026,
+      "kickoffTs": 1788548400000,
+      "homeTeamId": 332,
+      "awayTeamId": 759,
+      "homeTeam": "Sandefjord",
+      "awayTeam": "Viking",
+      "expectedHome": 1.017,
+      "expectedAway": 1.652,
+      "expectedTotal": 2.669,
+      "probOver25": 0.5253,
+      "probOver35": 0.30528000000000005,
+      "probBTTS": 0.53602
+    },
+    {
+      "fixtureId": 1548526,
+      "leagueId": 210,
+      "season": 2026,
+      "kickoffTs": 1788544800000,
+      "homeTeamId": 1483,
+      "awayTeamId": 1016,
+      "homeTeam": "NK Varazdin",
+      "awayTeam": "Istra 1961",
+      "expectedHome": 1.298,
+      "expectedAway": 1.233,
+      "expectedTotal": 2.531,
+      "probOver25": 0.49052000000000007,
+      "probOver35": 0.27376,
+      "probBTTS": 0.53572
     },
     {
       "fixtureId": 1552153,
