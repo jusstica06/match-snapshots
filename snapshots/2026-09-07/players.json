@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-05T02:20:23.046Z",
+  "generatedAt": "2026-09-06T02:06:50.206Z",
   "totalTeams": 68,
   "totalLeagues": 21,
-  "teamsWithFallback": 46,
+  "teamsWithFallback": 48,
   "data": {
     "83": {
       "teamId": 83,
@@ -47,13 +47,6 @@
           "photo": "https://media.api-sports.io/football/players/191250.png",
           "goals": 2,
           "appearances": 3
-        },
-        {
-          "id": 443676,
-          "name": "Bahereba Guirassy",
-          "photo": "https://media.api-sports.io/football/players/443676.png",
-          "goals": 1,
-          "appearances": 4
         }
       ],
       "topAssists": [
@@ -896,15 +889,7 @@
         }
       },
       "topScorers": [],
-      "topAssists": [
-        {
-          "id": 283540,
-          "name": "G. Beaumont",
-          "photo": "https://media.api-sports.io/football/players/283540.png",
-          "assists": 2,
-          "appearances": 4
-        }
-      ]
+      "topAssists": []
     },
     "428": {
       "teamId": 428,
@@ -1113,13 +1098,19 @@
       "leagueId": 135,
       "leagueName": "Serie A",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": {
-          "id": 30505,
-          "name": "M. Adopo",
-          "photo": "https://media.api-sports.io/football/players/30505.png",
-          "assists": 1,
+        "topScorer": {
+          "id": 30561,
+          "name": "A. Deiola",
+          "photo": "https://media.api-sports.io/football/players/30561.png",
+          "goals": 1,
           "appearances": 2
+        },
+        "topAssist": {
+          "id": 263699,
+          "name": "A. Fadera",
+          "photo": "https://media.api-sports.io/football/players/263699.png",
+          "assists": 1,
+          "appearances": 1
         },
         "mostCards": {
           "id": 340700,
@@ -1312,15 +1303,7 @@
         }
       },
       "topScorers": [],
-      "topAssists": [
-        {
-          "id": 333502,
-          "name": "Miguel Román",
-          "photo": "https://media.api-sports.io/football/players/333502.png",
-          "assists": 1,
-          "appearances": 4
-        }
-      ]
+      "topAssists": []
     },
     "546": {
       "teamId": 546,
@@ -1384,15 +1367,7 @@
         }
       },
       "topScorers": [],
-      "topAssists": [
-        {
-          "id": 47323,
-          "name": "Mikel Oyarzabal",
-          "photo": "https://media.api-sports.io/football/players/47323.png",
-          "assists": 2,
-          "appearances": 4
-        }
-      ]
+      "topAssists": []
     },
     "632": {
       "teamId": 632,
@@ -1465,21 +1440,21 @@
       "keyPlayers": {
         "topScorer": {
           "id": 353631,
-          "name": "E. Garcia",
+          "name": "Eder García",
           "photo": "https://media.api-sports.io/football/players/353631.png",
           "goals": 1,
           "appearances": 3
         },
         "topAssist": {
           "id": 353631,
-          "name": "E. Garcia",
+          "name": "Eder García",
           "photo": "https://media.api-sports.io/football/players/353631.png",
           "assists": 1,
           "appearances": 3
         },
         "mostCards": {
           "id": 353631,
-          "name": "E. Garcia",
+          "name": "Eder García",
           "photo": "https://media.api-sports.io/football/players/353631.png",
           "yellowCards": 2,
           "redCards": 0
@@ -1488,7 +1463,7 @@
       "topScorers": [
         {
           "id": 353631,
-          "name": "E. Garcia",
+          "name": "Eder García",
           "photo": "https://media.api-sports.io/football/players/353631.png",
           "goals": 1,
           "appearances": 3
@@ -1504,7 +1479,7 @@
       "topAssists": [
         {
           "id": 353631,
-          "name": "E. Garcia",
+          "name": "Eder García",
           "photo": "https://media.api-sports.io/football/players/353631.png",
           "assists": 1,
           "appearances": 3
@@ -1571,37 +1546,17 @@
       "leagueId": 135,
       "leagueName": "Serie A",
       "keyPlayers": {
-        "topScorer": {
-          "id": 455316,
-          "name": "Tiago Gabriel",
-          "photo": "https://media.api-sports.io/football/players/455316.png",
-          "goals": 1,
-          "appearances": 2
-        },
-        "topAssist": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": {
           "id": 1748,
           "name": "L. Coulibaly",
           "photo": "https://media.api-sports.io/football/players/1748.png",
-          "assists": 1,
-          "appearances": 2
-        },
-        "mostCards": {
-          "id": 46170,
-          "name": "I. Ilić",
-          "photo": "https://media.api-sports.io/football/players/46170.png",
           "yellowCards": 1,
           "redCards": 0
         }
       },
-      "topScorers": [
-        {
-          "id": 455316,
-          "name": "Tiago Gabriel",
-          "photo": "https://media.api-sports.io/football/players/455316.png",
-          "goals": 1,
-          "appearances": 2
-        }
-      ],
+      "topScorers": [],
       "topAssists": []
     },
     "994": {
@@ -1619,9 +1574,9 @@
           "appearances": 3
         },
         "topAssist": {
-          "id": 353394,
-          "name": "Janderson",
-          "photo": "https://media.api-sports.io/football/players/353394.png",
+          "id": 237847,
+          "name": "André Henrique",
+          "photo": "https://media.api-sports.io/football/players/237847.png",
           "assists": 1,
           "appearances": 3
         },
@@ -1634,15 +1589,7 @@
         }
       },
       "topScorers": [],
-      "topAssists": [
-        {
-          "id": 353394,
-          "name": "Janderson",
-          "photo": "https://media.api-sports.io/football/players/353394.png",
-          "assists": 1,
-          "appearances": 3
-        }
-      ]
+      "topAssists": []
     },
     "996": {
       "teamId": 996,
@@ -1815,9 +1762,9 @@
           "appearances": 3
         },
         "mostCards": {
-          "id": 138833,
-          "name": "D. Varešanović",
-          "photo": "https://media.api-sports.io/football/players/138833.png",
+          "id": 2335,
+          "name": "A. Mocsi",
+          "photo": "https://media.api-sports.io/football/players/2335.png",
           "yellowCards": 1,
           "redCards": 0
         }
@@ -2201,15 +2148,15 @@
           "id": 1856,
           "name": "S. Milinković-Savić",
           "photo": "https://media.api-sports.io/football/players/1856.png",
-          "goals": 2,
-          "appearances": 4
+          "goals": 4,
+          "appearances": 5
         },
         "topAssist": {
-          "id": 37724,
-          "name": "C. Summerville",
-          "photo": "https://media.api-sports.io/football/players/37724.png",
+          "id": 2676,
+          "name": "Rúben Neves",
+          "photo": "https://media.api-sports.io/football/players/2676.png",
           "assists": 2,
-          "appearances": 4
+          "appearances": 5
         },
         "mostCards": {
           "id": 2676,
@@ -2224,31 +2171,59 @@
           "id": 1856,
           "name": "S. Milinković-Savić",
           "photo": "https://media.api-sports.io/football/players/1856.png",
-          "goals": 2,
-          "appearances": 4
+          "goals": 4,
+          "appearances": 5
+        },
+        {
+          "id": 2676,
+          "name": "Rúben Neves",
+          "photo": "https://media.api-sports.io/football/players/2676.png",
+          "goals": 3,
+          "appearances": 5
         },
         {
           "id": 2639,
           "name": "Sultan Mandash",
           "photo": "https://media.api-sports.io/football/players/2639.png",
           "goals": 2,
-          "appearances": 4
+          "appearances": 5
+        },
+        {
+          "id": 37724,
+          "name": "C. Summerville",
+          "photo": "https://media.api-sports.io/football/players/37724.png",
+          "goals": 2,
+          "appearances": 5
         }
       ],
       "topAssists": [
+        {
+          "id": 2676,
+          "name": "Rúben Neves",
+          "photo": "https://media.api-sports.io/football/players/2676.png",
+          "assists": 2,
+          "appearances": 5
+        },
+        {
+          "id": 2639,
+          "name": "Sultan Mandash",
+          "photo": "https://media.api-sports.io/football/players/2639.png",
+          "assists": 2,
+          "appearances": 5
+        },
         {
           "id": 37724,
           "name": "C. Summerville",
           "photo": "https://media.api-sports.io/football/players/37724.png",
           "assists": 2,
-          "appearances": 4
+          "appearances": 5
         },
         {
           "id": 1856,
           "name": "S. Milinković-Savić",
           "photo": "https://media.api-sports.io/football/players/1856.png",
           "assists": 1,
-          "appearances": 4
+          "appearances": 5
         }
       ]
     },
@@ -2621,7 +2596,7 @@
           "name": "T. Okou",
           "photo": "https://media.api-sports.io/football/players/22230.png",
           "goals": 3,
-          "appearances": 4
+          "appearances": 5
         },
         "topAssist": {
           "id": 2664,
@@ -2644,7 +2619,7 @@
           "name": "T. Okou",
           "photo": "https://media.api-sports.io/football/players/22230.png",
           "goals": 3,
-          "appearances": 4
+          "appearances": 5
         }
       ],
       "topAssists": []
@@ -2713,13 +2688,6 @@
           "id": 1467,
           "name": "A. Lacazette",
           "photo": "https://media.api-sports.io/football/players/1467.png",
-          "assists": 1,
-          "appearances": 5
-        },
-        {
-          "id": 437482,
-          "name": "A. Koné",
-          "photo": "https://media.api-sports.io/football/players/437482.png",
           "assists": 1,
           "appearances": 5
         }

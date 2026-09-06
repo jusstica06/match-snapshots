@@ -14702,7 +14702,7 @@
       {
         "fixture": {
           "id": 1547765,
-          "referee": "Facundo Raul Tello Figueroa, Argentina",
+          "referee": "F. Tello",
           "timezone": "UTC",
           "date": "2026-08-19T22:00:00+00:00",
           "timestamp": 1787176800,
@@ -14712,7 +14712,7 @@
           },
           "venue": {
             "id": null,
-            "name": "General Pablo Rojas",
+            "name": "Estadio General Pablo Rojas",
             "city": "Asuncion"
           },
           "status": {
@@ -14842,7 +14842,7 @@
       {
         "fixture": {
           "id": 1547762,
-          "referee": "Gustavo Tejera, Uruguay",
+          "referee": "G. Tejera",
           "timezone": "UTC",
           "date": "2026-08-12T22:00:00+00:00",
           "timestamp": 1786572000,
@@ -15431,6 +15431,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492365,
+          "referee": "D. Lacerda",
+          "timezone": "UTC",
+          "date": "2026-09-06T00:00:00+00:00",
+          "timestamp": 1788652800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": "Rio de Janeiro"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 83,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 26",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png",
+            "winner": true
+          },
+          "away": {
+            "id": 133,
+            "name": "Vasco DA Gama",
+            "logo": "https://media.api-sports.io/football/teams/133.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492350,
           "referee": "Felipe Fernandes de Lima, Brazil",
           "timezone": "UTC",
@@ -15572,7 +15642,7 @@
       {
         "fixture": {
           "id": 1547770,
-          "referee": "Andres Rojas, Colombia",
+          "referee": "A. Rojas",
           "timezone": "UTC",
           "date": "2026-08-18T22:00:00+00:00",
           "timestamp": 1787090400,
@@ -15712,7 +15782,7 @@
       {
         "fixture": {
           "id": 1547760,
-          "referee": "Cristian Garay, Chile",
+          "referee": "C. Garay",
           "timezone": "UTC",
           "date": "2026-08-11T22:00:00+00:00",
           "timestamp": 1786485600,
@@ -16048,76 +16118,6 @@
           "fulltime": {
             "home": 0,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492305,
-          "referee": "Edina Alves Batista, Brazil",
-          "timezone": "UTC",
-          "date": "2026-07-26T21:30:00+00:00",
-          "timestamp": 1785101400,
-          "periods": {
-            "first": 1785101400,
-            "second": 1785105000
-          },
-          "venue": {
-            "id": null,
-            "name": "Arena do Grêmio",
-            "city": "Porto Alegre"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 20",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 130,
-            "name": "Gremio",
-            "logo": "https://media.api-sports.io/football/teams/130.png",
-            "winner": null
-          },
-          "away": {
-            "id": 124,
-            "name": "Fluminense",
-            "logo": "https://media.api-sports.io/football/teams/124.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -16784,7 +16784,7 @@
       {
         "fixture": {
           "id": 1547757,
-          "referee": "Yael Falcon Perez, Argentina",
+          "referee": "Y. Perez",
           "timezone": "UTC",
           "date": "2026-08-13T00:30:00+00:00",
           "timestamp": 1786581000,
@@ -18630,7 +18630,7 @@
       {
         "fixture": {
           "id": 1547767,
-          "referee": "Alexis Herrera, Venezuela",
+          "referee": "A. Herrera",
           "timezone": "UTC",
           "date": "2026-08-21T00:30:00+00:00",
           "timestamp": 1787272200,
@@ -18640,7 +18640,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Neo Química Arena",
+            "name": "Neo Quimica Arena",
             "city": "Sao Paulo"
           },
           "status": {
@@ -18770,7 +18770,7 @@
       {
         "fixture": {
           "id": 1547764,
-          "referee": "Andres Matonte, Uruguay",
+          "referee": "A. M. Matonte Cabrera",
           "timezone": "UTC",
           "date": "2026-08-14T00:30:00+00:00",
           "timestamp": 1786667400,
@@ -18780,7 +18780,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Gigante de Arroyito",
+            "name": "Estadio Gigante de Arroyito",
             "city": "Rosario"
           },
           "status": {
@@ -20549,6 +20549,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492365,
+          "referee": "D. Lacerda",
+          "timezone": "UTC",
+          "date": "2026-09-06T00:00:00+00:00",
+          "timestamp": 1788652800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": "Rio de Janeiro"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 83,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 26",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png",
+            "winner": true
+          },
+          "away": {
+            "id": 133,
+            "name": "Vasco DA Gama",
+            "logo": "https://media.api-sports.io/football/teams/133.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1623076,
           "referee": "R. Klein",
           "timezone": "UTC",
@@ -21166,76 +21236,6 @@
           "fulltime": {
             "home": 1,
             "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1546850,
-          "referee": "R. Abatti",
-          "timezone": "UTC",
-          "date": "2026-08-01T20:30:00+00:00",
-          "timestamp": 1785616200,
-          "periods": {
-            "first": 1785616200,
-            "second": 1785619800
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": "Rio de Janeiro"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 73,
-          "name": "Copa Do Brasil",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/73.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Round of 16",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 133,
-            "name": "Vasco DA Gama",
-            "logo": "https://media.api-sports.io/football/teams/133.png",
-            "winner": null
-          },
-          "away": {
-            "id": 124,
-            "name": "Fluminense",
-            "logo": "https://media.api-sports.io/football/teams/124.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -63605,12 +63605,12 @@
               "percentage": "13.33%"
             },
             "76-90": {
-              "total": 5,
-              "percentage": "33.33%"
+              "total": 4,
+              "percentage": "26.67%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "6.67%"
             },
             "106-120": {
               "total": null,
@@ -67553,12 +67553,12 @@
               "percentage": null
             },
             "76-90": {
-              "total": 1,
-              "percentage": "20.00%"
-            },
-            "91-105": {
               "total": null,
               "percentage": null
+            },
+            "91-105": {
+              "total": 1,
+              "percentage": "20.00%"
             },
             "106-120": {
               "total": null,
@@ -94000,7 +94000,7 @@
             "long": "Match Finished",
             "short": "FT",
             "elapsed": 90,
-            "extra": 6
+            "extra": null
           }
         },
         "league": {
@@ -95149,7 +95149,7 @@
       {
         "fixture": {
           "id": 1547767,
-          "referee": "Alexis Herrera, Venezuela",
+          "referee": "A. Herrera",
           "timezone": "UTC",
           "date": "2026-08-21T00:30:00+00:00",
           "timestamp": 1787272200,
@@ -95159,7 +95159,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Neo Química Arena",
+            "name": "Neo Quimica Arena",
             "city": "Sao Paulo"
           },
           "status": {
@@ -95289,7 +95289,7 @@
       {
         "fixture": {
           "id": 1547764,
-          "referee": "Andres Matonte, Uruguay",
+          "referee": "A. M. Matonte Cabrera",
           "timezone": "UTC",
           "date": "2026-08-14T00:30:00+00:00",
           "timestamp": 1786667400,
@@ -95299,7 +95299,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Gigante de Arroyito",
+            "name": "Estadio Gigante de Arroyito",
             "city": "Rosario"
           },
           "status": {
@@ -96018,6 +96018,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493121,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T00:15:00+00:00",
+          "timestamp": 1788653700,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 73,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 8",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 438,
+            "name": "Velez Sarsfield",
+            "logo": "https://media.api-sports.io/football/teams/438.png",
+            "winner": true
+          },
+          "away": {
+            "id": 450,
+            "name": "Estudiantes L.P.",
+            "logo": "https://media.api-sports.io/football/teams/450.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1593679,
           "referee": "S. Zunino",
           "timezone": "UTC",
@@ -96077,8 +96147,8 @@
             "away": 0
           },
           "extratime": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
           },
           "penalty": {
             "home": 3,
@@ -96634,76 +96704,6 @@
           },
           "fulltime": {
             "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1491952,
-          "referee": "Luis Lobo Medina, Argentina",
-          "timezone": "UTC",
-          "date": "2026-05-04T22:15:00+00:00",
-          "timestamp": 1777932900,
-          "periods": {
-            "first": 1777932900,
-            "second": 1777936500
-          },
-          "venue": {
-            "id": null,
-            "name": "Jose Amalfitani",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Apertura - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 438,
-            "name": "Velez Sarsfield",
-            "logo": "https://media.api-sports.io/football/teams/438.png",
-            "winner": null
-          },
-          "away": {
-            "id": 457,
-            "name": "Newells Old Boys",
-            "logo": "https://media.api-sports.io/football/teams/457.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
             "away": 1
           },
           "extratime": {
@@ -99060,6 +99060,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493121,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T00:15:00+00:00",
+          "timestamp": 1788653700,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 73,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 8",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 438,
+            "name": "Velez Sarsfield",
+            "logo": "https://media.api-sports.io/football/teams/438.png",
+            "winner": true
+          },
+          "away": {
+            "id": 450,
+            "name": "Estudiantes L.P.",
+            "logo": "https://media.api-sports.io/football/teams/450.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493098,
           "referee": "Juan Pafundi, Argentina",
           "timezone": "UTC",
@@ -99078,7 +99148,7 @@
             "long": "Match Finished",
             "short": "FT",
             "elapsed": 90,
-            "extra": 6
+            "extra": null
           }
         },
         "league": {
@@ -99677,76 +99747,6 @@
           "fulltime": {
             "home": 3,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1493006,
-          "referee": "Pablo Dovalo, Argentina",
-          "timezone": "UTC",
-          "date": "2026-07-26T20:15:00+00:00",
-          "timestamp": 1785096900,
-          "periods": {
-            "first": 1785096900,
-            "second": 1785100500
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Ciudad de La Plata",
-            "city": "La Plata"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 1",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 450,
-            "name": "Estudiantes L.P.",
-            "logo": "https://media.api-sports.io/football/teams/450.png",
-            "winner": false
-          },
-          "away": {
-            "id": 453,
-            "name": "Independiente",
-            "logo": "https://media.api-sports.io/football/teams/453.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
           },
           "extratime": {
             "home": null,
@@ -101106,7 +101106,7 @@
             "long": "Match Finished",
             "short": "FT",
             "elapsed": 90,
-            "extra": 6
+            "extra": null
           }
         },
         "league": {
@@ -102148,7 +102148,7 @@
             "long": "Match Finished",
             "short": "FT",
             "elapsed": 90,
-            "extra": 5
+            "extra": null
           }
         },
         "league": {
@@ -166575,7 +166575,7 @@
             "long": "Match Finished",
             "short": "FT",
             "elapsed": 90,
-            "extra": 8
+            "extra": null
           }
         },
         "league": {
@@ -181691,6 +181691,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490444,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T00:30:00+00:00",
+          "timestamp": 1788654600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Lumen Field",
+            "city": "Seattle"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1595,
+            "name": "Seattle Sounders",
+            "logo": "https://media.api-sports.io/football/teams/1595.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1602,
+            "name": "New York Red Bulls",
+            "logo": "https://media.api-sports.io/football/teams/1602.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490421,
           "referee": "I. Elfath",
           "timezone": "UTC",
@@ -182318,76 +182388,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1490337,
-          "referee": "R. Montero",
-          "timezone": "UTC",
-          "date": "2026-07-23T01:30:00+00:00",
-          "timestamp": 1784770200,
-          "periods": {
-            "first": 1784770200,
-            "second": 1784773800
-          },
-          "venue": {
-            "id": null,
-            "name": "Q2 Stadium",
-            "city": "Austin"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 16489,
-            "name": "Austin",
-            "logo": "https://media.api-sports.io/football/teams/16489.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1595,
-            "name": "Seattle Sounders",
-            "logo": "https://media.api-sports.io/football/teams/1595.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -182703,6 +182703,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490446,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T00:30:00+00:00",
+          "timestamp": 1788654600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Q2 Stadium",
+            "city": "Austin"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 16489,
+            "name": "Austin",
+            "logo": "https://media.api-sports.io/football/teams/16489.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1596,
+            "name": "San Jose Earthquakes",
+            "logo": "https://media.api-sports.io/football/teams/1596.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490431,
@@ -183332,76 +183402,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1543869,
-          "referee": "F. Bazakos",
-          "timezone": "UTC",
-          "date": "2026-05-21T02:00:00+00:00",
-          "timestamp": 1779328800,
-          "periods": {
-            "first": 1779328800,
-            "second": 1779332400
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 257,
-          "name": "US Open Cup",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/257.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Quarter-finals",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 1610,
-            "name": "Colorado Rapids",
-            "logo": "https://media.api-sports.io/football/teams/1610.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1596,
-            "name": "San Jose Earthquakes",
-            "logo": "https://media.api-sports.io/football/teams/1596.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -183741,6 +183741,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490445,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T00:30:00+00:00",
+          "timestamp": 1788654600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Toyota Stadium",
+            "city": "Frisco"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1597,
+            "name": "FC Dallas",
+            "logo": "https://media.api-sports.io/football/teams/1597.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1611,
+            "name": "Sporting Kansas City",
+            "logo": "https://media.api-sports.io/football/teams/1611.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 2
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490435,
@@ -184370,76 +184440,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1490345,
-          "referee": "A. Da Silva",
-          "timezone": "UTC",
-          "date": "2026-07-23T02:30:00+00:00",
-          "timestamp": 1784773800,
-          "periods": {
-            "first": 1784773800,
-            "second": 1784777400
-          },
-          "venue": {
-            "id": null,
-            "name": "Providence Park",
-            "city": "Portland"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 10
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1617,
-            "name": "Portland Timbers",
-            "logo": "https://media.api-sports.io/football/teams/1617.png",
-            "winner": null
-          },
-          "away": {
-            "id": 1597,
-            "name": "FC Dallas",
-            "logo": "https://media.api-sports.io/football/teams/1597.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -184738,6 +184738,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490444,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T00:30:00+00:00",
+          "timestamp": 1788654600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Lumen Field",
+            "city": "Seattle"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1595,
+            "name": "Seattle Sounders",
+            "logo": "https://media.api-sports.io/football/teams/1595.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1602,
+            "name": "New York Red Bulls",
+            "logo": "https://media.api-sports.io/football/teams/1602.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490424,
@@ -185357,76 +185427,6 @@
           "fulltime": {
             "home": 1,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490284,
-          "referee": "P. Lauziere",
-          "timezone": "UTC",
-          "date": "2026-05-13T23:30:00+00:00",
-          "timestamp": 1778715000,
-          "periods": {
-            "first": 1778715000,
-            "second": 1778718600
-          },
-          "venue": {
-            "id": null,
-            "name": "Sports Illustrated Stadium",
-            "city": "Harrison"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 9
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 13",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1602,
-            "name": "New York Red Bulls",
-            "logo": "https://media.api-sports.io/football/teams/1602.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1613,
-            "name": "Columbus Crew",
-            "logo": "https://media.api-sports.io/football/teams/1613.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 2
           },
           "extratime": {
             "home": null,
@@ -186764,6 +186764,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490448,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T01:30:00+00:00",
+          "timestamp": 1788658200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Dignity Health Sports Park",
+            "city": "Los Angeles"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 6,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1605,
+            "name": "Los Angeles Galaxy",
+            "logo": "https://media.api-sports.io/football/teams/1605.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1609,
+            "name": "New England Revolution",
+            "logo": "https://media.api-sports.io/football/teams/1609.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490433,
           "referee": "T. Penso",
           "timezone": "UTC",
@@ -187391,76 +187461,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1583636,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-03T17:30:00+00:00",
-          "timestamp": 1783099800,
-          "periods": {
-            "first": 1783099800,
-            "second": 1783103400
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Friendly International",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 1605,
-            "name": "Los Angeles Galaxy",
-            "logo": "https://media.api-sports.io/football/teams/1605.png",
-            "winner": false
-          },
-          "away": {
-            "id": 5159,
-            "name": "El Salvador",
-            "logo": "https://media.api-sports.io/football/teams/5159.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -187780,6 +187780,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490447,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T01:30:00+00:00",
+          "timestamp": 1788658200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "America First Field",
+            "city": "Sandy"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 6,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1606,
+            "name": "Real Salt Lake",
+            "logo": "https://media.api-sports.io/football/teams/1606.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1616,
+            "name": "Los Angeles FC",
+            "logo": "https://media.api-sports.io/football/teams/1616.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490432,
@@ -188409,76 +188479,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1490360,
-          "referee": "E. Arreguin",
-          "timezone": "UTC",
-          "date": "2026-07-26T02:30:00+00:00",
-          "timestamp": 1785033000,
-          "periods": {
-            "first": 1785033000,
-            "second": 1785036600
-          },
-          "venue": {
-            "id": null,
-            "name": "Providence Park",
-            "city": "Portland"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 17",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1617,
-            "name": "Portland Timbers",
-            "logo": "https://media.api-sports.io/football/teams/1617.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1606,
-            "name": "Real Salt Lake",
-            "logo": "https://media.api-sports.io/football/teams/1606.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -188790,6 +188790,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490448,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T01:30:00+00:00",
+          "timestamp": 1788658200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Dignity Health Sports Park",
+            "city": "Los Angeles"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 6,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1605,
+            "name": "Los Angeles Galaxy",
+            "logo": "https://media.api-sports.io/football/teams/1605.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1609,
+            "name": "New England Revolution",
+            "logo": "https://media.api-sports.io/football/teams/1609.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490427,
@@ -189419,76 +189489,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1562879,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-07-05T15:00:00+00:00",
-          "timestamp": 1783263600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Cancelled",
-            "short": "CANC",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 6962,
-            "name": "Widzew Łódź",
-            "logo": "https://media.api-sports.io/football/teams/6962.png",
-            "winner": null
-          },
-          "away": {
-            "id": 1609,
-            "name": "New England Revolution",
-            "logo": "https://media.api-sports.io/football/teams/1609.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -189816,6 +189816,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490445,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T00:30:00+00:00",
+          "timestamp": 1788654600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Toyota Stadium",
+            "city": "Frisco"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1597,
+            "name": "FC Dallas",
+            "logo": "https://media.api-sports.io/football/teams/1597.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1611,
+            "name": "Sporting Kansas City",
+            "logo": "https://media.api-sports.io/football/teams/1611.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 2
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490429,
@@ -190431,76 +190501,6 @@
           "halftime": {
             "home": 0,
             "away": 2
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490303,
-          "referee": "M. De Oliveira",
-          "timezone": "UTC",
-          "date": "2026-05-17T00:30:00+00:00",
-          "timestamp": 1778977800,
-          "periods": {
-            "first": 1778977800,
-            "second": 1778981400
-          },
-          "venue": {
-            "id": null,
-            "name": "Q2 Stadium",
-            "city": "Austin"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 14",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 16489,
-            "name": "Austin",
-            "logo": "https://media.api-sports.io/football/teams/16489.png",
-            "winner": false
-          },
-          "away": {
-            "id": 1611,
-            "name": "Sporting Kansas City",
-            "logo": "https://media.api-sports.io/football/teams/1611.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
           },
           "fulltime": {
             "home": 1,
@@ -191858,6 +191858,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490447,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T01:30:00+00:00",
+          "timestamp": 1788658200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "America First Field",
+            "city": "Sandy"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 6,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1606,
+            "name": "Real Salt Lake",
+            "logo": "https://media.api-sports.io/football/teams/1606.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1616,
+            "name": "Los Angeles FC",
+            "logo": "https://media.api-sports.io/football/teams/1616.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490423,
           "referee": "S. Demianchuk",
           "timezone": "UTC",
@@ -192475,76 +192545,6 @@
           "fulltime": {
             "home": 4,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490342,
-          "referee": "P. Lauziere",
-          "timezone": "UTC",
-          "date": "2026-07-23T02:30:00+00:00",
-          "timestamp": 1784773800,
-          "periods": {
-            "first": 1784773800,
-            "second": 1784777400
-          },
-          "venue": {
-            "id": null,
-            "name": "BMO Stadium",
-            "city": "Los Angeles"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1616,
-            "name": "Los Angeles FC",
-            "logo": "https://media.api-sports.io/football/teams/1616.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1606,
-            "name": "Real Salt Lake",
-            "logo": "https://media.api-sports.io/football/teams/1606.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -195712,12 +195712,12 @@
               "percentage": "3.45%"
             },
             "76-90": {
-              "total": 9,
-              "percentage": "31.03%"
+              "total": 8,
+              "percentage": "27.59%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "3.45%"
             },
             "106-120": {
               "total": null,
@@ -195812,31 +195812,31 @@
         "yellow": {
           "0-15": {
             "total": 1,
-            "percentage": "2.94%"
+            "percentage": "3.03%"
           },
           "16-30": {
             "total": 2,
-            "percentage": "5.88%"
+            "percentage": "6.06%"
           },
           "31-45": {
             "total": 7,
-            "percentage": "20.59%"
+            "percentage": "21.21%"
           },
           "46-60": {
             "total": 9,
-            "percentage": "26.47%"
+            "percentage": "27.27%"
           },
           "61-75": {
             "total": 5,
-            "percentage": "14.71%"
+            "percentage": "15.15%"
           },
           "76-90": {
             "total": 5,
-            "percentage": "14.71%"
+            "percentage": "15.15%"
           },
           "91-105": {
-            "total": 5,
-            "percentage": "14.71%"
+            "total": 4,
+            "percentage": "12.12%"
           },
           "106-120": {
             "total": null,
@@ -195850,11 +195850,11 @@
           },
           "16-30": {
             "total": 1,
-            "percentage": "25.00%"
+            "percentage": "33.33%"
           },
           "31-45": {
             "total": 2,
-            "percentage": "50.00%"
+            "percentage": "66.67%"
           },
           "46-60": {
             "total": null,
@@ -195869,8 +195869,8 @@
             "percentage": null
           },
           "91-105": {
-            "total": 1,
-            "percentage": "25.00%"
+            "total": null,
+            "percentage": null
           },
           "106-120": {
             "total": null,
@@ -196906,7 +196906,7 @@
             "long": "Match Finished",
             "short": "FT",
             "elapsed": 90,
-            "extra": 3
+            "extra": null
           }
         },
         "league": {
@@ -239914,12 +239914,12 @@
               "percentage": "10.00%"
             },
             "76-90": {
-              "total": 3,
-              "percentage": "30.00%"
-            },
-            "91-105": {
               "total": 2,
               "percentage": "20.00%"
+            },
+            "91-105": {
+              "total": 3,
+              "percentage": "30.00%"
             },
             "106-120": {
               "total": null,
@@ -243405,7 +243405,7 @@
       {
         "fixture": {
           "id": 1547771,
-          "referee": "Yael Falcon Perez, Argentina",
+          "referee": "Y. Perez",
           "timezone": "UTC",
           "date": "2026-08-20T22:00:00+00:00",
           "timestamp": 1787263200,
@@ -243545,7 +243545,7 @@
       {
         "fixture": {
           "id": 1547761,
-          "referee": "Alexis Herrera, Venezuela",
+          "referee": "A. Herrera",
           "timezone": "UTC",
           "date": "2026-08-13T22:00:00+00:00",
           "timestamp": 1786658400,
@@ -250208,6 +250208,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490446,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-09-06T00:30:00+00:00",
+          "timestamp": 1788654600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Q2 Stadium",
+            "city": "Austin"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 16489,
+            "name": "Austin",
+            "logo": "https://media.api-sports.io/football/teams/16489.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1596,
+            "name": "San Jose Earthquakes",
+            "logo": "https://media.api-sports.io/football/teams/1596.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490434,
           "referee": "G. Gonzales",
           "timezone": "UTC",
@@ -250824,76 +250894,6 @@
           },
           "fulltime": {
             "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490355,
-          "referee": "F. Dujic",
-          "timezone": "UTC",
-          "date": "2026-07-26T00:30:00+00:00",
-          "timestamp": 1785025800,
-          "periods": {
-            "first": 1785025800,
-            "second": 1785029400
-          },
-          "venue": {
-            "id": null,
-            "name": "Shell Energy Stadium",
-            "city": "Houston"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 17",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1600,
-            "name": "Houston Dynamo",
-            "logo": "https://media.api-sports.io/football/teams/1600.png",
-            "winner": true
-          },
-          "away": {
-            "id": 16489,
-            "name": "Austin",
-            "logo": "https://media.api-sports.io/football/teams/16489.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
             "away": 0
           },
           "extratime": {
@@ -257995,8 +257995,8 @@
               "percentage": null
             },
             "16-30": {
-              "total": 1,
-              "percentage": "33.33%"
+              "total": 2,
+              "percentage": "50.00%"
             },
             "31-45": {
               "total": null,
@@ -258008,11 +258008,11 @@
             },
             "61-75": {
               "total": 1,
-              "percentage": "33.33%"
+              "percentage": "25.00%"
             },
             "76-90": {
               "total": 1,
-              "percentage": "33.33%"
+              "percentage": "25.00%"
             },
             "91-105": {
               "total": null,
@@ -258063,8 +258063,8 @@
               "percentage": null
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "33.33%"
             },
             "31-45": {
               "total": null,
@@ -258072,7 +258072,7 @@
             },
             "46-60": {
               "total": 1,
-              "percentage": "50.00%"
+              "percentage": "33.33%"
             },
             "61-75": {
               "total": null,
@@ -258080,7 +258080,7 @@
             },
             "76-90": {
               "total": 1,
-              "percentage": "50.00%"
+              "percentage": "33.33%"
             },
             "91-105": {
               "total": null,
