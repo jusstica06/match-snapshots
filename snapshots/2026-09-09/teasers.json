@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T01:58:45.824Z",
+  "generatedAt": "2026-09-08T01:50:44.922Z",
   "picks": [
     {
       "fixtureId": 1507060,
@@ -123,14 +123,14 @@
       "homeTeam": "Al Kholood",
       "awayTeamId": 2940,
       "awayTeam": "Al Shabab",
-      "expectedHome": 1.499,
-      "expectedAway": 0.831,
-      "expectedTotal": 2.33,
-      "teamGoalsHomeLambda": 1.624,
-      "teamGoalsAwayLambda": 0.888,
+      "expectedHome": 1.481,
+      "expectedAway": 0.821,
+      "expectedTotal": 2.302,
+      "teamGoalsHomeLambda": 1.604,
+      "teamGoalsAwayLambda": 0.877,
       "type": "over25",
       "label": "Toplam 2.5 Üst",
-      "prob": 0.4376
+      "prob": 0.4301
     },
     {
       "fixtureId": 1552142,
@@ -178,14 +178,14 @@
       "homeTeam": "VfB Stuttgart",
       "awayTeamId": 759,
       "awayTeam": "Viking",
-      "expectedHome": 2.317,
-      "expectedAway": 1.561,
-      "expectedTotal": 3.878,
-      "teamGoalsHomeLambda": 2.588,
-      "teamGoalsAwayLambda": 1.709,
+      "expectedHome": 1.667,
+      "expectedAway": 1.605,
+      "expectedTotal": 3.272,
+      "teamGoalsHomeLambda": 1.868,
+      "teamGoalsAwayLambda": 1.815,
       "type": "over35",
       "label": "Toplam 3.5 Üst",
-      "prob": 0.5728
+      "prob": 0.4438
     },
     {
       "fixtureId": 1559993,
@@ -214,14 +214,14 @@
       "homeTeam": "Al-Fateh",
       "awayTeamId": 26738,
       "awayTeam": "Al Diriyah",
-      "expectedHome": 0.957,
-      "expectedAway": 2.044,
-      "expectedTotal": 3.001,
-      "teamGoalsHomeLambda": 0.986,
-      "teamGoalsAwayLambda": 2.214,
+      "expectedHome": 1.019,
+      "expectedAway": 2.176,
+      "expectedTotal": 3.195,
+      "teamGoalsHomeLambda": 1.05,
+      "teamGoalsAwayLambda": 2.357,
       "type": "home15",
       "label": "Al-Fateh 1.5 Üst",
-      "prob": 0.2591,
+      "prob": 0.2826,
       "side": "home"
     },
     {
@@ -233,14 +233,14 @@
       "homeTeam": "Al-Nassr",
       "awayTeamId": 2951,
       "awayTeam": "Abha",
-      "expectedHome": 1.403,
-      "expectedAway": 0.996,
-      "expectedTotal": 2.399,
-      "teamGoalsHomeLambda": 1.745,
-      "teamGoalsAwayLambda": 1.011,
+      "expectedHome": 1.4,
+      "expectedAway": 0.994,
+      "expectedTotal": 2.394,
+      "teamGoalsHomeLambda": 1.741,
+      "teamGoalsAwayLambda": 1.009,
       "type": "home15",
       "label": "Al-Nassr 1.5 Üst",
-      "prob": 0.5206,
+      "prob": 0.5194,
       "side": "home"
     },
     {
@@ -327,14 +327,14 @@
       "homeTeam": "Charlton",
       "awayTeamId": 72,
       "awayTeam": "QPR",
-      "expectedHome": 1.148,
-      "expectedAway": 1.786,
-      "expectedTotal": 2.934,
-      "teamGoalsHomeLambda": 1.238,
-      "teamGoalsAwayLambda": 2.01,
+      "expectedHome": 1.139,
+      "expectedAway": 1.78,
+      "expectedTotal": 2.919,
+      "teamGoalsHomeLambda": 1.228,
+      "teamGoalsAwayLambda": 2.008,
       "type": "doubleChance",
       "label": "Ev veya Deplasman (12)",
-      "prob": 0.7729
+      "prob": 0.7724
     },
     {
       "fixtureId": 1635686,
@@ -418,33 +418,14 @@
       "homeTeam": "Moreirense",
       "awayTeamId": 211,
       "awayTeam": "Benfica",
-      "expectedHome": 1.318,
-      "expectedAway": 2.1,
-      "expectedTotal": 3.418,
-      "teamGoalsHomeLambda": 1.387,
-      "teamGoalsAwayLambda": 2.355,
+      "expectedHome": 1.31,
+      "expectedAway": 2.087,
+      "expectedTotal": 3.397,
+      "teamGoalsHomeLambda": 1.379,
+      "teamGoalsAwayLambda": 2.341,
       "type": "over25",
       "label": "Toplam 2.5 Üst",
-      "prob": 0.6881
-    },
-    {
-      "fixtureId": 1490451,
-      "leagueId": 253,
-      "season": 2026,
-      "kickoffTs": 1788996600,
-      "homeTeamId": 1599,
-      "homeTeam": "Philadelphia Union",
-      "awayTeamId": 2242,
-      "awayTeam": "FC Cincinnati",
-      "expectedHome": 1.372,
-      "expectedAway": 1.741,
-      "expectedTotal": 3.113,
-      "teamGoalsHomeLambda": 1.769,
-      "teamGoalsAwayLambda": 1.868,
-      "type": "away15",
-      "label": "FC Cincinnati 1.5 Üst",
-      "prob": 0.5571,
-      "side": "away"
+      "prob": 0.6842
     },
     {
       "fixtureId": 1490452,
@@ -518,6 +499,25 @@
       "label": "CF Montreal 1.5 Üst",
       "prob": 0.3894,
       "side": "home"
+    },
+    {
+      "fixtureId": 1490451,
+      "leagueId": 253,
+      "season": 2026,
+      "kickoffTs": 1788997500,
+      "homeTeamId": 1599,
+      "homeTeam": "Philadelphia Union",
+      "awayTeamId": 2242,
+      "awayTeam": "FC Cincinnati",
+      "expectedHome": 1.372,
+      "expectedAway": 1.741,
+      "expectedTotal": 3.113,
+      "teamGoalsHomeLambda": 1.769,
+      "teamGoalsAwayLambda": 1.868,
+      "type": "away15",
+      "label": "FC Cincinnati 1.5 Üst",
+      "prob": 0.5571,
+      "side": "away"
     }
   ]
 }

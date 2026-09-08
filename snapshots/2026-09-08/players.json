@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-07T01:56:12.660Z",
-  "totalTeams": 50,
+  "generatedAt": "2026-09-08T01:48:21.636Z",
+  "totalTeams": 52,
   "totalLeagues": 7,
-  "teamsWithFallback": 31,
+  "teamsWithFallback": 33,
   "data": {
     "38": {
       "teamId": 38,
@@ -60,10 +60,10 @@
           "appearances": 5
         },
         "mostCards": {
-          "id": 19587,
-          "name": "R. Manning",
-          "photo": "https://media.api-sports.io/football/players/19587.png",
-          "yellowCards": 2,
+          "id": 283323,
+          "name": "Léo Scienza",
+          "photo": "https://media.api-sports.io/football/players/283323.png",
+          "yellowCards": 1,
           "redCards": 0
         }
       },
@@ -370,11 +370,11 @@
           "appearances": 5
         },
         "topAssist": {
-          "id": 204109,
-          "name": "A. Guðjohnsen",
-          "photo": "https://media.api-sports.io/football/players/204109.png",
+          "id": 19072,
+          "name": "T. Cantwell",
+          "photo": "https://media.api-sports.io/football/players/19072.png",
           "assists": 1,
-          "appearances": 5
+          "appearances": 2
         },
         "mostCards": {
           "id": 19558,
@@ -393,15 +393,7 @@
           "appearances": 5
         }
       ],
-      "topAssists": [
-        {
-          "id": 204109,
-          "name": "A. Guðjohnsen",
-          "photo": "https://media.api-sports.io/football/players/204109.png",
-          "assists": 1,
-          "appearances": 5
-        }
-      ]
+      "topAssists": []
     },
     "68": {
       "teamId": 68,
@@ -410,13 +402,7 @@
       "leagueId": 40,
       "leagueName": "Championship",
       "keyPlayers": {
-        "topScorer": {
-          "id": 17878,
-          "name": "S. Dalby",
-          "photo": "https://media.api-sports.io/football/players/17878.png",
-          "goals": 2,
-          "appearances": 5
-        },
+        "topScorer": null,
         "topAssist": null,
         "mostCards": {
           "id": 82034,
@@ -426,15 +412,7 @@
           "redCards": 1
         }
       },
-      "topScorers": [
-        {
-          "id": 17878,
-          "name": "S. Dalby",
-          "photo": "https://media.api-sports.io/football/players/17878.png",
-          "goals": 2,
-          "appearances": 5
-        }
-      ],
+      "topScorers": [],
       "topAssists": []
     },
     "75": {
@@ -660,6 +638,54 @@
         }
       ]
     },
+    "207": {
+      "teamId": 207,
+      "teamName": "Utrecht",
+      "season": 2026,
+      "leagueId": 88,
+      "leagueName": "Eredivisie",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 550823,
+          "name": "A. Stepanov",
+          "photo": "https://media.api-sports.io/football/players/550823.png",
+          "goals": 3,
+          "appearances": 3
+        },
+        "topAssist": {
+          "id": 266814,
+          "name": "Y. Cathline",
+          "photo": "https://media.api-sports.io/football/players/266814.png",
+          "assists": 2,
+          "appearances": 5
+        },
+        "mostCards": {
+          "id": 265,
+          "name": "A. Zagré",
+          "photo": "https://media.api-sports.io/football/players/265.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 550823,
+          "name": "A. Stepanov",
+          "photo": "https://media.api-sports.io/football/players/550823.png",
+          "goals": 3,
+          "appearances": 3
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 266814,
+          "name": "Y. Cathline",
+          "photo": "https://media.api-sports.io/football/players/266814.png",
+          "assists": 2,
+          "appearances": 5
+        }
+      ]
+    },
     "212": {
       "teamId": 212,
       "teamName": "FC Porto",
@@ -691,6 +717,82 @@
       },
       "topScorers": [],
       "topAssists": []
+    },
+    "410": {
+      "teamId": 410,
+      "teamName": "GO Ahead Eagles",
+      "season": 2026,
+      "leagueId": 88,
+      "leagueName": "Eredivisie",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 128765,
+          "name": "S. Tengstedt",
+          "photo": "https://media.api-sports.io/football/players/128765.png",
+          "goals": 4,
+          "appearances": 5
+        },
+        "topAssist": {
+          "id": 128765,
+          "name": "S. Tengstedt",
+          "photo": "https://media.api-sports.io/football/players/128765.png",
+          "assists": 2,
+          "appearances": 5
+        },
+        "mostCards": {
+          "id": 162200,
+          "name": "J. Dirksen",
+          "photo": "https://media.api-sports.io/football/players/162200.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 128765,
+          "name": "S. Tengstedt",
+          "photo": "https://media.api-sports.io/football/players/128765.png",
+          "goals": 4,
+          "appearances": 5
+        },
+        {
+          "id": 137837,
+          "name": "V. Edvardsen",
+          "photo": "https://media.api-sports.io/football/players/137837.png",
+          "goals": 3,
+          "appearances": 5
+        },
+        {
+          "id": 162762,
+          "name": "M. Suray",
+          "photo": "https://media.api-sports.io/football/players/162762.png",
+          "goals": 2,
+          "appearances": 5
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 128765,
+          "name": "S. Tengstedt",
+          "photo": "https://media.api-sports.io/football/players/128765.png",
+          "assists": 2,
+          "appearances": 5
+        },
+        {
+          "id": 137837,
+          "name": "V. Edvardsen",
+          "photo": "https://media.api-sports.io/football/players/137837.png",
+          "assists": 2,
+          "appearances": 5
+        },
+        {
+          "id": 162762,
+          "name": "M. Suray",
+          "photo": "https://media.api-sports.io/football/players/162762.png",
+          "assists": 2,
+          "appearances": 5
+        }
+      ]
     },
     "413": {
       "teamId": 413,
@@ -1720,13 +1822,6 @@
           "photo": "https://media.api-sports.io/football/players/143639.png",
           "assists": 2,
           "appearances": 18
-        },
-        {
-          "id": 102790,
-          "name": "J. Montaño",
-          "photo": "https://media.api-sports.io/football/players/102790.png",
-          "assists": 2,
-          "appearances": 0
         }
       ]
     },
