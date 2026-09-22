@@ -305,8 +305,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493144,
+          "referee": "Nicolas Ramirez",
+          "timezone": "UTC",
+          "date": "2026-09-22T00:15:00+00:00",
+          "timestamp": 1790036100,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 88,
+            "name": "Estadio Ciudad de Lanus",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 71,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 10",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 446,
+            "name": "Lanus",
+            "logo": "https://media.api-sports.io/football/teams/446.png",
+            "winner": true
+          },
+          "away": {
+            "id": 450,
+            "name": "Estudiantes L.P.",
+            "logo": "https://media.api-sports.io/football/teams/450.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493127,
-          "referee": "L. Rey Hilfer",
+          "referee": "Leandro Rey Hilfer, Argentina",
           "timezone": "UTC",
           "date": "2026-09-14T22:00:00+00:00",
           "timestamp": 1789423200,
@@ -317,7 +387,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Guillermo Laza",
-            "city": "Buenos Aires"
+            "city": "Flores"
           },
           "status": {
             "long": "Match Finished",
@@ -376,7 +446,7 @@
       {
         "fixture": {
           "id": 1493114,
-          "referee": "A. Merlos",
+          "referee": "Andres Merlos, Argentina",
           "timezone": "UTC",
           "date": "2026-09-06T20:00:00+00:00",
           "timestamp": 1788724800,
@@ -516,7 +586,7 @@
       {
         "fixture": {
           "id": 1493085,
-          "referee": "S. Zunino",
+          "referee": "Sebastian Zunino, Argentina",
           "timezone": "UTC",
           "date": "2026-08-25T00:15:00+00:00",
           "timestamp": 1787616900,
@@ -586,7 +656,7 @@
       {
         "fixture": {
           "id": 1493069,
-          "referee": "S. Martinez",
+          "referee": "Sebastian Nicolas Martinez, Argentina",
           "timezone": "UTC",
           "date": "2026-08-17T20:00:00+00:00",
           "timestamp": 1786996800,
@@ -726,7 +796,7 @@
       {
         "fixture": {
           "id": 1493031,
-          "referee": "N. Lamolina",
+          "referee": "Nicolas Lamolina, Argentina",
           "timezone": "UTC",
           "date": "2026-08-06T22:00:00+00:00",
           "timestamp": 1786053600,
@@ -737,7 +807,7 @@
           "venue": {
             "id": null,
             "name": "Estadio 15 de Abril",
-            "city": "Santa Fe"
+            "city": "Santa Fe de la Vera Cruz"
           },
           "status": {
             "long": "Match Finished",
@@ -921,76 +991,6 @@
           },
           "fulltime": {
             "home": 4,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1493010,
-          "referee": "L. Rey Hilfer",
-          "timezone": "UTC",
-          "date": "2026-07-26T00:30:00+00:00",
-          "timestamp": 1785025800,
-          "periods": {
-            "first": 1785025800,
-            "second": 1785029400
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Ciudad de Lanus",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 1",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 446,
-            "name": "Lanus",
-            "logo": "https://media.api-sports.io/football/teams/446.png",
-            "winner": true
-          },
-          "away": {
-            "id": 460,
-            "name": "San Lorenzo",
-            "logo": "https://media.api-sports.io/football/teams/460.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
             "away": 0
           },
           "extratime": {
@@ -1319,6 +1319,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493144,
+          "referee": "Nicolas Ramirez",
+          "timezone": "UTC",
+          "date": "2026-09-22T00:15:00+00:00",
+          "timestamp": 1790036100,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 88,
+            "name": "Estadio Ciudad de Lanus",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 71,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 10",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 446,
+            "name": "Lanus",
+            "logo": "https://media.api-sports.io/football/teams/446.png",
+            "winner": true
+          },
+          "away": {
+            "id": 450,
+            "name": "Estudiantes L.P.",
+            "logo": "https://media.api-sports.io/football/teams/450.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1631508,
           "referee": "Jesus Valenzuela",
           "timezone": "UTC",
@@ -1600,7 +1670,7 @@
       {
         "fixture": {
           "id": 1493098,
-          "referee": "J. Pafundi",
+          "referee": "Juan Pafundi, Argentina",
           "timezone": "UTC",
           "date": "2026-08-31T22:00:00+00:00",
           "timestamp": 1788213600,
@@ -1610,7 +1680,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Jorge Luis Hirschi",
+            "name": "Estadio Ciudad de La Plata",
             "city": "La Plata"
           },
           "status": {
@@ -1740,7 +1810,7 @@
       {
         "fixture": {
           "id": 1493089,
-          "referee": "N. Lamolina",
+          "referee": "Nicolas Lamolina, Argentina",
           "timezone": "UTC",
           "date": "2026-08-23T17:45:00+00:00",
           "timestamp": 1787507100,
@@ -1750,7 +1820,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Eva Peron",
+            "name": "Estadio Eva Perón",
             "city": "Junin"
           },
           "status": {
@@ -1880,7 +1950,7 @@
       {
         "fixture": {
           "id": 1493066,
-          "referee": "Y. Perez",
+          "referee": "Yael Falcon Perez, Argentina",
           "timezone": "UTC",
           "date": "2026-08-15T19:45:00+00:00",
           "timestamp": 1786823100,
@@ -1890,7 +1960,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Jorge Luis Hirschi",
+            "name": "Estadio Ciudad de La Plata",
             "city": "La Plata"
           },
           "status": {
@@ -1936,76 +2006,6 @@
           "fulltime": {
             "home": 4,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1547759,
-          "referee": "R. Claus",
-          "timezone": "UTC",
-          "date": "2026-08-12T00:30:00+00:00",
-          "timestamp": 1786494600,
-          "periods": {
-            "first": 1786494600,
-            "second": 1786498200
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Jorge Luis Hirschi",
-            "city": "La Plata"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 13,
-          "name": "CONMEBOL Libertadores",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/13.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Round of 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 450,
-            "name": "Estudiantes L.P.",
-            "logo": "https://media.api-sports.io/football/teams/450.png",
-            "winner": null
-          },
-          "away": {
-            "id": 2994,
-            "name": "U. Catolica",
-            "logo": "https://media.api-sports.io/football/teams/2994.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T01:52:05.150Z",
+  "generatedAt": "2026-09-22T01:45:20.528Z",
   "picks": [
     {
       "fixtureId": 1640053,
@@ -10,18 +10,18 @@
       "homeTeam": "Japan U18",
       "awayTeamId": 22343,
       "awayTeam": "Ukraine U18",
-      "expectedHome": 1.445,
-      "expectedAway": 0.862,
-      "expectedTotal": 2.307,
-      "teamGoalsHomeLambda": 1.555,
-      "teamGoalsAwayLambda": 0.976,
+      "expectedHome": 1.419,
+      "expectedAway": 0.846,
+      "expectedTotal": 2.265,
+      "teamGoalsHomeLambda": 1.527,
+      "teamGoalsAwayLambda": 0.958,
       "type": "home15",
       "label": "Japan U18 1.5 Üst",
-      "prob": 0.4604,
+      "prob": 0.4512,
       "side": "home"
     },
     {
-      "fixtureId": 1640058,
+      "fixtureId": 1640054,
       "leagueId": 10,
       "season": 2026,
       "kickoffTs": 1790172000,
@@ -29,14 +29,14 @@
       "homeTeam": "Finland U17",
       "awayTeamId": 12507,
       "awayTeam": "France U17",
-      "expectedHome": 1.209,
-      "expectedAway": 1.282,
-      "expectedTotal": 2.491,
-      "teamGoalsHomeLambda": 1.252,
-      "teamGoalsAwayLambda": 1.65,
-      "type": "btts",
-      "label": "Karşılıklı Gol Var",
-      "prob": 0.5274
+      "expectedHome": 1.189,
+      "expectedAway": 1.26,
+      "expectedTotal": 2.449,
+      "teamGoalsHomeLambda": 1.231,
+      "teamGoalsAwayLambda": 1.622,
+      "type": "over25",
+      "label": "Toplam 2.5 Üst",
+      "prob": 0.4692
     },
     {
       "fixtureId": 1610876,
@@ -47,14 +47,14 @@
       "homeTeam": "Azerbaijan",
       "awayTeamId": 1536,
       "awayTeam": "Tajikistan",
-      "expectedHome": 1.361,
-      "expectedAway": 1.543,
-      "expectedTotal": 2.904,
-      "teamGoalsHomeLambda": 1.431,
-      "teamGoalsAwayLambda": 1.846,
+      "expectedHome": 1.341,
+      "expectedAway": 1.521,
+      "expectedTotal": 2.862,
+      "teamGoalsHomeLambda": 1.41,
+      "teamGoalsAwayLambda": 1.82,
       "type": "btts",
       "label": "Karşılıklı Gol Var",
-      "prob": 0.6051
+      "prob": 0.5975
     },
     {
       "fixtureId": 1640055,
@@ -65,14 +65,32 @@
       "homeTeam": "Gibraltar",
       "awayTeamId": 1494,
       "awayTeam": "Sao Tome and Principe",
-      "expectedHome": 1.032,
-      "expectedAway": 0.376,
-      "expectedTotal": 1.408,
-      "teamGoalsHomeLambda": 1.355,
-      "teamGoalsAwayLambda": 0.435,
+      "expectedHome": 1.001,
+      "expectedAway": 0.365,
+      "expectedTotal": 1.366,
+      "teamGoalsHomeLambda": 1.315,
+      "teamGoalsAwayLambda": 0.422,
       "type": "doubleChance",
       "label": "Ev veya Beraberlik (1X)",
-      "prob": 0.8664
+      "prob": 0.8667
+    },
+    {
+      "fixtureId": 1640823,
+      "leagueId": 10,
+      "season": 2026,
+      "kickoffTs": 1790182800,
+      "homeTeamId": 8194,
+      "homeTeam": "France U21",
+      "awayTeamId": 21460,
+      "awayTeam": "Austria U18",
+      "expectedHome": 1.97,
+      "expectedAway": 0.763,
+      "expectedTotal": 2.733,
+      "teamGoalsHomeLambda": 2.24,
+      "teamGoalsAwayLambda": 0.738,
+      "type": "doubleChance",
+      "label": "Ev veya Beraberlik (1X)",
+      "prob": 0.8654
     },
     {
       "fixtureId": 1638589,
@@ -83,14 +101,14 @@
       "homeTeam": "England U17",
       "awayTeamId": 17972,
       "awayTeam": "Republic of Ireland U17",
-      "expectedHome": 1.682,
-      "expectedAway": 1.663,
-      "expectedTotal": 3.345,
-      "teamGoalsHomeLambda": 1.846,
-      "teamGoalsAwayLambda": 1.904,
+      "expectedHome": 1.661,
+      "expectedAway": 1.643,
+      "expectedTotal": 3.304,
+      "teamGoalsHomeLambda": 1.822,
+      "teamGoalsAwayLambda": 1.88,
       "type": "doubleChance",
       "label": "Ev veya Deplasman (12)",
-      "prob": 0.7762
+      "prob": 0.7747
     }
   ]
 }
