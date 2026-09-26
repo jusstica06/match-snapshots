@@ -3,18 +3,18 @@
     {
       "rank": 1,
       "team": {
-        "id": 2,
-        "name": "France",
-        "logo": "https://media.api-sports.io/football/teams/2.png"
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png"
       },
-      "points": 0,
+      "points": 3,
       "all": {
-        "played": 0,
-        "win": 0,
+        "played": 1,
+        "win": 1,
         "draw": 0,
         "lose": 0,
         "goals": {
-          "for": 0,
+          "for": 2,
           "against": 0
         }
       }
@@ -22,18 +22,18 @@
     {
       "rank": 2,
       "team": {
-        "id": 777,
-        "name": "Türkiye",
-        "logo": "https://media.api-sports.io/football/teams/777.png"
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png"
       },
-      "points": 0,
+      "points": 3,
       "all": {
-        "played": 0,
-        "win": 0,
+        "played": 1,
+        "win": 1,
         "draw": 0,
         "lose": 0,
         "goals": {
-          "for": 0,
+          "for": 1,
           "against": 0
         }
       }
@@ -41,38 +41,38 @@
     {
       "rank": 3,
       "team": {
-        "id": 768,
-        "name": "Italy",
-        "logo": "https://media.api-sports.io/football/teams/768.png"
+        "id": 777,
+        "name": "Türkiye",
+        "logo": "https://media.api-sports.io/football/teams/777.png"
       },
       "points": 0,
       "all": {
-        "played": 0,
+        "played": 1,
         "win": 0,
         "draw": 0,
-        "lose": 0,
+        "lose": 1,
         "goals": {
           "for": 0,
-          "against": 0
+          "against": 1
         }
       }
     },
     {
       "rank": 4,
       "team": {
-        "id": 1,
-        "name": "Belgium",
-        "logo": "https://media.api-sports.io/football/teams/1.png"
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png"
       },
       "points": 0,
       "all": {
-        "played": 0,
+        "played": 1,
         "win": 0,
         "draw": 0,
-        "lose": 0,
+        "lose": 1,
         "goals": {
           "for": 0,
-          "against": 0
+          "against": 2
         }
       }
     }
@@ -107,13 +107,13 @@
       },
       "points": 16,
       "all": {
-        "played": 7,
+        "played": 8,
         "win": 5,
         "draw": 1,
-        "lose": 1,
+        "lose": 2,
         "goals": {
-          "for": 16,
-          "against": 4
+          "for": 18,
+          "against": 7
         }
       }
     },
@@ -386,6 +386,25 @@
     {
       "rank": 17,
       "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "points": 7,
+      "all": {
+        "played": 8,
+        "win": 2,
+        "draw": 1,
+        "lose": 5,
+        "goals": {
+          "for": 12,
+          "against": 23
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "team": {
         "id": 428,
         "name": "Jong Utrecht",
         "logo": "https://media.api-sports.io/football/teams/428.png"
@@ -403,7 +422,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "team": {
         "id": 423,
         "name": "FC OSS",
@@ -418,25 +437,6 @@
         "goals": {
           "for": 8,
           "against": 12
-        }
-      }
-    },
-    {
-      "rank": 19,
-      "team": {
-        "id": 409,
-        "name": "Dordrecht",
-        "logo": "https://media.api-sports.io/football/teams/409.png"
-      },
-      "points": 4,
-      "all": {
-        "played": 7,
-        "win": 1,
-        "draw": 1,
-        "lose": 5,
-        "goals": {
-          "for": 9,
-          "against": 21
         }
       }
     },
@@ -808,6 +808,25 @@
     {
       "rank": 3,
       "team": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media.api-sports.io/football/teams/547.png"
+      },
+      "points": 13,
+      "all": {
+        "played": 7,
+        "win": 4,
+        "draw": 1,
+        "lose": 2,
+        "goals": {
+          "for": 14,
+          "against": 8
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "team": {
         "id": 798,
         "name": "Mallorca",
         "logo": "https://media.api-sports.io/football/teams/798.png"
@@ -825,7 +844,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "team": {
         "id": 723,
         "name": "Almeria",
@@ -844,7 +863,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "team": {
         "id": 9580,
         "name": "Burgos",
@@ -863,7 +882,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "team": {
         "id": 9593,
         "name": "Sabadell",
@@ -882,7 +901,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "team": {
         "id": 537,
         "name": "Leganes",
@@ -897,25 +916,6 @@
         "goals": {
           "for": 6,
           "against": 5
-        }
-      }
-    },
-    {
-      "rank": 8,
-      "team": {
-        "id": 547,
-        "name": "Girona",
-        "logo": "https://media.api-sports.io/football/teams/547.png"
-      },
-      "points": 10,
-      "all": {
-        "played": 6,
-        "win": 3,
-        "draw": 1,
-        "lose": 2,
-        "goals": {
-          "for": 12,
-          "against": 8
         }
       }
     },
@@ -1156,13 +1156,13 @@
       },
       "points": 1,
       "all": {
-        "played": 6,
+        "played": 7,
         "win": 0,
         "draw": 1,
-        "lose": 5,
+        "lose": 6,
         "goals": {
           "for": 4,
-          "against": 10
+          "against": 12
         }
       }
     },

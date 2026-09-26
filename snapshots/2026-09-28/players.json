@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-25T01:46:45.839Z",
-  "totalTeams": 38,
+  "generatedAt": "2026-09-26T01:53:30.863Z",
+  "totalTeams": 43,
   "totalLeagues": 4,
-  "teamsWithFallback": 37,
+  "teamsWithFallback": 42,
   "data": {
     "1": {
       "teamId": 1,
@@ -100,63 +100,31 @@
       "topScorers": [],
       "topAssists": []
     },
-    "6": {
-      "teamId": 6,
-      "teamName": "Brazil",
+    "7": {
+      "teamId": 7,
+      "teamName": "Uruguay",
       "season": 2026,
       "leagueId": 10,
       "leagueName": "Friendlies",
       "keyPlayers": {
         "topScorer": {
-          "id": 1496,
-          "name": "Raphinha",
-          "photo": "https://media.api-sports.io/football/players/1496.png",
-          "goals": 5,
-          "appearances": 13
-        },
-        "topAssist": {
-          "id": 276,
-          "name": "Neymar",
-          "photo": "https://media.api-sports.io/football/players/276.png",
-          "assists": 3,
-          "appearances": 4
-        },
-        "mostCards": {
-          "id": 747,
-          "name": "Casemiro",
-          "photo": "https://media.api-sports.io/football/players/747.png",
-          "yellowCards": 2,
-          "redCards": 0
-        }
-      },
-      "topScorers": [],
-      "topAssists": []
-    },
-    "11": {
-      "teamId": 11,
-      "teamName": "Panama",
-      "season": 2026,
-      "leagueId": 10,
-      "leagueName": "Friendlies",
-      "keyPlayers": {
-        "topScorer": {
-          "id": 2979,
-          "name": "J. Rodríguez",
-          "photo": "https://media.api-sports.io/football/players/2979.png",
+          "id": 5995,
+          "name": "N. de la Cruz",
+          "photo": "https://media.api-sports.io/football/players/5995.png",
           "goals": 3,
-          "appearances": 9
+          "appearances": 8
         },
         "topAssist": {
-          "id": 2973,
-          "name": "A. Murillo",
-          "photo": "https://media.api-sports.io/football/players/2973.png",
+          "id": 5995,
+          "name": "N. de la Cruz",
+          "photo": "https://media.api-sports.io/football/players/5995.png",
           "assists": 3,
           "appearances": 8
         },
         "mostCards": {
-          "id": 2979,
-          "name": "J. Rodríguez",
-          "photo": "https://media.api-sports.io/football/players/2979.png",
+          "id": 31,
+          "name": "J. Giménez",
+          "photo": "https://media.api-sports.io/football/players/31.png",
           "yellowCards": 2,
           "redCards": 0
         }
@@ -164,36 +132,98 @@
       "topScorers": [],
       "topAssists": []
     },
-    "20": {
-      "teamId": 20,
-      "teamName": "Australia",
+    "12": {
+      "teamId": 12,
+      "teamName": "Japan",
       "season": 2026,
       "leagueId": 10,
       "leagueName": "Friendlies",
       "keyPlayers": {
         "topScorer": {
-          "id": 2749,
-          "name": "J. Irvine",
-          "photo": "https://media.api-sports.io/football/players/2749.png",
-          "goals": 3,
-          "appearances": 14
+          "id": 2601,
+          "name": "D. Kamada",
+          "photo": "https://media.api-sports.io/football/players/2601.png",
+          "goals": 5,
+          "appearances": 12
         },
         "topAssist": {
-          "id": 2749,
-          "name": "J. Irvine",
-          "photo": "https://media.api-sports.io/football/players/2749.png",
-          "assists": 1,
-          "appearances": 14
+          "id": 33321,
+          "name": "Keito Nakamura",
+          "photo": "https://media.api-sports.io/football/players/33321.png",
+          "assists": 2,
+          "appearances": 4
         },
         "mostCards": {
-          "id": 2749,
-          "name": "J. Irvine",
-          "photo": "https://media.api-sports.io/football/players/2749.png",
+          "id": 2601,
+          "name": "D. Kamada",
+          "photo": "https://media.api-sports.io/football/players/2601.png",
           "yellowCards": 1,
           "redCards": 0
         }
       },
       "topScorers": [],
+      "topAssists": [
+        {
+          "id": 33321,
+          "name": "Keito Nakamura",
+          "photo": "https://media.api-sports.io/football/players/33321.png",
+          "assists": 2,
+          "appearances": 4
+        }
+      ]
+    },
+    "17": {
+      "teamId": 17,
+      "teamName": "South Korea",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 186,
+          "name": "Son Heung-Min",
+          "photo": "https://media.api-sports.io/football/players/186.png",
+          "goals": 3,
+          "appearances": 5
+        },
+        "topAssist": {
+          "id": 927,
+          "name": "Lee Kang-In",
+          "photo": "https://media.api-sports.io/football/players/927.png",
+          "assists": 5,
+          "appearances": 15
+        },
+        "mostCards": {
+          "id": 512,
+          "name": "Jeong Woo-Yeong",
+          "photo": "https://media.api-sports.io/football/players/512.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 186,
+          "name": "Son Heung-Min",
+          "photo": "https://media.api-sports.io/football/players/186.png",
+          "goals": 3,
+          "appearances": 5
+        },
+        {
+          "id": 34431,
+          "name": "Lee Dong-Gyeong",
+          "photo": "https://media.api-sports.io/football/players/34431.png",
+          "goals": 2,
+          "appearances": 3
+        },
+        {
+          "id": 34211,
+          "name": "Cho Gue-Sung",
+          "photo": "https://media.api-sports.io/football/players/34211.png",
+          "goals": 2,
+          "appearances": 3
+        }
+      ],
       "topAssists": []
     },
     "24": {
@@ -228,172 +258,67 @@
       "topScorers": [],
       "topAssists": []
     },
-    "409": {
-      "teamId": 409,
-      "teamName": "Dordrecht",
-      "season": 2026,
-      "leagueId": 89,
-      "leagueName": "Eerste Divisie",
-      "keyPlayers": {
-        "topScorer": {
-          "id": 60802,
-          "name": "M. Vetkal",
-          "photo": "https://media.api-sports.io/football/players/60802.png",
-          "goals": 3,
-          "appearances": 7
-        },
-        "topAssist": {
-          "id": 340495,
-          "name": "N. Rossi",
-          "photo": "https://media.api-sports.io/football/players/340495.png",
-          "assists": 2,
-          "appearances": 6
-        },
-        "mostCards": {
-          "id": 584886,
-          "name": "A. Ouarghi",
-          "photo": "https://media.api-sports.io/football/players/584886.png",
-          "yellowCards": 4,
-          "redCards": 0
-        }
-      },
-      "topScorers": [],
-      "topAssists": []
-    },
-    "419": {
-      "teamId": 419,
-      "teamName": "Almere City FC",
-      "season": 2026,
-      "leagueId": 89,
-      "leagueName": "Eerste Divisie",
-      "keyPlayers": {
-        "topScorer": {
-          "id": 37377,
-          "name": "F. Druijf",
-          "photo": "https://media.api-sports.io/football/players/37377.png",
-          "goals": 6,
-          "appearances": 6
-        },
-        "topAssist": {
-          "id": 37377,
-          "name": "F. Druijf",
-          "photo": "https://media.api-sports.io/football/players/37377.png",
-          "assists": 3,
-          "appearances": 6
-        },
-        "mostCards": {
-          "id": 1412,
-          "name": "J. Lawrence",
-          "photo": "https://media.api-sports.io/football/players/1412.png",
-          "yellowCards": 1,
-          "redCards": 0
-        }
-      },
-      "topScorers": [
-        {
-          "id": 37377,
-          "name": "F. Druijf",
-          "photo": "https://media.api-sports.io/football/players/37377.png",
-          "goals": 6,
-          "appearances": 6
-        }
-      ],
-      "topAssists": [
-        {
-          "id": 37377,
-          "name": "F. Druijf",
-          "photo": "https://media.api-sports.io/football/players/37377.png",
-          "assists": 3,
-          "appearances": 6
-        },
-        {
-          "id": 444792,
-          "name": "E. Poku",
-          "photo": "https://media.api-sports.io/football/players/444792.png",
-          "assists": 2,
-          "appearances": 7
-        }
-      ]
-    },
-    "547": {
-      "teamId": 547,
-      "teamName": "Girona",
+    "537": {
+      "teamId": 537,
+      "teamName": "Leganes",
       "season": 2026,
       "leagueId": 141,
       "leagueName": "Segunda División",
       "keyPlayers": {
         "topScorer": {
-          "id": 281795,
-          "name": "Y. Asprilla",
-          "photo": "https://media.api-sports.io/football/players/281795.png",
-          "goals": 4,
+          "id": 310196,
+          "name": "Ismaël Gharbi",
+          "photo": "https://media.api-sports.io/football/players/310196.png",
+          "goals": 2,
           "appearances": 6
         },
         "topAssist": {
-          "id": 47547,
-          "name": "Álex Moreno",
-          "photo": "https://media.api-sports.io/football/players/47547.png",
-          "assists": 2,
-          "appearances": 6
-        },
-        "mostCards": {
-          "id": 155,
-          "name": "Abel Ruiz",
-          "photo": "https://media.api-sports.io/football/players/155.png",
-          "yellowCards": 1,
-          "redCards": 1
-        }
-      },
-      "topScorers": [
-        {
-          "id": 281795,
-          "name": "Y. Asprilla",
-          "photo": "https://media.api-sports.io/football/players/281795.png",
-          "goals": 4,
-          "appearances": 6
-        }
-      ],
-      "topAssists": [
-        {
-          "id": 47547,
-          "name": "Álex Moreno",
-          "photo": "https://media.api-sports.io/football/players/47547.png",
-          "assists": 2,
-          "appearances": 6
-        }
-      ]
-    },
-    "722": {
-      "teamId": 722,
-      "teamName": "Albacete",
-      "season": 2026,
-      "leagueId": 141,
-      "leagueName": "Segunda División",
-      "keyPlayers": {
-        "topScorer": {
-          "id": 47145,
-          "name": "Higinio Marín",
-          "photo": "https://media.api-sports.io/football/players/47145.png",
-          "goals": 1,
-          "appearances": 3
-        },
-        "topAssist": {
-          "id": 118129,
-          "name": "Mario Soberón",
-          "photo": "https://media.api-sports.io/football/players/118129.png",
+          "id": 310196,
+          "name": "Ismaël Gharbi",
+          "photo": "https://media.api-sports.io/football/players/310196.png",
           "assists": 1,
           "appearances": 6
         },
         "mostCards": {
-          "id": 308310,
-          "name": "Alex Rubio",
-          "photo": "https://media.api-sports.io/football/players/308310.png",
-          "yellowCards": 2,
+          "id": 336706,
+          "name": "Marvel",
+          "photo": "https://media.api-sports.io/football/players/336706.png",
+          "yellowCards": 3,
           "redCards": 0
         }
       },
-      "topScorers": [],
-      "topAssists": []
+      "topScorers": [
+        {
+          "id": 310196,
+          "name": "Ismaël Gharbi",
+          "photo": "https://media.api-sports.io/football/players/310196.png",
+          "goals": 2,
+          "appearances": 6
+        },
+        {
+          "id": 327622,
+          "name": "Naim García",
+          "photo": "https://media.api-sports.io/football/players/327622.png",
+          "goals": 2,
+          "appearances": 6
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 310196,
+          "name": "Ismaël Gharbi",
+          "photo": "https://media.api-sports.io/football/players/310196.png",
+          "assists": 1,
+          "appearances": 6
+        },
+        {
+          "id": 327622,
+          "name": "Naim García",
+          "photo": "https://media.api-sports.io/football/players/327622.png",
+          "assists": 1,
+          "appearances": 6
+        }
+      ]
     },
     "768": {
       "teamId": 768,
@@ -434,7 +359,13 @@
       "leagueId": 5,
       "leagueName": "UEFA Nations League",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 419517,
+          "name": "R.Tóth",
+          "photo": "https://media.api-sports.io/football/players/419517.png",
+          "goals": 1,
+          "appearances": 1
+        },
         "topAssist": {
           "id": 342448,
           "name": "T. Szucs",
@@ -725,19 +656,25 @@
       "topScorers": [],
       "topAssists": []
     },
-    "1537": {
-      "teamId": 1537,
-      "teamName": "India",
+    "1536": {
+      "teamId": 1536,
+      "teamName": "Tajikistan",
       "season": 2026,
       "leagueId": 10,
       "leagueName": "Friendlies",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 216989,
+          "name": "A. Kamolov",
+          "photo": "https://media.api-sports.io/football/players/216989.png",
+          "goals": 2,
+          "appearances": 6
+        },
         "topAssist": null,
         "mostCards": {
-          "id": 29167,
-          "name": "V. Pratap Singh",
-          "photo": "https://media.api-sports.io/football/players/29167.png",
+          "id": 122508,
+          "name": "A. Juraboev",
+          "photo": "https://media.api-sports.io/football/players/122508.png",
           "yellowCards": 2,
           "redCards": 0
         }
@@ -745,56 +682,289 @@
       "topScorers": [],
       "topAssists": []
     },
-    "8194": {
-      "teamId": 8194,
-      "teamName": "France U21",
-      "season": 2026,
-      "leagueId": 10,
-      "leagueName": "Friendlies",
-      "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
-      },
-      "topScorers": [],
-      "topAssists": []
-    },
-    "10332": {
-      "teamId": 10332,
-      "teamName": "England U19",
+    "1539": {
+      "teamId": 1539,
+      "teamName": "Turkmenistan",
       "season": 2026,
       "leagueId": 10,
       "leagueName": "Friendlies",
       "keyPlayers": {
         "topScorer": {
-          "id": 417653,
-          "name": "J. Derry",
-          "photo": "https://media.api-sports.io/football/players/417653.png",
-          "goals": 5,
-          "appearances": 6
+          "id": 66177,
+          "name": "R. Mingazow",
+          "photo": "https://media.api-sports.io/football/players/66177.png",
+          "goals": 2,
+          "appearances": 2
         },
-        "topAssist": {
-          "id": 417653,
-          "name": "J. Derry",
-          "photo": "https://media.api-sports.io/football/players/417653.png",
-          "assists": 1,
-          "appearances": 6
-        },
-        "mostCards": null
+        "topAssist": null,
+        "mostCards": {
+          "id": 164167,
+          "name": "A. Bashimov",
+          "photo": "https://media.api-sports.io/football/players/164167.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
     },
-    "10350": {
-      "teamId": 10350,
-      "teamName": "Switzerland U19",
+    "1551": {
+      "teamId": 1551,
+      "teamName": "Lebanon",
       "season": 2026,
       "leagueId": 10,
       "leagueName": "Friendlies",
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
+        "mostCards": {
+          "id": 112041,
+          "name": "Jihad Ayoub",
+          "photo": "https://media.api-sports.io/football/players/112041.png",
+          "yellowCards": 3,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1554": {
+      "teamId": 1554,
+      "teamName": "Kyrgyzstan",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 164293,
+          "name": "Joel Kojo",
+          "photo": "https://media.api-sports.io/football/players/164293.png",
+          "goals": 6,
+          "appearances": 14
+        },
+        "topAssist": {
+          "id": 7888,
+          "name": "G. Alykulov",
+          "photo": "https://media.api-sports.io/football/players/7888.png",
+          "assists": 1,
+          "appearances": 15
+        },
+        "mostCards": {
+          "id": 140836,
+          "name": "O. Abdurakhmanov",
+          "photo": "https://media.api-sports.io/football/players/140836.png",
+          "yellowCards": 4,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "1562": {
+      "teamId": 1562,
+      "teamName": "Palestine",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 15731,
+          "name": "W. Abou Ali",
+          "photo": "https://media.api-sports.io/football/players/15731.png",
+          "goals": 4,
+          "appearances": 10
+        },
+        "topAssist": {
+          "id": 11612,
+          "name": "C. Saldaña",
+          "photo": "https://media.api-sports.io/football/players/11612.png",
+          "assists": 1,
+          "appearances": 0
+        },
+        "mostCards": {
+          "id": 11612,
+          "name": "C. Saldaña",
+          "photo": "https://media.api-sports.io/football/players/11612.png",
+          "yellowCards": 5,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2251": {
+      "teamId": 2251,
+      "teamName": "FK Spartak Zdrepceva KRV",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
         "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2379": {
+      "teamId": 2379,
+      "teamName": "Venezuela",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 2454,
+          "name": "Y. Soteldo",
+          "photo": "https://media.api-sports.io/football/players/2454.png",
+          "goals": 1,
+          "appearances": 17
+        },
+        "topAssist": {
+          "id": 2454,
+          "name": "Y. Soteldo",
+          "photo": "https://media.api-sports.io/football/players/2454.png",
+          "assists": 4,
+          "appearances": 17
+        },
+        "mostCards": {
+          "id": 2441,
+          "name": "A. González",
+          "photo": "https://media.api-sports.io/football/players/2441.png",
+          "yellowCards": 2,
+          "redCards": 1
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2645": {
+      "teamId": 2645,
+      "teamName": "Teleoptik",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2647": {
+      "teamId": 2647,
+      "teamName": "Metalac GM",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2653": {
+      "teamId": 2653,
+      "teamName": "Javor",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "4252": {
+      "teamId": 4252,
+      "teamName": "Grafičar",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "5254": {
+      "teamId": 5254,
+      "teamName": "Castellón",
+      "season": 2026,
+      "leagueId": 141,
+      "leagueName": "Segunda División",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 191151,
+          "name": "Ousmane Camara",
+          "photo": "https://media.api-sports.io/football/players/191151.png",
+          "goals": 4,
+          "appearances": 6
+        },
+        "topAssist": {
+          "id": 191151,
+          "name": "Ousmane Camara",
+          "photo": "https://media.api-sports.io/football/players/191151.png",
+          "assists": 1,
+          "appearances": 6
+        },
+        "mostCards": {
+          "id": 47279,
+          "name": "Iñigo Córdoba",
+          "photo": "https://media.api-sports.io/football/players/47279.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 191151,
+          "name": "Ousmane Camara",
+          "photo": "https://media.api-sports.io/football/players/191151.png",
+          "goals": 4,
+          "appearances": 6
+        },
+        {
+          "id": 333318,
+          "name": "Pablo Santiago",
+          "photo": "https://media.api-sports.io/football/players/333318.png",
+          "goals": 2,
+          "appearances": 5
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 191151,
+          "name": "Ousmane Camara",
+          "photo": "https://media.api-sports.io/football/players/191151.png",
+          "assists": 1,
+          "appearances": 6
+        }
+      ]
+    },
+    "10347": {
+      "teamId": 10347,
+      "teamName": "Slovakia U19",
+      "season": 2026,
+      "leagueId": 10,
+      "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": {
+          "id": 471143,
+          "name": "D. Balog",
+          "photo": "https://media.api-sports.io/football/players/471143.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
@@ -813,9 +983,51 @@
       "topScorers": [],
       "topAssists": []
     },
-    "10377": {
-      "teamId": 10377,
-      "teamName": "Republic of Ireland U19",
+    "12312": {
+      "teamId": 12312,
+      "teamName": "Dubočica",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "12319": {
+      "teamId": 12319,
+      "teamName": "Jedinstvo Ub",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "12323": {
+      "teamId": 12323,
+      "teamName": "Loznica",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "17949": {
+      "teamId": 17949,
+      "teamName": "England U17",
       "season": 2026,
       "leagueId": 10,
       "leagueName": "Friendlies",
@@ -827,9 +1039,9 @@
       "topScorers": [],
       "topAssists": []
     },
-    "12507": {
-      "teamId": 12507,
-      "teamName": "France U17",
+    "18914": {
+      "teamId": 18914,
+      "teamName": "Israel U17",
       "season": 2026,
       "leagueId": 10,
       "leagueName": "Friendlies",
@@ -841,82 +1053,12 @@
       "topScorers": [],
       "topAssists": []
     },
-    "17947": {
-      "teamId": 17947,
-      "teamName": "Czechia U17",
+    "19839": {
+      "teamId": 19839,
+      "teamName": "Naftagas",
       "season": 2026,
-      "leagueId": 10,
-      "leagueName": "Friendlies",
-      "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
-      },
-      "topScorers": [],
-      "topAssists": []
-    },
-    "17952": {
-      "teamId": 17952,
-      "teamName": "Finland U17",
-      "season": 2026,
-      "leagueId": 10,
-      "leagueName": "Friendlies",
-      "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
-      },
-      "topScorers": [],
-      "topAssists": []
-    },
-    "17970": {
-      "teamId": 17970,
-      "teamName": "Poland U17",
-      "season": 2026,
-      "leagueId": 10,
-      "leagueName": "Friendlies",
-      "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
-      },
-      "topScorers": [],
-      "topAssists": []
-    },
-    "21460": {
-      "teamId": 21460,
-      "teamName": "Austria U18",
-      "season": 2026,
-      "leagueId": 10,
-      "leagueName": "Friendlies",
-      "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
-      },
-      "topScorers": [],
-      "topAssists": []
-    },
-    "22343": {
-      "teamId": 22343,
-      "teamName": "Ukraine U18",
-      "season": 2026,
-      "leagueId": 10,
-      "leagueName": "Friendlies",
-      "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
-      },
-      "topScorers": [],
-      "topAssists": []
-    },
-    "22431": {
-      "teamId": 22431,
-      "teamName": "Japan U18",
-      "season": 2026,
-      "leagueId": 10,
-      "leagueName": "Friendlies",
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
@@ -945,6 +1087,20 @@
       "season": 2026,
       "leagueId": 10,
       "leagueName": "Friendlies",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "26409": {
+      "teamId": 26409,
+      "teamName": "OFK Bor 1919",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
