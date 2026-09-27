@@ -301,6 +301,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1628996,
+          "referee": "Guido Gonzales Jr, USA",
+          "timezone": "UTC",
+          "date": "2026-09-27T01:00:00+00:00",
+          "timestamp": 1790470800,
+          "periods": {
+            "first": 1790470800,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "M&T Bank Stadium",
+            "city": "Baltimore"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 1
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 16,
+            "name": "Mexico",
+            "logo": "https://media.api-sports.io/football/teams/16.png",
+            "winner": false
+          },
+          "away": {
+            "id": 8,
+            "name": "Colombia",
+            "logo": "https://media.api-sports.io/football/teams/8.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1576805,
           "referee": "Iván Barton, El Salvador",
           "timezone": "UTC",
@@ -918,76 +988,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1485025,
-          "referee": "Tori Penso, USA",
-          "timezone": "UTC",
-          "date": "2025-11-19T01:30:00+00:00",
-          "timestamp": 1763515800,
-          "periods": {
-            "first": 1763515800,
-            "second": 1763519400
-          },
-          "venue": {
-            "id": null,
-            "name": "Citi Field",
-            "city": "Flushing"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Friendlies 1",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 8,
-            "name": "Colombia",
-            "logo": "https://media.api-sports.io/football/teams/8.png",
-            "winner": true
-          },
-          "away": {
-            "id": 20,
-            "name": "Australia",
-            "logo": "https://media.api-sports.io/football/teams/20.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -2313,6 +2313,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1628996,
+          "referee": "Guido Gonzales Jr, USA",
+          "timezone": "UTC",
+          "date": "2026-09-27T01:00:00+00:00",
+          "timestamp": 1790470800,
+          "periods": {
+            "first": 1790470800,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "M&T Bank Stadium",
+            "city": "Baltimore"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 1
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 16,
+            "name": "Mexico",
+            "logo": "https://media.api-sports.io/football/teams/16.png",
+            "winner": false
+          },
+          "away": {
+            "id": 8,
+            "name": "Colombia",
+            "logo": "https://media.api-sports.io/football/teams/8.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1570714,
           "referee": "A. Faghani",
           "timezone": "UTC",
@@ -2930,76 +3000,6 @@
           "fulltime": {
             "home": 1,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1514464,
-          "referee": "Walter Lopez, Guatemala",
-          "timezone": "UTC",
-          "date": "2026-03-29T01:00:00+00:00",
-          "timestamp": 1774746000,
-          "periods": {
-            "first": 1774746000,
-            "second": 1774749600
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Azteca",
-            "city": "Mexico City"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Friendly International",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 16,
-            "name": "Mexico",
-            "logo": "https://media.api-sports.io/football/teams/16.png",
-            "winner": null
-          },
-          "away": {
-            "id": 27,
-            "name": "Portugal",
-            "logo": "https://media.api-sports.io/football/teams/27.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -34446,6 +34446,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490502,
+          "referee": "Bensalah, Nabil",
+          "timezone": "UTC",
+          "date": "2026-09-27T00:30:00+00:00",
+          "timestamp": 1790469000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 11534,
+            "name": "Lumen Field",
+            "city": "Seattle"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 52,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1595,
+            "name": "Seattle Sounders",
+            "logo": "https://media.api-sports.io/football/teams/1595.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1612,
+            "name": "Minnesota United FC",
+            "logo": "https://media.api-sports.io/football/teams/1612.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490209,
           "referee": "Joseph Dickerson",
           "timezone": "UTC",
@@ -35063,76 +35133,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1530133,
-          "referee": "Luis Santander, Mexico",
-          "timezone": "UTC",
-          "date": "2026-08-09T19:30:00+00:00",
-          "timestamp": 1786303800,
-          "periods": {
-            "first": 1786303800,
-            "second": 1786307400
-          },
-          "venue": {
-            "id": null,
-            "name": "Lumen Field",
-            "city": "Seattle"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 772,
-          "name": "Leagues Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/772.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 1595,
-            "name": "Seattle Sounders",
-            "logo": "https://media.api-sports.io/football/teams/1595.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2290,
-            "name": "Club Queretaro",
-            "logo": "https://media.api-sports.io/football/teams/2290.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -36498,6 +36498,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490501,
+          "referee": "Serhiy Boiko",
+          "timezone": "UTC",
+          "date": "2026-09-27T00:30:00+00:00",
+          "timestamp": 1790469000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1612,
+            "name": "Toyota Stadium(Texas)",
+            "city": "Frisco"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 54,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1597,
+            "name": "FC Dallas",
+            "logo": "https://media.api-sports.io/football/teams/1597.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1616,
+            "name": "Los Angeles FC",
+            "logo": "https://media.api-sports.io/football/teams/1616.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490489,
           "referee": "A. Chapman",
           "timezone": "UTC",
@@ -37125,76 +37195,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1530129,
-          "referee": "J. Ugalde",
-          "timezone": "UTC",
-          "date": "2026-08-09T01:00:00+00:00",
-          "timestamp": 1786237200,
-          "periods": {
-            "first": 1786237200,
-            "second": 1786240800
-          },
-          "venue": {
-            "id": null,
-            "name": "PayPal Park",
-            "city": "San Jose"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 772,
-          "name": "Leagues Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/772.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2278,
-            "name": "Guadalajara Chivas",
-            "logo": "https://media.api-sports.io/football/teams/2278.png",
-            "winner": false
-          },
-          "away": {
-            "id": 1597,
-            "name": "FC Dallas",
-            "logo": "https://media.api-sports.io/football/teams/1597.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -37526,6 +37526,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490505,
+          "referee": "Tim Ford",
+          "timezone": "UTC",
+          "date": "2026-09-27T00:30:00+00:00",
+          "timestamp": 1790469000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19418,
+            "name": "BBVA Compass Stadium",
+            "city": "Houston"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 50,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1600,
+            "name": "Houston Dynamo",
+            "logo": "https://media.api-sports.io/football/teams/1600.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1611,
+            "name": "Sporting Kansas City",
+            "logo": "https://media.api-sports.io/football/teams/1611.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490487,
@@ -38155,76 +38225,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1490371,
-          "referee": "S. Boiko",
-          "timezone": "UTC",
-          "date": "2026-08-02T00:30:00+00:00",
-          "timestamp": 1785630600,
-          "periods": {
-            "first": 1785630600,
-            "second": 1785634200
-          },
-          "venue": {
-            "id": 0,
-            "name": "Children's Mercy Park",
-            "city": "Kansas City"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 18",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1611,
-            "name": "Sporting Kansas City",
-            "logo": "https://media.api-sports.io/football/teams/1611.png",
-            "winner": false
-          },
-          "away": {
-            "id": 1600,
-            "name": "Houston Dynamo",
-            "logo": "https://media.api-sports.io/football/teams/1600.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -38552,6 +38552,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490503,
+          "referee": "Ramy Touchan",
+          "timezone": "UTC",
+          "date": "2026-09-27T00:30:00+00:00",
+          "timestamp": 1790469000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19357,
+            "name": "Geodis Park",
+            "city": "Nashville"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 52,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 9569,
+            "name": "Nashville SC",
+            "logo": "https://media.api-sports.io/football/teams/9569.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1601,
+            "name": "Toronto FC",
+            "logo": "https://media.api-sports.io/football/teams/1601.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490490,
@@ -39170,76 +39240,6 @@
           },
           "fulltime": {
             "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490353,
-          "referee": "S. Boiko",
-          "timezone": "UTC",
-          "date": "2026-07-25T23:30:00+00:00",
-          "timestamp": 1785022200,
-          "periods": {
-            "first": 1785022200,
-            "second": 1785025800
-          },
-          "venue": {
-            "id": null,
-            "name": "Audi Field",
-            "city": "Washington"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 13
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 17",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1615,
-            "name": "DC United",
-            "logo": "https://media.api-sports.io/football/teams/1615.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1601,
-            "name": "Toronto FC",
-            "logo": "https://media.api-sports.io/football/teams/1601.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
             "away": 1
           },
           "extratime": {
@@ -41596,6 +41596,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490506,
+          "referee": "Ricardo Fierro",
+          "timezone": "UTC",
+          "date": "2026-09-27T01:30:00+00:00",
+          "timestamp": 1790472600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19223,
+            "name": "Rio Tinto Stadium",
+            "city": "Sandy"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 13,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1606,
+            "name": "Real Salt Lake",
+            "logo": "https://media.api-sports.io/football/teams/1606.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1609,
+            "name": "New England Revolution",
+            "logo": "https://media.api-sports.io/football/teams/1609.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490209,
           "referee": "Joseph Dickerson",
           "timezone": "UTC",
@@ -42223,76 +42293,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1490384,
-          "referee": "R. Vazquez",
-          "timezone": "UTC",
-          "date": "2026-08-16T01:30:00+00:00",
-          "timestamp": 1786843800,
-          "periods": {
-            "first": 1786843800,
-            "second": 1786847400
-          },
-          "venue": {
-            "id": null,
-            "name": "America First Field",
-            "city": "Sandy"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 19",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1606,
-            "name": "Real Salt Lake",
-            "logo": "https://media.api-sports.io/football/teams/1606.png",
-            "winner": null
-          },
-          "away": {
-            "id": 1612,
-            "name": "Minnesota United FC",
-            "logo": "https://media.api-sports.io/football/teams/1612.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -42604,6 +42604,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490506,
+          "referee": "Ricardo Fierro",
+          "timezone": "UTC",
+          "date": "2026-09-27T01:30:00+00:00",
+          "timestamp": 1790472600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19223,
+            "name": "Rio Tinto Stadium",
+            "city": "Sandy"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 13,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1606,
+            "name": "Real Salt Lake",
+            "logo": "https://media.api-sports.io/football/teams/1606.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1609,
+            "name": "New England Revolution",
+            "logo": "https://media.api-sports.io/football/teams/1609.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490484,
@@ -43222,76 +43292,6 @@
           },
           "fulltime": {
             "home": 0,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490368,
-          "referee": "J. Marrufo",
-          "timezone": "UTC",
-          "date": "2026-08-01T23:30:00+00:00",
-          "timestamp": 1785627000,
-          "periods": {
-            "first": 1785627000,
-            "second": 1785630600
-          },
-          "venue": {
-            "id": null,
-            "name": "Saputo Stadium",
-            "city": "Montréal"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 18",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1614,
-            "name": "CF Montreal",
-            "logo": "https://media.api-sports.io/football/teams/1614.png",
-            "winner": null
-          },
-          "away": {
-            "id": 1609,
-            "name": "New England Revolution",
-            "logo": "https://media.api-sports.io/football/teams/1609.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 2,
             "away": 2
           },
           "extratime": {
@@ -44650,6 +44650,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490505,
+          "referee": "Tim Ford",
+          "timezone": "UTC",
+          "date": "2026-09-27T00:30:00+00:00",
+          "timestamp": 1790469000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19418,
+            "name": "BBVA Compass Stadium",
+            "city": "Houston"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 50,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1600,
+            "name": "Houston Dynamo",
+            "logo": "https://media.api-sports.io/football/teams/1600.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1611,
+            "name": "Sporting Kansas City",
+            "logo": "https://media.api-sports.io/football/teams/1611.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490488,
           "referee": "E. Koroleva",
           "timezone": "UTC",
@@ -45277,76 +45347,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1490339,
-          "referee": "M. Corrigan",
-          "timezone": "UTC",
-          "date": "2026-07-23T00:30:00+00:00",
-          "timestamp": 1784766600,
-          "periods": {
-            "first": 1784766600,
-            "second": 1784770200
-          },
-          "venue": {
-            "id": 0,
-            "name": "Children's Mercy Park",
-            "city": "Kansas City"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1611,
-            "name": "Sporting Kansas City",
-            "logo": "https://media.api-sports.io/football/teams/1611.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1612,
-            "name": "Minnesota United FC",
-            "logo": "https://media.api-sports.io/football/teams/1612.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -45674,6 +45674,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490502,
+          "referee": "Bensalah, Nabil",
+          "timezone": "UTC",
+          "date": "2026-09-27T00:30:00+00:00",
+          "timestamp": 1790469000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 11534,
+            "name": "Lumen Field",
+            "city": "Seattle"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 52,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1595,
+            "name": "Seattle Sounders",
+            "logo": "https://media.api-sports.io/football/teams/1595.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1612,
+            "name": "Minnesota United FC",
+            "logo": "https://media.api-sports.io/football/teams/1612.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490486,
@@ -46301,76 +46371,6 @@
           "penalty": {
             "home": null,
             "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1530127,
-          "referee": "J. Carlos Rivero",
-          "timezone": "UTC",
-          "date": "2026-08-08T01:00:00+00:00",
-          "timestamp": 1786150800,
-          "periods": {
-            "first": 1786150800,
-            "second": 1786154400
-          },
-          "venue": {
-            "id": null,
-            "name": "Allianz Field",
-            "city": "Sao Paulo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "PEN",
-            "elapsed": 120,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 772,
-          "name": "Leagues Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/772.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2279,
-            "name": "Tigres UANL",
-            "logo": "https://media.api-sports.io/football/teams/2279.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1612,
-            "name": "Minnesota United FC",
-            "logo": "https://media.api-sports.io/football/teams/1612.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": 4,
-            "away": 2
           }
         }
       }
@@ -48722,6 +48722,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490501,
+          "referee": "Serhiy Boiko",
+          "timezone": "UTC",
+          "date": "2026-09-27T00:30:00+00:00",
+          "timestamp": 1790469000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1612,
+            "name": "Toyota Stadium(Texas)",
+            "city": "Frisco"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 54,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1597,
+            "name": "FC Dallas",
+            "logo": "https://media.api-sports.io/football/teams/1597.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1616,
+            "name": "Los Angeles FC",
+            "logo": "https://media.api-sports.io/football/teams/1616.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490482,
           "referee": "D. Fischer",
           "timezone": "UTC",
@@ -49347,76 +49417,6 @@
           "penalty": {
             "home": 5,
             "away": 3
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1530134,
-          "referee": "V. Caceres",
-          "timezone": "UTC",
-          "date": "2026-08-09T03:10:00+00:00",
-          "timestamp": 1786245000,
-          "periods": {
-            "first": 1786245000,
-            "second": 1786248600
-          },
-          "venue": {
-            "id": null,
-            "name": "BMO Stadium",
-            "city": "Los Angeles"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 772,
-          "name": "Leagues Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/772.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2281,
-            "name": "Toluca",
-            "logo": "https://media.api-sports.io/football/teams/2281.png",
-            "winner": false
-          },
-          "away": {
-            "id": 1616,
-            "name": "Los Angeles FC",
-            "logo": "https://media.api-sports.io/football/teams/1616.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
           }
         }
       }
@@ -54682,12 +54682,7 @@
         },
         "total": 0
       },
-      "lineups": [
-        {
-          "formation": "4-2-3-1",
-          "played": 1
-        }
-      ],
+      "lineups": [],
       "cards": {
         "yellow": {
           "0-15": {
@@ -62456,17 +62451,17 @@
         "name": "France U21",
         "logo": "https://media.api-sports.io/football/teams/8194.png"
       },
-      "form": "D",
+      "form": "DW",
       "fixtures": {
         "played": {
+          "home": 2,
+          "away": 0,
+          "total": 2
+        },
+        "wins": {
           "home": 1,
           "away": 0,
           "total": 1
-        },
-        "wins": {
-          "home": 0,
-          "away": 0,
-          "total": 0
         },
         "draws": {
           "home": 1,
@@ -62482,9 +62477,9 @@
       "goals": {
         "for": {
           "total": {
-            "home": 1,
+            "home": 2,
             "away": 0,
-            "total": 1
+            "total": 2
           },
           "average": {
             "home": "1.0",
@@ -62527,24 +62522,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 1,
+              "over": 2,
               "under": 0
             },
             "1.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "2.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "3.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "4.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             }
           }
         },
@@ -62555,9 +62550,9 @@
             "total": 1
           },
           "average": {
-            "home": "1.0",
+            "home": "0.5",
             "away": "0.0",
-            "total": "1.0"
+            "total": "0.5"
           },
           "minute": {
             "0-15": {
@@ -62596,23 +62591,23 @@
           "under_over": {
             "0.5": {
               "over": 1,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "2.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "3.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             },
             "4.5": {
               "over": 0,
-              "under": 1
+              "under": 2
             }
           }
         }
@@ -62624,7 +62619,7 @@
           "loses": 0
         },
         "wins": {
-          "home": null,
+          "home": "1-0",
           "away": null
         },
         "loses": {
@@ -62643,9 +62638,9 @@
         }
       },
       "clean_sheet": {
-        "home": 0,
+        "home": 1,
         "away": 0,
-        "total": 0
+        "total": 1
       },
       "failed_to_score": {
         "home": 0,
@@ -63498,12 +63493,12 @@
               "percentage": "20.63%"
             },
             "31-45": {
-              "total": 14,
-              "percentage": "22.22%"
+              "total": 13,
+              "percentage": "20.63%"
             },
             "46-60": {
-              "total": 8,
-              "percentage": "12.70%"
+              "total": 9,
+              "percentage": "14.29%"
             },
             "61-75": {
               "total": 7,
@@ -63698,31 +63693,31 @@
         "yellow": {
           "0-15": {
             "total": 4,
-            "percentage": "5.80%"
+            "percentage": "5.88%"
           },
           "16-30": {
             "total": 5,
-            "percentage": "7.25%"
+            "percentage": "7.35%"
           },
           "31-45": {
             "total": 9,
-            "percentage": "13.04%"
+            "percentage": "13.24%"
           },
           "46-60": {
             "total": 21,
-            "percentage": "30.43%"
+            "percentage": "30.88%"
           },
           "61-75": {
-            "total": 9,
-            "percentage": "13.04%"
+            "total": 8,
+            "percentage": "11.76%"
           },
           "76-90": {
             "total": 13,
-            "percentage": "18.84%"
+            "percentage": "19.12%"
           },
           "91-105": {
             "total": 8,
-            "percentage": "11.59%"
+            "percentage": "11.76%"
           },
           "106-120": {
             "total": null,
@@ -64778,6 +64773,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490503,
+          "referee": "Ramy Touchan",
+          "timezone": "UTC",
+          "date": "2026-09-27T00:30:00+00:00",
+          "timestamp": 1790469000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19357,
+            "name": "Geodis Park",
+            "city": "Nashville"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 52,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 9569,
+            "name": "Nashville SC",
+            "logo": "https://media.api-sports.io/football/teams/9569.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1601,
+            "name": "Toronto FC",
+            "logo": "https://media.api-sports.io/football/teams/1601.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490493,
           "referee": "L. Hernandez",
           "timezone": "UTC",
@@ -65394,76 +65459,6 @@
           },
           "fulltime": {
             "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1530139,
-          "referee": "Carly Shaw MacLaren, Canada",
-          "timezone": "UTC",
-          "date": "2026-08-10T00:00:00+00:00",
-          "timestamp": 1786320000,
-          "periods": {
-            "first": 1786320000,
-            "second": 1786323600
-          },
-          "venue": {
-            "id": null,
-            "name": "Geodis Park",
-            "city": "Nashville"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 772,
-          "name": "Leagues Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/772.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 9569,
-            "name": "Nashville SC",
-            "logo": "https://media.api-sports.io/football/teams/9569.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2314,
-            "name": "Atletico San Luis",
-            "logo": "https://media.api-sports.io/football/teams/2314.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 4,
             "away": 1
           },
           "extratime": {
@@ -67804,6 +67799,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490504,
+          "referee": "Jon Freemon",
+          "timezone": "UTC",
+          "date": "2026-09-27T00:30:00+00:00",
+          "timestamp": 1790469000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 11535,
+            "name": "Q2 Stadium",
+            "city": "Austin"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 50,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 16489,
+            "name": "Austin",
+            "logo": "https://media.api-sports.io/football/teams/16489.png",
+            "winner": null
+          },
+          "away": {
+            "id": 25484,
+            "name": "San Diego",
+            "logo": "https://media.api-sports.io/football/teams/25484.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490489,
           "referee": "A. Chapman",
           "timezone": "UTC",
@@ -68429,76 +68494,6 @@
           "penalty": {
             "home": null,
             "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1530155,
-          "referee": "Juan Calderon, Costa Rica",
-          "timezone": "UTC",
-          "date": "2026-08-14T00:30:00+00:00",
-          "timestamp": 1786667400,
-          "periods": {
-            "first": 1786667400,
-            "second": 1786671000
-          },
-          "venue": {
-            "id": null,
-            "name": "Q2 Stadium",
-            "city": "Austin"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "PEN",
-            "elapsed": 120,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 772,
-          "name": "Leagues Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/772.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2287,
-            "name": "Club America",
-            "logo": "https://media.api-sports.io/football/teams/2287.png",
-            "winner": false
-          },
-          "away": {
-            "id": 16489,
-            "name": "Austin",
-            "logo": "https://media.api-sports.io/football/teams/16489.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": 5,
-            "away": 6
           }
         }
       }
@@ -69633,12 +69628,12 @@
               "percentage": null
             },
             "46-60": {
-              "total": 2,
-              "percentage": "28.57%"
-            },
-            "61-75": {
               "total": 1,
               "percentage": "14.29%"
+            },
+            "61-75": {
+              "total": 2,
+              "percentage": "28.57%"
             },
             "76-90": {
               "total": 2,
@@ -73387,6 +73382,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490504,
+          "referee": "Jon Freemon",
+          "timezone": "UTC",
+          "date": "2026-09-27T00:30:00+00:00",
+          "timestamp": 1790469000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 11535,
+            "name": "Q2 Stadium",
+            "city": "Austin"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 50,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 16489,
+            "name": "Austin",
+            "logo": "https://media.api-sports.io/football/teams/16489.png",
+            "winner": null
+          },
+          "away": {
+            "id": 25484,
+            "name": "San Diego",
+            "logo": "https://media.api-sports.io/football/teams/25484.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490495,
           "referee": "R. Mendoza",
           "timezone": "UTC",
@@ -74004,76 +74069,6 @@
           "fulltime": {
             "home": 3,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1530141,
-          "referee": "Steven Madrigal, Costa Rica",
-          "timezone": "UTC",
-          "date": "2026-08-10T02:00:00+00:00",
-          "timestamp": 1786327200,
-          "periods": {
-            "first": 1786327200,
-            "second": 1786330800
-          },
-          "venue": {
-            "id": null,
-            "name": "Snapdragon Stadium",
-            "city": "San Diego"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 772,
-          "name": "Leagues Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/772.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 25484,
-            "name": "San Diego",
-            "logo": "https://media.api-sports.io/football/teams/25484.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2280,
-            "name": "Club Tijuana",
-            "logo": "https://media.api-sports.io/football/teams/2280.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
           },
           "extratime": {
             "home": null,

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-26T01:53:30.863Z",
+  "generatedAt": "2026-09-27T01:57:52.072Z",
   "totalTeams": 43,
   "totalLeagues": 4,
-  "teamsWithFallback": 42,
+  "teamsWithFallback": 38,
   "data": {
     "1": {
       "teamId": 1,
@@ -12,29 +12,59 @@
       "leagueName": "UEFA Nations League",
       "keyPlayers": {
         "topScorer": {
+          "id": 25458,
+          "name": "D. Lukebakio",
+          "photo": "https://media.api-sports.io/football/players/25458.png",
+          "goals": 1,
+          "appearances": 1
+        },
+        "topAssist": {
+          "id": 629,
+          "name": "K. De Bruyne",
+          "photo": "https://media.api-sports.io/football/players/629.png",
+          "assists": 1,
+          "appearances": 1
+        },
+        "mostCards": {
           "id": 907,
           "name": "R. Lukaku",
           "photo": "https://media.api-sports.io/football/players/907.png",
-          "goals": 3,
-          "appearances": 6
-        },
-        "topAssist": {
-          "id": 78,
-          "name": "H. Vanaken",
-          "photo": "https://media.api-sports.io/football/players/78.png",
-          "assists": 2,
-          "appearances": 6
-        },
-        "mostCards": {
-          "id": 69,
-          "name": "B. Mechele",
-          "photo": "https://media.api-sports.io/football/players/69.png",
           "yellowCards": 1,
           "redCards": 0
         }
       },
-      "topScorers": [],
-      "topAssists": []
+      "topScorers": [
+        {
+          "id": 25458,
+          "name": "D. Lukebakio",
+          "photo": "https://media.api-sports.io/football/players/25458.png",
+          "goals": 1,
+          "appearances": 1
+        },
+        {
+          "id": 340153,
+          "name": "M. Godts",
+          "photo": "https://media.api-sports.io/football/players/340153.png",
+          "goals": 1,
+          "appearances": 1
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 629,
+          "name": "K. De Bruyne",
+          "photo": "https://media.api-sports.io/football/players/629.png",
+          "assists": 1,
+          "appearances": 1
+        },
+        {
+          "id": 147859,
+          "name": "C. De Ketelaere",
+          "photo": "https://media.api-sports.io/football/players/147859.png",
+          "assists": 1,
+          "appearances": 1
+        }
+      ]
     },
     "2": {
       "teamId": 2,
@@ -47,26 +77,42 @@
           "id": 278,
           "name": "Kylian Mbappé",
           "photo": "https://media.api-sports.io/football/players/278.png",
-          "goals": 10,
-          "appearances": 8
+          "goals": 1,
+          "appearances": 1
         },
         "topAssist": {
           "id": 19617,
           "name": "M. Olise",
           "photo": "https://media.api-sports.io/football/players/19617.png",
-          "assists": 7,
-          "appearances": 8
+          "assists": 1,
+          "appearances": 1
         },
         "mostCards": {
-          "id": 272,
-          "name": "A. Rabiot",
-          "photo": "https://media.api-sports.io/football/players/272.png",
+          "id": 163004,
+          "name": "E. Lepaul",
+          "photo": "https://media.api-sports.io/football/players/163004.png",
           "yellowCards": 1,
           "redCards": 0
         }
       },
-      "topScorers": [],
-      "topAssists": []
+      "topScorers": [
+        {
+          "id": 278,
+          "name": "Kylian Mbappé",
+          "photo": "https://media.api-sports.io/football/players/278.png",
+          "goals": 1,
+          "appearances": 1
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 19617,
+          "name": "M. Olise",
+          "photo": "https://media.api-sports.io/football/players/19617.png",
+          "assists": 1,
+          "appearances": 1
+        }
+      ]
     },
     "5": {
       "teamId": 5,
@@ -76,11 +122,11 @@
       "leagueName": "UEFA Nations League",
       "keyPlayers": {
         "topScorer": {
-          "id": 153430,
-          "name": "A. Elanga",
-          "photo": "https://media.api-sports.io/football/players/153430.png",
-          "goals": 2,
-          "appearances": 4
+          "id": 18979,
+          "name": "V. Gyökeres",
+          "photo": "https://media.api-sports.io/football/players/18979.png",
+          "goals": 1,
+          "appearances": 1
         },
         "topAssist": {
           "id": 2864,
@@ -97,7 +143,15 @@
           "redCards": 0
         }
       },
-      "topScorers": [],
+      "topScorers": [
+        {
+          "id": 18979,
+          "name": "V. Gyökeres",
+          "photo": "https://media.api-sports.io/football/players/18979.png",
+          "goals": 1,
+          "appearances": 1
+        }
+      ],
       "topAssists": []
     },
     "7": {
@@ -215,13 +269,6 @@
           "photo": "https://media.api-sports.io/football/players/34431.png",
           "goals": 2,
           "appearances": 3
-        },
-        {
-          "id": 34211,
-          "name": "Cho Gue-Sung",
-          "photo": "https://media.api-sports.io/football/players/34211.png",
-          "goals": 2,
-          "appearances": 3
         }
       ],
       "topAssists": []
@@ -248,9 +295,9 @@
           "appearances": 2
         },
         "mostCards": {
-          "id": 3007,
-          "name": "P. Frankowski",
-          "photo": "https://media.api-sports.io/football/players/3007.png",
+          "id": 61431,
+          "name": "J. Kiwior",
+          "photo": "https://media.api-sports.io/football/players/61431.png",
           "yellowCards": 1,
           "redCards": 0
         }
@@ -273,11 +320,11 @@
           "appearances": 6
         },
         "topAssist": {
-          "id": 310196,
-          "name": "Ismaël Gharbi",
-          "photo": "https://media.api-sports.io/football/players/310196.png",
-          "assists": 1,
-          "appearances": 6
+          "id": 580260,
+          "name": "Sule",
+          "photo": "https://media.api-sports.io/football/players/580260.png",
+          "assists": 2,
+          "appearances": 4
         },
         "mostCards": {
           "id": 336706,
@@ -305,18 +352,11 @@
       ],
       "topAssists": [
         {
-          "id": 310196,
-          "name": "Ismaël Gharbi",
-          "photo": "https://media.api-sports.io/football/players/310196.png",
-          "assists": 1,
-          "appearances": 6
-        },
-        {
-          "id": 327622,
-          "name": "Naim García",
-          "photo": "https://media.api-sports.io/football/players/327622.png",
-          "assists": 1,
-          "appearances": 6
+          "id": 580260,
+          "name": "Sule",
+          "photo": "https://media.api-sports.io/football/players/580260.png",
+          "assists": 2,
+          "appearances": 4
         }
       ]
     },
@@ -327,25 +367,13 @@
       "leagueId": 5,
       "leagueName": "UEFA Nations League",
       "keyPlayers": {
-        "topScorer": {
-          "id": 345808,
-          "name": "F. Esposito",
-          "photo": "https://media.api-sports.io/football/players/345808.png",
-          "goals": 2,
-          "appearances": 2
-        },
-        "topAssist": {
-          "id": 356888,
-          "name": "N. Pisilli",
-          "photo": "https://media.api-sports.io/football/players/356888.png",
-          "assists": 1,
-          "appearances": 2
-        },
+        "topScorer": null,
+        "topAssist": null,
         "mostCards": {
-          "id": 343562,
-          "name": "L. Lipani",
-          "photo": "https://media.api-sports.io/football/players/343562.png",
-          "yellowCards": 2,
+          "id": 134926,
+          "name": "D. Maldini",
+          "photo": "https://media.api-sports.io/football/players/134926.png",
+          "yellowCards": 1,
           "redCards": 0
         }
       },
@@ -374,9 +402,9 @@
           "appearances": 4
         },
         "mostCards": {
-          "id": 342448,
-          "name": "T. Szucs",
-          "photo": "https://media.api-sports.io/football/players/342448.png",
+          "id": 28378,
+          "name": "D. Bárány",
+          "photo": "https://media.api-sports.io/football/players/28378.png",
           "yellowCards": 1,
           "redCards": 0
         }
@@ -391,13 +419,7 @@
       "leagueId": 5,
       "leagueName": "UEFA Nations League",
       "keyPlayers": {
-        "topScorer": {
-          "id": 293163,
-          "name": "J. Donley",
-          "photo": "https://media.api-sports.io/football/players/293163.png",
-          "goals": 1,
-          "appearances": 3
-        },
+        "topScorer": null,
         "topAssist": {
           "id": 284267,
           "name": "I. Price",
@@ -406,9 +428,9 @@
           "appearances": 3
         },
         "mostCards": {
-          "id": 138814,
-          "name": "E. Galbraith",
-          "photo": "https://media.api-sports.io/football/players/138814.png",
+          "id": 55904,
+          "name": "D. Ballard",
+          "photo": "https://media.api-sports.io/football/players/55904.png",
           "yellowCards": 1,
           "redCards": 0
         }
@@ -424,23 +446,45 @@
       "leagueName": "UEFA Nations League",
       "keyPlayers": {
         "topScorer": {
-          "id": 2182,
-          "name": "V. Tsygankov",
-          "photo": "https://media.api-sports.io/football/players/2182.png",
+          "id": 107303,
+          "name": "D. Sikan",
+          "photo": "https://media.api-sports.io/football/players/107303.png",
           "goals": 1,
-          "appearances": 3
+          "appearances": 1
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 161945,
+          "name": "H. Sudakov",
+          "photo": "https://media.api-sports.io/football/players/161945.png",
+          "assists": 1,
+          "appearances": 1
+        },
         "mostCards": {
-          "id": 2165,
-          "name": "V. Mykolenko",
-          "photo": "https://media.api-sports.io/football/players/2165.png",
-          "yellowCards": 2,
-          "redCards": 0
+          "id": 63635,
+          "name": "O. Nazarenko",
+          "photo": "https://media.api-sports.io/football/players/63635.png",
+          "yellowCards": 1,
+          "redCards": 1
         }
       },
-      "topScorers": [],
-      "topAssists": []
+      "topScorers": [
+        {
+          "id": 107303,
+          "name": "D. Sikan",
+          "photo": "https://media.api-sports.io/football/players/107303.png",
+          "goals": 1,
+          "appearances": 1
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 161945,
+          "name": "H. Sudakov",
+          "photo": "https://media.api-sports.io/football/players/161945.png",
+          "assists": 1,
+          "appearances": 1
+        }
+      ]
     },
     "774": {
       "teamId": 774,
@@ -458,9 +502,9 @@
         },
         "topAssist": null,
         "mostCards": {
-          "id": 18128,
-          "name": "D. Politic",
-          "photo": "https://media.api-sports.io/football/players/18128.png",
+          "id": 104481,
+          "name": "V. Screciu",
+          "photo": "https://media.api-sports.io/football/players/104481.png",
           "yellowCards": 1,
           "redCards": 0
         }
@@ -490,11 +534,11 @@
           "appearances": 3
         },
         "mostCards": {
-          "id": 454,
-          "name": "Y. Akgün",
-          "photo": "https://media.api-sports.io/football/players/454.png",
-          "yellowCards": 1,
-          "redCards": 0
+          "id": 49866,
+          "name": "U. Çakır",
+          "photo": "https://media.api-sports.io/football/players/49866.png",
+          "yellowCards": 0,
+          "redCards": 1
         }
       },
       "topScorers": [],
@@ -534,17 +578,46 @@
       "leagueName": "UEFA Nations League",
       "keyPlayers": {
         "topScorer": {
-          "id": 269533,
-          "name": "A. Serobyan",
-          "photo": "https://media.api-sports.io/football/players/269533.png",
+          "id": 427885,
+          "name": "A. Gharibyan",
+          "photo": "https://media.api-sports.io/football/players/427885.png",
           "goals": 1,
-          "appearances": 3
+          "appearances": 1
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 65374,
+          "name": "Z. Shaghoyan",
+          "photo": "https://media.api-sports.io/football/players/65374.png",
+          "assists": 1,
+          "appearances": 1
+        },
         "mostCards": null
       },
-      "topScorers": [],
-      "topAssists": []
+      "topScorers": [
+        {
+          "id": 427885,
+          "name": "A. Gharibyan",
+          "photo": "https://media.api-sports.io/football/players/427885.png",
+          "goals": 1,
+          "appearances": 1
+        },
+        {
+          "id": 379133,
+          "name": "G. Harutyunyan",
+          "photo": "https://media.api-sports.io/football/players/379133.png",
+          "goals": 1,
+          "appearances": 1
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 65374,
+          "name": "Z. Shaghoyan",
+          "photo": "https://media.api-sports.io/football/players/65374.png",
+          "assists": 1,
+          "appearances": 1
+        }
+      ]
     },
     "1104": {
       "teamId": 1104,
@@ -555,7 +628,13 @@
       "keyPlayers": {
         "topScorer": null,
         "topAssist": null,
-        "mostCards": null
+        "mostCards": {
+          "id": 483,
+          "name": "K. Kvaratskhelia",
+          "photo": "https://media.api-sports.io/football/players/483.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
@@ -568,29 +647,45 @@
       "leagueName": "UEFA Nations League",
       "keyPlayers": {
         "topScorer": {
-          "id": 15518,
-          "name": "I. Pittas",
-          "photo": "https://media.api-sports.io/football/players/15518.png",
-          "goals": 2,
-          "appearances": 2
+          "id": 37882,
+          "name": "M. Edwards",
+          "photo": "https://media.api-sports.io/football/players/37882.png",
+          "goals": 1,
+          "appearances": 1
         },
         "topAssist": {
-          "id": 15347,
-          "name": "I. Kosti",
-          "photo": "https://media.api-sports.io/football/players/15347.png",
+          "id": 169224,
+          "name": "N. Tsaroulla",
+          "photo": "https://media.api-sports.io/football/players/169224.png",
           "assists": 1,
-          "appearances": 2
+          "appearances": 1
         },
         "mostCards": {
-          "id": 370,
-          "name": "Fabiano",
-          "photo": "https://media.api-sports.io/football/players/370.png",
+          "id": 169224,
+          "name": "N. Tsaroulla",
+          "photo": "https://media.api-sports.io/football/players/169224.png",
           "yellowCards": 1,
           "redCards": 0
         }
       },
-      "topScorers": [],
-      "topAssists": []
+      "topScorers": [
+        {
+          "id": 37882,
+          "name": "M. Edwards",
+          "photo": "https://media.api-sports.io/football/players/37882.png",
+          "goals": 1,
+          "appearances": 1
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 169224,
+          "name": "N. Tsaroulla",
+          "photo": "https://media.api-sports.io/football/players/169224.png",
+          "assists": 1,
+          "appearances": 1
+        }
+      ]
     },
     "1109": {
       "teamId": 1109,
@@ -607,11 +702,11 @@
           "appearances": 4
         },
         "topAssist": {
-          "id": 30864,
-          "name": "M. Janković",
-          "photo": "https://media.api-sports.io/football/players/30864.png",
+          "id": 66817,
+          "name": "N. Krstović",
+          "photo": "https://media.api-sports.io/football/players/66817.png",
           "assists": 1,
-          "appearances": 2
+          "appearances": 1
         },
         "mostCards": {
           "id": 29998,
@@ -622,7 +717,15 @@
         }
       },
       "topScorers": [],
-      "topAssists": []
+      "topAssists": [
+        {
+          "id": 66817,
+          "name": "N. Krstović",
+          "photo": "https://media.api-sports.io/football/players/66817.png",
+          "assists": 1,
+          "appearances": 1
+        }
+      ]
     },
     "1113": {
       "teamId": 1113,
@@ -646,9 +749,9 @@
           "appearances": 2
         },
         "mostCards": {
-          "id": 1324,
-          "name": "I. Šunjić",
-          "photo": "https://media.api-sports.io/football/players/1324.png",
+          "id": 322101,
+          "name": "A. Memić",
+          "photo": "https://media.api-sports.io/football/players/322101.png",
           "yellowCards": 1,
           "redCards": 0
         }
