@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T02:00:24.744Z",
+  "generatedAt": "2026-10-01T02:03:14.410Z",
   "picks": [
     {
       "fixtureId": 1640511,
@@ -37,24 +37,6 @@
       "label": "Cook Islands 1.5 Üst",
       "prob": 0.3611,
       "side": "home"
-    },
-    {
-      "fixtureId": 1632353,
-      "leagueId": 10,
-      "season": 2026,
-      "kickoffTs": 1790835000,
-      "homeTeamId": 11,
-      "homeTeam": "Panama",
-      "awayTeamId": 4673,
-      "awayTeam": "New Zealand",
-      "expectedHome": 1.11,
-      "expectedAway": 1.11,
-      "expectedTotal": 2.22,
-      "teamGoalsHomeLambda": 1.266,
-      "teamGoalsAwayLambda": 1.266,
-      "type": "btts",
-      "label": "Karşılıklı Gol Var",
-      "prob": 0.4697
     },
     {
       "fixtureId": 1638595,
@@ -131,10 +113,28 @@
       "prob": 0.4078
     },
     {
+      "fixtureId": 1643193,
+      "leagueId": 10,
+      "season": 2026,
+      "kickoffTs": 1790861400,
+      "homeTeamId": 10329,
+      "homeTeam": "Croatia U19",
+      "awayTeamId": 10338,
+      "awayTeam": "Italy U19",
+      "expectedHome": 1.11,
+      "expectedAway": 1.11,
+      "expectedTotal": 2.22,
+      "teamGoalsHomeLambda": 1.266,
+      "teamGoalsAwayLambda": 1.266,
+      "type": "doubleChance",
+      "label": "Ev veya Deplasman (12)",
+      "prob": 0.7166
+    },
+    {
       "fixtureId": 1640073,
       "leagueId": 10,
       "season": 2026,
-      "kickoffTs": 1790856000,
+      "kickoffTs": 1790863200,
       "homeTeamId": 1549,
       "homeTeam": "Maldives",
       "awayTeamId": 1551,
@@ -203,6 +203,24 @@
       "label": "Uruguay U18 1.5 Üst",
       "prob": 0.3611,
       "side": "away"
+    },
+    {
+      "fixtureId": 1643194,
+      "leagueId": 10,
+      "season": 2026,
+      "kickoffTs": 1790863200,
+      "homeTeamId": 17954,
+      "homeTeam": "Germany U17",
+      "awayTeamId": 18914,
+      "awayTeam": "Israel U17",
+      "expectedHome": 1.11,
+      "expectedAway": 1.11,
+      "expectedTotal": 2.22,
+      "teamGoalsHomeLambda": 1.266,
+      "teamGoalsAwayLambda": 1.266,
+      "type": "btts",
+      "label": "Karşılıklı Gol Var",
+      "prob": 0.4697
     },
     {
       "fixtureId": 1528916,
