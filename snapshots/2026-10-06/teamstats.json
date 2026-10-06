@@ -6078,28 +6078,28 @@
           },
           "minute": {
             "0-15": {
-              "total": 1,
-              "percentage": "14.29%"
+              "total": 2,
+              "percentage": "25.00%"
             },
             "16-30": {
               "total": 1,
-              "percentage": "14.29%"
+              "percentage": "12.50%"
             },
             "31-45": {
               "total": 2,
-              "percentage": "28.57%"
+              "percentage": "25.00%"
             },
             "46-60": {
               "total": 1,
-              "percentage": "14.29%"
+              "percentage": "12.50%"
             },
             "61-75": {
               "total": 1,
-              "percentage": "14.29%"
+              "percentage": "12.50%"
             },
             "76-90": {
               "total": 1,
-              "percentage": "14.29%"
+              "percentage": "12.50%"
             },
             "91-105": {
               "total": null,
@@ -12388,6 +12388,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493154,
+          "referee": "Leandro Rey Hilfer",
+          "timezone": "UTC",
+          "date": "2026-10-06T00:15:00+00:00",
+          "timestamp": 1791245700,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 43,
+            "name": "Estadio Florencio Sola",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 74,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 449,
+            "name": "Banfield",
+            "logo": "https://media.api-sports.io/football/teams/449.png",
+            "winner": true
+          },
+          "away": {
+            "id": 437,
+            "name": "Rosario Central",
+            "logo": "https://media.api-sports.io/football/teams/437.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1641845,
           "referee": "Dario Herrera",
           "timezone": "UTC",
@@ -13015,76 +13085,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1493057,
-          "referee": "Pablo Echavarria, Argentina",
-          "timezone": "UTC",
-          "date": "2026-08-07T22:30:00+00:00",
-          "timestamp": 1786141800,
-          "periods": {
-            "first": 1786141800,
-            "second": 1786145400
-          },
-          "venue": {
-            "id": null,
-            "name": "Gigante de Arroyito",
-            "city": "Rosario"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 437,
-            "name": "Rosario Central",
-            "logo": "https://media.api-sports.io/football/teams/437.png",
-            "winner": true
-          },
-          "away": {
-            "id": 463,
-            "name": "Aldosivi",
-            "logo": "https://media.api-sports.io/football/teams/463.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -13416,6 +13416,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1493154,
+          "referee": "Leandro Rey Hilfer",
+          "timezone": "UTC",
+          "date": "2026-10-06T00:15:00+00:00",
+          "timestamp": 1791245700,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 43,
+            "name": "Estadio Florencio Sola",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 74,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 449,
+            "name": "Banfield",
+            "logo": "https://media.api-sports.io/football/teams/449.png",
+            "winner": true
+          },
+          "away": {
+            "id": 437,
+            "name": "Rosario Central",
+            "logo": "https://media.api-sports.io/football/teams/437.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1493141,
@@ -14035,76 +14105,6 @@
           "fulltime": {
             "home": 0,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1493037,
-          "referee": "Jorge Balino, Argentina",
-          "timezone": "UTC",
-          "date": "2026-08-01T18:30:00+00:00",
-          "timestamp": 1785609000,
-          "periods": {
-            "first": 1785609000,
-            "second": 1785612600
-          },
-          "venue": {
-            "id": null,
-            "name": "Antonio Candini",
-            "city": "Rio Cuarto"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2424,
-            "name": "Estudiantes de Rio Cuarto",
-            "logo": "https://media.api-sports.io/football/teams/2424.png",
-            "winner": null
-          },
-          "away": {
-            "id": 449,
-            "name": "Banfield",
-            "logo": "https://media.api-sports.io/football/teams/449.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -17350,7 +17350,12 @@
         },
         "total": 0
       },
-      "lineups": [],
+      "lineups": [
+        {
+          "formation": "5-4-1",
+          "played": 2
+        }
+      ],
       "cards": {
         "yellow": {
           "0-15": {
@@ -18253,12 +18258,12 @@
               "percentage": "20.00%"
             },
             "31-45": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "20.00%"
             },
             "46-60": {
-              "total": 2,
-              "percentage": "40.00%"
+              "total": 1,
+              "percentage": "20.00%"
             },
             "61-75": {
               "total": null,
@@ -18348,10 +18353,6 @@
         "total": 0
       },
       "lineups": [
-        {
-          "formation": "4-2-3-1",
-          "played": 2
-        },
         {
           "formation": "4-3-3",
           "played": 1
@@ -33347,12 +33348,12 @@
               "percentage": "25.00%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "16.67%"
+              "total": 3,
+              "percentage": "25.00%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "8.33%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
