@@ -11575,6 +11575,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490326,
+          "referee": "Serhiy Boiko",
+          "timezone": "UTC",
+          "date": "2026-10-07T00:30:00+00:00",
+          "timestamp": 1791333000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1609,
+            "name": "Soldier Field",
+            "city": "Chicago"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 57,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1607,
+            "name": "Chicago Fire",
+            "logo": "https://media.api-sports.io/football/teams/1607.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1603,
+            "name": "Vancouver Whitecaps",
+            "logo": "https://media.api-sports.io/football/teams/1603.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490508,
           "referee": "Fotis Bazakos",
           "timezone": "UTC",
@@ -12202,76 +12272,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1490404,
-          "referee": "Ricardo Montero, Costa Rica",
-          "timezone": "UTC",
-          "date": "2026-08-20T02:30:00+00:00",
-          "timestamp": 1787193000,
-          "periods": {
-            "first": 1787193000,
-            "second": 1787196600
-          },
-          "venue": {
-            "id": null,
-            "name": "BC Place",
-            "city": "Vancouver"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 20",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1603,
-            "name": "Vancouver Whitecaps",
-            "logo": "https://media.api-sports.io/football/teams/1603.png",
-            "winner": false
-          },
-          "away": {
-            "id": 1600,
-            "name": "Houston Dynamo",
-            "logo": "https://media.api-sports.io/football/teams/1600.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -12591,6 +12591,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490326,
+          "referee": "Serhiy Boiko",
+          "timezone": "UTC",
+          "date": "2026-10-07T00:30:00+00:00",
+          "timestamp": 1791333000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1609,
+            "name": "Soldier Field",
+            "city": "Chicago"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 57,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1607,
+            "name": "Chicago Fire",
+            "logo": "https://media.api-sports.io/football/teams/1607.png",
+            "winner": true
+          },
+          "away": {
+            "id": 1603,
+            "name": "Vancouver Whitecaps",
+            "logo": "https://media.api-sports.io/football/teams/1603.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490499,
@@ -13210,76 +13280,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490389,
-          "referee": "Chris Penso, USA",
-          "timezone": "UTC",
-          "date": "2026-08-16T22:00:00+00:00",
-          "timestamp": 1786917600,
-          "periods": {
-            "first": 1786917600,
-            "second": 1786921200
-          },
-          "venue": {
-            "id": null,
-            "name": "Soldier Field",
-            "city": "Chicago"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 19",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1607,
-            "name": "Chicago Fire",
-            "logo": "https://media.api-sports.io/football/teams/1607.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1617,
-            "name": "Portland Timbers",
-            "logo": "https://media.api-sports.io/football/teams/1617.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -15643,6 +15643,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1629007,
+          "referee": "Steven Madrigal, Costa Rica",
+          "timezone": "UTC",
+          "date": "2026-10-07T00:00:00+00:00",
+          "timestamp": 1791331200,
+          "periods": {
+            "first": 1791331200,
+            "second": 1791334800
+          },
+          "venue": {
+            "id": null,
+            "name": "Allianz Field",
+            "city": "St. Paul"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 90,
+            "extra": 1
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 2384,
+            "name": "USA",
+            "logo": "https://media.api-sports.io/football/teams/2384.png",
+            "winner": true
+          },
+          "away": {
+            "id": 5529,
+            "name": "Canada",
+            "logo": "https://media.api-sports.io/football/teams/5529.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1629004,
           "referee": "Selvin Brown, Honduras",
           "timezone": "UTC",
@@ -16270,76 +16340,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1503008,
-          "referee": "Nick Walsh, Scotland",
-          "timezone": "UTC",
-          "date": "2026-05-31T19:30:00+00:00",
-          "timestamp": 1780255800,
-          "periods": {
-            "first": 1780255800,
-            "second": 1780259400
-          },
-          "venue": {
-            "id": null,
-            "name": "Bank of America Stadium",
-            "city": "Charlotte"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Friendly International",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2384,
-            "name": "USA",
-            "logo": "https://media.api-sports.io/football/teams/2384.png",
-            "winner": true
-          },
-          "away": {
-            "id": 13,
-            "name": "Senegal",
-            "logo": "https://media.api-sports.io/football/teams/13.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -16645,8 +16645,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1629007,
+          "referee": "Steven Madrigal, Costa Rica",
+          "timezone": "UTC",
+          "date": "2026-10-07T00:00:00+00:00",
+          "timestamp": 1791331200,
+          "periods": {
+            "first": 1791331200,
+            "second": 1791334800
+          },
+          "venue": {
+            "id": null,
+            "name": "Allianz Field",
+            "city": "St. Paul"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 90,
+            "extra": 1
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 2384,
+            "name": "USA",
+            "logo": "https://media.api-sports.io/football/teams/2384.png",
+            "winner": true
+          },
+          "away": {
+            "id": 5529,
+            "name": "Canada",
+            "logo": "https://media.api-sports.io/football/teams/5529.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1610879,
-          "referee": null,
+          "referee": "Jon Freemon, USA",
           "timezone": "UTC",
           "date": "2026-10-03T18:00:00+00:00",
           "timestamp": 1791050400,
@@ -17261,76 +17331,6 @@
           },
           "fulltime": {
             "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1512765,
-          "referee": "K. Herrera",
-          "timezone": "UTC",
-          "date": "2026-03-31T23:30:00+00:00",
-          "timestamp": 1774999800,
-          "periods": {
-            "first": 1774999800,
-            "second": 1775003400
-          },
-          "venue": {
-            "id": null,
-            "name": "BMO Field",
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 1
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Friendly International",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 5529,
-            "name": "Canada",
-            "logo": "https://media.api-sports.io/football/teams/5529.png",
-            "winner": null
-          },
-          "away": {
-            "id": 28,
-            "name": "Tunisia",
-            "logo": "https://media.api-sports.io/football/teams/28.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
             "away": 0
           },
           "extratime": {
