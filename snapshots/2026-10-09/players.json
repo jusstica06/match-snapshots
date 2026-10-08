@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T02:06:25.127Z",
+  "generatedAt": "2026-10-08T02:06:30.498Z",
   "totalTeams": 156,
   "totalLeagues": 35,
   "teamsWithFallback": 94,
@@ -1321,8 +1321,20 @@
       "leagueId": 94,
       "leagueName": "Primeira Liga",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 141890,
+          "name": "Dinis Pinto",
+          "photo": "https://media.api-sports.io/football/players/141890.png",
+          "goals": 1,
+          "appearances": 6
+        },
+        "topAssist": {
+          "id": 119633,
+          "name": "Kiko Bondoso",
+          "photo": "https://media.api-sports.io/football/players/119633.png",
+          "assists": 1,
+          "appearances": 6
+        },
         "mostCards": {
           "id": 195092,
           "name": "Guilherme Liberato",
@@ -1348,8 +1360,20 @@
           "goals": 3,
           "appearances": 6
         },
-        "topAssist": null,
-        "mostCards": null
+        "topAssist": {
+          "id": 41103,
+          "name": "Ricardo Horta",
+          "photo": "https://media.api-sports.io/football/players/41103.png",
+          "assists": 2,
+          "appearances": 4
+        },
+        "mostCards": {
+          "id": 936,
+          "name": "Fran Navarro",
+          "photo": "https://media.api-sports.io/football/players/936.png",
+          "yellowCards": 3,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {
@@ -3710,7 +3734,13 @@
           "assists": 2,
           "appearances": 6
         },
-        "mostCards": null
+        "mostCards": {
+          "id": 41099,
+          "name": "Ricardo Esgaio",
+          "photo": "https://media.api-sports.io/football/players/41099.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {

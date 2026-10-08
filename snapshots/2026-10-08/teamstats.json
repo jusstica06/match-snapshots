@@ -337,6 +337,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492393,
+          "referee": "Wilton Sampaio",
+          "timezone": "UTC",
+          "date": "2026-10-08T00:30:00+00:00",
+          "timestamp": 1791419400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 234,
+            "name": "Estádio Mineirão",
+            "city": "Bello Harisanta"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 68,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 29",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 135,
+            "name": "Cruzeiro",
+            "logo": "https://media.api-sports.io/football/teams/135.png",
+            "winner": true
+          },
+          "away": {
+            "id": 126,
+            "name": "Sao Paulo",
+            "logo": "https://media.api-sports.io/football/teams/126.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492318,
           "referee": "M. Delgado",
           "timezone": "UTC",
@@ -953,76 +1023,6 @@
           },
           "fulltime": {
             "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492337,
-          "referee": "C. Deretti",
-          "timezone": "UTC",
-          "date": "2026-08-16T00:00:00+00:00",
-          "timestamp": 1786838400,
-          "periods": {
-            "first": 1786838400,
-            "second": 1786842000
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Do MorumBIS",
-            "city": "Sao Paulo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 23",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 126,
-            "name": "Sao Paulo",
-            "logo": "https://media.api-sports.io/football/teams/126.png",
-            "winner": null
-          },
-          "away": {
-            "id": 147,
-            "name": "Coritiba",
-            "logo": "https://media.api-sports.io/football/teams/147.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
             "away": 1
           },
           "extratime": {
@@ -4401,6 +4401,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492393,
+          "referee": "Wilton Sampaio",
+          "timezone": "UTC",
+          "date": "2026-10-08T00:30:00+00:00",
+          "timestamp": 1791419400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 234,
+            "name": "Estádio Mineirão",
+            "city": "Bello Harisanta"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 68,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 29",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 135,
+            "name": "Cruzeiro",
+            "logo": "https://media.api-sports.io/football/teams/135.png",
+            "winner": true
+          },
+          "away": {
+            "id": 126,
+            "name": "Sao Paulo",
+            "logo": "https://media.api-sports.io/football/teams/126.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492389,
           "referee": "Matheus Delgado Candançan, Brazil",
           "timezone": "UTC",
@@ -5018,76 +5088,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1547757,
-          "referee": "Y. Perez",
-          "timezone": "UTC",
-          "date": "2026-08-13T00:30:00+00:00",
-          "timestamp": 1786581000,
-          "periods": {
-            "first": 1786581000,
-            "second": 1786584600
-          },
-          "venue": {
-            "id": null,
-            "name": "Governador Magalhães Pinto",
-            "city": "Belo Horizonte"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 13,
-          "name": "CONMEBOL Libertadores",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/13.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Round of 16",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 135,
-            "name": "Cruzeiro",
-            "logo": "https://media.api-sports.io/football/teams/135.png",
-            "winner": null
-          },
-          "away": {
-            "id": 127,
-            "name": "Flamengo",
-            "logo": "https://media.api-sports.io/football/teams/127.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
