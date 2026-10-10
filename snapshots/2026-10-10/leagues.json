@@ -395,17 +395,41 @@
   },
   "95": {
     "id": 95,
-    "name": "95",
-    "type": null,
-    "logo": null,
+    "name": "Segunda Liga",
+    "type": "League",
+    "logo": "https://media.api-sports.io/football/leagues/95.png",
     "country": {
-      "name": null,
-      "code": null,
-      "flag": null
+      "name": "Portugal",
+      "code": "PT",
+      "flag": "https://media.api-sports.io/flags/pt.svg"
     },
     "season": 2026,
-    "seasons": [],
-    "coverage": null
+    "seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "coverage": {
+      "standings": true,
+      "players": true,
+      "topScorers": true,
+      "predictions": true,
+      "odds": true,
+      "fixtures": {
+        "events": true,
+        "lineups": true,
+        "statistics_fixtures": true,
+        "statistics_players": false
+      }
+    }
   },
   "98": {
     "id": 98,

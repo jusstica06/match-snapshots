@@ -109073,6 +109073,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493181,
+          "referee": "Dario Herrera",
+          "timezone": "UTC",
+          "date": "2026-10-10T00:45:00+00:00",
+          "timestamp": 1791593100,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1933,
+            "name": "Estadio 15 de Abril",
+            "city": "Santa Fe de la Vera Cruz"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 52,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 12",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 441,
+            "name": "Union Santa Fe",
+            "logo": "https://media.api-sports.io/football/teams/441.png",
+            "winner": false
+          },
+          "away": {
+            "id": 442,
+            "name": "Defensa Y Justicia",
+            "logo": "https://media.api-sports.io/football/teams/442.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493155,
           "referee": "S. Martinez",
           "timezone": "UTC",
@@ -109700,76 +109770,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1493038,
-          "referee": "Juan Pablo Loustau, Argentina",
-          "timezone": "UTC",
-          "date": "2026-08-01T18:30:00+00:00",
-          "timestamp": 1785609000,
-          "periods": {
-            "first": 1785609000,
-            "second": 1785612600
-          },
-          "venue": {
-            "id": null,
-            "name": "Víctor Legrotaglie",
-            "city": "Mendoza"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1066,
-            "name": "Gimnasia M.",
-            "logo": "https://media.api-sports.io/football/teams/1066.png",
-            "winner": true
-          },
-          "away": {
-            "id": 441,
-            "name": "Union Santa Fe",
-            "logo": "https://media.api-sports.io/football/teams/441.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -110097,6 +110097,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1493181,
+          "referee": "Dario Herrera",
+          "timezone": "UTC",
+          "date": "2026-10-10T00:45:00+00:00",
+          "timestamp": 1791593100,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1933,
+            "name": "Estadio 15 de Abril",
+            "city": "Santa Fe de la Vera Cruz"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 52,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 12",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 441,
+            "name": "Union Santa Fe",
+            "logo": "https://media.api-sports.io/football/teams/441.png",
+            "winner": false
+          },
+          "away": {
+            "id": 442,
+            "name": "Defensa Y Justicia",
+            "logo": "https://media.api-sports.io/football/teams/442.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1493156,
@@ -110716,76 +110786,6 @@
           "fulltime": {
             "home": 3,
             "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1493022,
-          "referee": "Bruno Amiconi, Argentina",
-          "timezone": "UTC",
-          "date": "2026-07-29T20:00:00+00:00",
-          "timestamp": 1785355200,
-          "periods": {
-            "first": 1785355200,
-            "second": 1785358800
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Norberto Tomaghello",
-            "city": "Gobernador Julio A. Costa"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 2",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 442,
-            "name": "Defensa Y Justicia",
-            "logo": "https://media.api-sports.io/football/teams/442.png",
-            "winner": true
-          },
-          "away": {
-            "id": 476,
-            "name": "Deportivo Riestra",
-            "logo": "https://media.api-sports.io/football/teams/476.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -147498,7 +147498,7 @@
       {
         "fixture": {
           "id": 1548534,
-          "referee": "Mateo Erceg, Croatia",
+          "referee": "M. Erceg",
           "timezone": "UTC",
           "date": "2026-09-20T15:00:00+00:00",
           "timestamp": 1789916400,
@@ -147568,13 +147568,13 @@
       {
         "fixture": {
           "id": 1548528,
-          "referee": "Patrik Pavlešić, Croatia",
+          "referee": "P. Pavlesic",
           "timezone": "UTC",
           "date": "2026-09-13T18:00:00+00:00",
           "timestamp": 1789322400,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1789322400,
+            "second": 1789326000
           },
           "venue": {
             "id": 413,
@@ -147708,13 +147708,13 @@
       {
         "fixture": {
           "id": 1548524,
-          "referee": "Antonio Škobić, Croatia",
+          "referee": "A. Skobic",
           "timezone": "UTC",
           "date": "2026-09-06T16:00:00+00:00",
           "timestamp": 1788710400,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1788710400,
+            "second": 1788714000
           },
           "venue": {
             "id": null,
@@ -147778,7 +147778,7 @@
       {
         "fixture": {
           "id": 1548519,
-          "referee": "Ivan Vukančić, Croatia",
+          "referee": "I. Vukancic",
           "timezone": "UTC",
           "date": "2026-08-31T16:30:00+00:00",
           "timestamp": 1788193800,
@@ -147788,8 +147788,8 @@
           },
           "venue": {
             "id": 412,
-            "name": "Stadion Maksimir",
-            "city": "Zagreb"
+            "name": "Stadion Poljud",
+            "city": "Split"
           },
           "status": {
             "long": "Match Finished",
@@ -147918,7 +147918,7 @@
       {
         "fixture": {
           "id": 1548513,
-          "referee": "Patrik Kolarić, Croatia",
+          "referee": "P. Kolaric",
           "timezone": "UTC",
           "date": "2026-08-23T19:00:00+00:00",
           "timestamp": 1787511600,
@@ -148058,7 +148058,7 @@
       {
         "fixture": {
           "id": 1548508,
-          "referee": "Patrik Pavlešić, Croatia",
+          "referee": "P. Pavlesic",
           "timezone": "UTC",
           "date": "2026-08-16T19:00:00+00:00",
           "timestamp": 1786906800,
@@ -149588,7 +149588,7 @@
       {
         "fixture": {
           "id": 1548536,
-          "referee": "Ante Čulina, Croatia",
+          "referee": "A. Culina",
           "timezone": "UTC",
           "date": "2026-09-19T15:00:00+00:00",
           "timestamp": 1789830000,
@@ -149658,13 +149658,13 @@
       {
         "fixture": {
           "id": 1548531,
-          "referee": "Ante Terzić, Croatia",
+          "referee": "A. Terzic",
           "timezone": "UTC",
           "date": "2026-09-12T15:00:00+00:00",
           "timestamp": 1789225200,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1789225200,
+            "second": 1789228800
           },
           "venue": {
             "id": 20730,
@@ -149798,13 +149798,13 @@
       {
         "fixture": {
           "id": 1548523,
-          "referee": "Mateo Erceg, Croatia",
+          "referee": "M. Erceg",
           "timezone": "UTC",
           "date": "2026-09-05T19:00:00+00:00",
           "timestamp": 1788634800,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1788634800,
+            "second": 1788638400
           },
           "venue": {
             "id": 423,
@@ -149868,7 +149868,7 @@
       {
         "fixture": {
           "id": 1548520,
-          "referee": "Igor Pajač, Croatia",
+          "referee": "I. Pajac",
           "timezone": "UTC",
           "date": "2026-08-30T18:00:00+00:00",
           "timestamp": 1788112800,
@@ -149938,7 +149938,7 @@
       {
         "fixture": {
           "id": 1548513,
-          "referee": "Patrik Kolarić, Croatia",
+          "referee": "P. Kolaric",
           "timezone": "UTC",
           "date": "2026-08-23T19:00:00+00:00",
           "timestamp": 1787511600,
@@ -150008,7 +150008,7 @@
       {
         "fixture": {
           "id": 1548510,
-          "referee": "Ante Terzić, Croatia",
+          "referee": "A. Terzic",
           "timezone": "UTC",
           "date": "2026-08-15T19:00:00+00:00",
           "timestamp": 1786820400,
@@ -150078,7 +150078,7 @@
       {
         "fixture": {
           "id": 1548505,
-          "referee": "Marko Crnojevic, Croatia",
+          "referee": "M. Crnojevic",
           "timezone": "UTC",
           "date": "2026-08-08T16:30:00+00:00",
           "timestamp": 1786206600,
@@ -150088,8 +150088,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Gradski stadion Velika Gorica",
-            "city": "Velika Gorica"
+            "name": "SC Rudes",
+            "city": "Zagreb"
           },
           "status": {
             "long": "Match Finished",
@@ -150148,7 +150148,7 @@
       {
         "fixture": {
           "id": 1548498,
-          "referee": "Ivan Vukančić, Croatia",
+          "referee": "I. Vukancic",
           "timezone": "UTC",
           "date": "2026-08-01T19:00:00+00:00",
           "timestamp": 1785610800,
@@ -150594,7 +150594,7 @@
       {
         "fixture": {
           "id": 1548532,
-          "referee": "Patrik Kolarić, Croatia",
+          "referee": "P. Kolaric",
           "timezone": "UTC",
           "date": "2026-09-20T18:00:00+00:00",
           "timestamp": 1789927200,
@@ -150734,13 +150734,13 @@
       {
         "fixture": {
           "id": 1548531,
-          "referee": "Ante Terzić, Croatia",
+          "referee": "A. Terzic",
           "timezone": "UTC",
           "date": "2026-09-12T15:00:00+00:00",
           "timestamp": 1789225200,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1789225200,
+            "second": 1789228800
           },
           "venue": {
             "id": 20730,
@@ -150874,13 +150874,13 @@
       {
         "fixture": {
           "id": 1548522,
-          "referee": "Patrik Kolarić, Croatia",
+          "referee": "P. Kolaric",
           "timezone": "UTC",
           "date": "2026-09-05T16:00:00+00:00",
           "timestamp": 1788624000,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1788624000,
+            "second": 1788627600
           },
           "venue": {
             "id": 412,
@@ -150944,7 +150944,7 @@
       {
         "fixture": {
           "id": 1548518,
-          "referee": "Patrik Pavlešić, Croatia",
+          "referee": "P. Pavlesic",
           "timezone": "UTC",
           "date": "2026-08-29T16:30:00+00:00",
           "timestamp": 1788021000,
@@ -151084,7 +151084,7 @@
       {
         "fixture": {
           "id": 1548512,
-          "referee": "Duje Strukan, Croatia",
+          "referee": "D. Strukan",
           "timezone": "UTC",
           "date": "2026-08-22T19:00:00+00:00",
           "timestamp": 1787425200,
@@ -186825,7 +186825,7 @@
       {
         "fixture": {
           "id": 1548533,
-          "referee": "Dario Bel, Croatia",
+          "referee": "D. Bel",
           "timezone": "UTC",
           "date": "2026-09-19T18:00:00+00:00",
           "timestamp": 1789840800,
@@ -186895,13 +186895,13 @@
       {
         "fixture": {
           "id": 1548529,
-          "referee": "Antonio Melnjak, Croatia",
+          "referee": "A. Melnjak",
           "timezone": "UTC",
           "date": "2026-09-13T15:00:00+00:00",
           "timestamp": 1789311600,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1789311600,
+            "second": 1789315200
           },
           "venue": {
             "id": 416,
@@ -187035,13 +187035,13 @@
       {
         "fixture": {
           "id": 1548526,
-          "referee": "Duje Strukan, Croatia",
+          "referee": "D. Strukan",
           "timezone": "UTC",
           "date": "2026-09-04T18:00:00+00:00",
           "timestamp": 1788544800,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1788544800,
+            "second": 1788548400
           },
           "venue": {
             "id": null,
@@ -187105,7 +187105,7 @@
       {
         "fixture": {
           "id": 1548518,
-          "referee": "Patrik Pavlešić, Croatia",
+          "referee": "P. Pavlesic",
           "timezone": "UTC",
           "date": "2026-08-29T16:30:00+00:00",
           "timestamp": 1788021000,
@@ -187175,7 +187175,7 @@
       {
         "fixture": {
           "id": 1548514,
-          "referee": "Igor Pajač, Croatia",
+          "referee": "I. Pajac",
           "timezone": "UTC",
           "date": "2026-08-23T16:30:00+00:00",
           "timestamp": 1787502600,
@@ -187245,7 +187245,7 @@
       {
         "fixture": {
           "id": 1548509,
-          "referee": "Patrik Kolarić, Croatia",
+          "referee": "P. Kolaric",
           "timezone": "UTC",
           "date": "2026-08-15T16:30:00+00:00",
           "timestamp": 1786811400,
@@ -187315,7 +187315,7 @@
       {
         "fixture": {
           "id": 1548502,
-          "referee": "Mateo Erceg, Croatia",
+          "referee": "M. Erceg",
           "timezone": "UTC",
           "date": "2026-08-09T19:00:00+00:00",
           "timestamp": 1786302000,
@@ -187385,7 +187385,7 @@
       {
         "fixture": {
           "id": 1548499,
-          "referee": "Patrik Pavlešić, Croatia",
+          "referee": "P. Pavlesic",
           "timezone": "UTC",
           "date": "2026-08-01T16:30:00+00:00",
           "timestamp": 1785601800,
@@ -233108,1016 +233108,6 @@
       }
     ]
   },
-  "2246": {
-    "statistics": {
-      "league": {
-        "id": 283,
-        "name": "Liga I",
-        "country": "Romania",
-        "logo": "https://media.api-sports.io/football/leagues/283.png",
-        "flag": "https://media.api-sports.io/flags/ro.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 2246,
-        "name": "CFR 1907 Cluj",
-        "logo": "https://media.api-sports.io/football/teams/2246.png"
-      },
-      "form": "LWLLWWDLWL",
-      "fixtures": {
-        "played": {
-          "home": 5,
-          "away": 5,
-          "total": 10
-        },
-        "wins": {
-          "home": 3,
-          "away": 1,
-          "total": 4
-        },
-        "draws": {
-          "home": 1,
-          "away": 0,
-          "total": 1
-        },
-        "loses": {
-          "home": 1,
-          "away": 4,
-          "total": 5
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 10,
-            "away": 6,
-            "total": 16
-          },
-          "average": {
-            "home": "2.0",
-            "away": "1.2",
-            "total": "1.6"
-          },
-          "minute": {
-            "0-15": {
-              "total": 2,
-              "percentage": "12.50%"
-            },
-            "16-30": {
-              "total": 4,
-              "percentage": "25.00%"
-            },
-            "31-45": {
-              "total": 3,
-              "percentage": "18.75%"
-            },
-            "46-60": {
-              "total": 3,
-              "percentage": "18.75%"
-            },
-            "61-75": {
-              "total": null,
-              "percentage": null
-            },
-            "76-90": {
-              "total": 4,
-              "percentage": "25.00%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 8,
-              "under": 2
-            },
-            "1.5": {
-              "over": 3,
-              "under": 7
-            },
-            "2.5": {
-              "over": 3,
-              "under": 7
-            },
-            "3.5": {
-              "over": 1,
-              "under": 9
-            },
-            "4.5": {
-              "over": 1,
-              "under": 9
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 4,
-            "away": 13,
-            "total": 17
-          },
-          "average": {
-            "home": "0.8",
-            "away": "2.6",
-            "total": "1.7"
-          },
-          "minute": {
-            "0-15": {
-              "total": 1,
-              "percentage": "5.88%"
-            },
-            "16-30": {
-              "total": 1,
-              "percentage": "5.88%"
-            },
-            "31-45": {
-              "total": 4,
-              "percentage": "23.53%"
-            },
-            "46-60": {
-              "total": 4,
-              "percentage": "23.53%"
-            },
-            "61-75": {
-              "total": 4,
-              "percentage": "23.53%"
-            },
-            "76-90": {
-              "total": 3,
-              "percentage": "17.65%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 7,
-              "under": 3
-            },
-            "1.5": {
-              "over": 6,
-              "under": 4
-            },
-            "2.5": {
-              "over": 4,
-              "under": 6
-            },
-            "3.5": {
-              "over": 0,
-              "under": 10
-            },
-            "4.5": {
-              "over": 0,
-              "under": 10
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 2,
-          "draws": 1,
-          "loses": 2
-        },
-        "wins": {
-          "home": "5-0",
-          "away": "2-3"
-        },
-        "loses": {
-          "home": "1-3",
-          "away": "3-0"
-        },
-        "goals": {
-          "for": {
-            "home": 5,
-            "away": 3
-          },
-          "against": {
-            "home": 3,
-            "away": 3
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 3,
-        "away": 0,
-        "total": 3
-      },
-      "failed_to_score": {
-        "home": 1,
-        "away": 1,
-        "total": 2
-      },
-      "penalty": {
-        "scored": {
-          "total": 1,
-          "percentage": "100.00%"
-        },
-        "missed": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "total": 1
-      },
-      "lineups": [
-        {
-          "formation": "3-4-3",
-          "played": 5
-        },
-        {
-          "formation": "4-3-3",
-          "played": 4
-        },
-        {
-          "formation": "3-4-2-1",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 2,
-            "percentage": "14.29%"
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": 4,
-            "percentage": "28.57%"
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": 2,
-            "percentage": "14.29%"
-          },
-          "76-90": {
-            "total": 4,
-            "percentage": "28.57%"
-          },
-          "91-105": {
-            "total": 2,
-            "percentage": "14.29%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": null,
-            "percentage": null
-          },
-          "91-105": {
-            "total": null,
-            "percentage": null
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1565207,
-          "referee": "Horia Gabriel Mladinovici",
-          "timezone": "UTC",
-          "date": "2026-10-08T17:30:00+00:00",
-          "timestamp": 1791480600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1311,
-            "name": "Dr. Constantin Rădulescu",
-            "city": "Cluj Napoca"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": false
-          },
-          "away": {
-            "id": 2599,
-            "name": "Universitatea Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2599.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1644428,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-01T12:00:00+00:00",
-          "timestamp": 1790856000,
-          "periods": {
-            "first": 1790856000,
-            "second": 1790859600
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendly",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": true
-          },
-          "away": {
-            "id": 16279,
-            "name": "CSM Satu Mare",
-            "logo": "https://media.api-sports.io/football/teams/16279.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565255,
-          "referee": "Iulian Calin, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-19T14:30:00+00:00",
-          "timestamp": 1789828200,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1311,
-            "name": "Dr. Constantin Rădulescu",
-            "city": "Cluj Napoca"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2581,
-            "name": "FC Botosani",
-            "logo": "https://media.api-sports.io/football/teams/2581.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565253,
-          "referee": "Marian Barbu, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-12T15:30:00+00:00",
-          "timestamp": 1789227000,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 12593,
-            "name": "Arena Sepsi Osk",
-            "city": "Sfantu Gheorghe"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2585,
-            "name": "Sepsi OSK Sfantu Gheorghe",
-            "logo": "https://media.api-sports.io/football/teams/2585.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565239,
-          "referee": "Radu Marian Petrescu, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-04T17:30:00+00:00",
-          "timestamp": 1788543000,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": null,
-            "name": "Dr. Constantin Radulescu",
-            "city": "Cluj Napoca"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": null
-          },
-          "away": {
-            "id": 2596,
-            "name": "Farul Constanta",
-            "logo": "https://media.api-sports.io/football/teams/2596.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1632264,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-01T15:00:00+00:00",
-          "timestamp": 1788274800,
-          "periods": {
-            "first": 1788274800,
-            "second": 1788278400
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Sepsi",
-            "city": "Sfantu Gheorghe"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 285,
-          "name": "Cupa României",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/285.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2585,
-            "name": "Sepsi OSK Sfantu Gheorghe",
-            "logo": "https://media.api-sports.io/football/teams/2585.png",
-            "winner": false
-          },
-          "away": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565232,
-          "referee": "Horia Gabriel Mladinovici, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-29T13:00:00+00:00",
-          "timestamp": 1788008400,
-          "periods": {
-            "first": 1788008400,
-            "second": 1788012000
-          },
-          "venue": {
-            "id": 4607,
-            "name": "Stadionul Municipal",
-            "city": "Miercurea Ciuc"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 6230,
-            "name": "Csikszereda",
-            "logo": "https://media.api-sports.io/football/teams/6230.png",
-            "winner": false
-          },
-          "away": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565223,
-          "referee": "George Catalin Gaman, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-23T18:30:00+00:00",
-          "timestamp": 1787509800,
-          "periods": {
-            "first": 1787509800,
-            "second": 1787513400
-          },
-          "venue": {
-            "id": null,
-            "name": "Dr. Constantin Radulescu",
-            "city": "Cluj Napoca"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 6",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": true
-          },
-          "away": {
-            "id": 559,
-            "name": "FCSB",
-            "logo": "https://media.api-sports.io/football/teams/559.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565215,
-          "referee": "Viorel Nicusor Flueran, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-16T18:30:00+00:00",
-          "timestamp": 1786905000,
-          "periods": {
-            "first": 1786905000,
-            "second": 1786908600
-          },
-          "venue": {
-            "id": 11931,
-            "name": "Stadionul Francisc von Neuman",
-            "city": "Arad"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 20034,
-            "name": "Corvinul Hunedoara",
-            "logo": "https://media.api-sports.io/football/teams/20034.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1607628,
-          "referee": "D. Dickinson",
-          "timezone": "UTC",
-          "date": "2026-08-13T17:00:00+00:00",
-          "timestamp": 1786640400,
-          "periods": {
-            "first": 1786640400,
-            "second": 1786644000
-          },
-          "venue": {
-            "id": null,
-            "name": "Romssa Arena",
-            "city": "Tromso"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 848,
-          "name": "UEFA Europa Conference League",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/848.png",
-          "flag": null,
-          "season": 2026,
-          "round": "3rd Qualifying Round",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 325,
-            "name": "Tromso",
-            "logo": "https://media.api-sports.io/football/teams/325.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
-  },
   "2432": {
     "statistics": {
       "league": {
@@ -237139,2034 +236129,6 @@
           "fulltime": {
             "home": 2,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
-  },
-  "2592": {
-    "statistics": {
-      "league": {
-        "id": 283,
-        "name": "Liga I",
-        "country": "Romania",
-        "logo": "https://media.api-sports.io/football/leagues/283.png",
-        "flag": "https://media.api-sports.io/flags/ro.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 2592,
-        "name": "Arges Pitesti",
-        "logo": "https://media.api-sports.io/football/teams/2592.png"
-      },
-      "form": "LWWWDLLLDL",
-      "fixtures": {
-        "played": {
-          "home": 5,
-          "away": 5,
-          "total": 10
-        },
-        "wins": {
-          "home": 2,
-          "away": 1,
-          "total": 3
-        },
-        "draws": {
-          "home": 2,
-          "away": 0,
-          "total": 2
-        },
-        "loses": {
-          "home": 1,
-          "away": 4,
-          "total": 5
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 4,
-            "away": 2,
-            "total": 6
-          },
-          "average": {
-            "home": "0.8",
-            "away": "0.4",
-            "total": "0.6"
-          },
-          "minute": {
-            "0-15": {
-              "total": 1,
-              "percentage": "16.67%"
-            },
-            "16-30": {
-              "total": 2,
-              "percentage": "33.33%"
-            },
-            "31-45": {
-              "total": null,
-              "percentage": null
-            },
-            "46-60": {
-              "total": 1,
-              "percentage": "16.67%"
-            },
-            "61-75": {
-              "total": 1,
-              "percentage": "16.67%"
-            },
-            "76-90": {
-              "total": 1,
-              "percentage": "16.67%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 6,
-              "under": 4
-            },
-            "1.5": {
-              "over": 0,
-              "under": 10
-            },
-            "2.5": {
-              "over": 0,
-              "under": 10
-            },
-            "3.5": {
-              "over": 0,
-              "under": 10
-            },
-            "4.5": {
-              "over": 0,
-              "under": 10
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 3,
-            "away": 7,
-            "total": 10
-          },
-          "average": {
-            "home": "0.6",
-            "away": "1.4",
-            "total": "1.0"
-          },
-          "minute": {
-            "0-15": {
-              "total": null,
-              "percentage": null
-            },
-            "16-30": {
-              "total": 4,
-              "percentage": "40.00%"
-            },
-            "31-45": {
-              "total": 1,
-              "percentage": "10.00%"
-            },
-            "46-60": {
-              "total": 2,
-              "percentage": "20.00%"
-            },
-            "61-75": {
-              "total": null,
-              "percentage": null
-            },
-            "76-90": {
-              "total": 3,
-              "percentage": "30.00%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 7,
-              "under": 3
-            },
-            "1.5": {
-              "over": 2,
-              "under": 8
-            },
-            "2.5": {
-              "over": 1,
-              "under": 9
-            },
-            "3.5": {
-              "over": 0,
-              "under": 10
-            },
-            "4.5": {
-              "over": 0,
-              "under": 10
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 3,
-          "draws": 1,
-          "loses": 3
-        },
-        "wins": {
-          "home": "1-0",
-          "away": "0-1"
-        },
-        "loses": {
-          "home": "0-1",
-          "away": "3-1"
-        },
-        "goals": {
-          "for": {
-            "home": 1,
-            "away": 1
-          },
-          "against": {
-            "home": 1,
-            "away": 3
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 2,
-        "away": 1,
-        "total": 3
-      },
-      "failed_to_score": {
-        "home": 1,
-        "away": 3,
-        "total": 4
-      },
-      "penalty": {
-        "scored": {
-          "total": 1,
-          "percentage": "100.00%"
-        },
-        "missed": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "total": 1
-      },
-      "lineups": [
-        {
-          "formation": "3-1-4-2",
-          "played": 3
-        },
-        {
-          "formation": "4-2-3-1",
-          "played": 2
-        },
-        {
-          "formation": "4-1-4-1",
-          "played": 2
-        },
-        {
-          "formation": "4-3-3",
-          "played": 2
-        },
-        {
-          "formation": "4-1-3-2",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 1,
-            "percentage": "4.35%"
-          },
-          "16-30": {
-            "total": 3,
-            "percentage": "13.04%"
-          },
-          "31-45": {
-            "total": 4,
-            "percentage": "17.39%"
-          },
-          "46-60": {
-            "total": 4,
-            "percentage": "17.39%"
-          },
-          "61-75": {
-            "total": 3,
-            "percentage": "13.04%"
-          },
-          "76-90": {
-            "total": 6,
-            "percentage": "26.09%"
-          },
-          "91-105": {
-            "total": 2,
-            "percentage": "8.70%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": 1,
-            "percentage": "100.00%"
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": null,
-            "percentage": null
-          },
-          "91-105": {
-            "total": null,
-            "percentage": null
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1642932,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-03T08:00:00+00:00",
-          "timestamp": 1791014400,
-          "periods": {
-            "first": 1791014400,
-            "second": 1791018000
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 2
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2592,
-            "name": "Arges Pitesti",
-            "logo": "https://media.api-sports.io/football/teams/2592.png",
-            "winner": null
-          },
-          "away": {
-            "id": 6898,
-            "name": "Slatina",
-            "logo": "https://media.api-sports.io/football/teams/6898.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1642893,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-30T07:30:00+00:00",
-          "timestamp": 1790753400,
-          "periods": {
-            "first": 1790753400,
-            "second": 1790757000
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2592,
-            "name": "Arges Pitesti",
-            "logo": "https://media.api-sports.io/football/teams/2592.png",
-            "winner": true
-          },
-          "away": {
-            "id": 6853,
-            "name": "Cetate Deva",
-            "logo": "https://media.api-sports.io/football/teams/6853.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565257,
-          "referee": "Marius Florin Badea, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-18T18:00:00+00:00",
-          "timestamp": 1789754400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 19516,
-            "name": "Giulești",
-            "city": "Bucharest"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2592,
-            "name": "Arges Pitesti",
-            "logo": "https://media.api-sports.io/football/teams/2592.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565250,
-          "referee": "Florin Andrei, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-13T12:00:00+00:00",
-          "timestamp": 1789300800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Orasenesc",
-            "city": "Mioveni"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2592,
-            "name": "Arges Pitesti",
-            "logo": "https://media.api-sports.io/football/teams/2592.png",
-            "winner": null
-          },
-          "away": {
-            "id": 2581,
-            "name": "FC Botosani",
-            "logo": "https://media.api-sports.io/football/teams/2581.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565242,
-          "referee": "Szabolcs Kovacs, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-07T14:30:00+00:00",
-          "timestamp": 1788791400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Anghel Iordanescu",
-            "city": "Voluntari"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2578,
-            "name": "FC Voluntari",
-            "logo": "https://media.api-sports.io/football/teams/2578.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2592,
-            "name": "Arges Pitesti",
-            "logo": "https://media.api-sports.io/football/teams/2592.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1632257,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-02T18:30:00+00:00",
-          "timestamp": 1788373800,
-          "periods": {
-            "first": 1788373800,
-            "second": 1788377400
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": "Mioveni"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 285,
-          "name": "Cupa României",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/285.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2592,
-            "name": "Arges Pitesti",
-            "logo": "https://media.api-sports.io/football/teams/2592.png",
-            "winner": false
-          },
-          "away": {
-            "id": 559,
-            "name": "FCSB",
-            "logo": "https://media.api-sports.io/football/teams/559.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 5
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 5
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565234,
-          "referee": "George Catalin Roman, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-29T15:30:00+00:00",
-          "timestamp": 1788017400,
-          "periods": {
-            "first": 1788017400,
-            "second": 1788021000
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Orasenesc",
-            "city": "Mioveni"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2592,
-            "name": "Arges Pitesti",
-            "logo": "https://media.api-sports.io/football/teams/2592.png",
-            "winner": false
-          },
-          "away": {
-            "id": 2585,
-            "name": "Sepsi OSK Sfantu Gheorghe",
-            "logo": "https://media.api-sports.io/football/teams/2585.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565226,
-          "referee": "Viorel Nicusor Flueran, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-24T18:30:00+00:00",
-          "timestamp": 1787596200,
-          "periods": {
-            "first": 1787596200,
-            "second": 1787599800
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Oțelul",
-            "city": "Galati"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 6",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 6886,
-            "name": "Oţelul",
-            "logo": "https://media.api-sports.io/football/teams/6886.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2592,
-            "name": "Arges Pitesti",
-            "logo": "https://media.api-sports.io/football/teams/2592.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565217,
-          "referee": "G. Gaman",
-          "timezone": "UTC",
-          "date": "2026-08-14T18:30:00+00:00",
-          "timestamp": 1786732200,
-          "periods": {
-            "first": 1786732200,
-            "second": 1786735800
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Orasenesc",
-            "city": "Mioveni"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2592,
-            "name": "Arges Pitesti",
-            "logo": "https://media.api-sports.io/football/teams/2592.png",
-            "winner": null
-          },
-          "away": {
-            "id": 2596,
-            "name": "Farul Constanta",
-            "logo": "https://media.api-sports.io/football/teams/2596.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565213,
-          "referee": "Szabolcs Kovacs, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-09T18:30:00+00:00",
-          "timestamp": 1786300200,
-          "periods": {
-            "first": 1786300200,
-            "second": 1786303800
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Ion Oblemenco",
-            "city": "Craiova"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 9
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 632,
-            "name": "Universitatea Craiova",
-            "logo": "https://media.api-sports.io/football/teams/632.png",
-            "winner": false
-          },
-          "away": {
-            "id": 2592,
-            "name": "Arges Pitesti",
-            "logo": "https://media.api-sports.io/football/teams/2592.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
-  },
-  "2599": {
-    "statistics": {
-      "league": {
-        "id": 283,
-        "name": "Liga I",
-        "country": "Romania",
-        "logo": "https://media.api-sports.io/football/leagues/283.png",
-        "flag": "https://media.api-sports.io/flags/ro.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 2599,
-        "name": "Universitatea Cluj",
-        "logo": "https://media.api-sports.io/football/teams/2599.png"
-      },
-      "form": "WLWWLLLWWW",
-      "fixtures": {
-        "played": {
-          "home": 5,
-          "away": 5,
-          "total": 10
-        },
-        "wins": {
-          "home": 4,
-          "away": 2,
-          "total": 6
-        },
-        "draws": {
-          "home": 0,
-          "away": 0,
-          "total": 0
-        },
-        "loses": {
-          "home": 1,
-          "away": 3,
-          "total": 4
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 11,
-            "away": 6,
-            "total": 17
-          },
-          "average": {
-            "home": "2.2",
-            "away": "1.2",
-            "total": "1.7"
-          },
-          "minute": {
-            "0-15": {
-              "total": 1,
-              "percentage": "5.88%"
-            },
-            "16-30": {
-              "total": null,
-              "percentage": null
-            },
-            "31-45": {
-              "total": 3,
-              "percentage": "17.65%"
-            },
-            "46-60": {
-              "total": 5,
-              "percentage": "29.41%"
-            },
-            "61-75": {
-              "total": 4,
-              "percentage": "23.53%"
-            },
-            "76-90": {
-              "total": 4,
-              "percentage": "23.53%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 8,
-              "under": 2
-            },
-            "1.5": {
-              "over": 7,
-              "under": 3
-            },
-            "2.5": {
-              "over": 2,
-              "under": 8
-            },
-            "3.5": {
-              "over": 0,
-              "under": 10
-            },
-            "4.5": {
-              "over": 0,
-              "under": 10
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 6,
-            "away": 8,
-            "total": 14
-          },
-          "average": {
-            "home": "1.2",
-            "away": "1.6",
-            "total": "1.4"
-          },
-          "minute": {
-            "0-15": {
-              "total": 2,
-              "percentage": "14.29%"
-            },
-            "16-30": {
-              "total": 1,
-              "percentage": "7.14%"
-            },
-            "31-45": {
-              "total": 3,
-              "percentage": "21.43%"
-            },
-            "46-60": {
-              "total": 6,
-              "percentage": "42.86%"
-            },
-            "61-75": {
-              "total": null,
-              "percentage": null
-            },
-            "76-90": {
-              "total": 2,
-              "percentage": "14.29%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 8,
-              "under": 2
-            },
-            "1.5": {
-              "over": 3,
-              "under": 7
-            },
-            "2.5": {
-              "over": 2,
-              "under": 8
-            },
-            "3.5": {
-              "over": 1,
-              "under": 9
-            },
-            "4.5": {
-              "over": 0,
-              "under": 10
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 2,
-          "draws": 0,
-          "loses": 3
-        },
-        "wins": {
-          "home": "3-0",
-          "away": "1-3"
-        },
-        "loses": {
-          "home": "2-3",
-          "away": "4-0"
-        },
-        "goals": {
-          "for": {
-            "home": 3,
-            "away": 3
-          },
-          "against": {
-            "home": 3,
-            "away": 4
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 1,
-        "away": 1,
-        "total": 2
-      },
-      "failed_to_score": {
-        "home": 0,
-        "away": 2,
-        "total": 2
-      },
-      "penalty": {
-        "scored": {
-          "total": 4,
-          "percentage": "100.00%"
-        },
-        "missed": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "total": 4
-      },
-      "lineups": [
-        {
-          "formation": "4-2-3-1",
-          "played": 8
-        },
-        {
-          "formation": "4-3-3",
-          "played": 1
-        },
-        {
-          "formation": "4-3-1-2",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 2,
-            "percentage": "8.70%"
-          },
-          "16-30": {
-            "total": 1,
-            "percentage": "4.35%"
-          },
-          "31-45": {
-            "total": 4,
-            "percentage": "17.39%"
-          },
-          "46-60": {
-            "total": 4,
-            "percentage": "17.39%"
-          },
-          "61-75": {
-            "total": 7,
-            "percentage": "30.43%"
-          },
-          "76-90": {
-            "total": 2,
-            "percentage": "8.70%"
-          },
-          "91-105": {
-            "total": 3,
-            "percentage": "13.04%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": null,
-            "percentage": null
-          },
-          "91-105": {
-            "total": 1,
-            "percentage": "100.00%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1565207,
-          "referee": "Horia Gabriel Mladinovici",
-          "timezone": "UTC",
-          "date": "2026-10-08T17:30:00+00:00",
-          "timestamp": 1791480600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1311,
-            "name": "Dr. Constantin Rădulescu",
-            "city": "Cluj Napoca"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": false
-          },
-          "away": {
-            "id": 2599,
-            "name": "Universitatea Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2599.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565258,
-          "referee": "Florin Andrei, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-20T11:00:00+00:00",
-          "timestamp": 1789902000,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1315,
-            "name": "Stadionul  Anghel Iordănescu",
-            "city": "Voluntari"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2578,
-            "name": "FC Voluntari",
-            "logo": "https://media.api-sports.io/football/teams/2578.png",
-            "winner": false
-          },
-          "away": {
-            "id": 2599,
-            "name": "Universitatea Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2599.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565254,
-          "referee": "Szabolcs Kovacs, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-14T15:00:00+00:00",
-          "timestamp": 1789398000,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1913,
-            "name": "Cluj Arena",
-            "city": "Cluj-Napoca"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2599,
-            "name": "Universitatea Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2599.png",
-            "winner": true
-          },
-          "away": {
-            "id": 6886,
-            "name": "Oţelul",
-            "logo": "https://media.api-sports.io/football/teams/6886.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565245,
-          "referee": "George Catalin Roman, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-07T17:30:00+00:00",
-          "timestamp": 1788802200,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Ion Oblemenco",
-            "city": "Craiova"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 632,
-            "name": "Universitatea Craiova",
-            "logo": "https://media.api-sports.io/football/teams/632.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2599,
-            "name": "Universitatea Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2599.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 4,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1632266,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-01T18:00:00+00:00",
-          "timestamp": 1788285600,
-          "periods": {
-            "first": 1788285600,
-            "second": 1788289200
-          },
-          "venue": {
-            "id": 1913,
-            "name": "Cluj Arena",
-            "city": "Cluj-Napoca"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 285,
-          "name": "Cupa României",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/285.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2599,
-            "name": "Universitatea Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2599.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2598,
-            "name": "Petrolul Ploiesti",
-            "logo": "https://media.api-sports.io/football/teams/2598.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565238,
-          "referee": "Radu Marian Petrescu, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-28T18:00:00+00:00",
-          "timestamp": 1787940000,
-          "periods": {
-            "first": 1787940000,
-            "second": 1787943600
-          },
-          "venue": {
-            "id": 1913,
-            "name": "Cluj Arena",
-            "city": "Cluj-Napoca"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2599,
-            "name": "Universitatea Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2599.png",
-            "winner": false
-          },
-          "away": {
-            "id": 2598,
-            "name": "Petrolul Ploiesti",
-            "logo": "https://media.api-sports.io/football/teams/2598.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565224,
-          "referee": "Rares George Vidican, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-22T18:30:00+00:00",
-          "timestamp": 1787423400,
-          "periods": {
-            "first": 1787423400,
-            "second": 1787427000
-          },
-          "venue": {
-            "id": null,
-            "name": "Dinamo Stadium",
-            "city": "Bucharest"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 6",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 635,
-            "name": "Dinamo Bucuresti",
-            "logo": "https://media.api-sports.io/football/teams/635.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2599,
-            "name": "Universitatea Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2599.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565222,
-          "referee": "Marian Barbu, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-17T15:30:00+00:00",
-          "timestamp": 1786980600,
-          "periods": {
-            "first": 1786980600,
-            "second": 1786984200
-          },
-          "venue": {
-            "id": 1913,
-            "name": "Cluj Arena",
-            "city": "Cluj-Napoca"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2599,
-            "name": "Universitatea Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2599.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2589,
-            "name": "Uta Arad",
-            "logo": "https://media.api-sports.io/football/teams/2589.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565205,
-          "referee": "Marcel Birsan, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-03T15:30:00+00:00",
-          "timestamp": 1785771000,
-          "periods": {
-            "first": 1785771000,
-            "second": 1785774600
-          },
-          "venue": {
-            "id": 1913,
-            "name": "Cluj Arena",
-            "city": "Cluj-Napoca"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2599,
-            "name": "Universitatea Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2599.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2581,
-            "name": "FC Botosani",
-            "logo": "https://media.api-sports.io/football/teams/2581.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1593500,
-          "referee": "M. Erceg",
-          "timezone": "UTC",
-          "date": "2026-07-30T17:00:00+00:00",
-          "timestamp": 1785430800,
-          "periods": {
-            "first": 1785430800,
-            "second": 1785434400
-          },
-          "venue": {
-            "id": null,
-            "name": "Brann Stadion",
-            "city": "Bergen"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 848,
-          "name": "UEFA Europa Conference League",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/848.png",
-          "flag": null,
-          "season": 2026,
-          "round": "2nd Qualifying Round",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 319,
-            "name": "Brann",
-            "logo": "https://media.api-sports.io/football/teams/319.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2599,
-            "name": "Universitatea Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2599.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -280488,1020 +277450,6 @@
           "fulltime": {
             "home": 0,
             "away": 7
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
-  },
-  "6231": {
-    "statistics": {
-      "league": {
-        "id": 283,
-        "name": "Liga I",
-        "country": "Romania",
-        "logo": "https://media.api-sports.io/football/leagues/283.png",
-        "flag": "https://media.api-sports.io/flags/ro.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 6231,
-        "name": "Rapid",
-        "logo": "https://media.api-sports.io/football/teams/6231.png"
-      },
-      "form": "WDWDLWDWWW",
-      "fixtures": {
-        "played": {
-          "home": 6,
-          "away": 4,
-          "total": 10
-        },
-        "wins": {
-          "home": 4,
-          "away": 2,
-          "total": 6
-        },
-        "draws": {
-          "home": 1,
-          "away": 2,
-          "total": 3
-        },
-        "loses": {
-          "home": 1,
-          "away": 0,
-          "total": 1
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 10,
-            "away": 4,
-            "total": 14
-          },
-          "average": {
-            "home": "1.7",
-            "away": "1.0",
-            "total": "1.4"
-          },
-          "minute": {
-            "0-15": {
-              "total": null,
-              "percentage": null
-            },
-            "16-30": {
-              "total": 2,
-              "percentage": "15.38%"
-            },
-            "31-45": {
-              "total": 3,
-              "percentage": "23.08%"
-            },
-            "46-60": {
-              "total": 2,
-              "percentage": "15.38%"
-            },
-            "61-75": {
-              "total": 1,
-              "percentage": "7.69%"
-            },
-            "76-90": {
-              "total": 5,
-              "percentage": "38.46%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 8,
-              "under": 2
-            },
-            "1.5": {
-              "over": 4,
-              "under": 6
-            },
-            "2.5": {
-              "over": 2,
-              "under": 8
-            },
-            "3.5": {
-              "over": 0,
-              "under": 10
-            },
-            "4.5": {
-              "over": 0,
-              "under": 10
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 5,
-            "away": 1,
-            "total": 6
-          },
-          "average": {
-            "home": "0.8",
-            "away": "0.3",
-            "total": "0.6"
-          },
-          "minute": {
-            "0-15": {
-              "total": 1,
-              "percentage": "14.29%"
-            },
-            "16-30": {
-              "total": 1,
-              "percentage": "14.29%"
-            },
-            "31-45": {
-              "total": null,
-              "percentage": null
-            },
-            "46-60": {
-              "total": 2,
-              "percentage": "28.57%"
-            },
-            "61-75": {
-              "total": 2,
-              "percentage": "28.57%"
-            },
-            "76-90": {
-              "total": 1,
-              "percentage": "14.29%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 6,
-              "under": 4
-            },
-            "1.5": {
-              "over": 0,
-              "under": 10
-            },
-            "2.5": {
-              "over": 0,
-              "under": 10
-            },
-            "3.5": {
-              "over": 0,
-              "under": 10
-            },
-            "4.5": {
-              "over": 0,
-              "under": 10
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 1,
-          "draws": 1,
-          "loses": 1
-        },
-        "wins": {
-          "home": "3-1",
-          "away": "0-2"
-        },
-        "loses": {
-          "home": "0-1",
-          "away": null
-        },
-        "goals": {
-          "for": {
-            "home": 3,
-            "away": 2
-          },
-          "against": {
-            "home": 1,
-            "away": 1
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 1,
-        "away": 3,
-        "total": 4
-      },
-      "failed_to_score": {
-        "home": 1,
-        "away": 1,
-        "total": 2
-      },
-      "penalty": {
-        "scored": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "missed": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "total": 0
-      },
-      "lineups": [
-        {
-          "formation": "4-2-3-1",
-          "played": 5
-        },
-        {
-          "formation": "4-3-3",
-          "played": 4
-        },
-        {
-          "formation": "4-1-4-1",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 3,
-            "percentage": "12.50%"
-          },
-          "16-30": {
-            "total": 2,
-            "percentage": "8.33%"
-          },
-          "31-45": {
-            "total": 2,
-            "percentage": "8.33%"
-          },
-          "46-60": {
-            "total": 2,
-            "percentage": "8.33%"
-          },
-          "61-75": {
-            "total": 3,
-            "percentage": "12.50%"
-          },
-          "76-90": {
-            "total": 6,
-            "percentage": "25.00%"
-          },
-          "91-105": {
-            "total": 5,
-            "percentage": "20.83%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          },
-          "": {
-            "total": 1,
-            "percentage": "4.17%"
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": 1,
-            "percentage": "100.00%"
-          },
-          "91-105": {
-            "total": null,
-            "percentage": null
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1642927,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-02T16:00:00+00:00",
-          "timestamp": 1790956800,
-          "periods": {
-            "first": 1790956800,
-            "second": 1790960400
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": true
-          },
-          "away": {
-            "id": 495,
-            "name": "Genoa",
-            "logo": "https://media.api-sports.io/football/teams/495.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565257,
-          "referee": "Marius Florin Badea, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-18T18:00:00+00:00",
-          "timestamp": 1789754400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 19516,
-            "name": "Giulești",
-            "city": "Bucharest"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2592,
-            "name": "Arges Pitesti",
-            "logo": "https://media.api-sports.io/football/teams/2592.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565251,
-          "referee": "Andrei Moroita, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-12T18:30:00+00:00",
-          "timestamp": 1789237800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Rapid-Giulesti",
-            "city": "Bucharest"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2578,
-            "name": "FC Voluntari",
-            "logo": "https://media.api-sports.io/football/teams/2578.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565243,
-          "referee": "Marian Barbu, Romania",
-          "timezone": "UTC",
-          "date": "2026-09-06T17:30:00+00:00",
-          "timestamp": 1788715800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Oțelul",
-            "city": "Galati"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 6886,
-            "name": "Oţelul",
-            "logo": "https://media.api-sports.io/football/teams/6886.png",
-            "winner": false
-          },
-          "away": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1632262,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-03T17:30:00+00:00",
-          "timestamp": 1788456600,
-          "periods": {
-            "first": 1788456600,
-            "second": 1788460200
-          },
-          "venue": {
-            "id": 1894,
-            "name": "Stadionul Municipal",
-            "city": "Sibiu"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 285,
-          "name": "Cupa României",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/285.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Group Stage",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2606,
-            "name": "FC Politehnica Timisoara",
-            "logo": "https://media.api-sports.io/football/teams/2606.png",
-            "winner": false
-          },
-          "away": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565235,
-          "referee": "Florin Andrei, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-31T17:30:00+00:00",
-          "timestamp": 1788197400,
-          "periods": {
-            "first": 1788197400,
-            "second": 1788201000
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Rapid-Giulesti",
-            "city": "Bucharest"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": null
-          },
-          "away": {
-            "id": 632,
-            "name": "Universitatea Craiova",
-            "logo": "https://media.api-sports.io/football/teams/632.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565227,
-          "referee": "Szabolcs Kovacs, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-21T17:30:00+00:00",
-          "timestamp": 1787333400,
-          "periods": {
-            "first": 1787333400,
-            "second": 1787337000
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Ilie Oană",
-            "city": "Ploiesti"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 6",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2598,
-            "name": "Petrolul Ploiesti",
-            "logo": "https://media.api-sports.io/football/teams/2598.png",
-            "winner": false
-          },
-          "away": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565218,
-          "referee": "Horatiu Fesnic, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-15T18:30:00+00:00",
-          "timestamp": 1786818600,
-          "periods": {
-            "first": 1786818600,
-            "second": 1786822200
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Rapid-Giulesti",
-            "city": "Bucharest"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": false
-          },
-          "away": {
-            "id": 635,
-            "name": "Dinamo Bucuresti",
-            "logo": "https://media.api-sports.io/football/teams/635.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565214,
-          "referee": "G. Catalin",
-          "timezone": "UTC",
-          "date": "2026-08-07T18:00:00+00:00",
-          "timestamp": 1786125600,
-          "periods": {
-            "first": 1786125600,
-            "second": 1786129200
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Francisc von Neumann",
-            "city": "Arad"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2589,
-            "name": "Uta Arad",
-            "logo": "https://media.api-sports.io/football/teams/2589.png",
-            "winner": null
-          },
-          "away": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1565201,
-          "referee": "Rares George Vidican, Romania",
-          "timezone": "UTC",
-          "date": "2026-08-02T18:30:00+00:00",
-          "timestamp": 1785695400,
-          "periods": {
-            "first": 1785695400,
-            "second": 1785699000
-          },
-          "venue": {
-            "id": null,
-            "name": "Stadionul Rapid-Giulesti",
-            "city": "Bucharest"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 283,
-          "name": "Liga I",
-          "country": "Romania",
-          "logo": "https://media.api-sports.io/football/leagues/283.png",
-          "flag": "https://media.api-sports.io/flags/ro.svg",
-          "season": 2026,
-          "round": "Regular Season - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 6231,
-            "name": "Rapid",
-            "logo": "https://media.api-sports.io/football/teams/6231.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2246,
-            "name": "CFR 1907 Cluj",
-            "logo": "https://media.api-sports.io/football/teams/2246.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
           },
           "extratime": {
             "home": null,
