@@ -1324,20 +1324,39 @@
         "name": "Kayserispor",
         "logo": "https://media.api-sports.io/football/teams/1001.png"
       },
-      "points": 22,
+      "points": 25,
       "all": {
-        "played": 9,
-        "win": 7,
+        "played": 10,
+        "win": 8,
         "draw": 1,
         "lose": 1,
         "goals": {
-          "for": 18,
+          "for": 22,
           "against": 5
         }
       }
     },
     {
       "rank": 2,
+      "team": {
+        "id": 17259,
+        "name": "Iğdır FK",
+        "logo": "https://media.api-sports.io/football/teams/17259.png"
+      },
+      "points": 20,
+      "all": {
+        "played": 10,
+        "win": 6,
+        "draw": 2,
+        "lose": 2,
+        "goals": {
+          "for": 14,
+          "against": 8
+        }
+      }
+    },
+    {
+      "rank": 3,
       "team": {
         "id": 1003,
         "name": "Bursaspor",
@@ -1356,59 +1375,40 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "team": {
-        "id": 17259,
-        "name": "Iğdır FK",
-        "logo": "https://media.api-sports.io/football/teams/17259.png"
+        "id": 7395,
+        "name": "Batman Petrolspor",
+        "logo": "https://media.api-sports.io/football/teams/7395.png"
       },
       "points": 19,
       "all": {
-        "played": 9,
+        "played": 10,
         "win": 6,
         "draw": 1,
-        "lose": 2,
+        "lose": 3,
         "goals": {
-          "for": 14,
-          "against": 8
-        }
-      }
-    },
-    {
-      "rank": 4,
-      "team": {
-        "id": 3595,
-        "name": "Keçiörengücü",
-        "logo": "https://media.api-sports.io/football/teams/3595.png"
-      },
-      "points": 16,
-      "all": {
-        "played": 9,
-        "win": 4,
-        "draw": 4,
-        "lose": 1,
-        "goals": {
-          "for": 19,
-          "against": 10
+          "for": 20,
+          "against": 17
         }
       }
     },
     {
       "rank": 5,
       "team": {
-        "id": 7395,
-        "name": "Batman Petrolspor",
-        "logo": "https://media.api-sports.io/football/teams/7395.png"
+        "id": 3595,
+        "name": "Keçiörengücü",
+        "logo": "https://media.api-sports.io/football/teams/3595.png"
       },
-      "points": 16,
+      "points": 17,
       "all": {
-        "played": 9,
-        "win": 5,
-        "draw": 1,
-        "lose": 3,
+        "played": 10,
+        "win": 4,
+        "draw": 5,
+        "lose": 1,
         "goals": {
-          "for": 16,
-          "against": 15
+          "for": 19,
+          "against": 10
         }
       }
     },
@@ -1434,25 +1434,6 @@
     {
       "rank": 7,
       "team": {
-        "id": 1005,
-        "name": "Antalyaspor",
-        "logo": "https://media.api-sports.io/football/teams/1005.png"
-      },
-      "points": 15,
-      "all": {
-        "played": 9,
-        "win": 5,
-        "draw": 0,
-        "lose": 4,
-        "goals": {
-          "for": 15,
-          "against": 13
-        }
-      }
-    },
-    {
-      "rank": 8,
-      "team": {
         "id": 3605,
         "name": "Sarıyer",
         "logo": "https://media.api-sports.io/football/teams/3605.png"
@@ -1466,6 +1447,25 @@
         "goals": {
           "for": 13,
           "against": 14
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "team": {
+        "id": 1005,
+        "name": "Antalyaspor",
+        "logo": "https://media.api-sports.io/football/teams/1005.png"
+      },
+      "points": 15,
+      "all": {
+        "played": 10,
+        "win": 5,
+        "draw": 0,
+        "lose": 5,
+        "goals": {
+          "for": 15,
+          "against": 17
         }
       }
     },
@@ -1668,13 +1668,13 @@
       },
       "points": 5,
       "all": {
-        "played": 9,
+        "played": 10,
         "win": 1,
         "draw": 2,
-        "lose": 6,
+        "lose": 7,
         "goals": {
-          "for": 7,
-          "against": 20
+          "for": 9,
+          "against": 24
         }
       }
     },

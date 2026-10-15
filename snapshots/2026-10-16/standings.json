@@ -41,6 +41,25 @@
     {
       "rank": 3,
       "team": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media.api-sports.io/football/teams/48.png"
+      },
+      "points": 19,
+      "all": {
+        "played": 10,
+        "win": 5,
+        "draw": 4,
+        "lose": 1,
+        "goals": {
+          "for": 29,
+          "against": 12
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "team": {
         "id": 54,
         "name": "Birmingham",
         "logo": "https://media.api-sports.io/football/teams/54.png"
@@ -58,7 +77,26 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "team": {
+        "id": 72,
+        "name": "QPR",
+        "logo": "https://media.api-sports.io/football/teams/72.png"
+      },
+      "points": 17,
+      "all": {
+        "played": 10,
+        "win": 4,
+        "draw": 5,
+        "lose": 1,
+        "goals": {
+          "for": 15,
+          "against": 9
+        }
+      }
+    },
+    {
+      "rank": 6,
       "team": {
         "id": 60,
         "name": "West Brom",
@@ -77,26 +115,26 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 7,
       "team": {
-        "id": 48,
-        "name": "West Ham",
-        "logo": "https://media.api-sports.io/football/teams/48.png"
+        "id": 41,
+        "name": "Southampton",
+        "logo": "https://media.api-sports.io/football/teams/41.png"
       },
       "points": 16,
       "all": {
-        "played": 9,
-        "win": 4,
-        "draw": 4,
-        "lose": 1,
+        "played": 10,
+        "win": 6,
+        "draw": 2,
+        "lose": 2,
         "goals": {
-          "for": 23,
-          "against": 12
+          "for": 21,
+          "against": 10
         }
       }
     },
     {
-      "rank": 6,
+      "rank": 8,
       "team": {
         "id": 75,
         "name": "Stoke City",
@@ -115,7 +153,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 9,
       "team": {
         "id": 67,
         "name": "Blackburn",
@@ -134,26 +172,7 @@
       }
     },
     {
-      "rank": 8,
-      "team": {
-        "id": 72,
-        "name": "QPR",
-        "logo": "https://media.api-sports.io/football/teams/72.png"
-      },
-      "points": 14,
-      "all": {
-        "played": 9,
-        "win": 3,
-        "draw": 5,
-        "lose": 1,
-        "goals": {
-          "for": 11,
-          "against": 8
-        }
-      }
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "team": {
         "id": 39,
         "name": "Wolves",
@@ -172,7 +191,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "team": {
         "id": 58,
         "name": "Millwall",
@@ -191,7 +210,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "team": {
         "id": 56,
         "name": "Bristol City",
@@ -210,7 +229,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "team": {
         "id": 1335,
         "name": "Charlton",
@@ -225,25 +244,6 @@
         "goals": {
           "for": 10,
           "against": 13
-        }
-      }
-    },
-    {
-      "rank": 13,
-      "team": {
-        "id": 41,
-        "name": "Southampton",
-        "logo": "https://media.api-sports.io/football/teams/41.png"
-      },
-      "points": 13,
-      "all": {
-        "played": 9,
-        "win": 5,
-        "draw": 2,
-        "lose": 2,
-        "goals": {
-          "for": 20,
-          "against": 10
         }
       }
     },
@@ -275,18 +275,37 @@
       },
       "points": 12,
       "all": {
-        "played": 9,
+        "played": 10,
         "win": 3,
         "draw": 3,
-        "lose": 3,
+        "lose": 4,
         "goals": {
-          "for": 12,
-          "against": 11
+          "for": 14,
+          "against": 14
         }
       }
     },
     {
       "rank": 16,
+      "team": {
+        "id": 1355,
+        "name": "Portsmouth",
+        "logo": "https://media.api-sports.io/football/teams/1355.png"
+      },
+      "points": 11,
+      "all": {
+        "played": 9,
+        "win": 3,
+        "draw": 2,
+        "lose": 4,
+        "goals": {
+          "for": 12,
+          "against": 13
+        }
+      }
+    },
+    {
+      "rank": 17,
       "team": {
         "id": 1837,
         "name": "Wrexham",
@@ -305,7 +324,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "team": {
         "id": 1379,
         "name": "Lincoln",
@@ -313,18 +332,18 @@
       },
       "points": 11,
       "all": {
-        "played": 9,
+        "played": 10,
         "win": 3,
         "draw": 2,
-        "lose": 4,
+        "lose": 5,
         "goals": {
           "for": 7,
-          "against": 11
+          "against": 17
         }
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "team": {
         "id": 43,
         "name": "Cardiff",
@@ -343,7 +362,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "team": {
         "id": 71,
         "name": "Norwich",
@@ -351,32 +370,13 @@
       },
       "points": 9,
       "all": {
-        "played": 9,
+        "played": 10,
         "win": 3,
         "draw": 0,
-        "lose": 6,
+        "lose": 7,
         "goals": {
           "for": 17,
-          "against": 19
-        }
-      }
-    },
-    {
-      "rank": 20,
-      "team": {
-        "id": 1355,
-        "name": "Portsmouth",
-        "logo": "https://media.api-sports.io/football/teams/1355.png"
-      },
-      "points": 8,
-      "all": {
-        "played": 8,
-        "win": 2,
-        "draw": 2,
-        "lose": 4,
-        "goals": {
-          "for": 9,
-          "against": 11
+          "against": 20
         }
       }
     },
@@ -427,13 +427,13 @@
       },
       "points": 6,
       "all": {
-        "played": 9,
+        "played": 10,
         "win": 1,
         "draw": 3,
-        "lose": 5,
+        "lose": 6,
         "goals": {
-          "for": 8,
-          "against": 15
+          "for": 9,
+          "against": 19
         }
       }
     },
