@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T01:55:24.883Z",
-  "totalTeams": 42,
-  "totalLeagues": 4,
-  "teamsWithFallback": 35,
+  "generatedAt": "2026-10-20T01:48:54.954Z",
+  "totalTeams": 44,
+  "totalLeagues": 5,
+  "teamsWithFallback": 36,
   "data": {
     "33": {
       "teamId": 33,
@@ -428,13 +428,6 @@
           "photo": "https://media.api-sports.io/football/players/351015.png",
           "goals": 7,
           "appearances": 10
-        },
-        {
-          "id": 1826,
-          "name": "S. Haller",
-          "photo": "https://media.api-sports.io/football/players/1826.png",
-          "goals": 3,
-          "appearances": 8
         }
       ],
       "topAssists": [
@@ -646,7 +639,7 @@
           "id": 25330,
           "name": "Y. Osako",
           "photo": "https://media.api-sports.io/football/players/25330.png",
-          "goals": 3,
+          "goals": 5,
           "appearances": 8
         },
         "topAssist": {
@@ -664,7 +657,15 @@
           "redCards": 0
         }
       },
-      "topScorers": [],
+      "topScorers": [
+        {
+          "id": 25330,
+          "name": "Y. Osako",
+          "photo": "https://media.api-sports.io/football/players/25330.png",
+          "goals": 5,
+          "appearances": 8
+        }
+      ],
       "topAssists": []
     },
     "290": {
@@ -837,15 +838,7 @@
           "redCards": 1
         }
       },
-      "topScorers": [
-        {
-          "id": 44497,
-          "name": "I. Jebali",
-          "photo": "https://media.api-sports.io/football/players/44497.png",
-          "goals": 3,
-          "appearances": 8
-        }
-      ],
+      "topScorers": [],
       "topAssists": []
     },
     "294": {
@@ -1057,14 +1050,14 @@
           "name": "Y. Soma",
           "photo": "https://media.api-sports.io/football/players/32902.png",
           "goals": 3,
-          "appearances": 9
+          "appearances": 10
         },
         "topAssist": {
           "id": 32902,
           "name": "Y. Soma",
           "photo": "https://media.api-sports.io/football/players/32902.png",
           "assists": 3,
-          "appearances": 9
+          "appearances": 10
         },
         "mostCards": {
           "id": 199903,
@@ -1080,7 +1073,14 @@
           "name": "Y. Soma",
           "photo": "https://media.api-sports.io/football/players/32902.png",
           "goals": 3,
-          "appearances": 9
+          "appearances": 10
+        },
+        {
+          "id": 296645,
+          "name": "T. Yengi",
+          "photo": "https://media.api-sports.io/football/players/296645.png",
+          "goals": 3,
+          "appearances": 10
         }
       ],
       "topAssists": [
@@ -1089,7 +1089,7 @@
           "name": "Y. Soma",
           "photo": "https://media.api-sports.io/football/players/32902.png",
           "assists": 3,
-          "appearances": 9
+          "appearances": 10
         }
       ]
     },
@@ -1177,7 +1177,7 @@
           "name": "K. Kawano",
           "photo": "https://media.api-sports.io/football/players/153323.png",
           "goals": 3,
-          "appearances": 6
+          "appearances": 7
         },
         "topAssist": {
           "id": 27076,
@@ -1224,7 +1224,7 @@
           "name": "S. Morooka",
           "photo": "https://media.api-sports.io/football/players/403322.png",
           "goals": 3,
-          "appearances": 9
+          "appearances": 10
         },
         "topAssist": {
           "id": 282282,
@@ -1247,7 +1247,7 @@
           "name": "S. Morooka",
           "photo": "https://media.api-sports.io/football/players/403322.png",
           "goals": 3,
-          "appearances": 9
+          "appearances": 10
         }
       ],
       "topAssists": []
@@ -1602,7 +1602,13 @@
           "goals": 2,
           "appearances": 2
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 659,
+          "name": "M. Caqueret",
+          "photo": "https://media.api-sports.io/football/players/659.png",
+          "assists": 1,
+          "appearances": 6
+        },
         "mostCards": {
           "id": 659,
           "name": "M. Caqueret",
@@ -1702,6 +1708,61 @@
       ],
       "topAssists": []
     },
+    "2075": {
+      "teamId": 2075,
+      "teamName": "FF Jaro",
+      "season": 2026,
+      "leagueId": 244,
+      "leagueName": "Veikkausliiga",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 361422,
+          "name": "V. Vuorinen",
+          "photo": "https://media.api-sports.io/football/players/361422.png",
+          "goals": 2,
+          "appearances": 26
+        },
+        "topAssist": {
+          "id": 138750,
+          "name": "F. Østigård Ness",
+          "photo": "https://media.api-sports.io/football/players/138750.png",
+          "assists": 5,
+          "appearances": 27
+        },
+        "mostCards": {
+          "id": 55615,
+          "name": "A. Vidjeskog",
+          "photo": "https://media.api-sports.io/football/players/55615.png",
+          "yellowCards": 8,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 361422,
+          "name": "V. Vuorinen",
+          "photo": "https://media.api-sports.io/football/players/361422.png",
+          "goals": 2,
+          "appearances": 26
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 138750,
+          "name": "F. Østigård Ness",
+          "photo": "https://media.api-sports.io/football/players/138750.png",
+          "assists": 5,
+          "appearances": 27
+        },
+        {
+          "id": 361422,
+          "name": "V. Vuorinen",
+          "photo": "https://media.api-sports.io/football/players/361422.png",
+          "assists": 2,
+          "appearances": 26
+        }
+      ]
+    },
     "2242": {
       "teamId": 2242,
       "teamName": "FC Cincinnati",
@@ -1714,14 +1775,14 @@
           "name": "K. Denkey",
           "photo": "https://media.api-sports.io/football/players/21036.png",
           "goals": 17,
-          "appearances": 27
+          "appearances": 28
         },
         "topAssist": {
           "id": 15798,
           "name": "Evander",
           "photo": "https://media.api-sports.io/football/players/15798.png",
           "assists": 8,
-          "appearances": 26
+          "appearances": 27
         },
         "mostCards": {
           "id": 28398,
@@ -1737,7 +1798,7 @@
           "name": "K. Denkey",
           "photo": "https://media.api-sports.io/football/players/21036.png",
           "goals": 17,
-          "appearances": 27
+          "appearances": 28
         }
       ],
       "topAssists": [
@@ -1746,9 +1807,23 @@
           "name": "Evander",
           "photo": "https://media.api-sports.io/football/players/15798.png",
           "assists": 8,
-          "appearances": 26
+          "appearances": 27
         }
       ]
+    },
+    "10669": {
+      "teamId": 10669,
+      "teamName": "PK-35",
+      "season": 2026,
+      "leagueId": 244,
+      "leagueName": "Veikkausliiga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T01:55:11.110Z",
+  "generatedAt": "2026-10-20T01:48:41.806Z",
   "picks": [
     {
       "fixtureId": 1556101,
@@ -187,6 +187,24 @@
       "side": "away"
     },
     {
+      "fixtureId": 1646596,
+      "leagueId": 244,
+      "season": 2026,
+      "kickoffTs": 1792594800,
+      "homeTeamId": 10669,
+      "homeTeam": "PK-35",
+      "awayTeamId": 2075,
+      "awayTeam": "FF Jaro",
+      "expectedHome": 1.337,
+      "expectedAway": 0.519,
+      "expectedTotal": 1.856,
+      "teamGoalsHomeLambda": 1.569,
+      "teamGoalsAwayLambda": 0.568,
+      "type": "over35",
+      "label": "Toplam 3.5 Üst",
+      "prob": 0.133
+    },
+    {
       "fixtureId": 1635647,
       "leagueId": 2,
       "season": 2026,
@@ -231,14 +249,14 @@
       "homeTeam": "Levante",
       "awayTeamId": 531,
       "awayTeam": "Athletic Club",
-      "expectedHome": 2.238,
-      "expectedAway": 0.619,
-      "expectedTotal": 2.857,
-      "teamGoalsHomeLambda": 2.451,
-      "teamGoalsAwayLambda": 0.776,
+      "expectedHome": 2.156,
+      "expectedAway": 0.596,
+      "expectedTotal": 2.752,
+      "teamGoalsHomeLambda": 2.361,
+      "teamGoalsAwayLambda": 0.748,
       "type": "btts",
       "label": "Karşılıklı Gol Var",
-      "prob": 0.4289
+      "prob": 0.4135
     },
     {
       "fixtureId": 1635621,

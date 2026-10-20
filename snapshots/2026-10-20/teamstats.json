@@ -380,7 +380,7 @@
       {
         "fixture": {
           "id": 1563197,
-          "referee": "Tim Robinson",
+          "referee": "Tim Robinson, England",
           "timezone": "UTC",
           "date": "2026-10-13T18:45:00+00:00",
           "timestamp": 1791917100,
@@ -1312,7 +1312,7 @@
       {
         "fixture": {
           "id": 1557428,
-          "referee": "John Brooks",
+          "referee": "John Brooks, England",
           "timezone": "UTC",
           "date": "2026-10-17T14:00:00+00:00",
           "timestamp": 1792245600,
@@ -1452,7 +1452,7 @@
       {
         "fixture": {
           "id": 1557424,
-          "referee": "Chris Kavanagh",
+          "referee": "Chris Kavanagh, England",
           "timezone": "UTC",
           "date": "2026-10-11T15:30:00+00:00",
           "timestamp": 1791732600,
@@ -2314,7 +2314,7 @@
       {
         "fixture": {
           "id": 1557433,
-          "referee": "Farai Hallam",
+          "referee": "Farai Hallam, England",
           "timezone": "UTC",
           "date": "2026-10-17T14:00:00+00:00",
           "timestamp": 1792245600,
@@ -2454,7 +2454,7 @@
       {
         "fixture": {
           "id": 1557424,
-          "referee": "Chris Kavanagh",
+          "referee": "Chris Kavanagh, England",
           "timezone": "UTC",
           "date": "2026-10-11T15:30:00+00:00",
           "timestamp": 1791732600,
@@ -3316,7 +3316,7 @@
       {
         "fixture": {
           "id": 1552790,
-          "referee": "Willy Delajod",
+          "referee": "Willy Delajod, France",
           "timezone": "UTC",
           "date": "2026-10-17T15:15:00+00:00",
           "timestamp": 1792250100,
@@ -3456,7 +3456,7 @@
       {
         "fixture": {
           "id": 1552780,
-          "referee": "Mathieu Vernice",
+          "referee": "Mathieu Vernice, France",
           "timezone": "UTC",
           "date": "2026-10-10T18:45:00+00:00",
           "timestamp": 1791657900,
@@ -3526,7 +3526,7 @@
       {
         "fixture": {
           "id": 1552773,
-          "referee": "Francois Letexier",
+          "referee": "François Letexier, France",
           "timezone": "UTC",
           "date": "2026-09-20T18:45:00+00:00",
           "timestamp": 1789929900,
@@ -3596,7 +3596,7 @@
       {
         "fixture": {
           "id": 1552757,
-          "referee": "Willy Delajod",
+          "referee": "Willy Delajod, France",
           "timezone": "UTC",
           "date": "2026-09-13T18:45:00+00:00",
           "timestamp": 1789325100,
@@ -3736,7 +3736,7 @@
       {
         "fixture": {
           "id": 1552753,
-          "referee": "Jerome Brisard",
+          "referee": "Jérôme Brisard, France",
           "timezone": "UTC",
           "date": "2026-09-04T19:05:00+00:00",
           "timestamp": 1788548700,
@@ -3876,7 +3876,7 @@
       {
         "fixture": {
           "id": 1552735,
-          "referee": "Bastein Dechepy",
+          "referee": "Bastien Dechepy, France",
           "timezone": "UTC",
           "date": "2026-08-23T18:45:00+00:00",
           "timestamp": 1787510700,
@@ -4318,7 +4318,7 @@
       {
         "fixture": {
           "id": 1575188,
-          "referee": "Daniel Schlager",
+          "referee": "Daniel Schlager, Germany",
           "timezone": "UTC",
           "date": "2026-10-17T13:30:00+00:00",
           "timestamp": 1792243800,
@@ -5324,7 +5324,7 @@
       {
         "fixture": {
           "id": 1575190,
-          "referee": "Robert Hartmann",
+          "referee": "Robert Hartmann, Germany",
           "timezone": "UTC",
           "date": "2026-10-17T13:30:00+00:00",
           "timestamp": 1792243800,
@@ -8338,7 +8338,7 @@
       {
         "fixture": {
           "id": 1494780,
-          "referee": "Jorgen Haugen",
+          "referee": "Jorgen Haugen, Norway",
           "timezone": "UTC",
           "date": "2026-10-17T12:00:00+00:00",
           "timestamp": 1792238400,
@@ -9355,8 +9355,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493187,
+          "referee": "Pablo Echavarria",
+          "timezone": "UTC",
+          "date": "2026-10-20T00:15:00+00:00",
+          "timestamp": 1792455300,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 66,
+            "name": "Estadio Guillermo Laza",
+            "city": "Flores"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 74,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 476,
+            "name": "Deportivo Riestra",
+            "logo": "https://media.api-sports.io/football/teams/476.png",
+            "winner": null
+          },
+          "away": {
+            "id": 441,
+            "name": "Union Santa Fe",
+            "logo": "https://media.api-sports.io/football/teams/441.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493181,
-          "referee": "D. Herrera",
+          "referee": "Dario Herrera, Argentina",
           "timezone": "UTC",
           "date": "2026-10-10T00:45:00+00:00",
           "timestamp": 1791593100,
@@ -9496,7 +9566,7 @@
       {
         "fixture": {
           "id": 1493150,
-          "referee": "L. Lobo Medina",
+          "referee": "Luis Lobo Medina, Argentina",
           "timezone": "UTC",
           "date": "2026-09-19T19:45:00+00:00",
           "timestamp": 1789847100,
@@ -9507,7 +9577,7 @@
           "venue": {
             "id": null,
             "name": "Estadio 15 de Abril",
-            "city": "Santa Fe"
+            "city": "Santa Fe de la Vera Cruz"
           },
           "status": {
             "long": "Match Finished",
@@ -9566,7 +9636,7 @@
       {
         "fixture": {
           "id": 1493135,
-          "referee": "N. Arasa",
+          "referee": "Nazareno Arasa, Argentina",
           "timezone": "UTC",
           "date": "2026-09-12T23:00:00+00:00",
           "timestamp": 1789254000,
@@ -9576,7 +9646,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Mario Alberto Kempes",
+            "name": "Mario Alberto Kempes",
             "city": "Cordoba"
           },
           "status": {
@@ -9636,7 +9706,7 @@
       {
         "fixture": {
           "id": 1493120,
-          "referee": "N. Lamolina",
+          "referee": "Nicolas Lamolina, Argentina",
           "timezone": "UTC",
           "date": "2026-09-08T00:15:00+00:00",
           "timestamp": 1788826500,
@@ -9647,7 +9717,7 @@
           "venue": {
             "id": null,
             "name": "Estadio 15 de Abril",
-            "city": "Santa Fe"
+            "city": "Santa Fe de la Vera Cruz"
           },
           "status": {
             "long": "Match Finished",
@@ -9706,7 +9776,7 @@
       {
         "fixture": {
           "id": 1493106,
-          "referee": "P. Echavarria",
+          "referee": "Pablo Echavarria, Argentina",
           "timezone": "UTC",
           "date": "2026-08-28T22:00:00+00:00",
           "timestamp": 1787954400,
@@ -9717,7 +9787,7 @@
           "venue": {
             "id": null,
             "name": "Estadio 15 de Abril",
-            "city": "Santa Fe"
+            "city": "Santa Fe de la Vera Cruz"
           },
           "status": {
             "long": "Match Finished",
@@ -9776,7 +9846,7 @@
       {
         "fixture": {
           "id": 1493077,
-          "referee": "B. Amiconi",
+          "referee": "Bruno Amiconi, Argentina",
           "timezone": "UTC",
           "date": "2026-08-21T17:30:00+00:00",
           "timestamp": 1787333400,
@@ -9846,7 +9916,7 @@
       {
         "fixture": {
           "id": 1493074,
-          "referee": "L. Rey Hilfer",
+          "referee": "Leandro Rey Hilfer, Argentina",
           "timezone": "UTC",
           "date": "2026-08-15T17:30:00+00:00",
           "timestamp": 1786815000,
@@ -9856,7 +9926,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estadio Pedro Bidegain",
+            "name": "Pedro Bidegain",
             "city": "Buenos Aires"
           },
           "status": {
@@ -9916,7 +9986,7 @@
       {
         "fixture": {
           "id": 1493061,
-          "referee": "N. Arasa",
+          "referee": "Nazareno Arasa, Argentina",
           "timezone": "UTC",
           "date": "2026-08-11T00:15:00+00:00",
           "timestamp": 1786407300,
@@ -9927,7 +9997,7 @@
           "venue": {
             "id": null,
             "name": "Estadio 15 de Abril",
-            "city": "Santa Fe"
+            "city": "Santa Fe de la Vera Cruz"
           },
           "status": {
             "long": "Match Finished",
@@ -9972,76 +10042,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1493031,
-          "referee": "N. Lamolina",
-          "timezone": "UTC",
-          "date": "2026-08-06T22:00:00+00:00",
-          "timestamp": 1786053600,
-          "periods": {
-            "first": 1786053600,
-            "second": 1786057200
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio 15 de Abril",
-            "city": "Santa Fe"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 2",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 441,
-            "name": "Union Santa Fe",
-            "logo": "https://media.api-sports.io/football/teams/441.png",
-            "winner": true
-          },
-          "away": {
-            "id": 446,
-            "name": "Lanus",
-            "logo": "https://media.api-sports.io/football/teams/446.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -10381,8 +10381,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493187,
+          "referee": "Pablo Echavarria",
+          "timezone": "UTC",
+          "date": "2026-10-20T00:15:00+00:00",
+          "timestamp": 1792455300,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 66,
+            "name": "Estadio Guillermo Laza",
+            "city": "Flores"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 74,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 476,
+            "name": "Deportivo Riestra",
+            "logo": "https://media.api-sports.io/football/teams/476.png",
+            "winner": null
+          },
+          "away": {
+            "id": 441,
+            "name": "Union Santa Fe",
+            "logo": "https://media.api-sports.io/football/teams/441.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493178,
-          "referee": "B. Amiconi",
+          "referee": "Bruno Amiconi, Argentina",
           "timezone": "UTC",
           "date": "2026-10-11T17:45:00+00:00",
           "timestamp": 1791740700,
@@ -10452,7 +10522,7 @@
       {
         "fixture": {
           "id": 1493157,
-          "referee": "A. Merlos",
+          "referee": "Andres Merlos, Argentina",
           "timezone": "UTC",
           "date": "2026-10-05T19:45:00+00:00",
           "timestamp": 1791229500,
@@ -10522,7 +10592,7 @@
       {
         "fixture": {
           "id": 1493142,
-          "referee": "A. Gariano",
+          "referee": "Carlos Andres Gariano, Argentina",
           "timezone": "UTC",
           "date": "2026-09-19T17:30:00+00:00",
           "timestamp": 1789839000,
@@ -10532,7 +10602,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Victor Legrotaglie",
+            "name": "Víctor Legrotaglie",
             "city": "Mendoza"
           },
           "status": {
@@ -10592,7 +10662,7 @@
       {
         "fixture": {
           "id": 1493127,
-          "referee": "L. Rey Hilfer",
+          "referee": "Leandro Rey Hilfer, Argentina",
           "timezone": "UTC",
           "date": "2026-09-14T22:00:00+00:00",
           "timestamp": 1789423200,
@@ -10603,7 +10673,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Guillermo Laza",
-            "city": "Buenos Aires"
+            "city": "Flores"
           },
           "status": {
             "long": "Match Finished",
@@ -10732,7 +10802,7 @@
       {
         "fixture": {
           "id": 1493115,
-          "referee": "A. Carranza",
+          "referee": "Alvaro Caranza, Argentina",
           "timezone": "UTC",
           "date": "2026-09-04T22:00:00+00:00",
           "timestamp": 1788559200,
@@ -10743,7 +10813,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Ciudad de Vicente Lopez",
-            "city": "Buenos Aires"
+            "city": "Florida"
           },
           "status": {
             "long": "Match Finished",
@@ -10802,7 +10872,7 @@
       {
         "fixture": {
           "id": 1493097,
-          "referee": "N. Arasa",
+          "referee": "Nazareno Arasa, Argentina",
           "timezone": "UTC",
           "date": "2026-08-29T17:45:00+00:00",
           "timestamp": 1788025500,
@@ -10813,7 +10883,7 @@
           "venue": {
             "id": null,
             "name": "Estadio Guillermo Laza",
-            "city": "Buenos Aires"
+            "city": "Flores"
           },
           "status": {
             "long": "Match Finished",
@@ -11006,76 +11076,6 @@
           "penalty": {
             "home": 4,
             "away": 2
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1493070,
-          "referee": "L. Lobo Medina",
-          "timezone": "UTC",
-          "date": "2026-08-15T22:00:00+00:00",
-          "timestamp": 1786831200,
-          "periods": {
-            "first": 1786831200,
-            "second": 1786834800
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Marcelo Bielsa",
-            "city": "Rosario"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 457,
-            "name": "Newells Old Boys",
-            "logo": "https://media.api-sports.io/football/teams/457.png",
-            "winner": true
-          },
-          "away": {
-            "id": 476,
-            "name": "Deportivo Riestra",
-            "logo": "https://media.api-sports.io/football/teams/476.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
           }
         }
       }
@@ -11388,7 +11388,7 @@
       {
         "fixture": {
           "id": 1550156,
-          "referee": "Juan Luca Sacchi",
+          "referee": "Juan Luca Sacchi, Italy",
           "timezone": "UTC",
           "date": "2026-10-17T13:00:00+00:00",
           "timestamp": 1792242000,
@@ -12390,7 +12390,7 @@
       {
         "fixture": {
           "id": 1550148,
-          "referee": "Rosario Abisso",
+          "referee": "Rosario Abisso, Italy",
           "timezone": "UTC",
           "date": "2026-10-17T18:45:00+00:00",
           "timestamp": 1792262700,
@@ -12530,7 +12530,7 @@
       {
         "fixture": {
           "id": 1550139,
-          "referee": "Michael Fabbri",
+          "referee": "Michael Fabbri, Italy",
           "timezone": "UTC",
           "date": "2026-10-11T10:30:00+00:00",
           "timestamp": 1791714600,
@@ -13392,7 +13392,7 @@
       {
         "fixture": {
           "id": 1570413,
-          "referee": "Ricardo De Burgos Bengoetxea",
+          "referee": "Ricardo De Burgos Bengoetxea, Spain",
           "timezone": "UTC",
           "date": "2026-10-17T16:30:00+00:00",
           "timestamp": 1792254600,
@@ -13532,7 +13532,7 @@
       {
         "fixture": {
           "id": 1570404,
-          "referee": "J. Manzano",
+          "referee": "Jesus Gil Manzano, Spain",
           "timezone": "UTC",
           "date": "2026-10-10T16:30:00+00:00",
           "timestamp": 1791649800,
@@ -13602,7 +13602,7 @@
       {
         "fixture": {
           "id": 1570400,
-          "referee": "J. Martinez",
+          "referee": "Juan Martinez Munuera, Spain",
           "timezone": "UTC",
           "date": "2026-09-19T19:00:00+00:00",
           "timestamp": 1789844400,
@@ -13672,7 +13672,7 @@
       {
         "fixture": {
           "id": 1570385,
-          "referee": "J. Munuera",
+          "referee": "José Luis Munuera Montero, Spain",
           "timezone": "UTC",
           "date": "2026-09-16T19:30:00+00:00",
           "timestamp": 1789587000,
@@ -13742,7 +13742,7 @@
       {
         "fixture": {
           "id": 1570376,
-          "referee": "J. A. Gonzalez Esteban",
+          "referee": "Jon Ander Gonzalez Esteban, Spain",
           "timezone": "UTC",
           "date": "2026-09-13T14:15:00+00:00",
           "timestamp": 1789308900,
@@ -13882,7 +13882,7 @@
       {
         "fixture": {
           "id": 1570371,
-          "referee": "I. Diaz",
+          "referee": "Isidro Diaz de Mera Escuderos, Spain",
           "timezone": "UTC",
           "date": "2026-09-06T14:15:00+00:00",
           "timestamp": 1788704100,
@@ -13952,7 +13952,7 @@
       {
         "fixture": {
           "id": 1570354,
-          "referee": "F. Maeso",
+          "referee": "Francisco Hernandez Maeso, Spain",
           "timezone": "UTC",
           "date": "2026-08-31T19:30:00+00:00",
           "timestamp": 1788204600,
@@ -14022,7 +14022,7 @@
       {
         "fixture": {
           "id": 1570335,
-          "referee": "M. Ortiz",
+          "referee": "Miguel Angel Ortiz Arias, Spain",
           "timezone": "UTC",
           "date": "2026-08-27T19:00:00+00:00",
           "timestamp": 1787857200,
@@ -14398,7 +14398,7 @@
       {
         "fixture": {
           "id": 1570416,
-          "referee": "Alejandro Hernandez",
+          "referee": "Alejandro Hernandez, Spain",
           "timezone": "UTC",
           "date": "2026-10-17T12:00:00+00:00",
           "timestamp": 1792238400,
@@ -14538,7 +14538,7 @@
       {
         "fixture": {
           "id": 1570403,
-          "referee": "A. Quintero",
+          "referee": "Alejandro Quintero Gonzalez, Spain",
           "timezone": "UTC",
           "date": "2026-10-10T14:15:00+00:00",
           "timestamp": 1791641700,
@@ -14608,7 +14608,7 @@
       {
         "fixture": {
           "id": 1570394,
-          "referee": "M. Ortiz",
+          "referee": "Miguel Angel Ortiz Arias, Spain",
           "timezone": "UTC",
           "date": "2026-09-20T14:15:00+00:00",
           "timestamp": 1789913700,
@@ -14678,7 +14678,7 @@
       {
         "fixture": {
           "id": 1570384,
-          "referee": "F. Maeso",
+          "referee": "Francisco Hernandez Maeso, Spain",
           "timezone": "UTC",
           "date": "2026-09-16T17:00:00+00:00",
           "timestamp": 1789578000,
@@ -14748,7 +14748,7 @@
       {
         "fixture": {
           "id": 1570380,
-          "referee": "J. Martinez",
+          "referee": "Juan Martinez Munuera, Spain",
           "timezone": "UTC",
           "date": "2026-09-13T19:00:00+00:00",
           "timestamp": 1789326000,
@@ -14888,7 +14888,7 @@
       {
         "fixture": {
           "id": 1570364,
-          "referee": "J. Munuera",
+          "referee": "José Luis Munuera Montero, Spain",
           "timezone": "UTC",
           "date": "2026-09-05T14:15:00+00:00",
           "timestamp": 1788617700,
@@ -14958,7 +14958,7 @@
       {
         "fixture": {
           "id": 1570362,
-          "referee": "J. Alberola",
+          "referee": "Javier Alberola Rojas, Spain",
           "timezone": "UTC",
           "date": "2026-08-29T19:30:00+00:00",
           "timestamp": 1788031800,
@@ -15028,7 +15028,7 @@
       {
         "fixture": {
           "id": 1570344,
-          "referee": "A. Hernandez",
+          "referee": "Alejandro Hernandez, Spain",
           "timezone": "UTC",
           "date": "2026-08-23T15:00:00+00:00",
           "timestamp": 1787497200,
@@ -15404,7 +15404,7 @@
       {
         "fixture": {
           "id": 1570422,
-          "referee": "Victor Garcia Verdura",
+          "referee": "Victor Garcia Verdura, Spain",
           "timezone": "UTC",
           "date": "2026-10-17T14:15:00+00:00",
           "timestamp": 1792246500,
@@ -15544,7 +15544,7 @@
       {
         "fixture": {
           "id": 1570411,
-          "referee": "I. Diaz",
+          "referee": "Isidro Diaz de Mera Escuderos, Spain",
           "timezone": "UTC",
           "date": "2026-10-10T19:00:00+00:00",
           "timestamp": 1791658800,
@@ -15614,7 +15614,7 @@
       {
         "fixture": {
           "id": 1570402,
-          "referee": "M. Busquets",
+          "referee": "Mateo Busquets Ferrer, Spain",
           "timezone": "UTC",
           "date": "2026-09-20T16:30:00+00:00",
           "timestamp": 1789921800,
@@ -15684,7 +15684,7 @@
       {
         "fixture": {
           "id": 1570390,
-          "referee": "M. Ortiz",
+          "referee": "Miguel Angel Ortiz Arias, Spain",
           "timezone": "UTC",
           "date": "2026-09-17T19:30:00+00:00",
           "timestamp": 1789673400,
@@ -15754,7 +15754,7 @@
       {
         "fixture": {
           "id": 1570382,
-          "referee": "F. Maeso",
+          "referee": "Francisco Hernandez Maeso, Spain",
           "timezone": "UTC",
           "date": "2026-09-14T19:00:00+00:00",
           "timestamp": 1789412400,
@@ -15894,7 +15894,7 @@
       {
         "fixture": {
           "id": 1570372,
-          "referee": "J. Manzano",
+          "referee": "Jesus Gil Manzano, Spain",
           "timezone": "UTC",
           "date": "2026-09-05T19:00:00+00:00",
           "timestamp": 1788634800,
@@ -15964,7 +15964,7 @@
       {
         "fixture": {
           "id": 1570353,
-          "referee": "I. Diaz",
+          "referee": "Isidro Diaz de Mera Escuderos, Spain",
           "timezone": "UTC",
           "date": "2026-08-28T19:30:00+00:00",
           "timestamp": 1787945400,
@@ -16034,7 +16034,7 @@
       {
         "fixture": {
           "id": 1570344,
-          "referee": "A. Hernandez",
+          "referee": "Alejandro Hernandez, Spain",
           "timezone": "UTC",
           "date": "2026-08-23T15:00:00+00:00",
           "timestamp": 1787497200,
@@ -18558,7 +18558,7 @@
       {
         "fixture": {
           "id": 1584428,
-          "referee": "O. Ergun",
+          "referee": "Ozan Ergun, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-10T16:00:00+00:00",
           "timestamp": 1791648000,
@@ -18768,7 +18768,7 @@
       {
         "fixture": {
           "id": 1584408,
-          "referee": "M. Turkmen",
+          "referee": "Mehmet Turkmen, Türkiye",
           "timezone": "UTC",
           "date": "2026-09-14T17:00:00+00:00",
           "timestamp": 1789405200,
@@ -18908,7 +18908,7 @@
       {
         "fixture": {
           "id": 1584397,
-          "referee": "H. U. Meler",
+          "referee": "Halil Umut Meler, Türkiye",
           "timezone": "UTC",
           "date": "2026-09-05T17:00:00+00:00",
           "timestamp": 1788627600,
@@ -18918,7 +18918,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Chobani Stadium Fenerbahce Sukru Saracoglu",
+            "name": "Chobani Stadium",
             "city": "Istanbul"
           },
           "status": {
