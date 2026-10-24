@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23T02:19:24.502Z",
+  "generatedAt": "2026-10-24T02:12:15.294Z",
   "totalTeams": 234,
   "totalLeagues": 36,
-  "teamsWithFallback": 128,
+  "teamsWithFallback": 150,
   "data": {
     "33": {
       "teamId": 33,
@@ -1330,8 +1330,20 @@
       "leagueId": 79,
       "leagueName": "2. Bundesliga",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 202771,
+          "name": "L. Gindorf",
+          "photo": "https://media.api-sports.io/football/players/202771.png",
+          "goals": 3,
+          "appearances": 1
+        },
+        "topAssist": {
+          "id": 7305,
+          "name": "B. Pichler",
+          "photo": "https://media.api-sports.io/football/players/7305.png",
+          "assists": 1,
+          "appearances": 1
+        },
         "mostCards": {
           "id": 108605,
           "name": "B. Tomiak",
@@ -1466,8 +1478,20 @@
           "goals": 7,
           "appearances": 8
         },
-        "topAssist": null,
-        "mostCards": null
+        "topAssist": {
+          "id": 25401,
+          "name": "G. Itter",
+          "photo": "https://media.api-sports.io/football/players/25401.png",
+          "assists": 1,
+          "appearances": 1
+        },
+        "mostCards": {
+          "id": 520,
+          "name": "P. Will",
+          "photo": "https://media.api-sports.io/football/players/520.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {
@@ -1487,7 +1511,13 @@
       "leagueId": 79,
       "leagueName": "2. Bundesliga",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 24800,
+          "name": "N. Hauptmann",
+          "photo": "https://media.api-sports.io/football/players/24800.png",
+          "goals": 1,
+          "appearances": 1
+        },
         "topAssist": {
           "id": 202481,
           "name": "J. Sterner",
@@ -1591,17 +1621,17 @@
           "appearances": 9
         },
         "topAssist": {
-          "id": 329715,
-          "name": "O. Gloukh",
-          "photo": "https://media.api-sports.io/football/players/329715.png",
-          "assists": 4,
-          "appearances": 9
+          "id": 550,
+          "name": "K. Dolberg",
+          "photo": "https://media.api-sports.io/football/players/550.png",
+          "assists": 3,
+          "appearances": 6
         },
         "mostCards": {
-          "id": 515967,
-          "name": "A. Ouazane",
-          "photo": "https://media.api-sports.io/football/players/515967.png",
-          "yellowCards": 3,
+          "id": 25321,
+          "name": "D. Klaassen",
+          "photo": "https://media.api-sports.io/football/players/25321.png",
+          "yellowCards": 2,
           "redCards": 0
         }
       },
@@ -1621,22 +1651,7 @@
           "appearances": 8
         }
       ],
-      "topAssists": [
-        {
-          "id": 329715,
-          "name": "O. Gloukh",
-          "photo": "https://media.api-sports.io/football/players/329715.png",
-          "assists": 4,
-          "appearances": 9
-        },
-        {
-          "id": 550,
-          "name": "K. Dolberg",
-          "photo": "https://media.api-sports.io/football/players/550.png",
-          "assists": 3,
-          "appearances": 6
-        }
-      ]
+      "topAssists": []
     },
     "196": {
       "teamId": 196,
@@ -1668,22 +1683,7 @@
         }
       },
       "topScorers": [],
-      "topAssists": [
-        {
-          "id": 371231,
-          "name": "I. Yegoian",
-          "photo": "https://media.api-sports.io/football/players/371231.png",
-          "assists": 5,
-          "appearances": 9
-        },
-        {
-          "id": 37780,
-          "name": "S. Janssen",
-          "photo": "https://media.api-sports.io/football/players/37780.png",
-          "assists": 3,
-          "appearances": 9
-        }
-      ]
+      "topAssists": []
     },
     "197": {
       "teamId": 197,
@@ -1747,17 +1747,17 @@
           "appearances": 9
         },
         "topAssist": {
-          "id": 390002,
-          "name": "M. Chávez",
-          "photo": "https://media.api-sports.io/football/players/390002.png",
-          "assists": 3,
+          "id": 36910,
+          "name": "C. Stengs",
+          "photo": "https://media.api-sports.io/football/players/36910.png",
+          "assists": 2,
           "appearances": 9
         },
         "mostCards": {
-          "id": 444790,
-          "name": "A. Oufkir",
-          "photo": "https://media.api-sports.io/football/players/444790.png",
-          "yellowCards": 3,
+          "id": 338839,
+          "name": "W. Goes",
+          "photo": "https://media.api-sports.io/football/players/338839.png",
+          "yellowCards": 2,
           "redCards": 0
         }
       },
@@ -1777,22 +1777,7 @@
           "appearances": 9
         }
       ],
-      "topAssists": [
-        {
-          "id": 390002,
-          "name": "M. Chávez",
-          "photo": "https://media.api-sports.io/football/players/390002.png",
-          "assists": 3,
-          "appearances": 9
-        },
-        {
-          "id": 342954,
-          "name": "M. Meerdink",
-          "photo": "https://media.api-sports.io/football/players/342954.png",
-          "assists": 2,
-          "appearances": 9
-        }
-      ]
+      "topAssists": []
     },
     "202": {
       "teamId": 202,
@@ -1809,16 +1794,16 @@
           "appearances": 9
         },
         "topAssist": {
-          "id": 473416,
-          "name": "D. van der Werff",
-          "photo": "https://media.api-sports.io/football/players/473416.png",
-          "assists": 3,
+          "id": 36925,
+          "name": "P. Clement",
+          "photo": "https://media.api-sports.io/football/players/36925.png",
+          "assists": 2,
           "appearances": 9
         },
         "mostCards": {
-          "id": 473416,
-          "name": "D. van der Werff",
-          "photo": "https://media.api-sports.io/football/players/473416.png",
+          "id": 341983,
+          "name": "M. Csinger",
+          "photo": "https://media.api-sports.io/football/players/341983.png",
           "yellowCards": 2,
           "redCards": 0
         }
@@ -1839,22 +1824,7 @@
           "appearances": 9
         }
       ],
-      "topAssists": [
-        {
-          "id": 473416,
-          "name": "D. van der Werff",
-          "photo": "https://media.api-sports.io/football/players/473416.png",
-          "assists": 3,
-          "appearances": 9
-        },
-        {
-          "id": 392044,
-          "name": "T. van Bergen",
-          "photo": "https://media.api-sports.io/football/players/392044.png",
-          "assists": 2,
-          "appearances": 9
-        }
-      ]
+      "topAssists": []
     },
     "205": {
       "teamId": 205,
@@ -1894,15 +1864,7 @@
           "appearances": 9
         }
       ],
-      "topAssists": [
-        {
-          "id": 236,
-          "name": "M. Ihattaren",
-          "photo": "https://media.api-sports.io/football/players/236.png",
-          "assists": 3,
-          "appearances": 8
-        }
-      ]
+      "topAssists": []
     },
     "209": {
       "teamId": 209,
@@ -1919,11 +1881,11 @@
           "appearances": 8
         },
         "topAssist": {
-          "id": 359390,
-          "name": "G. Read",
-          "photo": "https://media.api-sports.io/football/players/359390.png",
-          "assists": 5,
-          "appearances": 9
+          "id": 945,
+          "name": "J. Lotomba",
+          "photo": "https://media.api-sports.io/football/players/945.png",
+          "assists": 1,
+          "appearances": 2
         },
         "mostCards": {
           "id": 8680,
@@ -1956,22 +1918,7 @@
           "appearances": 8
         }
       ],
-      "topAssists": [
-        {
-          "id": 359390,
-          "name": "G. Read",
-          "photo": "https://media.api-sports.io/football/players/359390.png",
-          "assists": 5,
-          "appearances": 9
-        },
-        {
-          "id": 425819,
-          "name": "G. Zechiël",
-          "photo": "https://media.api-sports.io/football/players/425819.png",
-          "assists": 4,
-          "appearances": 9
-        }
-      ]
+      "topAssists": []
     },
     "215": {
       "teamId": 215,
@@ -2019,12 +1966,18 @@
           "goals": 4,
           "appearances": 8
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 336570,
+          "name": "E. Tıknaz",
+          "photo": "https://media.api-sports.io/football/players/336570.png",
+          "assists": 2,
+          "appearances": 7
+        },
         "mostCards": {
-          "id": 936,
-          "name": "Fran Navarro",
-          "photo": "https://media.api-sports.io/football/players/936.png",
-          "yellowCards": 3,
+          "id": 2677,
+          "name": "João Moutinho",
+          "photo": "https://media.api-sports.io/football/players/2677.png",
+          "yellowCards": 2,
           "redCards": 0
         }
       },
@@ -2449,17 +2402,17 @@
           "appearances": 9
         },
         "topAssist": {
-          "id": 454968,
-          "name": "C. Durán",
-          "photo": "https://media.api-sports.io/football/players/454968.png",
-          "assists": 5,
-          "appearances": 9
+          "id": 1117,
+          "name": "K. Tierney",
+          "photo": "https://media.api-sports.io/football/players/1117.png",
+          "assists": 3,
+          "appearances": 7
         },
         "mostCards": {
-          "id": 451314,
-          "name": "Colby Donovan",
-          "photo": "https://media.api-sports.io/football/players/451314.png",
-          "yellowCards": 3,
+          "id": 581,
+          "name": "Jota",
+          "photo": "https://media.api-sports.io/football/players/581.png",
+          "yellowCards": 1,
           "redCards": 0
         }
       },
@@ -2486,36 +2439,7 @@
           "appearances": 6
         }
       ],
-      "topAssists": [
-        {
-          "id": 454968,
-          "name": "C. Durán",
-          "photo": "https://media.api-sports.io/football/players/454968.png",
-          "assists": 5,
-          "appearances": 9
-        },
-        {
-          "id": 48002,
-          "name": "B. Nygren",
-          "photo": "https://media.api-sports.io/football/players/48002.png",
-          "assists": 3,
-          "appearances": 9
-        },
-        {
-          "id": 1117,
-          "name": "K. Tierney",
-          "photo": "https://media.api-sports.io/football/players/1117.png",
-          "assists": 3,
-          "appearances": 7
-        },
-        {
-          "id": 15704,
-          "name": "K. Høgh",
-          "photo": "https://media.api-sports.io/football/players/15704.png",
-          "assists": 2,
-          "appearances": 6
-        }
-      ]
+      "topAssists": []
     },
     "249": {
       "teamId": 249,
@@ -2539,10 +2463,10 @@
           "appearances": 9
         },
         "mostCards": {
-          "id": 345326,
-          "name": "M. Chaiwa",
-          "photo": "https://media.api-sports.io/football/players/345326.png",
-          "yellowCards": 2,
+          "id": 19066,
+          "name": "G. Hanley",
+          "photo": "https://media.api-sports.io/football/players/19066.png",
+          "yellowCards": 1,
           "redCards": 0
         }
       },
@@ -2555,15 +2479,7 @@
           "appearances": 8
         }
       ],
-      "topAssists": [
-        {
-          "id": 19068,
-          "name": "F. Passlack",
-          "photo": "https://media.api-sports.io/football/players/19068.png",
-          "assists": 2,
-          "appearances": 9
-        }
-      ]
+      "topAssists": []
     },
     "254": {
       "teamId": 254,
@@ -2631,22 +2547,7 @@
           "appearances": 9
         }
       ],
-      "topAssists": [
-        {
-          "id": 125694,
-          "name": "J. McPake",
-          "photo": "https://media.api-sports.io/football/players/125694.png",
-          "assists": 5,
-          "appearances": 8
-        },
-        {
-          "id": 141994,
-          "name": "Cláudio Braga",
-          "photo": "https://media.api-sports.io/football/players/141994.png",
-          "assists": 2,
-          "appearances": 9
-        }
-      ]
+      "topAssists": []
     },
     "256": {
       "teamId": 256,
@@ -2670,9 +2571,9 @@
           "appearances": 9
         },
         "mostCards": {
-          "id": 169335,
-          "name": "M. Moormann",
-          "photo": "https://media.api-sports.io/football/players/169335.png",
+          "id": 7582,
+          "name": "L. Fadinger",
+          "photo": "https://media.api-sports.io/football/players/7582.png",
           "yellowCards": 2,
           "redCards": 0
         }
@@ -2686,22 +2587,7 @@
           "appearances": 9
         }
       ],
-      "topAssists": [
-        {
-          "id": 278116,
-          "name": "Tawanda Jethro Maswanhise",
-          "photo": "https://media.api-sports.io/football/players/278116.png",
-          "assists": 2,
-          "appearances": 9
-        },
-        {
-          "id": 284216,
-          "name": "T. Sparrow",
-          "photo": "https://media.api-sports.io/football/players/284216.png",
-          "assists": 2,
-          "appearances": 9
-        }
-      ]
+      "topAssists": []
     },
     "263": {
       "teamId": 263,
@@ -3673,37 +3559,29 @@
       "leagueName": "Ekstraklasa",
       "keyPlayers": {
         "topScorer": {
-          "id": 40559,
-          "name": "K. Jóźwiak",
-          "photo": "https://media.api-sports.io/football/players/40559.png",
-          "goals": 1,
-          "appearances": 1
+          "id": 40485,
+          "name": "Jesús Imaz",
+          "photo": "https://media.api-sports.io/football/players/40485.png",
+          "goals": 3,
+          "appearances": 9
         },
         "topAssist": {
-          "id": 204054,
-          "name": "N. Prelec",
-          "photo": "https://media.api-sports.io/football/players/204054.png",
+          "id": 182150,
+          "name": "Sergio Lozano",
+          "photo": "https://media.api-sports.io/football/players/182150.png",
           "assists": 2,
           "appearances": 9
         },
         "mostCards": {
-          "id": 33236,
-          "name": "Y. Kobayashi",
-          "photo": "https://media.api-sports.io/football/players/33236.png",
-          "yellowCards": 2,
+          "id": 277166,
+          "name": "Bernardo Vital",
+          "photo": "https://media.api-sports.io/football/players/277166.png",
+          "yellowCards": 3,
           "redCards": 0
         }
       },
       "topScorers": [],
-      "topAssists": [
-        {
-          "id": 204054,
-          "name": "N. Prelec",
-          "photo": "https://media.api-sports.io/football/players/204054.png",
-          "assists": 2,
-          "appearances": 9
-        }
-      ]
+      "topAssists": []
     },
     "337": {
       "teamId": 337,
@@ -3743,15 +3621,7 @@
           "appearances": 9
         }
       ],
-      "topAssists": [
-        {
-          "id": 40353,
-          "name": "P. Samiec-Talar",
-          "photo": "https://media.api-sports.io/football/players/40353.png",
-          "assists": 5,
-          "appearances": 9
-        }
-      ]
+      "topAssists": []
     },
     "339": {
       "teamId": 339,
@@ -3805,29 +3675,7 @@
           "appearances": 11
         }
       ],
-      "topAssists": [
-        {
-          "id": 19591,
-          "name": "P. Wszołek",
-          "photo": "https://media.api-sports.io/football/players/19591.png",
-          "assists": 6,
-          "appearances": 10
-        },
-        {
-          "id": 18745,
-          "name": "Rúben Vinagre",
-          "photo": "https://media.api-sports.io/football/players/18745.png",
-          "assists": 3,
-          "appearances": 9
-        },
-        {
-          "id": 40257,
-          "name": "R. Augustyniak",
-          "photo": "https://media.api-sports.io/football/players/40257.png",
-          "assists": 2,
-          "appearances": 11
-        }
-      ]
+      "topAssists": []
     },
     "341": {
       "teamId": 341,
@@ -3913,36 +3761,7 @@
           "appearances": 8
         }
       ],
-      "topAssists": [
-        {
-          "id": 162029,
-          "name": "Pablo Rodríguez",
-          "photo": "https://media.api-sports.io/football/players/162029.png",
-          "assists": 6,
-          "appearances": 10
-        },
-        {
-          "id": 15491,
-          "name": "Joel Pereira",
-          "photo": "https://media.api-sports.io/football/players/15491.png",
-          "assists": 4,
-          "appearances": 10
-        },
-        {
-          "id": 161176,
-          "name": "P. Wålemark",
-          "photo": "https://media.api-sports.io/football/players/161176.png",
-          "assists": 3,
-          "appearances": 10
-        },
-        {
-          "id": 25619,
-          "name": "M. Ishak",
-          "photo": "https://media.api-sports.io/football/players/25619.png",
-          "assists": 3,
-          "appearances": 8
-        }
-      ]
+      "topAssists": []
     },
     "363": {
       "teamId": 363,
@@ -4354,34 +4173,26 @@
           "id": 50120,
           "name": "T. Chery",
           "photo": "https://media.api-sports.io/football/players/50120.png",
-          "goals": 1,
-          "appearances": 2
-        },
-        "topAssist": {
-          "id": 50120,
-          "name": "T. Chery",
-          "photo": "https://media.api-sports.io/football/players/50120.png",
-          "assists": 2,
+          "goals": 4,
           "appearances": 7
         },
+        "topAssist": {
+          "id": 535,
+          "name": "P. Schuurs",
+          "photo": "https://media.api-sports.io/football/players/535.png",
+          "assists": 2,
+          "appearances": 6
+        },
         "mostCards": {
-          "id": 330315,
-          "name": "N. Lebreton",
-          "photo": "https://media.api-sports.io/football/players/330315.png",
-          "yellowCards": 2,
+          "id": 554,
+          "name": "D. Tadić",
+          "photo": "https://media.api-sports.io/football/players/554.png",
+          "yellowCards": 1,
           "redCards": 0
         }
       },
       "topScorers": [],
-      "topAssists": [
-        {
-          "id": 50120,
-          "name": "T. Chery",
-          "photo": "https://media.api-sports.io/football/players/50120.png",
-          "assists": 2,
-          "appearances": 7
-        }
-      ]
+      "topAssists": []
     },
     "415": {
       "teamId": 415,
@@ -4405,10 +4216,10 @@
           "appearances": 9
         },
         "mostCards": {
-          "id": 37254,
-          "name": "R. Pröpper",
-          "photo": "https://media.api-sports.io/football/players/37254.png",
-          "yellowCards": 2,
+          "id": 25416,
+          "name": "W. Weghorst",
+          "photo": "https://media.api-sports.io/football/players/25416.png",
+          "yellowCards": 1,
           "redCards": 0
         }
       },
@@ -4421,15 +4232,7 @@
           "appearances": 9
         }
       ],
-      "topAssists": [
-        {
-          "id": 25416,
-          "name": "W. Weghorst",
-          "photo": "https://media.api-sports.io/football/players/25416.png",
-          "assists": 2,
-          "appearances": 9
-        }
-      ]
+      "topAssists": []
     },
     "426": {
       "teamId": 426,
@@ -4453,10 +4256,10 @@
           "appearances": 9
         },
         "mostCards": {
-          "id": 538667,
-          "name": "L. Martes",
-          "photo": "https://media.api-sports.io/football/players/538667.png",
-          "yellowCards": 3,
+          "id": 43076,
+          "name": "B. Kuipers",
+          "photo": "https://media.api-sports.io/football/players/43076.png",
+          "yellowCards": 2,
           "redCards": 0
         }
       },
@@ -4469,15 +4272,7 @@
           "appearances": 9
         }
       ],
-      "topAssists": [
-        {
-          "id": 43076,
-          "name": "B. Kuipers",
-          "photo": "https://media.api-sports.io/football/players/43076.png",
-          "assists": 3,
-          "appearances": 9
-        }
-      ]
+      "topAssists": []
     },
     "435": {
       "teamId": 435,
@@ -4733,7 +4528,7 @@
           "id": 271,
           "name": "L. Paredes",
           "photo": "https://media.api-sports.io/football/players/271.png",
-          "yellowCards": 2,
+          "yellowCards": 9,
           "redCards": 0
         }
       },
@@ -4888,22 +4683,7 @@
           "appearances": 5
         }
       ],
-      "topAssists": [
-        {
-          "id": 272,
-          "name": "A. Rabiot",
-          "photo": "https://media.api-sports.io/football/players/272.png",
-          "assists": 3,
-          "appearances": 7
-        },
-        {
-          "id": 1696,
-          "name": "S. Chukwueze",
-          "photo": "https://media.api-sports.io/football/players/1696.png",
-          "assists": 2,
-          "appearances": 7
-        }
-      ]
+      "topAssists": []
     },
     "494": {
       "teamId": 494,
@@ -4920,11 +4700,11 @@
           "appearances": 7
         },
         "topAssist": {
-          "id": 19185,
-          "name": "K. Davis",
-          "photo": "https://media.api-sports.io/football/players/19185.png",
-          "assists": 2,
-          "appearances": 6
+          "id": 656,
+          "name": "O. Solet",
+          "photo": "https://media.api-sports.io/football/players/656.png",
+          "assists": 1,
+          "appearances": 2
         },
         "mostCards": {
           "id": 786,
@@ -4943,15 +4723,7 @@
           "appearances": 7
         }
       ],
-      "topAssists": [
-        {
-          "id": 19185,
-          "name": "K. Davis",
-          "photo": "https://media.api-sports.io/football/players/19185.png",
-          "assists": 2,
-          "appearances": 6
-        }
-      ]
+      "topAssists": []
     },
     "495": {
       "teamId": 495,
@@ -4978,7 +4750,7 @@
           "id": 18967,
           "name": "L. Østigård",
           "photo": "https://media.api-sports.io/football/players/18967.png",
-          "yellowCards": 4,
+          "yellowCards": 1,
           "redCards": 0
         }
       },
@@ -5001,24 +4773,24 @@
       "leagueName": "Serie A",
       "keyPlayers": {
         "topScorer": {
+          "id": 30497,
+          "name": "Bremer",
+          "photo": "https://media.api-sports.io/football/players/30497.png",
+          "goals": 2,
+          "appearances": 7
+        },
+        "topAssist": {
           "id": 21104,
           "name": "R. Kolo Muani",
           "photo": "https://media.api-sports.io/football/players/21104.png",
-          "goals": 2,
-          "appearances": 2
-        },
-        "topAssist": {
-          "id": 415,
-          "name": "W. McKennie",
-          "photo": "https://media.api-sports.io/football/players/415.png",
           "assists": 1,
-          "appearances": 2
+          "appearances": 7
         },
         "mostCards": {
           "id": 1929,
           "name": "J. Lucumí",
           "photo": "https://media.api-sports.io/football/players/1929.png",
-          "yellowCards": 1,
+          "yellowCards": 2,
           "redCards": 0
         }
       },
@@ -5040,11 +4812,11 @@
           "appearances": 7
         },
         "topAssist": {
-          "id": 30543,
-          "name": "G. Raspadori",
-          "photo": "https://media.api-sports.io/football/players/30543.png",
-          "assists": 1,
-          "appearances": 3
+          "id": 203474,
+          "name": "N. Zalewski",
+          "photo": "https://media.api-sports.io/football/players/203474.png",
+          "assists": 2,
+          "appearances": 5
         },
         "mostCards": {
           "id": 325,
@@ -5086,13 +4858,7 @@
           "assists": 1,
           "appearances": 2
         },
-        "mostCards": {
-          "id": 449249,
-          "name": "Franco Mastantuono",
-          "photo": "https://media.api-sports.io/football/players/449249.png",
-          "yellowCards": 2,
-          "redCards": 0
-        }
+        "mostCards": null
       },
       "topScorers": [
         {
@@ -5212,43 +4978,7 @@
           "appearances": 5
         }
       ],
-      "topAssists": [
-        {
-          "id": 270509,
-          "name": "A. Diouf",
-          "photo": "https://media.api-sports.io/football/players/270509.png",
-          "assists": 3,
-          "appearances": 6
-        },
-        {
-          "id": 21509,
-          "name": "M. Thuram",
-          "photo": "https://media.api-sports.io/football/players/21509.png",
-          "assists": 2,
-          "appearances": 6
-        },
-        {
-          "id": 10238,
-          "name": "Carlos Augusto",
-          "photo": "https://media.api-sports.io/football/players/10238.png",
-          "assists": 2,
-          "appearances": 5
-        },
-        {
-          "id": 329,
-          "name": "P. Zieliński",
-          "photo": "https://media.api-sports.io/football/players/329.png",
-          "assists": 2,
-          "appearances": 6
-        },
-        {
-          "id": 30558,
-          "name": "N. Barella",
-          "photo": "https://media.api-sports.io/football/players/30558.png",
-          "assists": 2,
-          "appearances": 6
-        }
-      ]
+      "topAssists": []
     },
     "512": {
       "teamId": 512,
@@ -5265,17 +4995,17 @@
           "appearances": 7
         },
         "topAssist": {
+          "id": 311251,
+          "name": "G. Kvernadze",
+          "photo": "https://media.api-sports.io/football/players/311251.png",
+          "assists": 1,
+          "appearances": 1
+        },
+        "mostCards": {
           "id": 7562,
           "name": "R. Schmid",
           "photo": "https://media.api-sports.io/football/players/7562.png",
-          "assists": 3,
-          "appearances": 7
-        },
-        "mostCards": {
-          "id": 379504,
-          "name": "G. Bracaglia",
-          "photo": "https://media.api-sports.io/football/players/379504.png",
-          "yellowCards": 3,
+          "yellowCards": 1,
           "redCards": 0
         }
       },
@@ -5295,15 +5025,7 @@
           "appearances": 7
         }
       ],
-      "topAssists": [
-        {
-          "id": 7562,
-          "name": "R. Schmid",
-          "photo": "https://media.api-sports.io/football/players/7562.png",
-          "assists": 3,
-          "appearances": 7
-        }
-      ]
+      "topAssists": []
     },
     "517": {
       "teamId": 517,
@@ -5327,10 +5049,10 @@
           "appearances": 2
         },
         "mostCards": {
-          "id": 107153,
-          "name": "Kike Pérez",
-          "photo": "https://media.api-sports.io/football/players/107153.png",
-          "yellowCards": 3,
+          "id": 1266,
+          "name": "T. Bašić",
+          "photo": "https://media.api-sports.io/football/players/1266.png",
+          "yellowCards": 1,
           "redCards": 0
         }
       },
@@ -5536,18 +5258,18 @@
       "leagueName": "La Liga",
       "keyPlayers": {
         "topScorer": {
-          "id": 329720,
-          "name": "Hugo Álvarez",
-          "photo": "https://media.api-sports.io/football/players/329720.png",
-          "goals": 1,
-          "appearances": 2
+          "id": 122734,
+          "name": "Ferran Jutglà",
+          "photo": "https://media.api-sports.io/football/players/122734.png",
+          "goals": 2,
+          "appearances": 9
         },
         "topAssist": {
-          "id": 269163,
-          "name": "W. Swedberg",
-          "photo": "https://media.api-sports.io/football/players/269163.png",
-          "assists": 1,
-          "appearances": 2
+          "id": 161875,
+          "name": "Hugo González",
+          "photo": "https://media.api-sports.io/football/players/161875.png",
+          "assists": 2,
+          "appearances": 4
         },
         "mostCards": {
           "id": 2278,
@@ -5724,18 +5446,18 @@
       "leagueName": "La Liga",
       "keyPlayers": {
         "topScorer": {
-          "id": 47499,
-          "name": "E. Ünal",
-          "photo": "https://media.api-sports.io/football/players/47499.png",
-          "goals": 2,
-          "appearances": 2
-        },
-        "topAssist": {
           "id": 195512,
           "name": "M. Satriano",
           "photo": "https://media.api-sports.io/football/players/195512.png",
-          "assists": 2,
-          "appearances": 3
+          "goals": 2,
+          "appearances": 9
+        },
+        "topAssist": {
+          "id": 161590,
+          "name": "Iván Azón",
+          "photo": "https://media.api-sports.io/football/players/161590.png",
+          "assists": 1,
+          "appearances": 5
         },
         "mostCards": {
           "id": 47250,
@@ -6075,9 +5797,9 @@
           "appearances": 11
         },
         "mostCards": {
-          "id": 317825,
-          "name": "S. Dweh",
-          "photo": "https://media.api-sports.io/football/players/317825.png",
+          "id": 271444,
+          "name": "Merchas Doski",
+          "photo": "https://media.api-sports.io/football/players/271444.png",
           "yellowCards": 3,
           "redCards": 0
         }
@@ -6098,29 +5820,7 @@
           "appearances": 11
         }
       ],
-      "topAssists": [
-        {
-          "id": 807,
-          "name": "P. Hrošovský",
-          "photo": "https://media.api-sports.io/football/players/807.png",
-          "assists": 4,
-          "appearances": 11
-        },
-        {
-          "id": 322101,
-          "name": "A. Memić",
-          "photo": "https://media.api-sports.io/football/players/322101.png",
-          "assists": 3,
-          "appearances": 11
-        },
-        {
-          "id": 179449,
-          "name": "C. Souaré",
-          "photo": "https://media.api-sports.io/football/players/179449.png",
-          "assists": 2,
-          "appearances": 8
-        }
-      ]
+      "topAssists": []
     },
     "569": {
       "teamId": 569,
@@ -6624,17 +6324,17 @@
           "appearances": 11
         },
         "topAssist": {
-          "id": 199871,
-          "name": "A. Karabec",
-          "photo": "https://media.api-sports.io/football/players/199871.png",
+          "id": 95018,
+          "name": "J. Braut Brunes",
+          "photo": "https://media.api-sports.io/football/players/95018.png",
           "assists": 2,
-          "appearances": 9
+          "appearances": 10
         },
         "mostCards": {
-          "id": 323942,
-          "name": "J. Alcócer",
-          "photo": "https://media.api-sports.io/football/players/323942.png",
-          "yellowCards": 4,
+          "id": 48408,
+          "name": "R. Macek",
+          "photo": "https://media.api-sports.io/football/players/48408.png",
+          "yellowCards": 3,
           "redCards": 0
         }
       },
@@ -6654,22 +6354,7 @@
           "appearances": 9
         }
       ],
-      "topAssists": [
-        {
-          "id": 199871,
-          "name": "A. Karabec",
-          "photo": "https://media.api-sports.io/football/players/199871.png",
-          "assists": 2,
-          "appearances": 9
-        },
-        {
-          "id": 95018,
-          "name": "J. Braut Brunes",
-          "photo": "https://media.api-sports.io/football/players/95018.png",
-          "assists": 2,
-          "appearances": 10
-        }
-      ]
+      "topAssists": []
     },
     "630": {
       "teamId": 630,
@@ -6941,11 +6626,11 @@
           "appearances": 26
         },
         "mostCards": {
-          "id": 444990,
-          "name": "M. Kirilov",
-          "photo": "https://media.api-sports.io/football/players/444990.png",
-          "yellowCards": 7,
-          "redCards": 0
+          "id": 55339,
+          "name": "V. Tikkanen",
+          "photo": "https://media.api-sports.io/football/players/55339.png",
+          "yellowCards": 3,
+          "redCards": 1
         }
       },
       "topScorers": [
@@ -6964,43 +6649,7 @@
           "appearances": 26
         }
       ],
-      "topAssists": [
-        {
-          "id": 202016,
-          "name": "L. Montano",
-          "photo": "https://media.api-sports.io/football/players/202016.png",
-          "assists": 3,
-          "appearances": 26
-        },
-        {
-          "id": 19085,
-          "name": "T. Pukki",
-          "photo": "https://media.api-sports.io/football/players/19085.png",
-          "assists": 2,
-          "appearances": 26
-        },
-        {
-          "id": 425780,
-          "name": "P. Mentu",
-          "photo": "https://media.api-sports.io/football/players/425780.png",
-          "assists": 2,
-          "appearances": 21
-        },
-        {
-          "id": 361379,
-          "name": "D. Ezeh",
-          "photo": "https://media.api-sports.io/football/players/361379.png",
-          "assists": 2,
-          "appearances": 9
-        },
-        {
-          "id": 444990,
-          "name": "M. Kirilov",
-          "photo": "https://media.api-sports.io/football/players/444990.png",
-          "assists": 2,
-          "appearances": 23
-        }
-      ]
+      "topAssists": []
     },
     "666": {
       "teamId": 666,
@@ -7361,9 +7010,27 @@
       "leagueId": 144,
       "leagueName": "Jupiler Pro League",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
+        "topScorer": {
+          "id": 343317,
+          "name": "S. Ngoura",
+          "photo": "https://media.api-sports.io/football/players/343317.png",
+          "goals": 2,
+          "appearances": 8
+        },
+        "topAssist": {
+          "id": 8920,
+          "name": "D. Vanzeir",
+          "photo": "https://media.api-sports.io/football/players/8920.png",
+          "assists": 1,
+          "appearances": 7
+        },
+        "mostCards": {
+          "id": 8646,
+          "name": "L. Amani",
+          "photo": "https://media.api-sports.io/football/players/8646.png",
+          "yellowCards": 1,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
@@ -7430,7 +7097,13 @@
           "goals": 4,
           "appearances": 8
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 7394,
+          "name": "M. Entrup",
+          "photo": "https://media.api-sports.io/football/players/7394.png",
+          "assists": 2,
+          "appearances": 1
+        },
         "mostCards": {
           "id": 119771,
           "name": "F. Flick",
@@ -7737,30 +7410,22 @@
           "appearances": 7
         },
         "topAssist": {
-          "id": 161702,
-          "name": "Danilo Veiga",
-          "photo": "https://media.api-sports.io/football/players/161702.png",
+          "id": 46170,
+          "name": "I. Ilić",
+          "photo": "https://media.api-sports.io/football/players/46170.png",
           "assists": 2,
-          "appearances": 7
+          "appearances": 5
         },
         "mostCards": {
-          "id": 161702,
-          "name": "Danilo Veiga",
-          "photo": "https://media.api-sports.io/football/players/161702.png",
-          "yellowCards": 3,
+          "id": 46170,
+          "name": "I. Ilić",
+          "photo": "https://media.api-sports.io/football/players/46170.png",
+          "yellowCards": 2,
           "redCards": 0
         }
       },
       "topScorers": [],
-      "topAssists": [
-        {
-          "id": 161702,
-          "name": "Danilo Veiga",
-          "photo": "https://media.api-sports.io/football/players/161702.png",
-          "assists": 2,
-          "appearances": 7
-        }
-      ]
+      "topAssists": []
     },
     "941": {
       "teamId": 941,
@@ -8531,11 +8196,11 @@
       "leagueName": "Czech Liga",
       "keyPlayers": {
         "topScorer": {
-          "id": 55948,
-          "name": "V. Tchanturishvili",
-          "photo": "https://media.api-sports.io/football/players/55948.png",
-          "goals": 1,
-          "appearances": 7
+          "id": 66303,
+          "name": "M. Cedidla",
+          "photo": "https://media.api-sports.io/football/players/66303.png",
+          "goals": 3,
+          "appearances": 10
         },
         "topAssist": {
           "id": 38823,
@@ -8553,22 +8218,7 @@
         }
       },
       "topScorers": [],
-      "topAssists": [
-        {
-          "id": 38823,
-          "name": "R. Sedláček",
-          "photo": "https://media.api-sports.io/football/players/38823.png",
-          "assists": 3,
-          "appearances": 11
-        },
-        {
-          "id": 66203,
-          "name": "J. Suchan",
-          "photo": "https://media.api-sports.io/football/players/66203.png",
-          "assists": 2,
-          "appearances": 6
-        }
-      ]
+      "topAssists": []
     },
     "1165": {
       "teamId": 1165,
@@ -8629,15 +8279,7 @@
           "appearances": 25
         }
       ],
-      "topAssists": [
-        {
-          "id": 55376,
-          "name": "P. Pennanen",
-          "photo": "https://media.api-sports.io/football/players/55376.png",
-          "assists": 3,
-          "appearances": 25
-        }
-      ]
+      "topAssists": []
     },
     "1298": {
       "teamId": 1298,
@@ -8708,7 +8350,13 @@
       "leagueId": 79,
       "leagueName": "2. Bundesliga",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 26310,
+          "name": "D. Kopacz",
+          "photo": "https://media.api-sports.io/football/players/26310.png",
+          "goals": 1,
+          "appearances": 2
+        },
         "topAssist": {
           "id": 178092,
           "name": "K. Faber",
@@ -9414,22 +9062,7 @@
           "appearances": 27
         }
       ],
-      "topAssists": [
-        {
-          "id": 138750,
-          "name": "F. Østigård Ness",
-          "photo": "https://media.api-sports.io/football/players/138750.png",
-          "assists": 5,
-          "appearances": 28
-        },
-        {
-          "id": 361422,
-          "name": "V. Vuorinen",
-          "photo": "https://media.api-sports.io/football/players/361422.png",
-          "assists": 2,
-          "appearances": 27
-        }
-      ]
+      "topAssists": []
     },
     "2143": {
       "teamId": 2143,
@@ -9502,7 +9135,13 @@
       "leagueId": 113,
       "leagueName": "Allsvenskan",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 318824,
+          "name": "S. Salter",
+          "photo": "https://media.api-sports.io/football/players/318824.png",
+          "goals": 6,
+          "appearances": 21
+        },
         "topAssist": {
           "id": 304159,
           "name": "W. Milovanovic",
@@ -9558,11 +9197,11 @@
           "appearances": 24
         },
         "topAssist": {
-          "id": 338950,
-          "name": "L. Małachowski Thorell",
-          "photo": "https://media.api-sports.io/football/players/338950.png",
-          "assists": 2,
-          "appearances": 9
+          "id": 263203,
+          "name": "Á. Samuelsen",
+          "photo": "https://media.api-sports.io/football/players/263203.png",
+          "assists": 3,
+          "appearances": 17
         },
         "mostCards": {
           "id": 55362,
@@ -9900,15 +9539,7 @@
         }
       },
       "topScorers": [],
-      "topAssists": [
-        {
-          "id": 66096,
-          "name": "M. Havlík",
-          "photo": "https://media.api-sports.io/football/players/66096.png",
-          "assists": 3,
-          "appearances": 11
-        }
-      ]
+      "topAssists": []
     },
     "3723": {
       "teamId": 3723,
@@ -9918,18 +9549,18 @@
       "leagueName": "Czech Liga",
       "keyPlayers": {
         "topScorer": {
-          "id": 25348,
-          "name": "V. Darida",
-          "photo": "https://media.api-sports.io/football/players/25348.png",
-          "goals": 1,
-          "appearances": 2
+          "id": 1252,
+          "name": "M. van Buren",
+          "photo": "https://media.api-sports.io/football/players/1252.png",
+          "goals": 2,
+          "appearances": 9
         },
         "topAssist": {
-          "id": 66677,
-          "name": "J. Kučera",
-          "photo": "https://media.api-sports.io/football/players/66677.png",
-          "assists": 1,
-          "appearances": 3
+          "id": 265370,
+          "name": "D. Horák",
+          "photo": "https://media.api-sports.io/football/players/265370.png",
+          "assists": 2,
+          "appearances": 7
         },
         "mostCards": {
           "id": 128782,
@@ -9964,30 +9595,15 @@
           "appearances": 8
         },
         "mostCards": {
-          "id": 363313,
-          "name": "J. Trédl",
-          "photo": "https://media.api-sports.io/football/players/363313.png",
-          "yellowCards": 1,
-          "redCards": 1
+          "id": 66582,
+          "name": "M. Hlavatý",
+          "photo": "https://media.api-sports.io/football/players/66582.png",
+          "yellowCards": 2,
+          "redCards": 0
         }
       },
       "topScorers": [],
-      "topAssists": [
-        {
-          "id": 301734,
-          "name": "R. Mahuta",
-          "photo": "https://media.api-sports.io/football/players/301734.png",
-          "assists": 3,
-          "appearances": 8
-        },
-        {
-          "id": 66025,
-          "name": "V. Drchal",
-          "photo": "https://media.api-sports.io/football/players/66025.png",
-          "assists": 2,
-          "appearances": 10
-        }
-      ]
+      "topAssists": []
     },
     "4662": {
       "teamId": 4662,
@@ -10799,15 +10415,7 @@
           "appearances": 11
         }
       ],
-      "topAssists": [
-        {
-          "id": 30756,
-          "name": "Lucas Piazón",
-          "photo": "https://media.api-sports.io/football/players/30756.png",
-          "assists": 2,
-          "appearances": 11
-        }
-      ]
+      "topAssists": []
     },
     "18310": {
       "teamId": 18310,
