@@ -1,9 +1,78 @@
 {
-  "generatedAt": "2026-10-24T02:14:02.501Z",
-  "totalTeams": 44,
-  "totalLeagues": 15,
-  "teamsWithFallback": 26,
+  "generatedAt": "2026-10-25T01:58:51.663Z",
+  "totalTeams": 46,
+  "totalLeagues": 16,
+  "teamsWithFallback": 27,
   "data": {
+    "80": {
+      "teamId": 80,
+      "teamName": "Lyon",
+      "season": 2026,
+      "leagueId": 61,
+      "leagueName": "Ligue 1",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 350856,
+          "name": "E. Nuamah",
+          "photo": "https://media.api-sports.io/football/players/350856.png",
+          "goals": 3,
+          "appearances": 5
+        },
+        "topAssist": {
+          "id": 396380,
+          "name": "Z. Athekame",
+          "photo": "https://media.api-sports.io/football/players/396380.png",
+          "assists": 3,
+          "appearances": 7
+        },
+        "mostCards": {
+          "id": 33321,
+          "name": "Keito Nakamura",
+          "photo": "https://media.api-sports.io/football/players/33321.png",
+          "yellowCards": 0,
+          "redCards": 1
+        }
+      },
+      "topScorers": [
+        {
+          "id": 350856,
+          "name": "E. Nuamah",
+          "photo": "https://media.api-sports.io/football/players/350856.png",
+          "goals": 3,
+          "appearances": 5
+        },
+        {
+          "id": 396380,
+          "name": "Z. Athekame",
+          "photo": "https://media.api-sports.io/football/players/396380.png",
+          "goals": 2,
+          "appearances": 7
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 396380,
+          "name": "Z. Athekame",
+          "photo": "https://media.api-sports.io/football/players/396380.png",
+          "assists": 3,
+          "appearances": 7
+        },
+        {
+          "id": 66387,
+          "name": "P. Šulc",
+          "photo": "https://media.api-sports.io/football/players/66387.png",
+          "assists": 3,
+          "appearances": 7
+        },
+        {
+          "id": 519,
+          "name": "C. Tolisso",
+          "photo": "https://media.api-sports.io/football/players/519.png",
+          "assists": 2,
+          "appearances": 7
+        }
+      ]
+    },
     "82": {
       "teamId": 82,
       "teamName": "Montpellier",
@@ -43,6 +112,61 @@
         }
       ],
       "topAssists": []
+    },
+    "85": {
+      "teamId": 85,
+      "teamName": "Paris Saint Germain",
+      "season": 2026,
+      "leagueId": 61,
+      "leagueName": "Ligue 1",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 931,
+          "name": "Ferran Torres",
+          "photo": "https://media.api-sports.io/football/players/931.png",
+          "goals": 4,
+          "appearances": 7
+        },
+        "topAssist": {
+          "id": 153,
+          "name": "O. Dembélé",
+          "photo": "https://media.api-sports.io/football/players/153.png",
+          "assists": 2,
+          "appearances": 5
+        },
+        "mostCards": {
+          "id": 263482,
+          "name": "Nuno Mendes",
+          "photo": "https://media.api-sports.io/football/players/263482.png",
+          "yellowCards": 0,
+          "redCards": 1
+        }
+      },
+      "topScorers": [
+        {
+          "id": 931,
+          "name": "Ferran Torres",
+          "photo": "https://media.api-sports.io/football/players/931.png",
+          "goals": 4,
+          "appearances": 7
+        },
+        {
+          "id": 257,
+          "name": "Marquinhos",
+          "photo": "https://media.api-sports.io/football/players/257.png",
+          "goals": 3,
+          "appearances": 5
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 153,
+          "name": "O. Dembélé",
+          "photo": "https://media.api-sports.io/football/players/153.png",
+          "assists": 2,
+          "appearances": 5
+        }
+      ]
     },
     "93": {
       "teamId": 93,
@@ -402,10 +526,10 @@
           "appearances": 8
         },
         "mostCards": {
-          "id": 336677,
-          "name": "Emanuel Fernandes",
-          "photo": "https://media.api-sports.io/football/players/336677.png",
-          "yellowCards": 3,
+          "id": 631004,
+          "name": "Sorriso",
+          "photo": "https://media.api-sports.io/football/players/631004.png",
+          "yellowCards": 2,
           "redCards": 0
         }
       },
@@ -889,10 +1013,10 @@
           "appearances": 8
         },
         "mostCards": {
-          "id": 907,
-          "name": "R. Lukaku",
-          "photo": "https://media.api-sports.io/football/players/907.png",
-          "yellowCards": 2,
+          "id": 198,
+          "name": "M. Škriniar",
+          "photo": "https://media.api-sports.io/football/players/198.png",
+          "yellowCards": 3,
           "redCards": 0
         }
       },
@@ -1131,9 +1255,9 @@
           "appearances": 9
         },
         "mostCards": {
-          "id": 46662,
-          "name": "Moncayola",
-          "photo": "https://media.api-sports.io/football/players/46662.png",
+          "id": 46646,
+          "name": "Sergio Herrera",
+          "photo": "https://media.api-sports.io/football/players/46646.png",
           "yellowCards": 3,
           "redCards": 0
         }
@@ -1626,24 +1750,24 @@
       "leagueName": "Liga Profesional Argentina",
       "keyPlayers": {
         "topScorer": {
-          "id": 6189,
-          "name": "N. Briasco",
-          "photo": "https://media.api-sports.io/football/players/6189.png",
-          "goals": 3,
-          "appearances": 20
+          "id": 5187,
+          "name": "N. Orsini",
+          "photo": "https://media.api-sports.io/football/players/5187.png",
+          "goals": 2,
+          "appearances": 3
         },
         "topAssist": {
-          "id": 5541,
-          "name": "N. Demartini",
-          "photo": "https://media.api-sports.io/football/players/5541.png",
-          "assists": 2,
-          "appearances": 22
+          "id": 6239,
+          "name": "G. Maroni",
+          "photo": "https://media.api-sports.io/football/players/6239.png",
+          "assists": 1,
+          "appearances": 4
         },
         "mostCards": {
-          "id": 5541,
-          "name": "N. Demartini",
-          "photo": "https://media.api-sports.io/football/players/5541.png",
-          "yellowCards": 7,
+          "id": 6109,
+          "name": "D. Martínez",
+          "photo": "https://media.api-sports.io/football/players/6109.png",
+          "yellowCards": 4,
           "redCards": 0
         }
       },
