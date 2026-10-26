@@ -12425,6 +12425,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493201,
+          "referee": "Pablo Echavarria",
+          "timezone": "UTC",
+          "date": "2026-10-26T00:30:00+00:00",
+          "timestamp": 1792974600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 2997,
+            "name": "Estadio Alfredo Terrera",
+            "city": "Santiago del Estero"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 63,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1065,
+            "name": "Central Cordoba de Santiago",
+            "logo": "https://media.api-sports.io/football/teams/1065.png",
+            "winner": false
+          },
+          "away": {
+            "id": 438,
+            "name": "Velez Sarsfield",
+            "logo": "https://media.api-sports.io/football/teams/438.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493196,
           "referee": "D. Herrera",
           "timezone": "UTC",
@@ -13042,76 +13112,6 @@
           "fulltime": {
             "home": 2,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1493076,
-          "referee": "N. Ramirez",
-          "timezone": "UTC",
-          "date": "2026-08-17T22:15:00+00:00",
-          "timestamp": 1787004900,
-          "periods": {
-            "first": 1787004900,
-            "second": 1787008500
-          },
-          "venue": {
-            "id": null,
-            "name": "Jose Amalfitani",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 438,
-            "name": "Velez Sarsfield",
-            "logo": "https://media.api-sports.io/football/teams/438.png",
-            "winner": null
-          },
-          "away": {
-            "id": 442,
-            "name": "Defensa Y Justicia",
-            "logo": "https://media.api-sports.io/football/teams/442.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -28578,7 +28578,7 @@
       {
         "fixture": {
           "id": 1584432,
-          "referee": "D. Celik",
+          "referee": "Davut Dakul Celik, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-16T17:00:00+00:00",
           "timestamp": 1792170000,
@@ -28648,7 +28648,7 @@
       {
         "fixture": {
           "id": 1584428,
-          "referee": "O. Ergun",
+          "referee": "Ozan Ergun, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-10T16:00:00+00:00",
           "timestamp": 1791648000,
@@ -28788,7 +28788,7 @@
       {
         "fixture": {
           "id": 1584417,
-          "referee": "O. Cakir",
+          "referee": "Oguzhan Cakir, Türkiye",
           "timezone": "UTC",
           "date": "2026-09-20T17:00:00+00:00",
           "timestamp": 1789923600,
@@ -28858,7 +28858,7 @@
       {
         "fixture": {
           "id": 1584406,
-          "referee": "O. Aksu",
+          "referee": "Oguzhan Aksu, Türkiye",
           "timezone": "UTC",
           "date": "2026-09-12T14:00:00+00:00",
           "timestamp": 1789221600,
@@ -28869,7 +28869,7 @@
           "venue": {
             "id": null,
             "name": "Esenyurt Necmi Kadioglu Stadi",
-            "city": "Istanbul"
+            "city": "Esenyurt"
           },
           "status": {
             "long": "Match Finished",
@@ -28928,7 +28928,7 @@
       {
         "fixture": {
           "id": 1584401,
-          "referee": "A. B. Taskinsoy",
+          "referee": "Abdullah Bugra Taskinsoy, Türkiye",
           "timezone": "UTC",
           "date": "2026-09-07T17:00:00+00:00",
           "timestamp": 1788800400,
@@ -28998,7 +28998,7 @@
       {
         "fixture": {
           "id": 1584390,
-          "referee": "B. Kolak",
+          "referee": "Batuhan Kolak, Türkiye",
           "timezone": "UTC",
           "date": "2026-08-29T18:30:00+00:00",
           "timestamp": 1788028200,
@@ -29068,7 +29068,7 @@
       {
         "fixture": {
           "id": 1584383,
-          "referee": "O. Turtay",
+          "referee": "Omer Faruk Turtay, Türkiye",
           "timezone": "UTC",
           "date": "2026-08-22T16:00:00+00:00",
           "timestamp": 1787414400,
@@ -29138,7 +29138,7 @@
       {
         "fixture": {
           "id": 1584374,
-          "referee": "C. Aydin",
+          "referee": "Cihan Aydin, Türkiye",
           "timezone": "UTC",
           "date": "2026-08-15T16:00:00+00:00",
           "timestamp": 1786809600,
@@ -29148,7 +29148,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Konya Buyuksehir Belediye Stadium",
+            "name": "Medas Konya Büyüksehir Belediyesi Stadium",
             "city": "Konya"
           },
           "status": {
@@ -31639,6 +31639,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1493201,
+          "referee": "Pablo Echavarria",
+          "timezone": "UTC",
+          "date": "2026-10-26T00:30:00+00:00",
+          "timestamp": 1792974600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 2997,
+            "name": "Estadio Alfredo Terrera",
+            "city": "Santiago del Estero"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 63,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1065,
+            "name": "Central Cordoba de Santiago",
+            "logo": "https://media.api-sports.io/football/teams/1065.png",
+            "winner": false
+          },
+          "away": {
+            "id": 438,
+            "name": "Velez Sarsfield",
+            "logo": "https://media.api-sports.io/football/teams/438.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1493192,
           "referee": "H. Mastrangelo",
           "timezone": "UTC",
@@ -32256,76 +32326,6 @@
           "fulltime": {
             "home": 0,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1493061,
-          "referee": "N. Arasa",
-          "timezone": "UTC",
-          "date": "2026-08-11T00:15:00+00:00",
-          "timestamp": 1786407300,
-          "periods": {
-            "first": 1786407300,
-            "second": 1786410900
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio 15 de Abril",
-            "city": "Santa Fe"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 441,
-            "name": "Union Santa Fe",
-            "logo": "https://media.api-sports.io/football/teams/441.png",
-            "winner": false
-          },
-          "away": {
-            "id": 1065,
-            "name": "Central Cordoba de Santiago",
-            "logo": "https://media.api-sports.io/football/teams/1065.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
           },
           "extratime": {
             "home": null,
@@ -33671,6 +33671,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490570,
+          "referee": "Armando Villarreal",
+          "timezone": "UTC",
+          "date": "2026-10-26T01:00:00+00:00",
+          "timestamp": 1792976400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Banc of California Stadium",
+            "city": "Los Angeles"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 39,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 31",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1616,
+            "name": "Los Angeles FC",
+            "logo": "https://media.api-sports.io/football/teams/1616.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1605,
+            "name": "Los Angeles Galaxy",
+            "logo": "https://media.api-sports.io/football/teams/1605.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490551,
           "referee": "Rubiel Vazquez",
           "timezone": "UTC",
@@ -34298,76 +34368,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1490408,
-          "referee": "Lorenzo Hernandez, USA",
-          "timezone": "UTC",
-          "date": "2026-08-22T23:30:00+00:00",
-          "timestamp": 1787441400,
-          "periods": {
-            "first": 1787441400,
-            "second": 1787445000
-          },
-          "venue": {
-            "id": null,
-            "name": "Saputo Stadium",
-            "city": "Montréal"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 21",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1614,
-            "name": "CF Montreal",
-            "logo": "https://media.api-sports.io/football/teams/1614.png",
-            "winner": null
-          },
-          "away": {
-            "id": 1605,
-            "name": "Los Angeles Galaxy",
-            "logo": "https://media.api-sports.io/football/teams/1605.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -34687,6 +34687,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490570,
+          "referee": "Armando Villarreal",
+          "timezone": "UTC",
+          "date": "2026-10-26T01:00:00+00:00",
+          "timestamp": 1792976400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Banc of California Stadium",
+            "city": "Los Angeles"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 39,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 31",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1616,
+            "name": "Los Angeles FC",
+            "logo": "https://media.api-sports.io/football/teams/1616.png",
+            "winner": false
+          },
+          "away": {
+            "id": 1605,
+            "name": "Los Angeles Galaxy",
+            "logo": "https://media.api-sports.io/football/teams/1605.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490544,
@@ -35316,76 +35386,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1490416,
-          "referee": "Jon Freemon, USA",
-          "timezone": "UTC",
-          "date": "2026-08-23T02:30:00+00:00",
-          "timestamp": 1787452200,
-          "periods": {
-            "first": 1787452200,
-            "second": 1787455800
-          },
-          "venue": {
-            "id": null,
-            "name": "BMO Stadium",
-            "city": "Los Angeles"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 21",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1616,
-            "name": "Los Angeles FC",
-            "logo": "https://media.api-sports.io/football/teams/1616.png",
-            "winner": null
-          },
-          "away": {
-            "id": 1617,
-            "name": "Portland Timbers",
-            "logo": "https://media.api-sports.io/football/teams/1617.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -35717,6 +35717,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1493200,
+          "referee": "Andres Merlos",
+          "timezone": "UTC",
+          "date": "2026-10-26T00:30:00+00:00",
+          "timestamp": 1792974600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 44,
+            "name": "Estadio Claudio Chiqui Tapia",
+            "city": "Barracas"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 61,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2432,
+            "name": "Barracas Central",
+            "logo": "https://media.api-sports.io/football/teams/2432.png",
+            "winner": false
+          },
+          "away": {
+            "id": 2424,
+            "name": "Estudiantes de Rio Cuarto",
+            "logo": "https://media.api-sports.io/football/teams/2424.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1493189,
@@ -36346,76 +36416,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1493055,
-          "referee": "G. Pereira",
-          "timezone": "UTC",
-          "date": "2026-08-08T00:45:00+00:00",
-          "timestamp": 1786149900,
-          "periods": {
-            "first": 1786149900,
-            "second": 1786153500
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Juan Bautista Gargantini",
-            "city": "Mendoza"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 473,
-            "name": "Independ. Rivadavia",
-            "logo": "https://media.api-sports.io/football/teams/473.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2424,
-            "name": "Estudiantes de Rio Cuarto",
-            "logo": "https://media.api-sports.io/football/teams/2424.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -36739,6 +36739,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1493200,
+          "referee": "Andres Merlos",
+          "timezone": "UTC",
+          "date": "2026-10-26T00:30:00+00:00",
+          "timestamp": 1792974600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 44,
+            "name": "Estadio Claudio Chiqui Tapia",
+            "city": "Barracas"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 61,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Clausura - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2432,
+            "name": "Barracas Central",
+            "logo": "https://media.api-sports.io/football/teams/2432.png",
+            "winner": false
+          },
+          "away": {
+            "id": 2424,
+            "name": "Estudiantes de Rio Cuarto",
+            "logo": "https://media.api-sports.io/football/teams/2424.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1493195,
@@ -37358,76 +37428,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1493063,
-          "referee": "P. Dovalo",
-          "timezone": "UTC",
-          "date": "2026-08-16T23:15:00+00:00",
-          "timestamp": 1786922100,
-          "periods": {
-            "first": 1786922100,
-            "second": 1786925700
-          },
-          "venue": {
-            "id": null,
-            "name": "Claudio Fabian Tapia",
-            "city": "Barracas"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2432,
-            "name": "Barracas Central",
-            "logo": "https://media.api-sports.io/football/teams/2432.png",
-            "winner": false
-          },
-          "away": {
-            "id": 437,
-            "name": "Rosario Central",
-            "logo": "https://media.api-sports.io/football/teams/437.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
           },
           "extratime": {
             "home": null,
