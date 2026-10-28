@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:55:40.166Z",
+  "generatedAt": "2026-10-28T01:39:07.741Z",
   "ymd": "2026-10-29",
   "matches": [
     {
@@ -27,12 +27,12 @@
       "awayTeamId": 370,
       "homeTeam": "Hammarby FF",
       "awayTeam": "Sirius",
-      "expectedHome": 1.969,
-      "expectedAway": 1.786,
-      "expectedTotal": 3.755,
-      "probOver25": 0.74602,
-      "probOver35": 0.54806,
-      "probBTTS": 0.73426
+      "expectedHome": 1.947,
+      "expectedAway": 1.766,
+      "expectedTotal": 3.713,
+      "probOver25": 0.73938,
+      "probOver35": 0.5393399999999999,
+      "probBTTS": 0.72892
     },
     {
       "fixtureId": 1603077,
@@ -131,6 +131,22 @@
       "probBTTS": 0.6404799999999999
     },
     {
+      "fixtureId": 1550170,
+      "leagueId": 135,
+      "season": 2026,
+      "kickoffTs": 1793295000000,
+      "homeTeamId": 512,
+      "awayTeamId": 867,
+      "homeTeam": "Frosinone",
+      "awayTeam": "Lecce",
+      "expectedHome": 1.849,
+      "expectedAway": 1.238,
+      "expectedTotal": 3.087,
+      "probOver25": 0.62192,
+      "probOver35": 0.40165999999999996,
+      "probBTTS": 0.6181400000000001
+    },
+    {
       "fixtureId": 1490582,
       "leagueId": 253,
       "season": 2026,
@@ -145,22 +161,6 @@
       "probOver25": 0.60346,
       "probOver35": 0.38216000000000006,
       "probBTTS": 0.61322
-    },
-    {
-      "fixtureId": 1550170,
-      "leagueId": 135,
-      "season": 2026,
-      "kickoffTs": 1793295000000,
-      "homeTeamId": 512,
-      "awayTeamId": 867,
-      "homeTeam": "Frosinone",
-      "awayTeam": "Lecce",
-      "expectedHome": 1.774,
-      "expectedAway": 1.188,
-      "expectedTotal": 2.962,
-      "probOver25": 0.5944800000000001,
-      "probOver35": 0.37298000000000003,
-      "probBTTS": 0.5972400000000001
     },
     {
       "fixtureId": 1490583,
@@ -227,22 +227,6 @@
       "probBTTS": 0.54342
     },
     {
-      "fixtureId": 1494320,
-      "leagueId": 113,
-      "season": 2026,
-      "kickoffTs": 1793296800000,
-      "homeTeamId": 2166,
-      "awayTeamId": 2240,
-      "homeTeam": "Orgryte IS",
-      "awayTeam": "Mjallby AIF",
-      "expectedHome": 1.624,
-      "expectedAway": 0.788,
-      "expectedTotal": 2.412,
-      "probOver25": 0.45948,
-      "probOver35": 0.24702000000000002,
-      "probBTTS": 0.45674000000000003
-    },
-    {
       "fixtureId": 1603075,
       "leagueId": 307,
       "season": 2026,
@@ -257,6 +241,22 @@
       "probOver25": 0.4568400000000001,
       "probOver35": 0.24480000000000002,
       "probBTTS": 0.5091
+    },
+    {
+      "fixtureId": 1494320,
+      "leagueId": 113,
+      "season": 2026,
+      "kickoffTs": 1793296800000,
+      "homeTeamId": 2166,
+      "awayTeamId": 2240,
+      "homeTeam": "Orgryte IS",
+      "awayTeam": "Mjallby AIF",
+      "expectedHome": 1.596,
+      "expectedAway": 0.774,
+      "expectedTotal": 2.37,
+      "probOver25": 0.44832,
+      "probOver35": 0.23768,
+      "probBTTS": 0.44845999999999997
     },
     {
       "fixtureId": 1490579,
@@ -275,6 +275,22 @@
       "probBTTS": 0.46562000000000003
     },
     {
+      "fixtureId": 1550169,
+      "leagueId": 135,
+      "season": 2026,
+      "kickoffTs": 1793303100000,
+      "homeTeamId": 502,
+      "awayTeamId": 499,
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Atalanta",
+      "expectedHome": 1.253,
+      "expectedAway": 1.001,
+      "expectedTotal": 2.254,
+      "probOver25": 0.41706000000000004,
+      "probOver35": 0.21250000000000002,
+      "probBTTS": 0.47187999999999997
+    },
+    {
       "fixtureId": 1490580,
       "leagueId": 253,
       "season": 2026,
@@ -289,22 +305,6 @@
       "probOver25": 0.41490000000000005,
       "probOver35": 0.21080000000000002,
       "probBTTS": 0.44680000000000003
-    },
-    {
-      "fixtureId": 1550169,
-      "leagueId": 135,
-      "season": 2026,
-      "kickoffTs": 1793303100000,
-      "homeTeamId": 502,
-      "awayTeamId": 499,
-      "homeTeam": "Fiorentina",
-      "awayTeam": "Atalanta",
-      "expectedHome": 1.184,
-      "expectedAway": 0.946,
-      "expectedTotal": 2.13,
-      "probOver25": 0.38304,
-      "probOver35": 0.18642,
-      "probBTTS": 0.44424
     },
     {
       "fixtureId": 1490584,
@@ -347,12 +347,12 @@
       "awayTeamId": 2170,
       "homeTeam": "Kalmar FF",
       "awayTeam": "Gais",
-      "expectedHome": 0.892,
-      "expectedAway": 0.851,
-      "expectedTotal": 1.743,
-      "probOver25": 0.27486,
-      "probOver35": 0.11304,
-      "probBTTS": 0.35624
+      "expectedHome": 0.87,
+      "expectedAway": 0.831,
+      "expectedTotal": 1.701,
+      "probOver25": 0.26314000000000004,
+      "probOver35": 0.10597999999999999,
+      "probBTTS": 0.3456600000000001
     },
     {
       "fixtureId": 1492431,
@@ -413,12 +413,12 @@
       "awayTeamId": 370,
       "homeTeam": "Hammarby FF",
       "awayTeam": "Sirius",
-      "expectedHome": 1.969,
-      "expectedAway": 1.786,
-      "expectedTotal": 3.755,
-      "probOver25": 0.74602,
-      "probOver35": 0.54806,
-      "probBTTS": 0.73426
+      "expectedHome": 1.947,
+      "expectedAway": 1.766,
+      "expectedTotal": 3.713,
+      "probOver25": 0.73938,
+      "probOver35": 0.5393399999999999,
+      "probBTTS": 0.72892
     },
     {
       "fixtureId": 1603077,
@@ -517,6 +517,22 @@
       "probBTTS": 0.6404799999999999
     },
     {
+      "fixtureId": 1550170,
+      "leagueId": 135,
+      "season": 2026,
+      "kickoffTs": 1793295000000,
+      "homeTeamId": 512,
+      "awayTeamId": 867,
+      "homeTeam": "Frosinone",
+      "awayTeam": "Lecce",
+      "expectedHome": 1.849,
+      "expectedAway": 1.238,
+      "expectedTotal": 3.087,
+      "probOver25": 0.62192,
+      "probOver35": 0.40165999999999996,
+      "probBTTS": 0.6181400000000001
+    },
+    {
       "fixtureId": 1490582,
       "leagueId": 253,
       "season": 2026,
@@ -531,22 +547,6 @@
       "probOver25": 0.60346,
       "probOver35": 0.38216000000000006,
       "probBTTS": 0.61322
-    },
-    {
-      "fixtureId": 1550170,
-      "leagueId": 135,
-      "season": 2026,
-      "kickoffTs": 1793295000000,
-      "homeTeamId": 512,
-      "awayTeamId": 867,
-      "homeTeam": "Frosinone",
-      "awayTeam": "Lecce",
-      "expectedHome": 1.774,
-      "expectedAway": 1.188,
-      "expectedTotal": 2.962,
-      "probOver25": 0.5944800000000001,
-      "probOver35": 0.37298000000000003,
-      "probBTTS": 0.5972400000000001
     },
     {
       "fixtureId": 1490583,
@@ -607,12 +607,12 @@
       "awayTeamId": 370,
       "homeTeam": "Hammarby FF",
       "awayTeam": "Sirius",
-      "expectedHome": 1.969,
-      "expectedAway": 1.786,
-      "expectedTotal": 3.755,
-      "probOver25": 0.74602,
-      "probOver35": 0.54806,
-      "probBTTS": 0.73426
+      "expectedHome": 1.947,
+      "expectedAway": 1.766,
+      "expectedTotal": 3.713,
+      "probOver25": 0.73938,
+      "probOver35": 0.5393399999999999,
+      "probBTTS": 0.72892
     },
     {
       "fixtureId": 1603077,
@@ -695,6 +695,22 @@
       "probBTTS": 0.6404799999999999
     },
     {
+      "fixtureId": 1550170,
+      "leagueId": 135,
+      "season": 2026,
+      "kickoffTs": 1793295000000,
+      "homeTeamId": 512,
+      "awayTeamId": 867,
+      "homeTeam": "Frosinone",
+      "awayTeam": "Lecce",
+      "expectedHome": 1.849,
+      "expectedAway": 1.238,
+      "expectedTotal": 3.087,
+      "probOver25": 0.62192,
+      "probOver35": 0.40165999999999996,
+      "probBTTS": 0.6181400000000001
+    },
+    {
       "fixtureId": 1490582,
       "leagueId": 253,
       "season": 2026,
@@ -725,22 +741,6 @@
       "probOver25": 0.5847800000000001,
       "probOver35": 0.36298,
       "probBTTS": 0.6075800000000001
-    },
-    {
-      "fixtureId": 1550170,
-      "leagueId": 135,
-      "season": 2026,
-      "kickoffTs": 1793295000000,
-      "homeTeamId": 512,
-      "awayTeamId": 867,
-      "homeTeam": "Frosinone",
-      "awayTeam": "Lecce",
-      "expectedHome": 1.774,
-      "expectedAway": 1.188,
-      "expectedTotal": 2.962,
-      "probOver25": 0.5944800000000001,
-      "probOver35": 0.37298000000000003,
-      "probBTTS": 0.5972400000000001
     },
     {
       "fixtureId": 1490578,
