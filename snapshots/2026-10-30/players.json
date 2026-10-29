@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T01:44:19.980Z",
-  "totalTeams": 108,
+  "generatedAt": "2026-10-29T01:40:30.298Z",
+  "totalTeams": 110,
   "totalLeagues": 29,
   "teamsWithFallback": 73,
   "data": {
@@ -19,11 +19,11 @@
           "appearances": 11
         },
         "topAssist": {
-          "id": 19482,
-          "name": "J. Rothwell",
-          "photo": "https://media.api-sports.io/football/players/19482.png",
-          "assists": 1,
-          "appearances": 3
+          "id": 19130,
+          "name": "K. Phillips",
+          "photo": "https://media.api-sports.io/football/players/19130.png",
+          "assists": 2,
+          "appearances": 9
         },
         "mostCards": {
           "id": 149550,
@@ -91,7 +91,13 @@
       "leagueId": 62,
       "leagueName": "Ligue 2",
       "keyPlayers": {
-        "topScorer": null,
+        "topScorer": {
+          "id": 21020,
+          "name": "T. Robinet",
+          "photo": "https://media.api-sports.io/football/players/21020.png",
+          "goals": 2,
+          "appearances": 6
+        },
         "topAssist": {
           "id": 271274,
           "name": "W. Younoussa",
@@ -115,6 +121,54 @@
           "photo": "https://media.api-sports.io/football/players/271274.png",
           "assists": 2,
           "appearances": 7
+        }
+      ]
+    },
+    "84": {
+      "teamId": 84,
+      "teamName": "Nice",
+      "season": 2026,
+      "leagueId": 61,
+      "leagueName": "Ligue 1",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 162707,
+          "name": "E. Wahi",
+          "photo": "https://media.api-sports.io/football/players/162707.png",
+          "goals": 3,
+          "appearances": 7
+        },
+        "topAssist": {
+          "id": 107,
+          "name": "S. Diop",
+          "photo": "https://media.api-sports.io/football/players/107.png",
+          "assists": 2,
+          "appearances": 8
+        },
+        "mostCards": {
+          "id": 162707,
+          "name": "E. Wahi",
+          "photo": "https://media.api-sports.io/football/players/162707.png",
+          "yellowCards": 3,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 162707,
+          "name": "E. Wahi",
+          "photo": "https://media.api-sports.io/football/players/162707.png",
+          "goals": 3,
+          "appearances": 7
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 107,
+          "name": "S. Diop",
+          "photo": "https://media.api-sports.io/football/players/107.png",
+          "assists": 2,
+          "appearances": 8
         }
       ]
     },
@@ -186,7 +240,13 @@
           "assists": 3,
           "appearances": 9
         },
-        "mostCards": null
+        "mostCards": {
+          "id": 49586,
+          "name": "W. Diouf",
+          "photo": "https://media.api-sports.io/football/players/49586.png",
+          "yellowCards": 3,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {
@@ -214,6 +274,75 @@
         }
       ]
     },
+    "94": {
+      "teamId": 94,
+      "teamName": "Rennes",
+      "season": 2026,
+      "leagueId": 61,
+      "leagueName": "Ligue 1",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 163004,
+          "name": "E. Lepaul",
+          "photo": "https://media.api-sports.io/football/players/163004.png",
+          "goals": 7,
+          "appearances": 7
+        },
+        "topAssist": {
+          "id": 22261,
+          "name": "A. Thomasson",
+          "photo": "https://media.api-sports.io/football/players/22261.png",
+          "assists": 2,
+          "appearances": 8
+        },
+        "mostCards": {
+          "id": 22261,
+          "name": "A. Thomasson",
+          "photo": "https://media.api-sports.io/football/players/22261.png",
+          "yellowCards": 3,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 163004,
+          "name": "E. Lepaul",
+          "photo": "https://media.api-sports.io/football/players/163004.png",
+          "goals": 7,
+          "appearances": 7
+        },
+        {
+          "id": 40403,
+          "name": "S. Szymański",
+          "photo": "https://media.api-sports.io/football/players/40403.png",
+          "goals": 3,
+          "appearances": 6
+        },
+        {
+          "id": 22015,
+          "name": "B. Dia",
+          "photo": "https://media.api-sports.io/football/players/22015.png",
+          "goals": 3,
+          "appearances": 6
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 22261,
+          "name": "A. Thomasson",
+          "photo": "https://media.api-sports.io/football/players/22261.png",
+          "assists": 2,
+          "appearances": 8
+        },
+        {
+          "id": 3007,
+          "name": "P. Frankowski",
+          "photo": "https://media.api-sports.io/football/players/3007.png",
+          "assists": 2,
+          "appearances": 8
+        }
+      ]
+    },
     "99": {
       "teamId": 99,
       "teamName": "Clermont Foot",
@@ -221,9 +350,27 @@
       "leagueId": 62,
       "leagueName": "Ligue 2",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
+        "topScorer": {
+          "id": 191368,
+          "name": "F. Bianchini",
+          "photo": "https://media.api-sports.io/football/players/191368.png",
+          "goals": 2,
+          "appearances": 6
+        },
+        "topAssist": {
+          "id": 2210,
+          "name": "A. Hunou",
+          "photo": "https://media.api-sports.io/football/players/2210.png",
+          "assists": 1,
+          "appearances": 9
+        },
+        "mostCards": {
+          "id": 416579,
+          "name": "J. Grillot",
+          "photo": "https://media.api-sports.io/football/players/416579.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
@@ -465,11 +612,11 @@
           "appearances": 29
         },
         "mostCards": {
-          "id": 5794,
-          "name": "R. Garro",
-          "photo": "https://media.api-sports.io/football/players/5794.png",
-          "yellowCards": 11,
-          "redCards": 0
+          "id": 10161,
+          "name": "Matheuzinho",
+          "photo": "https://media.api-sports.io/football/players/10161.png",
+          "yellowCards": 5,
+          "redCards": 1
         }
       },
       "topScorers": [],
@@ -618,15 +765,15 @@
           "id": 26287,
           "name": "P. Hofmann",
           "photo": "https://media.api-sports.io/football/players/26287.png",
-          "goals": 1,
-          "appearances": 1
+          "goals": 2,
+          "appearances": 9
         },
         "topAssist": {
-          "id": 25919,
-          "name": "G. Holtmann",
-          "photo": "https://media.api-sports.io/football/players/25919.png",
+          "id": 3575,
+          "name": "E. Çokaj",
+          "photo": "https://media.api-sports.io/football/players/3575.png",
           "assists": 1,
-          "appearances": 9
+          "appearances": 3
         },
         "mostCards": {
           "id": 336224,
@@ -661,10 +808,10 @@
           "appearances": 6
         },
         "mostCards": {
-          "id": 24958,
-          "name": "A. Sicker",
-          "photo": "https://media.api-sports.io/football/players/24958.png",
-          "yellowCards": 1,
+          "id": 25144,
+          "name": "M. Bauer",
+          "photo": "https://media.api-sports.io/football/players/25144.png",
+          "yellowCards": 2,
           "redCards": 0
         }
       },
@@ -2618,7 +2765,13 @@
           "goals": 3,
           "appearances": 10
         },
-        "topAssist": null,
+        "topAssist": {
+          "id": 191170,
+          "name": "B. Besic",
+          "photo": "https://media.api-sports.io/football/players/191170.png",
+          "assists": 2,
+          "appearances": 9
+        },
         "mostCards": {
           "id": 142231,
           "name": "A. Hbouch",
@@ -2659,7 +2812,13 @@
           "assists": 3,
           "appearances": 10
         },
-        "mostCards": null
+        "mostCards": {
+          "id": 84962,
+          "name": "L. Quenabio",
+          "photo": "https://media.api-sports.io/football/players/84962.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
       },
       "topScorers": [
         {
@@ -3364,14 +3523,14 @@
           "name": "A. Gory",
           "photo": "https://media.api-sports.io/football/players/20704.png",
           "goals": 2,
-          "appearances": 8
+          "appearances": 9
         },
         "topAssist": {
           "id": 44330,
           "name": "Mohammed Al Dossary",
           "photo": "https://media.api-sports.io/football/players/44330.png",
           "assists": 1,
-          "appearances": 5
+          "appearances": 6
         },
         "mostCards": {
           "id": 668,
@@ -3664,8 +3823,20 @@
       "leagueId": 145,
       "leagueName": "Challenger Pro League",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
+        "topScorer": {
+          "id": 8956,
+          "name": "P. Perdichizzi",
+          "photo": "https://media.api-sports.io/football/players/8956.png",
+          "goals": 1,
+          "appearances": 6
+        },
+        "topAssist": {
+          "id": 391943,
+          "name": "M. Mitrović",
+          "photo": "https://media.api-sports.io/football/players/391943.png",
+          "assists": 1,
+          "appearances": 6
+        },
         "mostCards": {
           "id": 324100,
           "name": "N. Mayoka-Tika",
@@ -4171,9 +4342,27 @@
       "leagueId": 145,
       "leagueName": "Challenger Pro League",
       "keyPlayers": {
-        "topScorer": null,
-        "topAssist": null,
-        "mostCards": null
+        "topScorer": {
+          "id": 487400,
+          "name": "R. Vydysh",
+          "photo": "https://media.api-sports.io/football/players/487400.png",
+          "goals": 2,
+          "appearances": 5
+        },
+        "topAssist": {
+          "id": 281376,
+          "name": "M. Samoise",
+          "photo": "https://media.api-sports.io/football/players/281376.png",
+          "assists": 1,
+          "appearances": 3
+        },
+        "mostCards": {
+          "id": 412751,
+          "name": "G. Vanderdonck",
+          "photo": "https://media.api-sports.io/football/players/412751.png",
+          "yellowCards": 2,
+          "redCards": 0
+        }
       },
       "topScorers": [],
       "topAssists": []
