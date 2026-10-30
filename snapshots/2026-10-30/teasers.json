@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:39:51.429Z",
+  "generatedAt": "2026-10-30T01:39:33.126Z",
   "picks": [
     {
       "fixtureId": 1492436,
@@ -10,14 +10,14 @@
       "homeTeam": "Gremio",
       "awayTeamId": 134,
       "awayTeam": "Atletico Paranaense",
-      "expectedHome": 1.08,
-      "expectedAway": 1.367,
-      "expectedTotal": 2.447,
-      "teamGoalsHomeLambda": 1.213,
-      "teamGoalsAwayLambda": 1.598,
+      "expectedHome": 1.126,
+      "expectedAway": 1.426,
+      "expectedTotal": 2.552,
+      "teamGoalsHomeLambda": 1.265,
+      "teamGoalsAwayLambda": 1.666,
       "type": "over25",
       "label": "Toplam 2.5 Üst",
-      "prob": 0.4687
+      "prob": 0.4959
     },
     {
       "fixtureId": 1593692,
@@ -46,14 +46,14 @@
       "homeTeam": "Abha",
       "awayTeamId": 2938,
       "awayTeam": "Al-Ittihad FC",
-      "expectedHome": 1.124,
-      "expectedAway": 1.723,
-      "expectedTotal": 2.847,
-      "teamGoalsHomeLambda": 1.202,
-      "teamGoalsAwayLambda": 1.943,
+      "expectedHome": 1.206,
+      "expectedAway": 1.849,
+      "expectedTotal": 3.055,
+      "teamGoalsHomeLambda": 1.29,
+      "teamGoalsAwayLambda": 2.085,
       "type": "over25",
       "label": "Toplam 2.5 Üst",
-      "prob": 0.5682
+      "prob": 0.615
     },
     {
       "fixtureId": 1601926,
@@ -82,14 +82,14 @@
       "homeTeam": "Al Diriyah",
       "awayTeamId": 10513,
       "awayTeam": "NEOM",
-      "expectedHome": 1.135,
-      "expectedAway": 1.305,
-      "expectedTotal": 2.44,
-      "teamGoalsHomeLambda": 1.144,
-      "teamGoalsAwayLambda": 1.366,
+      "expectedHome": 1.231,
+      "expectedAway": 1.417,
+      "expectedTotal": 2.648,
+      "teamGoalsHomeLambda": 1.241,
+      "teamGoalsAwayLambda": 1.483,
       "type": "home15",
       "label": "Al Diriyah 1.5 Üst",
-      "prob": 0.317,
+      "prob": 0.3521,
       "side": "home"
     },
     {
@@ -359,14 +359,14 @@
       "homeTeam": "Al Shabab",
       "awayTeamId": 2929,
       "awayTeam": "Al-Ahli Jeddah",
-      "expectedHome": 1.441,
-      "expectedAway": 1.713,
-      "expectedTotal": 3.154,
-      "teamGoalsHomeLambda": 1.67,
-      "teamGoalsAwayLambda": 1.959,
+      "expectedHome": 1.536,
+      "expectedAway": 1.826,
+      "expectedTotal": 3.362,
+      "teamGoalsHomeLambda": 1.78,
+      "teamGoalsAwayLambda": 2.088,
       "type": "btts",
       "label": "Karşılıklı Gol Var",
-      "prob": 0.6456
+      "prob": 0.6778
     },
     {
       "fixtureId": 1555073,
@@ -440,24 +440,6 @@
       "type": "over35",
       "label": "Toplam 3.5 Üst",
       "prob": 0.2076
-    },
-    {
-      "fixtureId": 1551857,
-      "leagueId": 89,
-      "season": 2026,
-      "kickoffTs": 1793386800,
-      "homeTeamId": 208,
-      "homeTeam": "Emmen",
-      "awayTeamId": 421,
-      "awayTeam": "Den Bosch",
-      "expectedHome": 2.053,
-      "expectedAway": 1.194,
-      "expectedTotal": 3.247,
-      "teamGoalsHomeLambda": 2.344,
-      "teamGoalsAwayLambda": 1.298,
-      "type": "btts",
-      "label": "Karşılıklı Gol Var",
-      "prob": 0.6269
     },
     {
       "fixtureId": 1551858,
@@ -1000,14 +982,14 @@
       "homeTeam": "Corinthians",
       "awayTeamId": 7848,
       "awayTeam": "Mirassol",
-      "expectedHome": 1.004,
-      "expectedAway": 0.704,
-      "expectedTotal": 1.708,
-      "teamGoalsHomeLambda": 1.095,
-      "teamGoalsAwayLambda": 0.764,
+      "expectedHome": 1.066,
+      "expectedAway": 0.747,
+      "expectedTotal": 1.813,
+      "teamGoalsHomeLambda": 1.162,
+      "teamGoalsAwayLambda": 0.811,
       "type": "doubleChance",
       "label": "Ev veya Beraberlik (1X)",
-      "prob": 0.7483
+      "prob": 0.7455
     }
   ]
 }

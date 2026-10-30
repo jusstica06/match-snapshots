@@ -12191,12 +12191,12 @@
               "percentage": "14.29%"
             },
             "76-90": {
-              "total": 5,
-              "percentage": "14.29%"
+              "total": 6,
+              "percentage": "17.14%"
             },
             "91-105": {
-              "total": 1,
-              "percentage": "2.86%"
+              "total": null,
+              "percentage": null
             },
             "106-120": {
               "total": null,
@@ -12441,8 +12441,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492436,
+          "referee": "Alex Gomes Stefano, Brazil",
+          "timezone": "UTC",
+          "date": "2026-10-30T00:30:00+00:00",
+          "timestamp": 1793320200,
+          "periods": {
+            "first": 1793320200,
+            "second": null
+          },
+          "venue": {
+            "id": 241,
+            "name": "Arena do Grêmio",
+            "city": "Porto Alegre"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 8
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 33",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 130,
+            "name": "Gremio",
+            "logo": "https://media.api-sports.io/football/teams/130.png",
+            "winner": true
+          },
+          "away": {
+            "id": 134,
+            "name": "Atletico Paranaense",
+            "logo": "https://media.api-sports.io/football/teams/134.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492421,
-          "referee": "Ramon Abatti",
+          "referee": "R. Abatti",
           "timezone": "UTC",
           "date": "2026-10-26T22:30:00+00:00",
           "timestamp": 1793053800,
@@ -12512,7 +12582,7 @@
       {
         "fixture": {
           "id": 1492416,
-          "referee": "Joao Vitor Gobi, Brazil",
+          "referee": "J. Vitor Gobi",
           "timezone": "UTC",
           "date": "2026-10-18T19:00:00+00:00",
           "timestamp": 1792350000,
@@ -12582,7 +12652,7 @@
       {
         "fixture": {
           "id": 1492406,
-          "referee": "Rodrigo Jose Pereira de Lima, Brazil",
+          "referee": "R. Pereira",
           "timezone": "UTC",
           "date": "2026-10-11T20:30:00+00:00",
           "timestamp": 1791750600,
@@ -12652,7 +12722,7 @@
       {
         "fixture": {
           "id": 1492397,
-          "referee": "Davi de Oliveira Lacerda, Brazil",
+          "referee": "D. Lacerda",
           "timezone": "UTC",
           "date": "2026-10-07T22:30:00+00:00",
           "timestamp": 1791412200,
@@ -12662,7 +12732,7 @@
           },
           "venue": {
             "id": 262,
-            "name": "Mangueirao",
+            "name": "Estadio Evandro Almeida",
             "city": "Belem"
           },
           "status": {
@@ -12722,7 +12792,7 @@
       {
         "fixture": {
           "id": 1492384,
-          "referee": "Paulo Cesar Zanovelli da Silva, Brazil",
+          "referee": "P. Zanovelli",
           "timezone": "UTC",
           "date": "2026-09-20T14:00:00+00:00",
           "timestamp": 1789912800,
@@ -12792,7 +12862,7 @@
       {
         "fixture": {
           "id": 1492311,
-          "referee": "Edina Alves Batista, Brazil",
+          "referee": "E. Batista",
           "timezone": "UTC",
           "date": "2026-09-16T22:30:00+00:00",
           "timestamp": 1789597800,
@@ -12862,7 +12932,7 @@
       {
         "fixture": {
           "id": 1492376,
-          "referee": "Raphael Claus, Brazil",
+          "referee": "R. Claus",
           "timezone": "UTC",
           "date": "2026-09-12T19:00:00+00:00",
           "timestamp": 1789239600,
@@ -12932,7 +13002,7 @@
       {
         "fixture": {
           "id": 1492369,
-          "referee": "Savio Pereira Sampaio, Brazil",
+          "referee": "S. Sampaio",
           "timezone": "UTC",
           "date": "2026-09-07T23:00:00+00:00",
           "timestamp": 1788822000,
@@ -12942,7 +13012,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Estádio Manoel Barradas",
+            "name": "Barradao",
             "city": "Salvador"
           },
           "status": {
@@ -13054,76 +13124,6 @@
           "halftime": {
             "home": 2,
             "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492355,
-          "referee": "Rodrigo Jose Pereira de Lima, Brazil",
-          "timezone": "UTC",
-          "date": "2026-08-30T21:30:00+00:00",
-          "timestamp": 1788125400,
-          "periods": {
-            "first": 1788125400,
-            "second": 1788129000
-          },
-          "venue": {
-            "id": null,
-            "name": "Arena do Grêmio",
-            "city": "Porto Alegre"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 25",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 130,
-            "name": "Gremio",
-            "logo": "https://media.api-sports.io/football/teams/130.png",
-            "winner": true
-          },
-          "away": {
-            "id": 132,
-            "name": "Chapecoense-sc",
-            "logo": "https://media.api-sports.io/football/teams/132.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 1
           },
           "fulltime": {
             "home": 3,
@@ -13468,7 +13468,7 @@
       {
         "fixture": {
           "id": 1492428,
-          "referee": "Wilton Pereira Sampaio, Brazil",
+          "referee": "W. Sampaio",
           "timezone": "UTC",
           "date": "2026-10-24T21:30:00+00:00",
           "timestamp": 1792877400,
@@ -13538,7 +13538,7 @@
       {
         "fixture": {
           "id": 1492414,
-          "referee": "Savio Pereira Sampaio, Brazil",
+          "referee": "S. Sampaio",
           "timezone": "UTC",
           "date": "2026-10-19T23:00:00+00:00",
           "timestamp": 1792450800,
@@ -13608,7 +13608,7 @@
       {
         "fixture": {
           "id": 1492407,
-          "referee": "Anderson Daronco, Brazil",
+          "referee": "A. Daronco",
           "timezone": "UTC",
           "date": "2026-10-11T20:30:00+00:00",
           "timestamp": 1791750600,
@@ -13678,7 +13678,7 @@
       {
         "fixture": {
           "id": 1492395,
-          "referee": "Felipe Fernandes de Lima, Brazil",
+          "referee": "F. Fernandes de Lima",
           "timezone": "UTC",
           "date": "2026-10-07T22:30:00+00:00",
           "timestamp": 1791412200,
@@ -13748,7 +13748,7 @@
       {
         "fixture": {
           "id": 1492382,
-          "referee": "Ramon Abatti Abel, Brazil",
+          "referee": "R. Abatti",
           "timezone": "UTC",
           "date": "2026-09-20T19:00:00+00:00",
           "timestamp": 1789930800,
@@ -13888,7 +13888,7 @@
       {
         "fixture": {
           "id": 1492375,
-          "referee": "Wilton Pereira Sampaio, Brazil",
+          "referee": "W. Sampaio",
           "timezone": "UTC",
           "date": "2026-09-13T20:30:00+00:00",
           "timestamp": 1789331400,
@@ -14028,7 +14028,7 @@
       {
         "fixture": {
           "id": 1492362,
-          "referee": "Wagner do Nascimento Magalhaes, Brazil",
+          "referee": "W. do Nascimento",
           "timezone": "UTC",
           "date": "2026-09-06T22:30:00+00:00",
           "timestamp": 1788733800,
@@ -14038,7 +14038,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Neo Química Arena",
+            "name": "Neo Quimica Arena",
             "city": "Sao Paulo"
           },
           "status": {
@@ -14098,7 +14098,7 @@
       {
         "fixture": {
           "id": 1492353,
-          "referee": "Wilton Pereira Sampaio, Brazil",
+          "referee": "W. Sampaio",
           "timezone": "UTC",
           "date": "2026-08-30T19:00:00+00:00",
           "timestamp": 1788116400,
@@ -14108,7 +14108,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Neo Química Arena",
+            "name": "Neo Quimica Arena",
             "city": "Sao Paulo"
           },
           "status": {
@@ -14485,8 +14485,78 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492436,
+          "referee": "Alex Gomes Stefano, Brazil",
+          "timezone": "UTC",
+          "date": "2026-10-30T00:30:00+00:00",
+          "timestamp": 1793320200,
+          "periods": {
+            "first": 1793320200,
+            "second": null
+          },
+          "venue": {
+            "id": 241,
+            "name": "Arena do Grêmio",
+            "city": "Porto Alegre"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": 8
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 33",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 130,
+            "name": "Gremio",
+            "logo": "https://media.api-sports.io/football/teams/130.png",
+            "winner": true
+          },
+          "away": {
+            "id": 134,
+            "name": "Atletico Paranaense",
+            "logo": "https://media.api-sports.io/football/teams/134.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492429,
-          "referee": "Andre Luis Skettino Policarpo Bento, Brazil",
+          "referee": "A. Policarpo Bento",
           "timezone": "UTC",
           "date": "2026-10-24T19:30:00+00:00",
           "timestamp": 1792870200,
@@ -14496,8 +14566,8 @@
           },
           "venue": {
             "id": 281,
-            "name": "Estadio Manoel Barradas",
-            "city": "El Salvador"
+            "name": "Barradao",
+            "city": "Salvador"
           },
           "status": {
             "long": "Match Finished",
@@ -14556,7 +14626,7 @@
       {
         "fixture": {
           "id": 1492410,
-          "referee": "Paulo Cesar Zanovelli da Silva, Brazil",
+          "referee": "P. Zanovelli",
           "timezone": "UTC",
           "date": "2026-10-17T22:30:00+00:00",
           "timestamp": 1792276200,
@@ -14626,7 +14696,7 @@
       {
         "fixture": {
           "id": 1492403,
-          "referee": "Wilton Pereira Sampaio, Brazil",
+          "referee": "W. Sampaio",
           "timezone": "UTC",
           "date": "2026-10-12T22:30:00+00:00",
           "timestamp": 1791844200,
@@ -14696,7 +14766,7 @@
       {
         "fixture": {
           "id": 1492390,
-          "referee": "Ramon Abatti Abel, Brazil",
+          "referee": "R. Abatti",
           "timezone": "UTC",
           "date": "2026-10-08T23:00:00+00:00",
           "timestamp": 1791500400,
@@ -14766,7 +14836,7 @@
       {
         "fixture": {
           "id": 1492380,
-          "referee": "Anderson Daronco, Brazil",
+          "referee": "A. Daronco",
           "timezone": "UTC",
           "date": "2026-09-20T22:30:00+00:00",
           "timestamp": 1789943400,
@@ -14906,7 +14976,7 @@
       {
         "fixture": {
           "id": 1492364,
-          "referee": "Daiane Caroline Muniz Dos Santos, Brazil",
+          "referee": "D. C. Muniz dos Santos",
           "timezone": "UTC",
           "date": "2026-09-06T19:00:00+00:00",
           "timestamp": 1788721200,
@@ -14976,7 +15046,7 @@
       {
         "fixture": {
           "id": 1492350,
-          "referee": "Felipe Fernandes de Lima, Brazil",
+          "referee": "F. Fernandes de Lima",
           "timezone": "UTC",
           "date": "2026-08-30T14:00:00+00:00",
           "timestamp": 1788098400,
@@ -15046,7 +15116,7 @@
       {
         "fixture": {
           "id": 1492340,
-          "referee": "Andre Luis Skettino Policarpo Bento, Brazil",
+          "referee": "A. Policarpo Bento",
           "timezone": "UTC",
           "date": "2026-08-24T23:00:00+00:00",
           "timestamp": 1787612400,
@@ -15102,76 +15172,6 @@
           "fulltime": {
             "home": 2,
             "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492330,
-          "referee": "Alex Gomes Stefano, Brazil",
-          "timezone": "UTC",
-          "date": "2026-08-15T21:30:00+00:00",
-          "timestamp": 1786829400,
-          "periods": {
-            "first": 1786829400,
-            "second": 1786833000
-          },
-          "venue": {
-            "id": null,
-            "name": "Arena da Baixada",
-            "city": "Curitiba"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 23",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 134,
-            "name": "Atletico Paranaense",
-            "logo": "https://media.api-sports.io/football/teams/134.png",
-            "winner": null
-          },
-          "away": {
-            "id": 794,
-            "name": "RB Bragantino",
-            "logo": "https://media.api-sports.io/football/teams/794.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -19237,1020 +19237,6 @@
       }
     ]
   },
-  "208": {
-    "statistics": {
-      "league": {
-        "id": 89,
-        "name": "Eerste Divisie",
-        "country": "Netherlands",
-        "logo": "https://media.api-sports.io/football/leagues/89.png",
-        "flag": "https://media.api-sports.io/flags/nl.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 208,
-        "name": "Emmen",
-        "logo": "https://media.api-sports.io/football/teams/208.png"
-      },
-      "form": "WWWLWLLWDWWW",
-      "fixtures": {
-        "played": {
-          "home": 6,
-          "away": 6,
-          "total": 12
-        },
-        "wins": {
-          "home": 5,
-          "away": 3,
-          "total": 8
-        },
-        "draws": {
-          "home": 0,
-          "away": 1,
-          "total": 1
-        },
-        "loses": {
-          "home": 1,
-          "away": 2,
-          "total": 3
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 13,
-            "away": 13,
-            "total": 26
-          },
-          "average": {
-            "home": "2.2",
-            "away": "2.2",
-            "total": "2.2"
-          },
-          "minute": {
-            "0-15": {
-              "total": 2,
-              "percentage": "7.69%"
-            },
-            "16-30": {
-              "total": 3,
-              "percentage": "11.54%"
-            },
-            "31-45": {
-              "total": 5,
-              "percentage": "19.23%"
-            },
-            "46-60": {
-              "total": 5,
-              "percentage": "19.23%"
-            },
-            "61-75": {
-              "total": 7,
-              "percentage": "26.92%"
-            },
-            "76-90": {
-              "total": 3,
-              "percentage": "11.54%"
-            },
-            "91-105": {
-              "total": 1,
-              "percentage": "3.85%"
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 11,
-              "under": 1
-            },
-            "1.5": {
-              "over": 6,
-              "under": 6
-            },
-            "2.5": {
-              "over": 4,
-              "under": 8
-            },
-            "3.5": {
-              "over": 2,
-              "under": 10
-            },
-            "4.5": {
-              "over": 2,
-              "under": 10
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 7,
-            "away": 12,
-            "total": 19
-          },
-          "average": {
-            "home": "1.2",
-            "away": "2.0",
-            "total": "1.6"
-          },
-          "minute": {
-            "0-15": {
-              "total": 2,
-              "percentage": "10.53%"
-            },
-            "16-30": {
-              "total": 4,
-              "percentage": "21.05%"
-            },
-            "31-45": {
-              "total": 2,
-              "percentage": "10.53%"
-            },
-            "46-60": {
-              "total": 2,
-              "percentage": "10.53%"
-            },
-            "61-75": {
-              "total": 4,
-              "percentage": "21.05%"
-            },
-            "76-90": {
-              "total": 4,
-              "percentage": "21.05%"
-            },
-            "91-105": {
-              "total": 1,
-              "percentage": "5.26%"
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 8,
-              "under": 4
-            },
-            "1.5": {
-              "over": 5,
-              "under": 7
-            },
-            "2.5": {
-              "over": 4,
-              "under": 8
-            },
-            "3.5": {
-              "over": 2,
-              "under": 10
-            },
-            "4.5": {
-              "over": 0,
-              "under": 12
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 3,
-          "draws": 1,
-          "loses": 2
-        },
-        "wins": {
-          "home": "5-3",
-          "away": "0-3"
-        },
-        "loses": {
-          "home": "1-2",
-          "away": "4-0"
-        },
-        "goals": {
-          "for": {
-            "home": 5,
-            "away": 6
-          },
-          "against": {
-            "home": 3,
-            "away": 4
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 2,
-        "away": 2,
-        "total": 4
-      },
-      "failed_to_score": {
-        "home": 0,
-        "away": 1,
-        "total": 1
-      },
-      "penalty": {
-        "scored": {
-          "total": 3,
-          "percentage": "100.00%"
-        },
-        "missed": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "total": 3
-      },
-      "lineups": [
-        {
-          "formation": "4-2-3-1",
-          "played": 7
-        },
-        {
-          "formation": "4-1-4-1",
-          "played": 3
-        },
-        {
-          "formation": "4-3-3",
-          "played": 1
-        },
-        {
-          "formation": "3-4-1-2",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 3,
-            "percentage": "10.71%"
-          },
-          "16-30": {
-            "total": 2,
-            "percentage": "7.14%"
-          },
-          "31-45": {
-            "total": 6,
-            "percentage": "21.43%"
-          },
-          "46-60": {
-            "total": 4,
-            "percentage": "14.29%"
-          },
-          "61-75": {
-            "total": 5,
-            "percentage": "17.86%"
-          },
-          "76-90": {
-            "total": 5,
-            "percentage": "17.86%"
-          },
-          "91-105": {
-            "total": 3,
-            "percentage": "10.71%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": 1,
-            "percentage": "50.00%"
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": null,
-            "percentage": null
-          },
-          "91-105": {
-            "total": 1,
-            "percentage": "50.00%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1551855,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-23T18:00:00+00:00",
-          "timestamp": 1792778400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1155,
-            "name": "GelreDome",
-            "city": "Arnhem"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 12",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 200,
-            "name": "Vitesse",
-            "logo": "https://media.api-sports.io/football/teams/200.png",
-            "winner": false
-          },
-          "away": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551841,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-17T14:30:00+00:00",
-          "timestamp": 1792247400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 10504,
-            "name": "De Oude Meerdijk",
-            "city": "Emmen"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 11",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": true
-          },
-          "away": {
-            "id": 419,
-            "name": "Almere City FC",
-            "logo": "https://media.api-sports.io/football/teams/419.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551829,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-09T18:00:00+00:00",
-          "timestamp": 1791568800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 20517,
-            "name": "GN Bouw Stadion",
-            "city": "Dordrecht"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 409,
-            "name": "Dordrecht",
-            "logo": "https://media.api-sports.io/football/teams/409.png",
-            "winner": false
-          },
-          "away": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551825,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-03T18:00:00+00:00",
-          "timestamp": 1791050400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1144,
-            "name": "Mandemakers Stadion",
-            "city": "Waalwijk"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 417,
-            "name": "Waalwijk",
-            "logo": "https://media.api-sports.io/football/teams/417.png",
-            "winner": null
-          },
-          "away": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551811,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-26T18:00:00+00:00",
-          "timestamp": 1790445600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 10504,
-            "name": "De Oude Meerdijk",
-            "city": "Emmen"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": true
-          },
-          "away": {
-            "id": 423,
-            "name": "FC OSS",
-            "logo": "https://media.api-sports.io/football/teams/423.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551799,
-          "referee": "Martin Perez",
-          "timezone": "UTC",
-          "date": "2026-09-18T18:00:00+00:00",
-          "timestamp": 1789754400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1126,
-            "name": "Jan Louwers Stadion",
-            "city": "Eindhoven"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 422,
-            "name": "FC Eindhoven",
-            "logo": "https://media.api-sports.io/football/teams/422.png",
-            "winner": true
-          },
-          "away": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551788,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-11T18:00:00+00:00",
-          "timestamp": 1789149600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 10504,
-            "name": "De Oude Meerdijk",
-            "city": "Emmen"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 6",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": false
-          },
-          "away": {
-            "id": 199,
-            "name": "De Graafschap",
-            "logo": "https://media.api-sports.io/football/teams/199.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551778,
-          "referee": "M. Vos",
-          "timezone": "UTC",
-          "date": "2026-09-04T18:00:00+00:00",
-          "timestamp": 1788544800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 10504,
-            "name": "De Oude Meerdijk",
-            "city": "Emmen"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": true
-          },
-          "away": {
-            "id": 416,
-            "name": "FC Volendam",
-            "logo": "https://media.api-sports.io/football/teams/416.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 5,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 5,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551776,
-          "referee": "C. Ruperti",
-          "timezone": "UTC",
-          "date": "2026-08-30T14:45:00+00:00",
-          "timestamp": 1788101100,
-          "periods": {
-            "first": 1788101100,
-            "second": 1788104700
-          },
-          "venue": {
-            "id": null,
-            "name": "Seacon - De Koel",
-            "city": "Venlo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 204,
-            "name": "VVV Venlo",
-            "logo": "https://media.api-sports.io/football/teams/204.png",
-            "winner": true
-          },
-          "away": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 4,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551759,
-          "referee": "J. Kuipers",
-          "timezone": "UTC",
-          "date": "2026-08-21T18:00:00+00:00",
-          "timestamp": 1787335200,
-          "periods": {
-            "first": 1787335200,
-            "second": 1787338800
-          },
-          "venue": {
-            "id": 10504,
-            "name": "De Oude Meerdijk",
-            "city": "Emmen"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 2
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 208,
-            "name": "Emmen",
-            "logo": "https://media.api-sports.io/football/teams/208.png",
-            "winner": true
-          },
-          "away": {
-            "id": 418,
-            "name": "Jong AZ",
-            "logo": "https://media.api-sports.io/football/teams/418.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
-  },
   "228": {
     "statistics": {
       "league": {
@@ -20558,7 +19544,7 @@
       {
         "fixture": {
           "id": 1589438,
-          "referee": null,
+          "referee": "I. Vasilica",
           "timezone": "UTC",
           "date": "2026-10-27T20:15:00+00:00",
           "timestamp": 1793132100,
@@ -20628,13 +19614,13 @@
       {
         "fixture": {
           "id": 1575525,
-          "referee": "Miguel Bertolo Nogueira",
+          "referee": "M. Nogueira",
           "timezone": "UTC",
           "date": "2026-10-25T20:30:00+00:00",
           "timestamp": 1792960200,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1792960200,
+            "second": 1792963800
           },
           "venue": {
             "id": 1293,
@@ -20838,13 +19824,13 @@
       {
         "fixture": {
           "id": 1575512,
-          "referee": "Joao Pedro Pinheiro, Portugal",
+          "referee": "J. Pinheiro",
           "timezone": "UTC",
           "date": "2026-10-09T19:15:00+00:00",
           "timestamp": 1791573300,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1791573300,
+            "second": 1791576900
           },
           "venue": {
             "id": 1291,
@@ -20908,13 +19894,13 @@
       {
         "fixture": {
           "id": 1575507,
-          "referee": "David Rafael Oliveira da Silva, Portugal",
+          "referee": "D. Silva",
           "timezone": "UTC",
           "date": "2026-09-19T19:30:00+00:00",
           "timestamp": 1789846200,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1789846200,
+            "second": 1789849800
           },
           "venue": {
             "id": 1293,
@@ -20978,17 +19964,17 @@
       {
         "fixture": {
           "id": 1575496,
-          "referee": "Luís Godinho, Portugal",
+          "referee": "L. M. Branco Godinho",
           "timezone": "UTC",
           "date": "2026-09-13T19:30:00+00:00",
           "timestamp": 1789327800,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1789327800,
+            "second": 1789331400
           },
           "venue": {
             "id": null,
-            "name": "Estádio Municipal de Famalicão",
+            "name": "Estadio Municipal de Famalicao",
             "city": "Vila Nova de Famalicao"
           },
           "status": {
@@ -21118,13 +20104,13 @@
       {
         "fixture": {
           "id": 1575489,
-          "referee": "Joao Pedro Pinheiro, Portugal",
+          "referee": "J. Pinheiro",
           "timezone": "UTC",
           "date": "2026-09-05T19:30:00+00:00",
           "timestamp": 1788636600,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1788636600,
+            "second": 1788640200
           },
           "venue": {
             "id": null,
@@ -21188,7 +20174,7 @@
       {
         "fixture": {
           "id": 1575481,
-          "referee": "Bruno Jose Ribeiro Pires Costa, Portugal",
+          "referee": "B. J. Costa",
           "timezone": "UTC",
           "date": "2026-08-28T19:15:00+00:00",
           "timestamp": 1787944500,
@@ -36350,1024 +35336,6 @@
       }
     ]
   },
-  "421": {
-    "statistics": {
-      "league": {
-        "id": 89,
-        "name": "Eerste Divisie",
-        "country": "Netherlands",
-        "logo": "https://media.api-sports.io/football/leagues/89.png",
-        "flag": "https://media.api-sports.io/flags/nl.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 421,
-        "name": "Den Bosch",
-        "logo": "https://media.api-sports.io/football/teams/421.png"
-      },
-      "form": "DLWLLLWLDWWD",
-      "fixtures": {
-        "played": {
-          "home": 7,
-          "away": 5,
-          "total": 12
-        },
-        "wins": {
-          "home": 3,
-          "away": 1,
-          "total": 4
-        },
-        "draws": {
-          "home": 3,
-          "away": 0,
-          "total": 3
-        },
-        "loses": {
-          "home": 1,
-          "away": 4,
-          "total": 5
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 14,
-            "away": 4,
-            "total": 18
-          },
-          "average": {
-            "home": "2.0",
-            "away": "0.8",
-            "total": "1.5"
-          },
-          "minute": {
-            "0-15": {
-              "total": 5,
-              "percentage": "26.32%"
-            },
-            "16-30": {
-              "total": 2,
-              "percentage": "10.53%"
-            },
-            "31-45": {
-              "total": 2,
-              "percentage": "10.53%"
-            },
-            "46-60": {
-              "total": 2,
-              "percentage": "10.53%"
-            },
-            "61-75": {
-              "total": 4,
-              "percentage": "21.05%"
-            },
-            "76-90": {
-              "total": 4,
-              "percentage": "21.05%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 10,
-              "under": 2
-            },
-            "1.5": {
-              "over": 5,
-              "under": 7
-            },
-            "2.5": {
-              "over": 1,
-              "under": 11
-            },
-            "3.5": {
-              "over": 1,
-              "under": 11
-            },
-            "4.5": {
-              "over": 1,
-              "under": 11
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 12,
-            "away": 9,
-            "total": 21
-          },
-          "average": {
-            "home": "1.7",
-            "away": "1.8",
-            "total": "1.8"
-          },
-          "minute": {
-            "0-15": {
-              "total": 1,
-              "percentage": "5.00%"
-            },
-            "16-30": {
-              "total": 3,
-              "percentage": "15.00%"
-            },
-            "31-45": {
-              "total": 3,
-              "percentage": "15.00%"
-            },
-            "46-60": {
-              "total": 6,
-              "percentage": "30.00%"
-            },
-            "61-75": {
-              "total": 3,
-              "percentage": "15.00%"
-            },
-            "76-90": {
-              "total": 4,
-              "percentage": "20.00%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 11,
-              "under": 1
-            },
-            "1.5": {
-              "over": 6,
-              "under": 6
-            },
-            "2.5": {
-              "over": 3,
-              "under": 9
-            },
-            "3.5": {
-              "over": 1,
-              "under": 11
-            },
-            "4.5": {
-              "over": 0,
-              "under": 12
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 2,
-          "draws": 1,
-          "loses": 3
-        },
-        "wins": {
-          "home": "5-2",
-          "away": "0-1"
-        },
-        "loses": {
-          "home": "1-4",
-          "away": "3-1"
-        },
-        "goals": {
-          "for": {
-            "home": 5,
-            "away": 2
-          },
-          "against": {
-            "home": 4,
-            "away": 3
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 0,
-        "away": 1,
-        "total": 1
-      },
-      "failed_to_score": {
-        "home": 0,
-        "away": 2,
-        "total": 2
-      },
-      "penalty": {
-        "scored": {
-          "total": 1,
-          "percentage": "50.00%"
-        },
-        "missed": {
-          "total": 1,
-          "percentage": "50.00%"
-        },
-        "total": 2
-      },
-      "lineups": [
-        {
-          "formation": "4-3-1-2",
-          "played": 3
-        },
-        {
-          "formation": "4-3-3",
-          "played": 3
-        },
-        {
-          "formation": "3-1-4-2",
-          "played": 3
-        },
-        {
-          "formation": "4-2-3-1",
-          "played": 2
-        },
-        {
-          "formation": "4-1-4-1",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 3,
-            "percentage": "23.08%"
-          },
-          "16-30": {
-            "total": 2,
-            "percentage": "15.38%"
-          },
-          "31-45": {
-            "total": 2,
-            "percentage": "15.38%"
-          },
-          "46-60": {
-            "total": 2,
-            "percentage": "15.38%"
-          },
-          "61-75": {
-            "total": 2,
-            "percentage": "15.38%"
-          },
-          "76-90": {
-            "total": 2,
-            "percentage": "15.38%"
-          },
-          "91-105": {
-            "total": null,
-            "percentage": null
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": 1,
-            "percentage": "100.00%"
-          },
-          "91-105": {
-            "total": null,
-            "percentage": null
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1641982,
-          "referee": "W. Wiersma",
-          "timezone": "UTC",
-          "date": "2026-10-27T19:00:00+00:00",
-          "timestamp": 1793127600,
-          "periods": {
-            "first": 1793127600,
-            "second": 1793131200
-          },
-          "venue": {
-            "id": 2876,
-            "name": "Sportpark Middelmors",
-            "city": "Rijnsburg"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 90,
-          "name": "KNVB Beker",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/90.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Round of 64",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 1248,
-            "name": "Rijnsburgse Boys",
-            "logo": "https://media.api-sports.io/football/teams/1248.png",
-            "winner": false
-          },
-          "away": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 5
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 5
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551849,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-23T18:00:00+00:00",
-          "timestamp": 1792778400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1122,
-            "name": "Stadion de Vliert",
-            "city": "'S-Hertogenbosch"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 12",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": null
-          },
-          "away": {
-            "id": 412,
-            "name": "MVV",
-            "logo": "https://media.api-sports.io/football/teams/412.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551837,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-16T18:00:00+00:00",
-          "timestamp": 1792173600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1122,
-            "name": "Stadion de Vliert",
-            "city": "'S-Hertogenbosch"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 11",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": true
-          },
-          "away": {
-            "id": 423,
-            "name": "FC OSS",
-            "logo": "https://media.api-sports.io/football/teams/423.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551833,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-09T18:00:00+00:00",
-          "timestamp": 1791568800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1136,
-            "name": "AFAS Trainingscomplex",
-            "city": "Alkmaar"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 418,
-            "name": "Jong AZ",
-            "logo": "https://media.api-sports.io/football/teams/418.png",
-            "winner": false
-          },
-          "away": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551822,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-03T18:00:00+00:00",
-          "timestamp": 1791050400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1122,
-            "name": "Stadion de Vliert",
-            "city": "'S-Hertogenbosch"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": null
-          },
-          "away": {
-            "id": 409,
-            "name": "Dordrecht",
-            "logo": "https://media.api-sports.io/football/teams/409.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551816,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-27T12:30:00+00:00",
-          "timestamp": 1790512200,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1121,
-            "name": "De Vijverberg",
-            "city": "Dutinghem"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 199,
-            "name": "De Graafschap",
-            "logo": "https://media.api-sports.io/football/teams/199.png",
-            "winner": true
-          },
-          "away": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551798,
-          "referee": "Rick Sturm",
-          "timezone": "UTC",
-          "date": "2026-09-18T18:00:00+00:00",
-          "timestamp": 1789754400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1122,
-            "name": "Stadion de Vliert",
-            "city": "'S-Hertogenbosch"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": true
-          },
-          "away": {
-            "id": 424,
-            "name": "Helmond Sport",
-            "logo": "https://media.api-sports.io/football/teams/424.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551796,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-13T14:45:00+00:00",
-          "timestamp": 1789310700,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1156,
-            "name": "Kras Stadion",
-            "city": "Volendam"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 6",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 416,
-            "name": "FC Volendam",
-            "logo": "https://media.api-sports.io/football/teams/416.png",
-            "winner": true
-          },
-          "away": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551785,
-          "referee": "A. Wolff",
-          "timezone": "UTC",
-          "date": "2026-09-07T18:00:00+00:00",
-          "timestamp": 1788804000,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": null,
-            "name": "De Herdgang",
-            "city": "Eindhoven"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 411,
-            "name": "Jong PSV U21",
-            "logo": "https://media.api-sports.io/football/teams/411.png",
-            "winner": true
-          },
-          "away": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1551767,
-          "referee": "M. Perez",
-          "timezone": "UTC",
-          "date": "2026-08-28T18:00:00+00:00",
-          "timestamp": 1787940000,
-          "periods": {
-            "first": 1787940000,
-            "second": 1787943600
-          },
-          "venue": {
-            "id": null,
-            "name": "De Vliert",
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 89,
-          "name": "Eerste Divisie",
-          "country": "Netherlands",
-          "logo": "https://media.api-sports.io/football/leagues/89.png",
-          "flag": "https://media.api-sports.io/flags/nl.svg",
-          "season": 2026,
-          "round": "Regular Season - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 421,
-            "name": "Den Bosch",
-            "logo": "https://media.api-sports.io/football/teams/421.png",
-            "winner": false
-          },
-          "away": {
-            "id": 200,
-            "name": "Vitesse",
-            "logo": "https://media.api-sports.io/football/teams/200.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 4
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 3
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 4
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
-  },
   "422": {
     "statistics": {
       "league": {
@@ -47823,7 +45791,7 @@
       {
         "fixture": {
           "id": 1584445,
-          "referee": "Oguzhan Cakir, Türkiye",
+          "referee": "O. Cakir",
           "timezone": "UTC",
           "date": "2026-10-25T13:00:00+00:00",
           "timestamp": 1792933200,
@@ -47833,7 +45801,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Medas Konya Büyüksehir Belediyesi Stadium",
+            "name": "Konya Buyuksehir Belediye Stadium",
             "city": "Konya"
           },
           "status": {
@@ -47893,7 +45861,7 @@
       {
         "fixture": {
           "id": 1584430,
-          "referee": "Ozan Ergun, Türkiye",
+          "referee": "O. Ergun",
           "timezone": "UTC",
           "date": "2026-10-17T13:00:00+00:00",
           "timestamp": 1792242000,
@@ -47963,7 +45931,7 @@
       {
         "fixture": {
           "id": 1584427,
-          "referee": "Batuhan Kolak, Türkiye",
+          "referee": "B. Kolak",
           "timezone": "UTC",
           "date": "2026-10-11T10:30:00+00:00",
           "timestamp": 1791714600,
@@ -47973,7 +45941,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Medas Konya Büyüksehir Belediyesi Stadium",
+            "name": "Konya Buyuksehir Belediye Stadium",
             "city": "Konya"
           },
           "status": {
@@ -48103,7 +46071,7 @@
       {
         "fixture": {
           "id": 1584418,
-          "referee": "Davut Dakul Celik, Türkiye",
+          "referee": "D. Celik",
           "timezone": "UTC",
           "date": "2026-09-18T17:00:00+00:00",
           "timestamp": 1789750800,
@@ -48173,7 +46141,7 @@
       {
         "fixture": {
           "id": 1584410,
-          "referee": "Resat Onur Coskunses, Türkiye",
+          "referee": "R. Coskunses",
           "timezone": "UTC",
           "date": "2026-09-12T17:00:00+00:00",
           "timestamp": 1789232400,
@@ -48183,7 +46151,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Medas Konya Büyüksehir Belediyesi Stadium",
+            "name": "Konya Buyuksehir Belediye Stadium",
             "city": "Konya"
           },
           "status": {
@@ -48243,7 +46211,7 @@
       {
         "fixture": {
           "id": 1584396,
-          "referee": "Yasin Kol, Türkiye",
+          "referee": "Y. Kol",
           "timezone": "UTC",
           "date": "2026-09-05T14:00:00+00:00",
           "timestamp": 1788616800,
@@ -48313,7 +46281,7 @@
       {
         "fixture": {
           "id": 1584392,
-          "referee": "Gurcan Hasova, Türkiye",
+          "referee": "G. Hasova",
           "timezone": "UTC",
           "date": "2026-08-29T16:00:00+00:00",
           "timestamp": 1788019200,
@@ -48323,7 +46291,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Medas Konya Büyüksehir Belediyesi Stadium",
+            "name": "Konya Buyuksehir Belediye Stadium",
             "city": "Konya"
           },
           "status": {
@@ -48383,7 +46351,7 @@
       {
         "fixture": {
           "id": 1584380,
-          "referee": "Atilla Karaoglan, Türkiye",
+          "referee": "A. Karaoglan",
           "timezone": "UTC",
           "date": "2026-08-22T18:30:00+00:00",
           "timestamp": 1787423400,
@@ -48393,7 +46361,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Chobani Stadium",
+            "name": "Chobani Stadium Fenerbahce Sukru Saracoglu",
             "city": "Istanbul"
           },
           "status": {
@@ -48453,7 +46421,7 @@
       {
         "fixture": {
           "id": 1584374,
-          "referee": "Cihan Aydin, Türkiye",
+          "referee": "C. Aydin",
           "timezone": "UTC",
           "date": "2026-08-15T16:00:00+00:00",
           "timestamp": 1786809600,
@@ -48463,7 +46431,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Medas Konya Büyüksehir Belediyesi Stadium",
+            "name": "Konya Buyuksehir Belediye Stadium",
             "city": "Konya"
           },
           "status": {
@@ -50829,7 +48797,7 @@
       {
         "fixture": {
           "id": 1584442,
-          "referee": "Atilla Karaoglan, Türkiye",
+          "referee": "A. Karaoglan",
           "timezone": "UTC",
           "date": "2026-10-26T18:30:00+00:00",
           "timestamp": 1793039400,
@@ -50839,7 +48807,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Rams Park Stadyumu",
+            "name": "Rams Park",
             "city": "Istanbul"
           },
           "status": {
@@ -50969,7 +48937,7 @@
       {
         "fixture": {
           "id": 1584435,
-          "referee": "Resat Onur Coskunses, Türkiye",
+          "referee": "R. Coskunses",
           "timezone": "UTC",
           "date": "2026-10-17T13:00:00+00:00",
           "timestamp": 1792242000,
@@ -50979,7 +48947,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Eryaman Stadyumu",
+            "name": "Eryaman Stadium",
             "city": "Ankara"
           },
           "status": {
@@ -51109,7 +49077,7 @@
       {
         "fixture": {
           "id": 1584424,
-          "referee": "Halil Umut Meler, Türkiye",
+          "referee": "H. U. Meler",
           "timezone": "UTC",
           "date": "2026-10-09T17:00:00+00:00",
           "timestamp": 1791565200,
@@ -51119,7 +49087,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Rams Park Stadyumu",
+            "name": "Rams Park",
             "city": "Istanbul"
           },
           "status": {
@@ -51249,7 +49217,7 @@
       {
         "fixture": {
           "id": 1584420,
-          "referee": "Batuhan Kolak, Türkiye",
+          "referee": "B. Kolak",
           "timezone": "UTC",
           "date": "2026-09-19T17:00:00+00:00",
           "timestamp": 1789837200,
@@ -51319,7 +49287,7 @@
       {
         "fixture": {
           "id": 1584407,
-          "referee": "Atilla Karaoglan, Türkiye",
+          "referee": "A. Karaoglan",
           "timezone": "UTC",
           "date": "2026-09-13T17:00:00+00:00",
           "timestamp": 1789318800,
@@ -51329,7 +49297,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Rams Park Stadyumu",
+            "name": "Rams Park",
             "city": "Istanbul"
           },
           "status": {
@@ -51459,7 +49427,7 @@
       {
         "fixture": {
           "id": 1584394,
-          "referee": "Kadir Saglam, Türkiye",
+          "referee": "K. Saglam",
           "timezone": "UTC",
           "date": "2026-09-04T17:00:00+00:00",
           "timestamp": 1788541200,
@@ -74012,8 +71980,8 @@
         },
         "score": {
           "halftime": {
-            "home": 1,
-            "away": 2
+            "home": 2,
+            "away": 1
           },
           "fulltime": {
             "home": 2,
@@ -85092,13 +83060,13 @@
       {
         "fixture": {
           "id": 1575520,
-          "referee": "Bruno Jose Ribeiro Pires Costa, Portugal",
+          "referee": "B. J. Costa",
           "timezone": "UTC",
           "date": "2026-10-24T14:30:00+00:00",
           "timestamp": 1792852200,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1792852200,
+            "second": 1792855800
           },
           "venue": {
             "id": null,
@@ -85232,13 +83200,13 @@
       {
         "fixture": {
           "id": 1575513,
-          "referee": "Vasilica Iancu, Portugal",
+          "referee": "I. Vasilica",
           "timezone": "UTC",
           "date": "2026-10-10T19:30:00+00:00",
           "timestamp": 1791660600,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1791660600,
+            "second": 1791664200
           },
           "venue": {
             "id": 3565,
@@ -85302,18 +83270,18 @@
       {
         "fixture": {
           "id": 1575501,
-          "referee": "Pedro Ramalho, Portugal",
+          "referee": "P. Ramalho",
           "timezone": "UTC",
           "date": "2026-09-20T17:00:00+00:00",
           "timestamp": 1789923600,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1789923600,
+            "second": 1789927200
           },
           "venue": {
             "id": 1274,
-            "name": "Estádio António Coimbra da Mota",
-            "city": "Cascais"
+            "name": "Estadio Antonio Coimbra da Mota",
+            "city": "Estoril"
           },
           "status": {
             "long": "Match Finished",
@@ -85372,13 +83340,13 @@
       {
         "fixture": {
           "id": 1575495,
-          "referee": "Jose Bessa, Portugal",
+          "referee": "J. Bessa",
           "timezone": "UTC",
           "date": "2026-09-12T17:00:00+00:00",
           "timestamp": 1789232400,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1789232400,
+            "second": 1789236000
           },
           "venue": {
             "id": 3565,
@@ -85442,13 +83410,13 @@
       {
         "fixture": {
           "id": 1575490,
-          "referee": "Gustavo Correia, Portugal",
+          "referee": "G. Correia",
           "timezone": "UTC",
           "date": "2026-09-06T17:00:00+00:00",
           "timestamp": 1788714000,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1788714000,
+            "second": 1788717600
           },
           "venue": {
             "id": 1295,
@@ -85512,7 +83480,7 @@
       {
         "fixture": {
           "id": 1575478,
-          "referee": "Luís Godinho, Portugal",
+          "referee": "L. M. Branco Godinho",
           "timezone": "UTC",
           "date": "2026-08-30T17:00:00+00:00",
           "timestamp": 1788109200,
@@ -85582,7 +83550,7 @@
       {
         "fixture": {
           "id": 1575467,
-          "referee": "Anzhony Rodrigues, Portugal",
+          "referee": "A. Rodrigues",
           "timezone": "UTC",
           "date": "2026-08-24T19:15:00+00:00",
           "timestamp": 1787598900,
@@ -85652,7 +83620,7 @@
       {
         "fixture": {
           "id": 1575459,
-          "referee": "Joao Pedro Pinheiro, Portugal",
+          "referee": "J. Pinheiro",
           "timezone": "UTC",
           "date": "2026-08-17T19:15:00+00:00",
           "timestamp": 1786994100,
@@ -85722,7 +83690,7 @@
       {
         "fixture": {
           "id": 1575451,
-          "referee": "Sergio Guelho, Portugal",
+          "referee": "S. Guelho",
           "timezone": "UTC",
           "date": "2026-08-08T14:30:00+00:00",
           "timestamp": 1786199400,
@@ -86139,8 +84107,8 @@
         },
         "score": {
           "halftime": {
-            "home": 1,
-            "away": 2
+            "home": 2,
+            "away": 1
           },
           "fulltime": {
             "home": 2,
@@ -92176,7 +90144,7 @@
       {
         "fixture": {
           "id": 1565281,
-          "referee": "George Catalin Gaman, Romania",
+          "referee": "G. Gaman",
           "timezone": "UTC",
           "date": "2026-10-24T12:30:00+00:00",
           "timestamp": 1792845000,
@@ -92246,7 +90214,7 @@
       {
         "fixture": {
           "id": 1565274,
-          "referee": "Istvan Kovacs, Romania",
+          "referee": "I. Kovacs",
           "timezone": "UTC",
           "date": "2026-10-16T15:00:00+00:00",
           "timestamp": 1792162800,
@@ -92316,7 +90284,7 @@
       {
         "fixture": {
           "id": 1565264,
-          "referee": "Andrei Moroita, Romania",
+          "referee": "A. Moroita",
           "timezone": "UTC",
           "date": "2026-10-11T15:00:00+00:00",
           "timestamp": 1791730800,
@@ -92386,7 +90354,7 @@
       {
         "fixture": {
           "id": 1565260,
-          "referee": "Sorin Dan Vadana, Romania",
+          "referee": "S. Vadana",
           "timezone": "UTC",
           "date": "2026-09-21T18:00:00+00:00",
           "timestamp": 1790013600,
@@ -92456,7 +90424,7 @@
       {
         "fixture": {
           "id": 1565248,
-          "referee": "George Catalin Roman, Romania",
+          "referee": "G. Catalin",
           "timezone": "UTC",
           "date": "2026-09-11T18:00:00+00:00",
           "timestamp": 1789149600,
@@ -92526,7 +90494,7 @@
       {
         "fixture": {
           "id": 1565246,
-          "referee": "Iulian Calin, Romania",
+          "referee": "I. Calin",
           "timezone": "UTC",
           "date": "2026-09-05T14:30:00+00:00",
           "timestamp": 1788618600,
@@ -92536,7 +90504,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadionul Francisc von Neumann",
+            "name": "Arena Francisc Neuman",
             "city": "Arad"
           },
           "status": {
@@ -92666,7 +90634,7 @@
       {
         "fixture": {
           "id": 1565232,
-          "referee": "Horia Gabriel Mladinovici, Romania",
+          "referee": "H. Mladinovici",
           "timezone": "UTC",
           "date": "2026-08-29T13:00:00+00:00",
           "timestamp": 1788008400,
@@ -92736,7 +90704,7 @@
       {
         "fixture": {
           "id": 1565225,
-          "referee": "Horatiu Fesnic, Romania",
+          "referee": "H. Fesnic",
           "timezone": "UTC",
           "date": "2026-08-24T15:30:00+00:00",
           "timestamp": 1787585400,
@@ -93190,7 +91158,7 @@
       {
         "fixture": {
           "id": 1565285,
-          "referee": "Horatiu Fesnic, Romania",
+          "referee": "H. Fesnic",
           "timezone": "UTC",
           "date": "2026-10-24T18:00:00+00:00",
           "timestamp": 1792864800,
@@ -93260,7 +91228,7 @@
       {
         "fixture": {
           "id": 1565272,
-          "referee": "Szabolcs Kovacs, Romania",
+          "referee": "K. Szabolcs",
           "timezone": "UTC",
           "date": "2026-10-17T18:30:00+00:00",
           "timestamp": 1792261800,
@@ -93330,7 +91298,7 @@
       {
         "fixture": {
           "id": 1565270,
-          "referee": "Rares George Vidican, Romania",
+          "referee": "R. Vidican",
           "timezone": "UTC",
           "date": "2026-10-12T18:00:00+00:00",
           "timestamp": 1791828000,
@@ -93470,7 +91438,7 @@
       {
         "fixture": {
           "id": 1565257,
-          "referee": "Marius Florin Badea, Romania",
+          "referee": "M. Birsan",
           "timezone": "UTC",
           "date": "2026-09-18T18:00:00+00:00",
           "timestamp": 1789754400,
@@ -93540,7 +91508,7 @@
       {
         "fixture": {
           "id": 1565251,
-          "referee": "Andrei Moroita, Romania",
+          "referee": "A. Moroita",
           "timezone": "UTC",
           "date": "2026-09-12T18:30:00+00:00",
           "timestamp": 1789237800,
@@ -93550,7 +91518,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadionul Rapid-Giulesti",
+            "name": "Superbet Arena - Giulesti",
             "city": "Bucharest"
           },
           "status": {
@@ -93610,7 +91578,7 @@
       {
         "fixture": {
           "id": 1565243,
-          "referee": "Marian Barbu, Romania",
+          "referee": "M. Barbu",
           "timezone": "UTC",
           "date": "2026-09-06T17:30:00+00:00",
           "timestamp": 1788715800,
@@ -93620,7 +91588,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadionul Oțelul",
+            "name": "Stadionul Otelul",
             "city": "Galati"
           },
           "status": {
@@ -93750,7 +91718,7 @@
       {
         "fixture": {
           "id": 1565235,
-          "referee": "Florin Andrei, Romania",
+          "referee": "F. Andrei",
           "timezone": "UTC",
           "date": "2026-08-31T17:30:00+00:00",
           "timestamp": 1788197400,
@@ -93760,7 +91728,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadionul Rapid-Giulesti",
+            "name": "Superbet Arena - Giulesti",
             "city": "Bucharest"
           },
           "status": {
@@ -100054,7 +98022,7 @@
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 18
+          "played": 19
         },
         {
           "formation": "4-3-3",
@@ -100074,10 +98042,6 @@
         },
         {
           "formation": "3-4-2-1",
-          "played": 1
-        },
-        {
-          "formation": "4-3-1-2",
           "played": 1
         },
         {
@@ -100176,7 +98140,7 @@
       {
         "fixture": {
           "id": 1492425,
-          "referee": "Lucas Casagrande, Brazil",
+          "referee": "L. Casagrande",
           "timezone": "UTC",
           "date": "2026-10-24T19:30:00+00:00",
           "timestamp": 1792870200,
@@ -100187,7 +98151,7 @@
           "venue": {
             "id": 5676,
             "name": "José Maria de Campos Maia",
-            "city": "Mirasol"
+            "city": "Mirassol"
           },
           "status": {
             "long": "Match Finished",
@@ -100246,7 +98210,7 @@
       {
         "fixture": {
           "id": 1492417,
-          "referee": "Bruno Arleu de Araujo, Brazil",
+          "referee": "B. Arleu",
           "timezone": "UTC",
           "date": "2026-10-16T23:00:00+00:00",
           "timestamp": 1792191600,
@@ -100257,7 +98221,7 @@
           "venue": {
             "id": 5676,
             "name": "José Maria de Campos Maia",
-            "city": "Mirasol"
+            "city": "Mirassol"
           },
           "status": {
             "long": "Match Finished",
@@ -100316,7 +98280,7 @@
       {
         "fixture": {
           "id": 1492401,
-          "referee": "Ramon Abatti Abel, Brazil",
+          "referee": "R. Abatti",
           "timezone": "UTC",
           "date": "2026-10-11T22:30:00+00:00",
           "timestamp": 1791757800,
@@ -100327,7 +98291,7 @@
           "venue": {
             "id": 216,
             "name": "Arena Fonte Nova",
-            "city": "El Salvador"
+            "city": "Salvador"
           },
           "status": {
             "long": "Match Finished",
@@ -100386,7 +98350,7 @@
       {
         "fixture": {
           "id": 1492392,
-          "referee": "Raphael Claus, Brazil",
+          "referee": "R. Claus",
           "timezone": "UTC",
           "date": "2026-10-07T22:30:00+00:00",
           "timestamp": 1791412200,
@@ -100526,7 +98490,7 @@
       {
         "fixture": {
           "id": 1492385,
-          "referee": "Felipe Fernandes de Lima, Brazil",
+          "referee": "F. Fernandes de Lima",
           "timezone": "UTC",
           "date": "2026-09-19T20:00:00+00:00",
           "timestamp": 1789848000,
@@ -100596,7 +98560,7 @@
       {
         "fixture": {
           "id": 1492377,
-          "referee": "Ramon Abatti Abel, Brazil",
+          "referee": "R. Abatti",
           "timezone": "UTC",
           "date": "2026-09-13T19:00:00+00:00",
           "timestamp": 1789326000,
@@ -100666,7 +98630,7 @@
       {
         "fixture": {
           "id": 1492363,
-          "referee": "Andre Luis Skettino Policarpo Bento, Brazil",
+          "referee": "A. Policarpo Bento",
           "timezone": "UTC",
           "date": "2026-09-06T14:00:00+00:00",
           "timestamp": 1788703200,
@@ -100736,7 +98700,7 @@
       {
         "fixture": {
           "id": 1492145,
-          "referee": "Anderson Daronco, Brazil",
+          "referee": "A. Daronco",
           "timezone": "UTC",
           "date": "2026-09-02T22:30:00+00:00",
           "timestamp": 1788388200,
@@ -100806,7 +98770,7 @@
       {
         "fixture": {
           "id": 1492356,
-          "referee": "Joao Vitor Gobi, Brazil",
+          "referee": "J. Vitor Gobi",
           "timezone": "UTC",
           "date": "2026-08-30T21:30:00+00:00",
           "timestamp": 1788125400,

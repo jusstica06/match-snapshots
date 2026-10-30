@@ -1172,11 +1172,11 @@
         "name": "Palmeiras",
         "logo": "https://media.api-sports.io/football/teams/121.png"
       },
-      "points": 69,
+      "points": 70,
       "all": {
-        "played": 32,
+        "played": 33,
         "win": 20,
-        "draw": 9,
+        "draw": 10,
         "lose": 3,
         "goals": {
           "for": 56,
@@ -1229,20 +1229,39 @@
         "name": "Fluminense",
         "logo": "https://media.api-sports.io/football/teams/124.png"
       },
-      "points": 51,
+      "points": 54,
       "all": {
-        "played": 32,
-        "win": 14,
+        "played": 33,
+        "win": 15,
         "draw": 9,
         "lose": 9,
         "goals": {
-          "for": 50,
-          "against": 41
+          "for": 52,
+          "against": 42
         }
       }
     },
     {
       "rank": 6,
+      "team": {
+        "id": 118,
+        "name": "Bahia",
+        "logo": "https://media.api-sports.io/football/teams/118.png"
+      },
+      "points": 53,
+      "all": {
+        "played": 33,
+        "win": 14,
+        "draw": 11,
+        "lose": 8,
+        "goals": {
+          "for": 48,
+          "against": 42
+        }
+      }
+    },
+    {
+      "rank": 7,
       "team": {
         "id": 1062,
         "name": "Atletico-MG",
@@ -1261,36 +1280,17 @@
       }
     },
     {
-      "rank": 7,
-      "team": {
-        "id": 118,
-        "name": "Bahia",
-        "logo": "https://media.api-sports.io/football/teams/118.png"
-      },
-      "points": 50,
-      "all": {
-        "played": 32,
-        "win": 13,
-        "draw": 11,
-        "lose": 8,
-        "goals": {
-          "for": 45,
-          "against": 40
-        }
-      }
-    },
-    {
       "rank": 8,
       "team": {
         "id": 128,
         "name": "Santos",
         "logo": "https://media.api-sports.io/football/teams/128.png"
       },
-      "points": 46,
+      "points": 47,
       "all": {
-        "played": 32,
+        "played": 33,
         "win": 12,
-        "draw": 10,
+        "draw": 11,
         "lose": 10,
         "goals": {
           "for": 49,
@@ -1301,38 +1301,38 @@
     {
       "rank": 9,
       "team": {
-        "id": 126,
-        "name": "Sao Paulo",
-        "logo": "https://media.api-sports.io/football/teams/126.png"
+        "id": 794,
+        "name": "RB Bragantino",
+        "logo": "https://media.api-sports.io/football/teams/794.png"
       },
-      "points": 43,
+      "points": 44,
       "all": {
-        "played": 32,
+        "played": 33,
         "win": 12,
-        "draw": 7,
+        "draw": 8,
         "lose": 13,
         "goals": {
-          "for": 37,
-          "against": 36
+          "for": 42,
+          "against": 38
         }
       }
     },
     {
       "rank": 10,
       "team": {
-        "id": 794,
-        "name": "RB Bragantino",
-        "logo": "https://media.api-sports.io/football/teams/794.png"
+        "id": 126,
+        "name": "Sao Paulo",
+        "logo": "https://media.api-sports.io/football/teams/126.png"
       },
-      "points": 41,
+      "points": 43,
       "all": {
-        "played": 32,
-        "win": 11,
-        "draw": 8,
-        "lose": 13,
+        "played": 33,
+        "win": 12,
+        "draw": 7,
+        "lose": 14,
         "goals": {
           "for": 39,
-          "against": 38
+          "against": 39
         }
       }
     },
@@ -1345,13 +1345,13 @@
       },
       "points": 39,
       "all": {
-        "played": 32,
+        "played": 33,
         "win": 10,
         "draw": 9,
-        "lose": 13,
+        "lose": 14,
         "goals": {
-          "for": 44,
-          "against": 51
+          "for": 45,
+          "against": 53
         }
       }
     },
@@ -1440,13 +1440,13 @@
       },
       "points": 35,
       "all": {
-        "played": 32,
+        "played": 33,
         "win": 8,
         "draw": 11,
-        "lose": 13,
+        "lose": 14,
         "goals": {
-          "for": 36,
-          "against": 40
+          "for": 37,
+          "against": 42
         }
       }
     },
@@ -1495,15 +1495,15 @@
         "name": "Remo",
         "logo": "https://media.api-sports.io/football/teams/1198.png"
       },
-      "points": 26,
+      "points": 29,
       "all": {
-        "played": 32,
-        "win": 5,
+        "played": 33,
+        "win": 6,
         "draw": 11,
         "lose": 16,
         "goals": {
-          "for": 34,
-          "against": 50
+          "for": 36,
+          "against": 51
         }
       }
     },
@@ -1516,13 +1516,13 @@
       },
       "points": 21,
       "all": {
-        "played": 31,
+        "played": 32,
         "win": 4,
         "draw": 9,
-        "lose": 18,
+        "lose": 19,
         "goals": {
           "for": 32,
-          "against": 63
+          "against": 66
         }
       }
     }
@@ -8149,6 +8149,44 @@
     {
       "rank": 1,
       "team": {
+        "id": 2933,
+        "name": "Al-Qadisiyah FC",
+        "logo": "https://media.api-sports.io/football/teams/2933.png"
+      },
+      "points": 28,
+      "all": {
+        "played": 12,
+        "win": 9,
+        "draw": 1,
+        "lose": 2,
+        "goals": {
+          "for": 32,
+          "against": 12
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": 2939,
+        "name": "Al-Nassr",
+        "logo": "https://media.api-sports.io/football/teams/2939.png"
+      },
+      "points": 28,
+      "all": {
+        "played": 11,
+        "win": 9,
+        "draw": 1,
+        "lose": 1,
+        "goals": {
+          "for": 28,
+          "against": 11
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "team": {
         "id": 2932,
         "name": "Al-Hilal Saudi FC",
         "logo": "https://media.api-sports.io/football/teams/2932.png"
@@ -8162,44 +8200,6 @@
         "goals": {
           "for": 30,
           "against": 9
-        }
-      }
-    },
-    {
-      "rank": 2,
-      "team": {
-        "id": 2939,
-        "name": "Al-Nassr",
-        "logo": "https://media.api-sports.io/football/teams/2939.png"
-      },
-      "points": 25,
-      "all": {
-        "played": 10,
-        "win": 8,
-        "draw": 1,
-        "lose": 1,
-        "goals": {
-          "for": 23,
-          "against": 8
-        }
-      }
-    },
-    {
-      "rank": 3,
-      "team": {
-        "id": 2933,
-        "name": "Al-Qadisiyah FC",
-        "logo": "https://media.api-sports.io/football/teams/2933.png"
-      },
-      "points": 25,
-      "all": {
-        "played": 11,
-        "win": 8,
-        "draw": 1,
-        "lose": 2,
-        "goals": {
-          "for": 26,
-          "against": 12
         }
       }
     },
@@ -8301,38 +8301,38 @@
     {
       "rank": 9,
       "team": {
-        "id": 10509,
-        "name": "Al Kholood",
-        "logo": "https://media.api-sports.io/football/teams/10509.png"
+        "id": 2928,
+        "name": "Al Khaleej Saihat",
+        "logo": "https://media.api-sports.io/football/teams/2928.png"
       },
-      "points": 12,
+      "points": 15,
       "all": {
-        "played": 10,
+        "played": 12,
         "win": 3,
-        "draw": 3,
-        "lose": 4,
+        "draw": 6,
+        "lose": 3,
         "goals": {
           "for": 14,
-          "against": 21
+          "against": 19
         }
       }
     },
     {
       "rank": 10,
       "team": {
-        "id": 2928,
-        "name": "Al Khaleej Saihat",
-        "logo": "https://media.api-sports.io/football/teams/2928.png"
+        "id": 10509,
+        "name": "Al Kholood",
+        "logo": "https://media.api-sports.io/football/teams/10509.png"
       },
       "points": 12,
       "all": {
         "played": 11,
-        "win": 2,
-        "draw": 6,
-        "lose": 3,
+        "win": 3,
+        "draw": 3,
+        "lose": 5,
         "goals": {
-          "for": 10,
-          "against": 17
+          "for": 17,
+          "against": 26
         }
       }
     },
@@ -8345,13 +8345,13 @@
       },
       "points": 12,
       "all": {
-        "played": 10,
+        "played": 11,
         "win": 3,
         "draw": 3,
-        "lose": 4,
+        "lose": 5,
         "goals": {
           "for": 11,
-          "against": 19
+          "against": 25
         }
       }
     },
@@ -8383,13 +8383,13 @@
       },
       "points": 10,
       "all": {
-        "played": 11,
+        "played": 12,
         "win": 2,
         "draw": 4,
-        "lose": 5,
+        "lose": 6,
         "goals": {
-          "for": 12,
-          "against": 16
+          "for": 14,
+          "against": 20
         }
       }
     },
