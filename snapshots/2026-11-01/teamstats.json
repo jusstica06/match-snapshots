@@ -1362,8 +1362,8 @@
             "away": 1
           },
           "extratime": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
           },
           "penalty": {
             "home": 5,
@@ -7293,27 +7293,27 @@
           },
           "16-30": {
             "total": 3,
-            "percentage": "16.67%"
+            "percentage": "15.79%"
           },
           "31-45": {
             "total": 3,
-            "percentage": "16.67%"
+            "percentage": "15.79%"
           },
           "46-60": {
             "total": 3,
-            "percentage": "16.67%"
+            "percentage": "15.79%"
           },
           "61-75": {
             "total": 2,
-            "percentage": "11.11%"
+            "percentage": "10.53%"
           },
           "76-90": {
             "total": 4,
-            "percentage": "22.22%"
+            "percentage": "21.05%"
           },
           "91-105": {
-            "total": 3,
-            "percentage": "16.67%"
+            "total": 4,
+            "percentage": "21.05%"
           },
           "106-120": {
             "total": null,
@@ -27552,7 +27552,7 @@
       {
         "fixture": {
           "id": 1589436,
-          "referee": null,
+          "referee": "J. Goncalves",
           "timezone": "UTC",
           "date": "2026-10-29T18:45:00+00:00",
           "timestamp": 1793299500,
@@ -27610,8 +27610,8 @@
             "away": 2
           },
           "extratime": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
           },
           "penalty": {
             "home": 1,
@@ -30586,1012 +30586,10 @@
         }
       }
     },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1575523,
-          "referee": "H. Carvalho",
-          "timezone": "UTC",
-          "date": "2026-10-25T18:00:00+00:00",
-          "timestamp": 1792951200,
-          "periods": {
-            "first": 1792951200,
-            "second": 1792954800
-          },
-          "venue": {
-            "id": 1288,
-            "name": "Estádio dos Arcos",
-            "city": "Vila do Conde"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 226,
-            "name": "Rio Ave",
-            "logo": "https://media.api-sports.io/football/teams/226.png",
-            "winner": false
-          },
-          "away": {
-            "id": 242,
-            "name": "Famalicao",
-            "logo": "https://media.api-sports.io/football/teams/242.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 4
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 4
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1641815,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-17T16:00:00+00:00",
-          "timestamp": 1792252800,
-          "periods": {
-            "first": 1792252800,
-            "second": 1792256400
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Algarve",
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 11
-          }
-        },
-        "league": {
-          "id": 96,
-          "name": "Taça de Portugal",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/96.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Round of 64",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 4758,
-            "name": "Louletano",
-            "logo": "https://media.api-sports.io/football/teams/4758.png",
-            "winner": false
-          },
-          "away": {
-            "id": 226,
-            "name": "Rio Ave",
-            "logo": "https://media.api-sports.io/football/teams/226.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575517,
-          "referee": "C. Macedo",
-          "timezone": "UTC",
-          "date": "2026-10-11T14:30:00+00:00",
-          "timestamp": 1791729000,
-          "periods": {
-            "first": 1791729000,
-            "second": 1791732600
-          },
-          "venue": {
-            "id": 1288,
-            "name": "Estádio dos Arcos",
-            "city": "Vila do Conde"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 226,
-            "name": "Rio Ave",
-            "logo": "https://media.api-sports.io/football/teams/226.png",
-            "winner": true
-          },
-          "away": {
-            "id": 225,
-            "name": "Nacional",
-            "logo": "https://media.api-sports.io/football/teams/225.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575500,
-          "referee": "L. Filipe",
-          "timezone": "UTC",
-          "date": "2026-09-19T17:00:00+00:00",
-          "timestamp": 1789837200,
-          "periods": {
-            "first": 1789837200,
-            "second": 1789840800
-          },
-          "venue": {
-            "id": 3572,
-            "name": "FC Alverca Sports Complex",
-            "city": "Alverca do Ribatejo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 4724,
-            "name": "Alverca",
-            "logo": "https://media.api-sports.io/football/teams/4724.png",
-            "winner": true
-          },
-          "away": {
-            "id": 226,
-            "name": "Rio Ave",
-            "logo": "https://media.api-sports.io/football/teams/226.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575499,
-          "referee": "G. Correia",
-          "timezone": "UTC",
-          "date": "2026-09-14T17:45:00+00:00",
-          "timestamp": 1789407900,
-          "periods": {
-            "first": 1789407900,
-            "second": 1789411500
-          },
-          "venue": {
-            "id": null,
-            "name": "Estádio do Rio Ave FC",
-            "city": "Vila do Conde"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 6",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 226,
-            "name": "Rio Ave",
-            "logo": "https://media.api-sports.io/football/teams/226.png",
-            "winner": null
-          },
-          "away": {
-            "id": 15130,
-            "name": "Estrela",
-            "logo": "https://media.api-sports.io/football/teams/15130.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575488,
-          "referee": "A. Rodrigues",
-          "timezone": "UTC",
-          "date": "2026-09-06T14:30:00+00:00",
-          "timestamp": 1788705000,
-          "periods": {
-            "first": 1788705000,
-            "second": 1788708600
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio de São Miguel",
-            "city": "Ponta Delgada"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 227,
-            "name": "Santa Clara",
-            "logo": "https://media.api-sports.io/football/teams/227.png",
-            "winner": true
-          },
-          "away": {
-            "id": 226,
-            "name": "Rio Ave",
-            "logo": "https://media.api-sports.io/football/teams/226.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 4,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575481,
-          "referee": "B. J. Costa",
-          "timezone": "UTC",
-          "date": "2026-08-28T19:15:00+00:00",
-          "timestamp": 1787944500,
-          "periods": {
-            "first": 1787944500,
-            "second": 1787948100
-          },
-          "venue": {
-            "id": null,
-            "name": "Estádio do Rio Ave FC",
-            "city": "Vila do Conde"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 226,
-            "name": "Rio Ave",
-            "logo": "https://media.api-sports.io/football/teams/226.png",
-            "winner": false
-          },
-          "away": {
-            "id": 228,
-            "name": "Sporting CP",
-            "logo": "https://media.api-sports.io/football/teams/228.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 4
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 4
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 4
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575464,
-          "referee": "C. Macedo",
-          "timezone": "UTC",
-          "date": "2026-08-22T17:00:00+00:00",
-          "timestamp": 1787418000,
-          "periods": {
-            "first": 1787418000,
-            "second": 1787421600
-          },
-          "venue": {
-            "id": 1274,
-            "name": "Estadio Antonio Coimbra da Mota",
-            "city": "Estoril"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 230,
-            "name": "Estoril",
-            "logo": "https://media.api-sports.io/football/teams/230.png",
-            "winner": false
-          },
-          "away": {
-            "id": 226,
-            "name": "Rio Ave",
-            "logo": "https://media.api-sports.io/football/teams/226.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575462,
-          "referee": "M. Fonseca",
-          "timezone": "UTC",
-          "date": "2026-08-15T19:30:00+00:00",
-          "timestamp": 1786822200,
-          "periods": {
-            "first": 1786822200,
-            "second": 1786825800
-          },
-          "venue": {
-            "id": null,
-            "name": "Estádio do Rio Ave FC",
-            "city": "Vila do Conde"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 2
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 2",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 226,
-            "name": "Rio Ave",
-            "logo": "https://media.api-sports.io/football/teams/226.png",
-            "winner": false
-          },
-          "away": {
-            "id": 212,
-            "name": "FC Porto",
-            "logo": "https://media.api-sports.io/football/teams/212.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575450,
-          "referee": "G. Correia",
-          "timezone": "UTC",
-          "date": "2026-08-09T19:30:00+00:00",
-          "timestamp": 1786303800,
-          "periods": {
-            "first": 1786303800,
-            "second": 1786307400
-          },
-          "venue": {
-            "id": 2811,
-            "name": "Estádio Cidade de Barcelos",
-            "city": "Barcelos"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 9
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 1",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 762,
-            "name": "GIL Vicente",
-            "logo": "https://media.api-sports.io/football/teams/762.png",
-            "winner": true
-          },
-          "away": {
-            "id": 226,
-            "name": "Rio Ave",
-            "logo": "https://media.api-sports.io/football/teams/226.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
+    "lastFixtures": []
   },
   "227": {
-    "statistics": {
-      "league": {
-        "id": 94,
-        "name": "Primeira Liga",
-        "country": "Portugal",
-        "logo": "https://media.api-sports.io/football/leagues/94.png",
-        "flag": "https://media.api-sports.io/flags/pt.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 227,
-        "name": "Santa Clara",
-        "logo": "https://media.api-sports.io/football/teams/227.png"
-      },
-      "form": "DWWDWWDWL",
-      "fixtures": {
-        "played": {
-          "home": 5,
-          "away": 4,
-          "total": 9
-        },
-        "wins": {
-          "home": 2,
-          "away": 3,
-          "total": 5
-        },
-        "draws": {
-          "home": 2,
-          "away": 1,
-          "total": 3
-        },
-        "loses": {
-          "home": 1,
-          "away": 0,
-          "total": 1
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 8,
-            "away": 5,
-            "total": 13
-          },
-          "average": {
-            "home": "1.6",
-            "away": "1.3",
-            "total": "1.4"
-          },
-          "minute": {
-            "0-15": {
-              "total": 2,
-              "percentage": "15.38%"
-            },
-            "16-30": {
-              "total": 4,
-              "percentage": "30.77%"
-            },
-            "31-45": {
-              "total": 2,
-              "percentage": "15.38%"
-            },
-            "46-60": {
-              "total": 2,
-              "percentage": "15.38%"
-            },
-            "61-75": {
-              "total": null,
-              "percentage": null
-            },
-            "76-90": {
-              "total": 3,
-              "percentage": "23.08%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 8,
-              "under": 1
-            },
-            "1.5": {
-              "over": 3,
-              "under": 6
-            },
-            "2.5": {
-              "over": 1,
-              "under": 8
-            },
-            "3.5": {
-              "over": 1,
-              "under": 8
-            },
-            "4.5": {
-              "over": 0,
-              "under": 9
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 4,
-            "away": 2,
-            "total": 6
-          },
-          "average": {
-            "home": "0.8",
-            "away": "0.5",
-            "total": "0.7"
-          },
-          "minute": {
-            "0-15": {
-              "total": null,
-              "percentage": null
-            },
-            "16-30": {
-              "total": null,
-              "percentage": null
-            },
-            "31-45": {
-              "total": 2,
-              "percentage": "33.33%"
-            },
-            "46-60": {
-              "total": 1,
-              "percentage": "16.67%"
-            },
-            "61-75": {
-              "total": 3,
-              "percentage": "50.00%"
-            },
-            "76-90": {
-              "total": null,
-              "percentage": null
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 4,
-              "under": 5
-            },
-            "1.5": {
-              "over": 2,
-              "under": 7
-            },
-            "2.5": {
-              "over": 0,
-              "under": 9
-            },
-            "3.5": {
-              "over": 0,
-              "under": 9
-            },
-            "4.5": {
-              "over": 0,
-              "under": 9
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 2,
-          "draws": 1,
-          "loses": 0
-        },
-        "wins": {
-          "home": "4-0",
-          "away": "1-2"
-        },
-        "loses": {
-          "home": "1-2",
-          "away": null
-        },
-        "goals": {
-          "for": {
-            "home": 4,
-            "away": 2
-          },
-          "against": {
-            "home": 2,
-            "away": 1
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 3,
-        "away": 2,
-        "total": 5
-      },
-      "failed_to_score": {
-        "home": 1,
-        "away": 0,
-        "total": 1
-      },
-      "penalty": {
-        "scored": {
-          "total": 2,
-          "percentage": "100.00%"
-        },
-        "missed": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "total": 2
-      },
-      "lineups": [
-        {
-          "formation": "4-2-3-1",
-          "played": 5
-        },
-        {
-          "formation": "4-3-3",
-          "played": 4
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": 4,
-            "percentage": "14.81%"
-          },
-          "31-45": {
-            "total": 5,
-            "percentage": "18.52%"
-          },
-          "46-60": {
-            "total": 2,
-            "percentage": "7.41%"
-          },
-          "61-75": {
-            "total": 5,
-            "percentage": "18.52%"
-          },
-          "76-90": {
-            "total": 6,
-            "percentage": "22.22%"
-          },
-          "91-105": {
-            "total": 5,
-            "percentage": "18.52%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": 1,
-            "percentage": "50.00%"
-          },
-          "91-105": {
-            "total": 1,
-            "percentage": "50.00%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
+    "statistics": null,
     "lastFixtures": [
       {
         "fixture": {
@@ -33612,708 +32610,7 @@
         }
       }
     },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1589437,
-          "referee": "S. Guelho",
-          "timezone": "UTC",
-          "date": "2026-10-28T20:30:00+00:00",
-          "timestamp": 1793219400,
-          "periods": {
-            "first": 1793219400,
-            "second": 1793223000
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": "Porto"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 9
-          }
-        },
-        "league": {
-          "id": 97,
-          "name": "Taça da Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/97.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Quarter-finals",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 212,
-            "name": "FC Porto",
-            "logo": "https://media.api-sports.io/football/teams/212.png",
-            "winner": true
-          },
-          "away": {
-            "id": 238,
-            "name": "Academico Viseu",
-            "logo": "https://media.api-sports.io/football/teams/238.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575525,
-          "referee": "M. Nogueira",
-          "timezone": "UTC",
-          "date": "2026-10-25T20:30:00+00:00",
-          "timestamp": 1792960200,
-          "periods": {
-            "first": 1792960200,
-            "second": 1792963800
-          },
-          "venue": {
-            "id": 1293,
-            "name": "Estádio José Alvalade",
-            "city": "Lisbon"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 228,
-            "name": "Sporting CP",
-            "logo": "https://media.api-sports.io/football/teams/228.png",
-            "winner": false
-          },
-          "away": {
-            "id": 238,
-            "name": "Academico Viseu",
-            "logo": "https://media.api-sports.io/football/teams/238.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1641809,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-18T14:00:00+00:00",
-          "timestamp": 1792332000,
-          "periods": {
-            "first": 1792332000,
-            "second": 1792335600
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Papa Francisco",
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 96,
-          "name": "Taça de Portugal",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/96.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Round of 64",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 4746,
-            "name": "Fátima",
-            "logo": "https://media.api-sports.io/football/teams/4746.png",
-            "winner": true
-          },
-          "away": {
-            "id": 238,
-            "name": "Academico Viseu",
-            "logo": "https://media.api-sports.io/football/teams/238.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575509,
-          "referee": "C. Pereira",
-          "timezone": "UTC",
-          "date": "2026-10-10T19:30:00+00:00",
-          "timestamp": 1791660600,
-          "periods": {
-            "first": 1791660600,
-            "second": 1791664200
-          },
-          "venue": {
-            "id": 1264,
-            "name": "Estadio do Fontelo",
-            "city": "Viseu"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 238,
-            "name": "Academico Viseu",
-            "logo": "https://media.api-sports.io/football/teams/238.png",
-            "winner": true
-          },
-          "away": {
-            "id": 230,
-            "name": "Estoril",
-            "logo": "https://media.api-sports.io/football/teams/230.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575502,
-          "referee": "A. Narciso",
-          "timezone": "UTC",
-          "date": "2026-09-20T14:30:00+00:00",
-          "timestamp": 1789914600,
-          "periods": {
-            "first": 1789914600,
-            "second": 1789918200
-          },
-          "venue": {
-            "id": null,
-            "name": "Estádio José Gomes",
-            "city": "Amadora"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 15130,
-            "name": "Estrela",
-            "logo": "https://media.api-sports.io/football/teams/15130.png",
-            "winner": false
-          },
-          "away": {
-            "id": 238,
-            "name": "Academico Viseu",
-            "logo": "https://media.api-sports.io/football/teams/238.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575491,
-          "referee": "C. Macedo",
-          "timezone": "UTC",
-          "date": "2026-09-12T19:30:00+00:00",
-          "timestamp": 1789241400,
-          "periods": {
-            "first": 1789241400,
-            "second": 1789245000
-          },
-          "venue": {
-            "id": 1264,
-            "name": "Estádio Municipal do Fontelo",
-            "city": "Viseu"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 6",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 238,
-            "name": "Academico Viseu",
-            "logo": "https://media.api-sports.io/football/teams/238.png",
-            "winner": true
-          },
-          "away": {
-            "id": 224,
-            "name": "Vitória SC",
-            "logo": "https://media.api-sports.io/football/teams/224.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575486,
-          "referee": "P. Ramalho",
-          "timezone": "UTC",
-          "date": "2026-09-06T19:30:00+00:00",
-          "timestamp": 1788723000,
-          "periods": {
-            "first": 1788723000,
-            "second": 1788726600
-          },
-          "venue": {
-            "id": 2811,
-            "name": "Estádio Cidade de Barcelos",
-            "city": "Barcelos"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 762,
-            "name": "GIL Vicente",
-            "logo": "https://media.api-sports.io/football/teams/762.png",
-            "winner": false
-          },
-          "away": {
-            "id": 238,
-            "name": "Academico Viseu",
-            "logo": "https://media.api-sports.io/football/teams/238.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575473,
-          "referee": "M. Nogueira",
-          "timezone": "UTC",
-          "date": "2026-08-29T17:00:00+00:00",
-          "timestamp": 1788022800,
-          "periods": {
-            "first": 1788022800,
-            "second": 1788026400
-          },
-          "venue": {
-            "id": 1264,
-            "name": "Estádio Municipal do Fontelo",
-            "city": "Viseu"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 238,
-            "name": "Academico Viseu",
-            "logo": "https://media.api-sports.io/football/teams/238.png",
-            "winner": false
-          },
-          "away": {
-            "id": 212,
-            "name": "FC Porto",
-            "logo": "https://media.api-sports.io/football/teams/212.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 3
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575468,
-          "referee": "L. Filipe",
-          "timezone": "UTC",
-          "date": "2026-08-22T14:30:00+00:00",
-          "timestamp": 1787409000,
-          "periods": {
-            "first": 1787409000,
-            "second": 1787412600
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio do Maritimo",
-            "city": "Funchal"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 214,
-            "name": "Maritimo",
-            "logo": "https://media.api-sports.io/football/teams/214.png",
-            "winner": null
-          },
-          "away": {
-            "id": 238,
-            "name": "Academico Viseu",
-            "logo": "https://media.api-sports.io/football/teams/238.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1575455,
-          "referee": "J. Goncalves",
-          "timezone": "UTC",
-          "date": "2026-08-15T17:00:00+00:00",
-          "timestamp": 1786813200,
-          "periods": {
-            "first": 1786813200,
-            "second": 1786816800
-          },
-          "venue": {
-            "id": 1264,
-            "name": "Estádio Municipal do Fontelo",
-            "city": "Viseu"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 94,
-          "name": "Primeira Liga",
-          "country": "Portugal",
-          "logo": "https://media.api-sports.io/football/leagues/94.png",
-          "flag": "https://media.api-sports.io/flags/pt.svg",
-          "season": 2026,
-          "round": "Regular Season - 2",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 238,
-            "name": "Academico Viseu",
-            "logo": "https://media.api-sports.io/football/teams/238.png",
-            "winner": false
-          },
-          "away": {
-            "id": 227,
-            "name": "Santa Clara",
-            "logo": "https://media.api-sports.io/football/teams/227.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
+    "lastFixtures": []
   },
   "239": {
     "statistics": {
@@ -36630,7 +34927,7 @@
       {
         "fixture": {
           "id": 1589436,
-          "referee": null,
+          "referee": "J. Goncalves",
           "timezone": "UTC",
           "date": "2026-10-29T18:45:00+00:00",
           "timestamp": 1793299500,
@@ -36688,8 +34985,8 @@
             "away": 2
           },
           "extratime": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
           },
           "penalty": {
             "home": 1,
@@ -41501,12 +39798,12 @@
               "percentage": "4.76%"
             },
             "76-90": {
-              "total": 8,
-              "percentage": "38.10%"
+              "total": 7,
+              "percentage": "33.33%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "4.76%"
             },
             "106-120": {
               "total": null,
@@ -44519,12 +42816,12 @@
               "percentage": "12.00%"
             },
             "76-90": {
-              "total": 10,
-              "percentage": "40.00%"
+              "total": 8,
+              "percentage": "32.00%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 2,
+              "percentage": "8.00%"
             },
             "106-120": {
               "total": null,
@@ -48702,7 +46999,7 @@
       {
         "fixture": {
           "id": 1641732,
-          "referee": null,
+          "referee": "M. Stofringshaug",
           "timezone": "UTC",
           "date": "2026-10-28T17:00:00+00:00",
           "timestamp": 1793206800,
@@ -49720,7 +48017,7 @@
       {
         "fixture": {
           "id": 1640467,
-          "referee": null,
+          "referee": "J. Haugen",
           "timezone": "UTC",
           "date": "2026-10-28T17:00:00+00:00",
           "timestamp": 1793206800,
@@ -50730,7 +49027,7 @@
       {
         "fixture": {
           "id": 1643463,
-          "referee": null,
+          "referee": "M. Lien",
           "timezone": "UTC",
           "date": "2026-10-28T17:00:00+00:00",
           "timestamp": 1793206800,
@@ -51732,708 +50029,7 @@
         }
       }
     },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1640474,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-28T18:00:00+00:00",
-          "timestamp": 1793210400,
-          "periods": {
-            "first": 1793210400,
-            "second": 1793214000
-          },
-          "venue": {
-            "id": null,
-            "name": "Romssa Arena",
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 105,
-          "name": "NM Cupen",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/105.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2027,
-          "round": "Round of 32",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 325,
-            "name": "Tromso",
-            "logo": "https://media.api-sports.io/football/teams/325.png",
-            "winner": true
-          },
-          "away": {
-            "id": 328,
-            "name": "Haugesund",
-            "logo": "https://media.api-sports.io/football/teams/328.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494691,
-          "referee": "Marius Lien",
-          "timezone": "UTC",
-          "date": "2026-10-25T13:30:00+00:00",
-          "timestamp": 1792935000,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 21732,
-            "name": "SR-Bank Arena",
-            "city": "Stavanger"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 12",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 759,
-            "name": "Viking",
-            "logo": "https://media.api-sports.io/football/teams/759.png",
-            "winner": true
-          },
-          "away": {
-            "id": 325,
-            "name": "Tromso",
-            "logo": "https://media.api-sports.io/football/teams/325.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494785,
-          "referee": "Sigurd Smehus Kringstad",
-          "timezone": "UTC",
-          "date": "2026-10-18T17:15:00+00:00",
-          "timestamp": 1792343700,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 19681,
-            "name": "Alfheim",
-            "city": "Tromso"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 24",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 325,
-            "name": "Tromso",
-            "logo": "https://media.api-sports.io/football/teams/325.png",
-            "winner": null
-          },
-          "away": {
-            "id": 2143,
-            "name": "KFUM Oslo",
-            "logo": "https://media.api-sports.io/football/teams/2143.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494775,
-          "referee": "Ola Hobber Nilsen, Norway",
-          "timezone": "UTC",
-          "date": "2026-10-11T12:30:00+00:00",
-          "timestamp": 1791721800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 2792,
-            "name": "Fredrikstad Stadion",
-            "city": "Fredrikstad"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 23",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2149,
-            "name": "Fredrikstad",
-            "logo": "https://media.api-sports.io/football/teams/2149.png",
-            "winner": null
-          },
-          "away": {
-            "id": 325,
-            "name": "Tromso",
-            "logo": "https://media.api-sports.io/football/teams/325.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494769,
-          "referee": "Mathias Stofringshaug, Norway",
-          "timezone": "UTC",
-          "date": "2026-09-20T15:00:00+00:00",
-          "timestamp": 1789916400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 19681,
-            "name": "Alfheim",
-            "city": "Tromso"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 22",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 325,
-            "name": "Tromso",
-            "logo": "https://media.api-sports.io/football/teams/325.png",
-            "winner": true
-          },
-          "away": {
-            "id": 2159,
-            "name": "Ham-Kam",
-            "logo": "https://media.api-sports.io/football/teams/2159.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1637860,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-16T16:00:00+00:00",
-          "timestamp": 1789574400,
-          "periods": {
-            "first": 1789574400,
-            "second": 1789578000
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 11
-          }
-        },
-        "league": {
-          "id": 105,
-          "name": "NM Cupen",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/105.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2027,
-          "round": "Round of 64",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 6965,
-            "name": "Alta",
-            "logo": "https://media.api-sports.io/football/teams/6965.png",
-            "winner": false
-          },
-          "away": {
-            "id": 325,
-            "name": "Tromso",
-            "logo": "https://media.api-sports.io/football/teams/325.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494761,
-          "referee": "Tore Hansen, Norway",
-          "timezone": "UTC",
-          "date": "2026-09-12T16:00:00+00:00",
-          "timestamp": 1789228800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1190,
-            "name": "Lerkendal Stadion",
-            "city": "Trondheim"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 21",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 331,
-            "name": "Rosenborg",
-            "logo": "https://media.api-sports.io/football/teams/331.png",
-            "winner": true
-          },
-          "away": {
-            "id": 325,
-            "name": "Tromso",
-            "logo": "https://media.api-sports.io/football/teams/325.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 5,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 4,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 5,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494751,
-          "referee": "Mohammad Usman Aslam, Norway",
-          "timezone": "UTC",
-          "date": "2026-09-06T17:15:00+00:00",
-          "timestamp": 1788714900,
-          "periods": {
-            "first": 1788714900,
-            "second": 1788718500
-          },
-          "venue": {
-            "id": null,
-            "name": "Kristiansund Stadion",
-            "city": "Kristiansund"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 20",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 320,
-            "name": "Kristiansund BK",
-            "logo": "https://media.api-sports.io/football/teams/320.png",
-            "winner": true
-          },
-          "away": {
-            "id": 325,
-            "name": "Tromso",
-            "logo": "https://media.api-sports.io/football/teams/325.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494745,
-          "referee": "Svein Tore Sinnes, Norway",
-          "timezone": "UTC",
-          "date": "2026-08-30T15:00:00+00:00",
-          "timestamp": 1788102000,
-          "periods": {
-            "first": 1788102000,
-            "second": 1788105600
-          },
-          "venue": {
-            "id": 19681,
-            "name": "Romssa Arena",
-            "city": "Tromso"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 19",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 325,
-            "name": "Tromso",
-            "logo": "https://media.api-sports.io/football/teams/325.png",
-            "winner": null
-          },
-          "away": {
-            "id": 333,
-            "name": "Sarpsborg 08 FF",
-            "logo": "https://media.api-sports.io/football/teams/333.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1623413,
-          "referee": "S. van der Eijk",
-          "timezone": "UTC",
-          "date": "2026-08-27T18:30:00+00:00",
-          "timestamp": 1787855400,
-          "periods": {
-            "first": 1787855400,
-            "second": 1787859000
-          },
-          "venue": {
-            "id": null,
-            "name": "Amex Stadium",
-            "city": "Brighton"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 848,
-          "name": "UEFA Europa Conference League",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/848.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Playoff round",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 51,
-            "name": "Brighton",
-            "logo": "https://media.api-sports.io/football/teams/51.png",
-            "winner": true
-          },
-          "away": {
-            "id": 325,
-            "name": "Tromso",
-            "logo": "https://media.api-sports.io/football/teams/325.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 4,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
+    "lastFixtures": []
   },
   "326": {
     "statistics": {
@@ -52742,708 +50338,7 @@
         }
       }
     },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1643413,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-28T17:00:00+00:00",
-          "timestamp": 1793206800,
-          "periods": {
-            "first": 1793206800,
-            "second": 1793210400
-          },
-          "venue": {
-            "id": 1193,
-            "name": "Sarpsborg Stadion",
-            "city": "Sarpsborg"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 7
-          }
-        },
-        "league": {
-          "id": 105,
-          "name": "NM Cupen",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/105.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2027,
-          "round": "Round of 32",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 333,
-            "name": "Sarpsborg 08 FF",
-            "logo": "https://media.api-sports.io/football/teams/333.png",
-            "winner": true
-          },
-          "away": {
-            "id": 326,
-            "name": "Valerenga",
-            "logo": "https://media.api-sports.io/football/teams/326.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494684,
-          "referee": "Tore Hansen",
-          "timezone": "UTC",
-          "date": "2026-10-24T14:00:00+00:00",
-          "timestamp": 1792850400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1175,
-            "name": "Aspmyra Stadion",
-            "city": "Hakata"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 12",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 327,
-            "name": "Bodo/Glimt",
-            "logo": "https://media.api-sports.io/football/teams/327.png",
-            "winner": false
-          },
-          "away": {
-            "id": 326,
-            "name": "Valerenga",
-            "logo": "https://media.api-sports.io/football/teams/326.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494786,
-          "referee": "Rohit Saggi",
-          "timezone": "UTC",
-          "date": "2026-10-18T15:00:00+00:00",
-          "timestamp": 1792335600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1203,
-            "name": "Intility Arena",
-            "city": "Oslo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 24",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 326,
-            "name": "Valerenga",
-            "logo": "https://media.api-sports.io/football/teams/326.png",
-            "winner": true
-          },
-          "away": {
-            "id": 319,
-            "name": "Brann",
-            "logo": "https://media.api-sports.io/football/teams/319.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494776,
-          "referee": "Marius Lien, Norway",
-          "timezone": "UTC",
-          "date": "2026-10-12T17:00:00+00:00",
-          "timestamp": 1791824400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1179,
-            "name": "KFUM Arena",
-            "city": "Oslo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 23",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 2143,
-            "name": "KFUM Oslo",
-            "logo": "https://media.api-sports.io/football/teams/2143.png",
-            "winner": true
-          },
-          "away": {
-            "id": 326,
-            "name": "Valerenga",
-            "logo": "https://media.api-sports.io/football/teams/326.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494770,
-          "referee": "Sigurd Smehus Kringstad, Norway",
-          "timezone": "UTC",
-          "date": "2026-09-20T12:30:00+00:00",
-          "timestamp": 1789907400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 1203,
-            "name": "Intility Arena",
-            "city": "Oslo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 22",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 326,
-            "name": "Valerenga",
-            "logo": "https://media.api-sports.io/football/teams/326.png",
-            "winner": null
-          },
-          "away": {
-            "id": 2149,
-            "name": "Fredrikstad",
-            "logo": "https://media.api-sports.io/football/teams/2149.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1637876,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-17T16:00:00+00:00",
-          "timestamp": 1789660800,
-          "periods": {
-            "first": 1789660800,
-            "second": 1789664400
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 105,
-          "name": "NM Cupen",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/105.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2027,
-          "round": "Round of 64",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 2239,
-            "name": "Skeid",
-            "logo": "https://media.api-sports.io/football/teams/2239.png",
-            "winner": false
-          },
-          "away": {
-            "id": 326,
-            "name": "Valerenga",
-            "logo": "https://media.api-sports.io/football/teams/326.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 4
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 4
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494760,
-          "referee": "Rohit Saggi, Norway",
-          "timezone": "UTC",
-          "date": "2026-09-12T14:00:00+00:00",
-          "timestamp": 1789221600,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": null,
-            "name": "Åråsen",
-            "city": "Lillestrøm"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 21",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 321,
-            "name": "Lillestrom",
-            "logo": "https://media.api-sports.io/football/teams/321.png",
-            "winner": true
-          },
-          "away": {
-            "id": 326,
-            "name": "Valerenga",
-            "logo": "https://media.api-sports.io/football/teams/326.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494755,
-          "referee": "Marius Grotta, Norway",
-          "timezone": "UTC",
-          "date": "2026-09-06T15:00:00+00:00",
-          "timestamp": 1788706800,
-          "periods": {
-            "first": 1788706800,
-            "second": 1788710400
-          },
-          "venue": {
-            "id": 1193,
-            "name": "Sarpsborg Stadion",
-            "city": "Sarpsborg"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 20",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 333,
-            "name": "Sarpsborg 08 FF",
-            "logo": "https://media.api-sports.io/football/teams/333.png",
-            "winner": null
-          },
-          "away": {
-            "id": 326,
-            "name": "Valerenga",
-            "logo": "https://media.api-sports.io/football/teams/326.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1494746,
-          "referee": "Christian Moen, Norway",
-          "timezone": "UTC",
-          "date": "2026-08-30T15:00:00+00:00",
-          "timestamp": 1788102000,
-          "periods": {
-            "first": 1788102000,
-            "second": 1788105600
-          },
-          "venue": {
-            "id": 1203,
-            "name": "Intility Arena",
-            "city": "Oslo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 103,
-          "name": "Eliteserien",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/103.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2026,
-          "round": "Regular Season - 19",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 326,
-            "name": "Valerenga",
-            "logo": "https://media.api-sports.io/football/teams/326.png",
-            "winner": false
-          },
-          "away": {
-            "id": 329,
-            "name": "Molde",
-            "logo": "https://media.api-sports.io/football/teams/329.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 4
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 4
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 4
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1629890,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-08-23T13:00:00+00:00",
-          "timestamp": 1787490000,
-          "periods": {
-            "first": 1787490000,
-            "second": 1787493600
-          },
-          "venue": {
-            "id": 0,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 105,
-          "name": "NM Cupen",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/105.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2027,
-          "round": "Round 1",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 28260,
-            "name": "Christiania BK",
-            "logo": "https://media.api-sports.io/football/teams/28260.png",
-            "winner": false
-          },
-          "away": {
-            "id": 326,
-            "name": "Valerenga",
-            "logo": "https://media.api-sports.io/football/teams/326.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 7
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 3
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 7
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
+    "lastFixtures": []
   },
   "329": {
     "statistics": {
@@ -53760,7 +50655,7 @@
       {
         "fixture": {
           "id": 1640468,
-          "referee": null,
+          "referee": "M. S. Kringstad",
           "timezone": "UTC",
           "date": "2026-10-28T17:00:00+00:00",
           "timestamp": 1793206800,
@@ -54770,7 +51665,7 @@
       {
         "fixture": {
           "id": 1643413,
-          "referee": null,
+          "referee": "U. Aslam",
           "timezone": "UTC",
           "date": "2026-10-28T17:00:00+00:00",
           "timestamp": 1793206800,
@@ -55994,7 +52889,7 @@
       {
         "fixture": {
           "id": 1640471,
-          "referee": null,
+          "referee": "M. Kellerhals",
           "timezone": "UTC",
           "date": "2026-10-06T15:00:00+00:00",
           "timestamp": 1791298800,
@@ -67925,7 +64820,7 @@
           "venue": {
             "id": null,
             "name": "Brabrand Stadion",
-            "city": null
+            "city": "Brabrand"
           },
           "status": {
             "long": "Match Finished",
@@ -75684,332 +72579,7 @@
     ]
   },
   "435": {
-    "statistics": {
-      "league": {
-        "id": 128,
-        "name": "Liga Profesional Argentina",
-        "country": "Argentina",
-        "logo": "https://media.api-sports.io/football/leagues/128.png",
-        "flag": "https://media.api-sports.io/flags/ar.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 435,
-        "name": "River Plate",
-        "logo": "https://media.api-sports.io/football/teams/435.png"
-      },
-      "form": "WWDLLLWDWWWWWLWLWWWLLLLLWDWWWLWDWW",
-      "fixtures": {
-        "played": {
-          "home": 20,
-          "away": 14,
-          "total": 34
-        },
-        "wins": {
-          "home": 12,
-          "away": 7,
-          "total": 19
-        },
-        "draws": {
-          "home": 1,
-          "away": 3,
-          "total": 4
-        },
-        "loses": {
-          "home": 7,
-          "away": 4,
-          "total": 11
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 32,
-            "away": 17,
-            "total": 49
-          },
-          "average": {
-            "home": "1.6",
-            "away": "1.2",
-            "total": "1.4"
-          },
-          "minute": {
-            "0-15": {
-              "total": 3,
-              "percentage": "6.25%"
-            },
-            "16-30": {
-              "total": 6,
-              "percentage": "12.50%"
-            },
-            "31-45": {
-              "total": 11,
-              "percentage": "22.92%"
-            },
-            "46-60": {
-              "total": 9,
-              "percentage": "18.75%"
-            },
-            "61-75": {
-              "total": 8,
-              "percentage": "16.67%"
-            },
-            "76-90": {
-              "total": 10,
-              "percentage": "20.83%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": 1,
-              "percentage": "2.08%"
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 25,
-              "under": 9
-            },
-            "1.5": {
-              "over": 17,
-              "under": 17
-            },
-            "2.5": {
-              "over": 7,
-              "under": 27
-            },
-            "3.5": {
-              "over": 0,
-              "under": 34
-            },
-            "4.5": {
-              "over": 0,
-              "under": 34
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 20,
-            "away": 10,
-            "total": 30
-          },
-          "average": {
-            "home": "1.0",
-            "away": "0.7",
-            "total": "0.9"
-          },
-          "minute": {
-            "0-15": {
-              "total": 4,
-              "percentage": "13.33%"
-            },
-            "16-30": {
-              "total": 5,
-              "percentage": "16.67%"
-            },
-            "31-45": {
-              "total": 6,
-              "percentage": "20.00%"
-            },
-            "46-60": {
-              "total": 1,
-              "percentage": "3.33%"
-            },
-            "61-75": {
-              "total": 5,
-              "percentage": "16.67%"
-            },
-            "76-90": {
-              "total": 8,
-              "percentage": "26.67%"
-            },
-            "91-105": {
-              "total": 1,
-              "percentage": "3.33%"
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 21,
-              "under": 13
-            },
-            "1.5": {
-              "over": 6,
-              "under": 28
-            },
-            "2.5": {
-              "over": 2,
-              "under": 32
-            },
-            "3.5": {
-              "over": 1,
-              "under": 33
-            },
-            "4.5": {
-              "over": 0,
-              "under": 34
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 5,
-          "draws": 1,
-          "loses": 5
-        },
-        "wins": {
-          "home": "3-0",
-          "away": "0-3"
-        },
-        "loses": {
-          "home": "1-4",
-          "away": "1-0"
-        },
-        "goals": {
-          "for": {
-            "home": 3,
-            "away": 3
-          },
-          "against": {
-            "home": 4,
-            "away": 2
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 8,
-        "away": 5,
-        "total": 13
-      },
-      "failed_to_score": {
-        "home": 4,
-        "away": 5,
-        "total": 9
-      },
-      "penalty": {
-        "scored": {
-          "total": 6,
-          "percentage": "75.00%"
-        },
-        "missed": {
-          "total": 2,
-          "percentage": "25.00%"
-        },
-        "total": 8
-      },
-      "lineups": [
-        {
-          "formation": "4-2-3-1",
-          "played": 17
-        },
-        {
-          "formation": "4-1-3-2",
-          "played": 5
-        },
-        {
-          "formation": "4-3-2-1",
-          "played": 4
-        },
-        {
-          "formation": "4-3-1-2",
-          "played": 3
-        },
-        {
-          "formation": "4-2-2-2",
-          "played": 2
-        },
-        {
-          "formation": "4-4-2",
-          "played": 2
-        },
-        {
-          "formation": "4-3-3",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 7,
-            "percentage": "9.46%"
-          },
-          "16-30": {
-            "total": 7,
-            "percentage": "9.46%"
-          },
-          "31-45": {
-            "total": 8,
-            "percentage": "10.81%"
-          },
-          "46-60": {
-            "total": 10,
-            "percentage": "13.51%"
-          },
-          "61-75": {
-            "total": 10,
-            "percentage": "13.51%"
-          },
-          "76-90": {
-            "total": 21,
-            "percentage": "28.38%"
-          },
-          "91-105": {
-            "total": 9,
-            "percentage": "12.16%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          },
-          "": {
-            "total": 2,
-            "percentage": "2.70%"
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": 2,
-            "percentage": "66.67%"
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": 1,
-            "percentage": "33.33%"
-          },
-          "91-105": {
-            "total": null,
-            "percentage": null
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
+    "statistics": null,
     "lastFixtures": [
       {
         "fixture": {
@@ -80053,15 +76623,15 @@
           },
           "31-45": {
             "total": 1,
-            "percentage": "50.00%"
+            "percentage": "33.33%"
           },
           "46-60": {
-            "total": null,
-            "percentage": null
+            "total": 1,
+            "percentage": "33.33%"
           },
           "61-75": {
             "total": 1,
-            "percentage": "50.00%"
+            "percentage": "33.33%"
           },
           "76-90": {
             "total": null,
@@ -80782,332 +77352,7 @@
     ]
   },
   "451": {
-    "statistics": {
-      "league": {
-        "id": 128,
-        "name": "Liga Profesional Argentina",
-        "country": "Argentina",
-        "logo": "https://media.api-sports.io/football/leagues/128.png",
-        "flag": "https://media.api-sports.io/flags/ar.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 451,
-        "name": "Boca Juniors",
-        "logo": "https://media.api-sports.io/football/teams/451.png"
-      },
-      "form": "WLWLDDDWDDWWDWWWLLDWDDDWDWWWDWW",
-      "fixtures": {
-        "played": {
-          "home": 15,
-          "away": 16,
-          "total": 31
-        },
-        "wins": {
-          "home": 8,
-          "away": 7,
-          "total": 15
-        },
-        "draws": {
-          "home": 6,
-          "away": 6,
-          "total": 12
-        },
-        "loses": {
-          "home": 1,
-          "away": 3,
-          "total": 4
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 21,
-            "away": 25,
-            "total": 46
-          },
-          "average": {
-            "home": "1.4",
-            "away": "1.6",
-            "total": "1.5"
-          },
-          "minute": {
-            "0-15": {
-              "total": 3,
-              "percentage": "6.52%"
-            },
-            "16-30": {
-              "total": 8,
-              "percentage": "17.39%"
-            },
-            "31-45": {
-              "total": 9,
-              "percentage": "19.57%"
-            },
-            "46-60": {
-              "total": 9,
-              "percentage": "19.57%"
-            },
-            "61-75": {
-              "total": 3,
-              "percentage": "6.52%"
-            },
-            "76-90": {
-              "total": 13,
-              "percentage": "28.26%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": 1,
-              "percentage": "2.17%"
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 28,
-              "under": 3
-            },
-            "1.5": {
-              "over": 13,
-              "under": 18
-            },
-            "2.5": {
-              "over": 4,
-              "under": 27
-            },
-            "3.5": {
-              "over": 1,
-              "under": 30
-            },
-            "4.5": {
-              "over": 0,
-              "under": 31
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 9,
-            "away": 17,
-            "total": 26
-          },
-          "average": {
-            "home": "0.6",
-            "away": "1.1",
-            "total": "0.8"
-          },
-          "minute": {
-            "0-15": {
-              "total": 8,
-              "percentage": "30.77%"
-            },
-            "16-30": {
-              "total": 3,
-              "percentage": "11.54%"
-            },
-            "31-45": {
-              "total": 3,
-              "percentage": "11.54%"
-            },
-            "46-60": {
-              "total": 5,
-              "percentage": "19.23%"
-            },
-            "61-75": {
-              "total": 3,
-              "percentage": "11.54%"
-            },
-            "76-90": {
-              "total": 2,
-              "percentage": "7.69%"
-            },
-            "91-105": {
-              "total": 2,
-              "percentage": "7.69%"
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 17,
-              "under": 14
-            },
-            "1.5": {
-              "over": 7,
-              "under": 24
-            },
-            "2.5": {
-              "over": 2,
-              "under": 29
-            },
-            "3.5": {
-              "over": 0,
-              "under": 31
-            },
-            "4.5": {
-              "over": 0,
-              "under": 31
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 3,
-          "draws": 3,
-          "loses": 2
-        },
-        "wins": {
-          "home": "3-0",
-          "away": "0-4"
-        },
-        "loses": {
-          "home": "2-3",
-          "away": "3-0"
-        },
-        "goals": {
-          "for": {
-            "home": 3,
-            "away": 4
-          },
-          "against": {
-            "home": 3,
-            "away": 3
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 8,
-        "away": 6,
-        "total": 14
-      },
-      "failed_to_score": {
-        "home": 2,
-        "away": 1,
-        "total": 3
-      },
-      "penalty": {
-        "scored": {
-          "total": 3,
-          "percentage": "100.00%"
-        },
-        "missed": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "total": 3
-      },
-      "lineups": [
-        {
-          "formation": "4-3-3",
-          "played": 11
-        },
-        {
-          "formation": "4-2-3-1",
-          "played": 8
-        },
-        {
-          "formation": "4-4-2",
-          "played": 6
-        },
-        {
-          "formation": "4-4-1-1",
-          "played": 1
-        },
-        {
-          "formation": "4-1-3-2",
-          "played": 1
-        },
-        {
-          "formation": "4-3-1-2",
-          "played": 1
-        },
-        {
-          "formation": "4-2-2-2",
-          "played": 1
-        },
-        {
-          "formation": "4-1-4-1",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 6,
-            "percentage": "9.23%"
-          },
-          "16-30": {
-            "total": 10,
-            "percentage": "15.38%"
-          },
-          "31-45": {
-            "total": 12,
-            "percentage": "18.46%"
-          },
-          "46-60": {
-            "total": 12,
-            "percentage": "18.46%"
-          },
-          "61-75": {
-            "total": 11,
-            "percentage": "16.92%"
-          },
-          "76-90": {
-            "total": 12,
-            "percentage": "18.46%"
-          },
-          "91-105": {
-            "total": 2,
-            "percentage": "3.08%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": null,
-            "percentage": null
-          },
-          "91-105": {
-            "total": null,
-            "percentage": null
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
+    "statistics": null,
     "lastFixtures": [
       {
         "fixture": {
@@ -92976,17 +89221,17 @@
         "name": "Frosinone",
         "logo": "https://media.api-sports.io/football/teams/512.png"
       },
-      "form": "LWWDWLWD",
+      "form": "LWWDWLWDW",
       "fixtures": {
         "played": {
-          "home": 4,
+          "home": 5,
           "away": 4,
-          "total": 8
+          "total": 9
         },
         "wins": {
-          "home": 3,
+          "home": 4,
           "away": 1,
-          "total": 4
+          "total": 5
         },
         "draws": {
           "home": 0,
@@ -93002,43 +89247,43 @@
       "goals": {
         "for": {
           "total": {
-            "home": 9,
+            "home": 14,
             "away": 8,
-            "total": 17
+            "total": 22
           },
           "average": {
-            "home": "2.3",
+            "home": "2.8",
             "away": "2.0",
-            "total": "2.1"
+            "total": "2.4"
           },
           "minute": {
             "0-15": {
               "total": 4,
-              "percentage": "23.53%"
+              "percentage": "18.18%"
             },
             "16-30": {
-              "total": 5,
-              "percentage": "29.41%"
+              "total": 6,
+              "percentage": "27.27%"
             },
             "31-45": {
               "total": 3,
-              "percentage": "17.65%"
+              "percentage": "13.64%"
             },
             "46-60": {
-              "total": 2,
-              "percentage": "11.76%"
+              "total": 4,
+              "percentage": "18.18%"
             },
             "61-75": {
-              "total": 1,
-              "percentage": "5.88%"
+              "total": 2,
+              "percentage": "9.09%"
             },
             "76-90": {
               "total": 2,
-              "percentage": "11.76%"
+              "percentage": "9.09%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "4.55%"
             },
             "106-120": {
               "total": null,
@@ -93047,62 +89292,62 @@
           },
           "under_over": {
             "0.5": {
-              "over": 6,
+              "over": 7,
               "under": 2
             },
             "1.5": {
-              "over": 5,
+              "over": 6,
               "under": 3
             },
             "2.5": {
-              "over": 4,
+              "over": 5,
               "under": 4
             },
             "3.5": {
-              "over": 2,
+              "over": 3,
               "under": 6
             },
             "4.5": {
-              "over": 0,
+              "over": 1,
               "under": 8
             }
           }
         },
         "against": {
           "total": {
-            "home": 5,
+            "home": 6,
             "away": 8,
-            "total": 13
+            "total": 14
           },
           "average": {
-            "home": "1.3",
+            "home": "1.2",
             "away": "2.0",
             "total": "1.6"
           },
           "minute": {
             "0-15": {
               "total": 2,
-              "percentage": "15.38%"
+              "percentage": "14.29%"
             },
             "16-30": {
               "total": 2,
-              "percentage": "15.38%"
+              "percentage": "14.29%"
             },
             "31-45": {
               "total": 4,
-              "percentage": "30.77%"
+              "percentage": "28.57%"
             },
             "46-60": {
               "total": 2,
-              "percentage": "15.38%"
+              "percentage": "14.29%"
             },
             "61-75": {
               "total": 2,
-              "percentage": "15.38%"
+              "percentage": "14.29%"
             },
             "76-90": {
-              "total": 1,
-              "percentage": "7.69%"
+              "total": 2,
+              "percentage": "14.29%"
             },
             "91-105": {
               "total": null,
@@ -93115,24 +89360,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 6,
+              "over": 7,
               "under": 2
             },
             "1.5": {
               "over": 4,
-              "under": 4
+              "under": 5
             },
             "2.5": {
               "over": 2,
-              "under": 6
+              "under": 7
             },
             "3.5": {
               "over": 1,
-              "under": 7
+              "under": 8
             },
             "4.5": {
               "over": 0,
-              "under": 8
+              "under": 9
             }
           }
         }
@@ -93144,7 +89389,7 @@
           "loses": 1
         },
         "wins": {
-          "home": "4-2",
+          "home": "5-1",
           "away": "0-3"
         },
         "loses": {
@@ -93153,7 +89398,7 @@
         },
         "goals": {
           "for": {
-            "home": 4,
+            "home": 5,
             "away": 4
           },
           "against": {
@@ -93174,19 +89419,19 @@
       },
       "penalty": {
         "scored": {
-          "total": 0,
-          "percentage": "0%"
+          "total": 1,
+          "percentage": "100.00%"
         },
         "missed": {
           "total": 0,
           "percentage": "0%"
         },
-        "total": 0
+        "total": 1
       },
       "lineups": [
         {
           "formation": "4-2-3-1",
-          "played": 8
+          "played": 9
         }
       ],
       "cards": {
@@ -120267,12 +116512,12 @@
               "percentage": "16.67%"
             },
             "76-90": {
-              "total": 3,
-              "percentage": "16.67%"
+              "total": 2,
+              "percentage": "11.11%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "5.56%"
             },
             "106-120": {
               "total": null,
@@ -120323,12 +116568,12 @@
               "percentage": "8.33%"
             },
             "31-45": {
-              "total": 3,
-              "percentage": "25.00%"
+              "total": 2,
+              "percentage": "16.67%"
             },
             "46-60": {
-              "total": 1,
-              "percentage": "8.33%"
+              "total": 2,
+              "percentage": "16.67%"
             },
             "61-75": {
               "total": 1,
@@ -120485,7 +116730,7 @@
           },
           "46-60": {
             "total": 1,
-            "percentage": "33.33%"
+            "percentage": "25.00%"
           },
           "61-75": {
             "total": null,
@@ -120493,11 +116738,11 @@
           },
           "76-90": {
             "total": 2,
-            "percentage": "66.67%"
+            "percentage": "50.00%"
           },
           "91-105": {
-            "total": null,
-            "percentage": null
+            "total": 1,
+            "percentage": "25.00%"
           },
           "106-120": {
             "total": null,
@@ -128254,304 +124499,7 @@
     ]
   },
   "739": {
-    "statistics": {
-      "league": {
-        "id": 145,
-        "name": "Challenger Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/145.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 739,
-        "name": "AS Eupen",
-        "logo": "https://media.api-sports.io/football/teams/739.png"
-      },
-      "form": "WLWWWWL",
-      "fixtures": {
-        "played": {
-          "home": 3,
-          "away": 4,
-          "total": 7
-        },
-        "wins": {
-          "home": 2,
-          "away": 3,
-          "total": 5
-        },
-        "draws": {
-          "home": 0,
-          "away": 0,
-          "total": 0
-        },
-        "loses": {
-          "home": 1,
-          "away": 1,
-          "total": 2
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 8,
-            "away": 6,
-            "total": 14
-          },
-          "average": {
-            "home": "2.7",
-            "away": "1.5",
-            "total": "2.0"
-          },
-          "minute": {
-            "0-15": {
-              "total": 1,
-              "percentage": "7.14%"
-            },
-            "16-30": {
-              "total": 2,
-              "percentage": "14.29%"
-            },
-            "31-45": {
-              "total": 1,
-              "percentage": "7.14%"
-            },
-            "46-60": {
-              "total": 1,
-              "percentage": "7.14%"
-            },
-            "61-75": {
-              "total": 4,
-              "percentage": "28.57%"
-            },
-            "76-90": {
-              "total": 5,
-              "percentage": "35.71%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 7,
-              "under": 0
-            },
-            "1.5": {
-              "over": 4,
-              "under": 3
-            },
-            "2.5": {
-              "over": 2,
-              "under": 5
-            },
-            "3.5": {
-              "over": 1,
-              "under": 6
-            },
-            "4.5": {
-              "over": 0,
-              "under": 7
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 4,
-            "away": 3,
-            "total": 7
-          },
-          "average": {
-            "home": "1.3",
-            "away": "0.8",
-            "total": "1.0"
-          },
-          "minute": {
-            "0-15": {
-              "total": 1,
-              "percentage": "14.29%"
-            },
-            "16-30": {
-              "total": null,
-              "percentage": null
-            },
-            "31-45": {
-              "total": 2,
-              "percentage": "28.57%"
-            },
-            "46-60": {
-              "total": 1,
-              "percentage": "14.29%"
-            },
-            "61-75": {
-              "total": 1,
-              "percentage": "14.29%"
-            },
-            "76-90": {
-              "total": 1,
-              "percentage": "14.29%"
-            },
-            "91-105": {
-              "total": 1,
-              "percentage": "14.29%"
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 5,
-              "under": 2
-            },
-            "1.5": {
-              "over": 2,
-              "under": 5
-            },
-            "2.5": {
-              "over": 0,
-              "under": 7
-            },
-            "3.5": {
-              "over": 0,
-              "under": 7
-            },
-            "4.5": {
-              "over": 0,
-              "under": 7
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 4,
-          "draws": 0,
-          "loses": 1
-        },
-        "wins": {
-          "home": "4-1",
-          "away": "0-2"
-        },
-        "loses": {
-          "home": "1-2",
-          "away": "2-1"
-        },
-        "goals": {
-          "for": {
-            "home": 4,
-            "away": 2
-          },
-          "against": {
-            "home": 2,
-            "away": 2
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 0,
-        "away": 2,
-        "total": 2
-      },
-      "failed_to_score": {
-        "home": 0,
-        "away": 0,
-        "total": 0
-      },
-      "penalty": {
-        "scored": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "missed": {
-          "total": 1,
-          "percentage": "100.00%"
-        },
-        "total": 1
-      },
-      "lineups": [
-        {
-          "formation": "4-1-4-1",
-          "played": 6
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 2,
-            "percentage": "10.53%"
-          },
-          "16-30": {
-            "total": 1,
-            "percentage": "5.26%"
-          },
-          "31-45": {
-            "total": 5,
-            "percentage": "26.32%"
-          },
-          "46-60": {
-            "total": 2,
-            "percentage": "10.53%"
-          },
-          "61-75": {
-            "total": 3,
-            "percentage": "15.79%"
-          },
-          "76-90": {
-            "total": 4,
-            "percentage": "21.05%"
-          },
-          "91-105": {
-            "total": 2,
-            "percentage": "10.53%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": 1,
-            "percentage": "50.00%"
-          },
-          "91-105": {
-            "total": 1,
-            "percentage": "50.00%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
+    "statistics": null,
     "lastFixtures": [
       {
         "fixture": {
@@ -168773,12 +164721,12 @@
               "percentage": "18.75%"
             },
             "76-90": {
-              "total": 6,
-              "percentage": "37.50%"
+              "total": 5,
+              "percentage": "31.25%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "6.25%"
             },
             "106-120": {
               "total": null,
@@ -173055,76 +169003,6 @@
     "lastFixtures": [
       {
         "fixture": {
-          "id": 1643465,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-28T17:00:00+00:00",
-          "timestamp": 1793206800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 21732,
-            "name": "Lyse Arena",
-            "city": "Stavanger"
-          },
-          "status": {
-            "long": "Not Started",
-            "short": "NS",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 105,
-          "name": "NM Cupen",
-          "country": "Norway",
-          "logo": "https://media.api-sports.io/football/leagues/105.png",
-          "flag": "https://media.api-sports.io/flags/no.svg",
-          "season": 2027,
-          "round": "Round of 32",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 759,
-            "name": "Viking",
-            "logo": "https://media.api-sports.io/football/teams/759.png",
-            "winner": null
-          },
-          "away": {
-            "id": 2143,
-            "name": "KFUM Oslo",
-            "logo": "https://media.api-sports.io/football/teams/2143.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": null,
-          "away": null
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1494686,
           "referee": "Svein Tore Sinnes",
           "timezone": "UTC",
@@ -173752,6 +169630,76 @@
             "away": null
           }
         }
+      },
+      {
+        "fixture": {
+          "id": 1494736,
+          "referee": "Marius Grotta, Norway",
+          "timezone": "UTC",
+          "date": "2026-08-15T14:00:00+00:00",
+          "timestamp": 1786802400,
+          "periods": {
+            "first": 1786802400,
+            "second": 1786806000
+          },
+          "venue": {
+            "id": 1179,
+            "name": "KFUM Arena",
+            "city": "Oslo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 9
+          }
+        },
+        "league": {
+          "id": 103,
+          "name": "Eliteserien",
+          "country": "Norway",
+          "logo": "https://media.api-sports.io/football/leagues/103.png",
+          "flag": "https://media.api-sports.io/flags/no.svg",
+          "season": 2026,
+          "round": "Regular Season - 18",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 2143,
+            "name": "KFUM Oslo",
+            "logo": "https://media.api-sports.io/football/teams/2143.png",
+            "winner": null
+          },
+          "away": {
+            "id": 321,
+            "name": "Lillestrom",
+            "logo": "https://media.api-sports.io/football/teams/321.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
       }
     ]
   },
@@ -174058,7 +170006,7 @@
       {
         "fixture": {
           "id": 1640472,
-          "referee": null,
+          "referee": "T. Hansen",
           "timezone": "UTC",
           "date": "2026-10-28T17:00:00+00:00",
           "timestamp": 1793206800,
@@ -201407,76 +197355,6 @@
     "lastFixtures": [
       {
         "fixture": {
-          "id": 1645429,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-28T12:30:00+00:00",
-          "timestamp": 1793190600,
-          "periods": {
-            "first": 1793190600,
-            "second": null
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Abandoned",
-            "short": "ABD",
-            "elapsed": null,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 206,
-          "name": "Türkiye Kupası",
-          "country": "Turkey",
-          "logo": "https://media.api-sports.io/football/leagues/206.png",
-          "flag": "https://media.api-sports.io/flags/tr.svg",
-          "season": 2026,
-          "round": "3rd Round",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 3590,
-            "name": "Fethiyespor",
-            "logo": "https://media.api-sports.io/football/teams/3590.png",
-            "winner": null
-          },
-          "away": {
-            "id": 3588,
-            "name": "Eyüpspor",
-            "logo": "https://media.api-sports.io/football/teams/3588.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": null,
-            "away": null
-          },
-          "fulltime": {
-            "home": null,
-            "away": null
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
           "id": 1584441,
           "referee": "A. Akarsu",
           "timezone": "UTC",
@@ -202093,6 +197971,76 @@
           },
           "fulltime": {
             "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1604563,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-07-24T15:00:00+00:00",
+          "timestamp": 1784905200,
+          "periods": {
+            "first": 1784905200,
+            "second": 1784908800
+          },
+          "venue": {
+            "id": null,
+            "name": null,
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Club Friendly",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 3588,
+            "name": "Eyüpspor",
+            "logo": "https://media.api-sports.io/football/teams/3588.png",
+            "winner": true
+          },
+          "away": {
+            "id": 3578,
+            "name": "İstanbulspor",
+            "logo": "https://media.api-sports.io/football/teams/3578.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
             "away": 0
           },
           "extratime": {
@@ -208489,708 +204437,7 @@
         }
       }
     },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1559181,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-24T14:00:00+00:00",
-          "timestamp": 1792850400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 4600,
-            "name": "LE STADE DU PAIRAY",
-            "city": "Seraing"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 145,
-          "name": "Challenger Pro League",
-          "country": "Belgium",
-          "logo": "https://media.api-sports.io/football/leagues/145.png",
-          "flag": "https://media.api-sports.io/flags/be.svg",
-          "season": 2026,
-          "round": "Regular Season - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 10244,
-            "name": "Seraing United",
-            "logo": "https://media.api-sports.io/football/teams/10244.png",
-            "winner": true
-          },
-          "away": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1643114,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-17T18:45:00+00:00",
-          "timestamp": 1792262700,
-          "periods": {
-            "first": 1792262700,
-            "second": 1792266300
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 4
-          }
-        },
-        "league": {
-          "id": 147,
-          "name": "Cup",
-          "country": "Belgium",
-          "logo": "https://media.api-sports.io/football/leagues/147.png",
-          "flag": "https://media.api-sports.io/flags/be.svg",
-          "season": 2026,
-          "round": "Round of 32",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png",
-            "winner": false
-          },
-          "away": {
-            "id": 742,
-            "name": "Genk",
-            "logo": "https://media.api-sports.io/football/teams/742.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1559175,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-10T14:00:00+00:00",
-          "timestamp": 1791640800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 3563,
-            "name": "Stade Yvan Georges",
-            "city": "Virton"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 145,
-          "name": "Challenger Pro League",
-          "country": "Belgium",
-          "logo": "https://media.api-sports.io/football/leagues/145.png",
-          "flag": "https://media.api-sports.io/flags/be.svg",
-          "season": 2026,
-          "round": "Regular Season - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png",
-            "winner": false
-          },
-          "away": {
-            "id": 5931,
-            "name": "Sporting Hasselt",
-            "logo": "https://media.api-sports.io/football/teams/5931.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 4
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 4
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1635531,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-26T17:30:00+00:00",
-          "timestamp": 1790443800,
-          "periods": {
-            "first": 1790443800,
-            "second": 1790447400
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 147,
-          "name": "Cup",
-          "country": "Belgium",
-          "logo": "https://media.api-sports.io/football/leagues/147.png",
-          "flag": "https://media.api-sports.io/flags/be.svg",
-          "season": 2026,
-          "round": "Round of 64",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 5890,
-            "name": "Oostkamp",
-            "logo": "https://media.api-sports.io/football/teams/5890.png",
-            "winner": false
-          },
-          "away": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1559167,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-20T14:00:00+00:00",
-          "timestamp": 1789912800,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 183,
-            "name": "Daknamstadion",
-            "city": "Lokeren"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 145,
-          "name": "Challenger Pro League",
-          "country": "Belgium",
-          "logo": "https://media.api-sports.io/football/leagues/145.png",
-          "flag": "https://media.api-sports.io/flags/be.svg",
-          "season": 2026,
-          "round": "Regular Season - 6",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 14128,
-            "name": "Lokeren-Temse",
-            "logo": "https://media.api-sports.io/football/teams/14128.png",
-            "winner": null
-          },
-          "away": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1559159,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-09-12T18:00:00+00:00",
-          "timestamp": 1789236000,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 3563,
-            "name": "Stade Yvan Georges",
-            "city": "Virton"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 145,
-          "name": "Challenger Pro League",
-          "country": "Belgium",
-          "logo": "https://media.api-sports.io/football/leagues/145.png",
-          "flag": "https://media.api-sports.io/flags/be.svg",
-          "season": 2026,
-          "round": "Regular Season - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png",
-            "winner": true
-          },
-          "away": {
-            "id": 19045,
-            "name": "KRC Genk II",
-            "logo": "https://media.api-sports.io/football/teams/19045.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1559146,
-          "referee": "K. Clerkx",
-          "timezone": "UTC",
-          "date": "2026-08-30T14:00:00+00:00",
-          "timestamp": 1788098400,
-          "periods": {
-            "first": 1788098400,
-            "second": 1788102000
-          },
-          "venue": {
-            "id": 3563,
-            "name": "Stade Yvan Georges",
-            "city": "Virton"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 145,
-          "name": "Challenger Pro League",
-          "country": "Belgium",
-          "logo": "https://media.api-sports.io/football/leagues/145.png",
-          "flag": "https://media.api-sports.io/flags/be.svg",
-          "season": 2026,
-          "round": "Regular Season - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png",
-            "winner": false
-          },
-          "away": {
-            "id": 5805,
-            "name": "Francs Borains",
-            "logo": "https://media.api-sports.io/football/teams/5805.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1559134,
-          "referee": "M. Simonini",
-          "timezone": "UTC",
-          "date": "2026-08-21T18:00:00+00:00",
-          "timestamp": 1787335200,
-          "periods": {
-            "first": 1787335200,
-            "second": 1787338800
-          },
-          "venue": {
-            "id": null,
-            "name": "Lotto Park",
-            "city": "Anderlecht"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 145,
-          "name": "Challenger Pro League",
-          "country": "Belgium",
-          "logo": "https://media.api-sports.io/football/leagues/145.png",
-          "flag": "https://media.api-sports.io/flags/be.svg",
-          "season": 2026,
-          "round": "Regular Season - 2",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 19046,
-            "name": "RSC Anderlecht II",
-            "logo": "https://media.api-sports.io/football/teams/19046.png",
-            "winner": false
-          },
-          "away": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1559131,
-          "referee": "A. Jacoby",
-          "timezone": "UTC",
-          "date": "2026-08-15T18:00:00+00:00",
-          "timestamp": 1786816800,
-          "periods": {
-            "first": 1786816800,
-            "second": 1786820400
-          },
-          "venue": {
-            "id": 3563,
-            "name": "Stade Yvan Georges",
-            "city": "Virton"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 145,
-          "name": "Challenger Pro League",
-          "country": "Belgium",
-          "logo": "https://media.api-sports.io/football/leagues/145.png",
-          "flag": "https://media.api-sports.io/flags/be.svg",
-          "season": 2026,
-          "round": "Regular Season - 1",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png",
-            "winner": true
-          },
-          "away": {
-            "id": 6219,
-            "name": "K. Lierse S.K.",
-            "logo": "https://media.api-sports.io/football/teams/6219.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1607277,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-08-05T17:00:00+00:00",
-          "timestamp": 1785949200,
-          "periods": {
-            "first": 1785949200,
-            "second": 1785952800
-          },
-          "venue": {
-            "id": null,
-            "name": null,
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 667,
-          "name": "Friendlies Clubs",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/667.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Club Friendlies",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 4715,
-            "name": "Excelsior Virton",
-            "logo": "https://media.api-sports.io/football/teams/4715.png",
-            "winner": null
-          },
-          "away": {
-            "id": 9944,
-            "name": "Strasbourg II",
-            "logo": "https://media.api-sports.io/football/teams/9944.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
+    "lastFixtures": []
   },
   "4744": {
     "statistics": {
@@ -210517,708 +205764,7 @@
         }
       }
     },
-    "lastFixtures": [
-      {
-        "fixture": {
-          "id": 1644349,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-10-29T19:00:00+00:00",
-          "timestamp": 1793300400,
-          "periods": {
-            "first": 1793300400,
-            "second": 1793304000
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio La Fuensanta",
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 3
-          }
-        },
-        "league": {
-          "id": 143,
-          "name": "Copa del Rey",
-          "country": "Spain",
-          "logo": "https://media.api-sports.io/football/leagues/143.png",
-          "flag": "https://media.api-sports.io/flags/es.svg",
-          "season": 2026,
-          "round": "Round of 128",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 5257,
-            "name": "Conquense",
-            "logo": "https://media.api-sports.io/football/teams/5257.png",
-            "winner": false
-          },
-          "away": {
-            "id": 5254,
-            "name": "Castellón",
-            "logo": "https://media.api-sports.io/football/teams/5254.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1569985,
-          "referee": "Gorka Etayo Herrera",
-          "timezone": "UTC",
-          "date": "2026-10-25T17:30:00+00:00",
-          "timestamp": 1792949400,
-          "periods": {
-            "first": null,
-            "second": null
-          },
-          "venue": {
-            "id": 3968,
-            "name": "Estadio Municipal Castalia",
-            "city": "Castellon"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 141,
-          "name": "Segunda División",
-          "country": "Spain",
-          "logo": "https://media.api-sports.io/football/leagues/141.png",
-          "flag": "https://media.api-sports.io/flags/es.svg",
-          "season": 2026,
-          "round": "Regular Season - 11",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 5254,
-            "name": "Castellón",
-            "logo": "https://media.api-sports.io/football/teams/5254.png",
-            "winner": true
-          },
-          "away": {
-            "id": 731,
-            "name": "Sporting Gijon",
-            "logo": "https://media.api-sports.io/football/teams/731.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 4,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1569977,
-          "referee": "German Cid Camacho, Spain",
-          "timezone": "UTC",
-          "date": "2026-10-17T19:00:00+00:00",
-          "timestamp": 1792263600,
-          "periods": {
-            "first": 1792263600,
-            "second": 1792267200
-          },
-          "venue": {
-            "id": 1481,
-            "name": "Estadio de Gran Canaria",
-            "city": "Las Palmas"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 141,
-          "name": "Segunda División",
-          "country": "Spain",
-          "logo": "https://media.api-sports.io/football/leagues/141.png",
-          "flag": "https://media.api-sports.io/flags/es.svg",
-          "season": 2026,
-          "round": "Regular Season - 10",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 534,
-            "name": "Las Palmas",
-            "logo": "https://media.api-sports.io/football/teams/534.png",
-            "winner": false
-          },
-          "away": {
-            "id": 5254,
-            "name": "Castellón",
-            "logo": "https://media.api-sports.io/football/teams/5254.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1569960,
-          "referee": "Abraham Dominguez Cervantes, Spain",
-          "timezone": "UTC",
-          "date": "2026-10-11T12:00:00+00:00",
-          "timestamp": 1791720000,
-          "periods": {
-            "first": 1791720000,
-            "second": 1791723600
-          },
-          "venue": {
-            "id": 2618,
-            "name": "Estadi de la FAF",
-            "city": "Encamp"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 141,
-          "name": "Segunda División",
-          "country": "Spain",
-          "logo": "https://media.api-sports.io/football/leagues/141.png",
-          "flag": "https://media.api-sports.io/flags/es.svg",
-          "season": 2026,
-          "round": "Regular Season - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 8157,
-            "name": "FC Andorra",
-            "logo": "https://media.api-sports.io/football/teams/8157.png",
-            "winner": true
-          },
-          "away": {
-            "id": 5254,
-            "name": "Castellón",
-            "logo": "https://media.api-sports.io/football/teams/5254.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1569951,
-          "referee": "Marta Huerta de Aza, Spain",
-          "timezone": "UTC",
-          "date": "2026-10-04T16:30:00+00:00",
-          "timestamp": 1791131400,
-          "periods": {
-            "first": 1791131400,
-            "second": 1791135000
-          },
-          "venue": {
-            "id": 3968,
-            "name": "Estadio Municipal de Castalia",
-            "city": "Castellon"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 141,
-          "name": "Segunda División",
-          "country": "Spain",
-          "logo": "https://media.api-sports.io/football/leagues/141.png",
-          "flag": "https://media.api-sports.io/flags/es.svg",
-          "season": 2026,
-          "round": "Regular Season - 8",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 5254,
-            "name": "Castellón",
-            "logo": "https://media.api-sports.io/football/teams/5254.png",
-            "winner": null
-          },
-          "away": {
-            "id": 10139,
-            "name": "AD Ceuta FC",
-            "logo": "https://media.api-sports.io/football/teams/10139.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1569943,
-          "referee": "Alejandro Ojaos Valera, Spain",
-          "timezone": "UTC",
-          "date": "2026-09-28T18:30:00+00:00",
-          "timestamp": 1790620200,
-          "periods": {
-            "first": 1790620200,
-            "second": 1790623800
-          },
-          "venue": {
-            "id": 1464,
-            "name": "Estadio Municipal de Butarque",
-            "city": "Leganes"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 141,
-          "name": "Segunda División",
-          "country": "Spain",
-          "logo": "https://media.api-sports.io/football/leagues/141.png",
-          "flag": "https://media.api-sports.io/flags/es.svg",
-          "season": 2026,
-          "round": "Regular Season - 7",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 537,
-            "name": "Leganes",
-            "logo": "https://media.api-sports.io/football/teams/537.png",
-            "winner": false
-          },
-          "away": {
-            "id": 5254,
-            "name": "Castellón",
-            "logo": "https://media.api-sports.io/football/teams/5254.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1569930,
-          "referee": "S. Lax",
-          "timezone": "UTC",
-          "date": "2026-09-19T16:30:00+00:00",
-          "timestamp": 1789835400,
-          "periods": {
-            "first": 1789835400,
-            "second": 1789839000
-          },
-          "venue": {
-            "id": 3968,
-            "name": "Estadio Municipal de Castalia",
-            "city": "Castellon"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 141,
-          "name": "Segunda División",
-          "country": "Spain",
-          "logo": "https://media.api-sports.io/football/leagues/141.png",
-          "flag": "https://media.api-sports.io/flags/es.svg",
-          "season": 2026,
-          "round": "Regular Season - 6",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 5254,
-            "name": "Castellón",
-            "logo": "https://media.api-sports.io/football/teams/5254.png",
-            "winner": true
-          },
-          "away": {
-            "id": 719,
-            "name": "Tenerife",
-            "logo": "https://media.api-sports.io/football/teams/719.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 5,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 5,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1569921,
-          "referee": "Jose Antonio Sanchez Villalobos, Spain",
-          "timezone": "UTC",
-          "date": "2026-09-12T16:30:00+00:00",
-          "timestamp": 1789230600,
-          "periods": {
-            "first": 1789230600,
-            "second": 1789234200
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadi Montilivi",
-            "city": "Girona"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 141,
-          "name": "Segunda División",
-          "country": "Spain",
-          "logo": "https://media.api-sports.io/football/leagues/141.png",
-          "flag": "https://media.api-sports.io/flags/es.svg",
-          "season": 2026,
-          "round": "Regular Season - 5",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 547,
-            "name": "Girona",
-            "logo": "https://media.api-sports.io/football/teams/547.png",
-            "winner": false
-          },
-          "away": {
-            "id": 5254,
-            "name": "Castellón",
-            "logo": "https://media.api-sports.io/football/teams/5254.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1569905,
-          "referee": "German Cid Camacho, Spain",
-          "timezone": "UTC",
-          "date": "2026-09-06T16:30:00+00:00",
-          "timestamp": 1788712200,
-          "periods": {
-            "first": 1788712200,
-            "second": 1788715800
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Municipal Castalia",
-            "city": "Castellon"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 141,
-          "name": "Segunda División",
-          "country": "Spain",
-          "logo": "https://media.api-sports.io/football/leagues/141.png",
-          "flag": "https://media.api-sports.io/flags/es.svg",
-          "season": 2026,
-          "round": "Regular Season - 4",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 5254,
-            "name": "Castellón",
-            "logo": "https://media.api-sports.io/football/teams/5254.png",
-            "winner": true
-          },
-          "away": {
-            "id": 722,
-            "name": "Albacete",
-            "logo": "https://media.api-sports.io/football/teams/722.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1569897,
-          "referee": "O. Rivera Olmedo",
-          "timezone": "UTC",
-          "date": "2026-08-31T19:30:00+00:00",
-          "timestamp": 1788204600,
-          "periods": {
-            "first": 1788204600,
-            "second": 1788208200
-          },
-          "venue": {
-            "id": null,
-            "name": "Municipal de Barreiro",
-            "city": "Vigo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 5
-          }
-        },
-        "league": {
-          "id": 141,
-          "name": "Segunda División",
-          "country": "Spain",
-          "logo": "https://media.api-sports.io/football/leagues/141.png",
-          "flag": "https://media.api-sports.io/flags/es.svg",
-          "season": 2026,
-          "round": "Regular Season - 3",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 9571,
-            "name": "Celta de Vigo II",
-            "logo": "https://media.api-sports.io/football/teams/9571.png",
-            "winner": false
-          },
-          "away": {
-            "id": 5254,
-            "name": "Castellón",
-            "logo": "https://media.api-sports.io/football/teams/5254.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      }
-    ]
+    "lastFixtures": []
   },
   "5490": {
     "statistics": {
@@ -213215,312 +207761,7 @@
     ]
   },
   "5902": {
-    "statistics": {
-      "league": {
-        "id": 144,
-        "name": "Jupiler Pro League",
-        "country": "Belgium",
-        "logo": "https://media.api-sports.io/football/leagues/144.png",
-        "flag": "https://media.api-sports.io/flags/be.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 5902,
-        "name": "RAAL La Louvière",
-        "logo": "https://media.api-sports.io/football/teams/5902.png"
-      },
-      "form": "LLLDLWLLW",
-      "fixtures": {
-        "played": {
-          "home": 5,
-          "away": 4,
-          "total": 9
-        },
-        "wins": {
-          "home": 2,
-          "away": 0,
-          "total": 2
-        },
-        "draws": {
-          "home": 1,
-          "away": 0,
-          "total": 1
-        },
-        "loses": {
-          "home": 2,
-          "away": 4,
-          "total": 6
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 10,
-            "away": 1,
-            "total": 11
-          },
-          "average": {
-            "home": "2.0",
-            "away": "0.3",
-            "total": "1.2"
-          },
-          "minute": {
-            "0-15": {
-              "total": 3,
-              "percentage": "27.27%"
-            },
-            "16-30": {
-              "total": null,
-              "percentage": null
-            },
-            "31-45": {
-              "total": 3,
-              "percentage": "27.27%"
-            },
-            "46-60": {
-              "total": 1,
-              "percentage": "9.09%"
-            },
-            "61-75": {
-              "total": 2,
-              "percentage": "18.18%"
-            },
-            "76-90": {
-              "total": 2,
-              "percentage": "18.18%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 6,
-              "under": 3
-            },
-            "1.5": {
-              "over": 3,
-              "under": 6
-            },
-            "2.5": {
-              "over": 2,
-              "under": 7
-            },
-            "3.5": {
-              "over": 0,
-              "under": 9
-            },
-            "4.5": {
-              "over": 0,
-              "under": 9
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 8,
-            "away": 10,
-            "total": 18
-          },
-          "average": {
-            "home": "1.6",
-            "away": "2.5",
-            "total": "2.0"
-          },
-          "minute": {
-            "0-15": {
-              "total": 1,
-              "percentage": "5.56%"
-            },
-            "16-30": {
-              "total": 1,
-              "percentage": "5.56%"
-            },
-            "31-45": {
-              "total": 4,
-              "percentage": "22.22%"
-            },
-            "46-60": {
-              "total": 4,
-              "percentage": "22.22%"
-            },
-            "61-75": {
-              "total": 4,
-              "percentage": "22.22%"
-            },
-            "76-90": {
-              "total": 4,
-              "percentage": "22.22%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 7,
-              "under": 2
-            },
-            "1.5": {
-              "over": 7,
-              "under": 2
-            },
-            "2.5": {
-              "over": 2,
-              "under": 7
-            },
-            "3.5": {
-              "over": 2,
-              "under": 7
-            },
-            "4.5": {
-              "over": 0,
-              "under": 9
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 1,
-          "draws": 1,
-          "loses": 3
-        },
-        "wins": {
-          "home": "3-0",
-          "away": null
-        },
-        "loses": {
-          "home": "1-4",
-          "away": "4-0"
-        },
-        "goals": {
-          "for": {
-            "home": 3,
-            "away": 1
-          },
-          "against": {
-            "home": 4,
-            "away": 4
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 2,
-        "away": 0,
-        "total": 2
-      },
-      "failed_to_score": {
-        "home": 0,
-        "away": 3,
-        "total": 3
-      },
-      "penalty": {
-        "scored": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "missed": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "total": 0
-      },
-      "lineups": [
-        {
-          "formation": "5-3-2",
-          "played": 5
-        },
-        {
-          "formation": "3-4-3",
-          "played": 3
-        },
-        {
-          "formation": "3-5-1-1",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 4,
-            "percentage": "17.39%"
-          },
-          "16-30": {
-            "total": 1,
-            "percentage": "4.35%"
-          },
-          "31-45": {
-            "total": 5,
-            "percentage": "21.74%"
-          },
-          "46-60": {
-            "total": 5,
-            "percentage": "21.74%"
-          },
-          "61-75": {
-            "total": 3,
-            "percentage": "13.04%"
-          },
-          "76-90": {
-            "total": 2,
-            "percentage": "8.70%"
-          },
-          "91-105": {
-            "total": 3,
-            "percentage": "13.04%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": 1,
-            "percentage": "33.33%"
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": 1,
-            "percentage": "33.33%"
-          },
-          "91-105": {
-            "total": 1,
-            "percentage": "33.33%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
+    "statistics": null,
     "lastFixtures": [
       {
         "fixture": {
@@ -219333,12 +213574,12 @@
               "percentage": "26.67%"
             },
             "76-90": {
-              "total": 5,
-              "percentage": "33.33%"
+              "total": 4,
+              "percentage": "26.67%"
             },
             "91-105": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "6.67%"
             },
             "106-120": {
               "total": null,
@@ -224316,312 +218557,7 @@
     ]
   },
   "9580": {
-    "statistics": {
-      "league": {
-        "id": 141,
-        "name": "Segunda División",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/141.png",
-        "flag": "https://media.api-sports.io/flags/es.svg",
-        "season": 2026
-      },
-      "team": {
-        "id": 9580,
-        "name": "Burgos",
-        "logo": "https://media.api-sports.io/football/teams/9580.png"
-      },
-      "form": "WLDDWWWLLWW",
-      "fixtures": {
-        "played": {
-          "home": 6,
-          "away": 5,
-          "total": 11
-        },
-        "wins": {
-          "home": 4,
-          "away": 2,
-          "total": 6
-        },
-        "draws": {
-          "home": 1,
-          "away": 1,
-          "total": 2
-        },
-        "loses": {
-          "home": 1,
-          "away": 2,
-          "total": 3
-        }
-      },
-      "goals": {
-        "for": {
-          "total": {
-            "home": 10,
-            "away": 6,
-            "total": 16
-          },
-          "average": {
-            "home": "1.7",
-            "away": "1.2",
-            "total": "1.5"
-          },
-          "minute": {
-            "0-15": {
-              "total": 2,
-              "percentage": "13.33%"
-            },
-            "16-30": {
-              "total": 4,
-              "percentage": "26.67%"
-            },
-            "31-45": {
-              "total": 3,
-              "percentage": "20.00%"
-            },
-            "46-60": {
-              "total": 3,
-              "percentage": "20.00%"
-            },
-            "61-75": {
-              "total": 1,
-              "percentage": "6.67%"
-            },
-            "76-90": {
-              "total": 2,
-              "percentage": "13.33%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 8,
-              "under": 3
-            },
-            "1.5": {
-              "over": 5,
-              "under": 6
-            },
-            "2.5": {
-              "over": 3,
-              "under": 8
-            },
-            "3.5": {
-              "over": 0,
-              "under": 11
-            },
-            "4.5": {
-              "over": 0,
-              "under": 11
-            }
-          }
-        },
-        "against": {
-          "total": {
-            "home": 6,
-            "away": 6,
-            "total": 12
-          },
-          "average": {
-            "home": "1.0",
-            "away": "1.2",
-            "total": "1.1"
-          },
-          "minute": {
-            "0-15": {
-              "total": 4,
-              "percentage": "30.77%"
-            },
-            "16-30": {
-              "total": 1,
-              "percentage": "7.69%"
-            },
-            "31-45": {
-              "total": 4,
-              "percentage": "30.77%"
-            },
-            "46-60": {
-              "total": null,
-              "percentage": null
-            },
-            "61-75": {
-              "total": 1,
-              "percentage": "7.69%"
-            },
-            "76-90": {
-              "total": 3,
-              "percentage": "23.08%"
-            },
-            "91-105": {
-              "total": null,
-              "percentage": null
-            },
-            "106-120": {
-              "total": null,
-              "percentage": null
-            }
-          },
-          "under_over": {
-            "0.5": {
-              "over": 8,
-              "under": 3
-            },
-            "1.5": {
-              "over": 4,
-              "under": 7
-            },
-            "2.5": {
-              "over": 0,
-              "under": 11
-            },
-            "3.5": {
-              "over": 0,
-              "under": 11
-            },
-            "4.5": {
-              "over": 0,
-              "under": 11
-            }
-          }
-        }
-      },
-      "biggest": {
-        "streak": {
-          "wins": 3,
-          "draws": 2,
-          "loses": 2
-        },
-        "wins": {
-          "home": "3-1",
-          "away": "2-3"
-        },
-        "loses": {
-          "home": "0-1",
-          "away": "2-1"
-        },
-        "goals": {
-          "for": {
-            "home": 3,
-            "away": 3
-          },
-          "against": {
-            "home": 2,
-            "away": 2
-          }
-        }
-      },
-      "clean_sheet": {
-        "home": 2,
-        "away": 1,
-        "total": 3
-      },
-      "failed_to_score": {
-        "home": 1,
-        "away": 2,
-        "total": 3
-      },
-      "penalty": {
-        "scored": {
-          "total": 3,
-          "percentage": "100.00%"
-        },
-        "missed": {
-          "total": 0,
-          "percentage": "0%"
-        },
-        "total": 3
-      },
-      "lineups": [
-        {
-          "formation": "4-4-2",
-          "played": 6
-        },
-        {
-          "formation": "4-2-3-1",
-          "played": 4
-        },
-        {
-          "formation": "4-1-4-1",
-          "played": 1
-        }
-      ],
-      "cards": {
-        "yellow": {
-          "0-15": {
-            "total": 2,
-            "percentage": "7.41%"
-          },
-          "16-30": {
-            "total": 2,
-            "percentage": "7.41%"
-          },
-          "31-45": {
-            "total": 3,
-            "percentage": "11.11%"
-          },
-          "46-60": {
-            "total": 5,
-            "percentage": "18.52%"
-          },
-          "61-75": {
-            "total": 5,
-            "percentage": "18.52%"
-          },
-          "76-90": {
-            "total": 8,
-            "percentage": "29.63%"
-          },
-          "91-105": {
-            "total": 2,
-            "percentage": "7.41%"
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        },
-        "red": {
-          "0-15": {
-            "total": null,
-            "percentage": null
-          },
-          "16-30": {
-            "total": null,
-            "percentage": null
-          },
-          "31-45": {
-            "total": null,
-            "percentage": null
-          },
-          "46-60": {
-            "total": null,
-            "percentage": null
-          },
-          "61-75": {
-            "total": null,
-            "percentage": null
-          },
-          "76-90": {
-            "total": null,
-            "percentage": null
-          },
-          "91-105": {
-            "total": null,
-            "percentage": null
-          },
-          "106-120": {
-            "total": null,
-            "percentage": null
-          }
-        }
-      }
-    },
+    "statistics": null,
     "lastFixtures": [
       {
         "fixture": {
@@ -233660,8 +227596,8 @@
           "date": "2026-10-28T14:00:00+00:00",
           "timestamp": 1793196000,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1793196000,
+            "second": 1793199600
           },
           "venue": {
             "id": null,
@@ -233701,20 +227637,20 @@
         },
         "goals": {
           "home": 0,
-          "away": 1
+          "away": 0
         },
         "score": {
           "halftime": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
           },
           "fulltime": {
             "home": 0,
-            "away": 1
+            "away": 0
           },
           "extratime": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
           },
           "penalty": {
             "home": null,
@@ -234657,8 +228593,8 @@
           "date": "2026-10-27T14:00:00+00:00",
           "timestamp": 1793109600,
           "periods": {
-            "first": null,
-            "second": null
+            "first": 1793109600,
+            "second": 1793113200
           },
           "venue": {
             "id": null,
@@ -237693,8 +231629,8 @@
         },
         "score": {
           "halftime": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
           },
           "fulltime": {
             "home": 2,
