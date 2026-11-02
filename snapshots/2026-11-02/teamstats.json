@@ -38816,7 +38816,7 @@
       {
         "fixture": {
           "id": 1565285,
-          "referee": "H. Fesnic",
+          "referee": "Horatiu Fesnic, Romania",
           "timezone": "UTC",
           "date": "2026-10-24T18:00:00+00:00",
           "timestamp": 1792864800,
@@ -38886,7 +38886,7 @@
       {
         "fixture": {
           "id": 1565273,
-          "referee": "G. Mihuleac",
+          "referee": "Gabriel Mihuleac, Romania",
           "timezone": "UTC",
           "date": "2026-10-19T18:00:00+00:00",
           "timestamp": 1792432800,
@@ -38956,7 +38956,7 @@
       {
         "fixture": {
           "id": 1565268,
-          "referee": "G. Catalin",
+          "referee": "George Catalin Roman, Romania",
           "timezone": "UTC",
           "date": "2026-10-10T18:30:00+00:00",
           "timestamp": 1791657000,
@@ -39026,7 +39026,7 @@
       {
         "fixture": {
           "id": 1565261,
-          "referee": "H. Fesnic",
+          "referee": "Horatiu Fesnic, Romania",
           "timezone": "UTC",
           "date": "2026-09-19T17:30:00+00:00",
           "timestamp": 1789839000,
@@ -39096,7 +39096,7 @@
       {
         "fixture": {
           "id": 1565252,
-          "referee": "I. Calin",
+          "referee": "Iulian Calin, Romania",
           "timezone": "UTC",
           "date": "2026-09-14T18:00:00+00:00",
           "timestamp": 1789408800,
@@ -39106,7 +39106,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Arena Nationala",
+            "name": "National Arena",
             "city": "Bucharest"
           },
           "status": {
@@ -39166,7 +39166,7 @@
       {
         "fixture": {
           "id": 1565240,
-          "referee": "I. Kovacs",
+          "referee": "Istvan Kovacs, Romania",
           "timezone": "UTC",
           "date": "2026-09-05T17:30:00+00:00",
           "timestamp": 1788629400,
@@ -39306,7 +39306,7 @@
       {
         "fixture": {
           "id": 1565236,
-          "referee": "K. Szabolcs",
+          "referee": "Szabolcs Kovacs, Romania",
           "timezone": "UTC",
           "date": "2026-08-30T18:00:00+00:00",
           "timestamp": 1788112800,
@@ -39316,7 +39316,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Arena Nationala",
+            "name": "National Arena",
             "city": "Bucharest"
           },
           "status": {
@@ -39376,7 +39376,7 @@
       {
         "fixture": {
           "id": 1565223,
-          "referee": "G. Gaman",
+          "referee": "George Catalin Gaman, Romania",
           "timezone": "UTC",
           "date": "2026-08-23T18:30:00+00:00",
           "timestamp": 1787509800,
@@ -39387,7 +39387,7 @@
           "venue": {
             "id": null,
             "name": "Dr. Constantin Radulescu",
-            "city": "Cluj-Napoca"
+            "city": "Cluj Napoca"
           },
           "status": {
             "long": "Match Finished",
@@ -62135,6 +62135,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490598,
+          "referee": "Ricardo Montero Araya",
+          "timezone": "UTC",
+          "date": "2026-11-02T00:00:00+00:00",
+          "timestamp": 1793577600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1618,
+            "name": "Boston Stadium",
+            "city": "Boston"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 52,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 33",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1609,
+            "name": "New England Revolution",
+            "logo": "https://media.api-sports.io/football/teams/1609.png",
+            "winner": null
+          },
+          "away": {
+            "id": 9568,
+            "name": "Inter Miami",
+            "logo": "https://media.api-sports.io/football/teams/9568.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490573,
           "referee": "Christopher Penso",
           "timezone": "UTC",
@@ -62762,76 +62832,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1490448,
-          "referee": "Drew Fischer, Canada",
-          "timezone": "UTC",
-          "date": "2026-09-06T01:30:00+00:00",
-          "timestamp": 1788658200,
-          "periods": {
-            "first": 1788658200,
-            "second": 1788661800
-          },
-          "venue": {
-            "id": null,
-            "name": "Dignity Health Sports Park",
-            "city": "Carson"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 23",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1605,
-            "name": "Los Angeles Galaxy",
-            "logo": "https://media.api-sports.io/football/teams/1605.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1609,
-            "name": "New England Revolution",
-            "logo": "https://media.api-sports.io/football/teams/1609.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -63167,6 +63167,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1490590,
+          "referee": "Joseph Dickerson",
+          "timezone": "UTC",
+          "date": "2026-11-02T01:30:00+00:00",
+          "timestamp": 1793583000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Banc of California Stadium",
+            "city": "Los Angeles"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 33",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1616,
+            "name": "Los Angeles FC",
+            "logo": "https://media.api-sports.io/football/teams/1616.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1612,
+            "name": "Minnesota United FC",
+            "logo": "https://media.api-sports.io/football/teams/1612.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1490579,
@@ -63786,76 +63856,6 @@
           "fulltime": {
             "home": 1,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490450,
-          "referee": "Filip Dujic, Canada",
-          "timezone": "UTC",
-          "date": "2026-09-06T02:30:00+00:00",
-          "timestamp": 1788661800,
-          "periods": {
-            "first": 1788661800,
-            "second": 1788665400
-          },
-          "venue": {
-            "id": null,
-            "name": "Providence Park",
-            "city": "Portland"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 23",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1617,
-            "name": "Portland Timbers",
-            "logo": "https://media.api-sports.io/football/teams/1617.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1612,
-            "name": "Minnesota United FC",
-            "logo": "https://media.api-sports.io/football/teams/1612.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 5,
-          "away": 4
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 2
-          },
-          "fulltime": {
-            "home": 5,
-            "away": 4
           },
           "extratime": {
             "home": null,
@@ -69286,7 +69286,7 @@
           }
         },
         "goals": {
-          "home": 1,
+          "home": 0,
           "away": 0
         },
         "score": {
@@ -69295,12 +69295,12 @@
             "away": 0
           },
           "fulltime": {
-            "home": 1,
+            "home": 0,
             "away": 0
           },
           "extratime": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
           },
           "penalty": {
             "home": null,
@@ -70337,7 +70337,7 @@
       {
         "fixture": {
           "id": 1565281,
-          "referee": "G. Gaman",
+          "referee": "George Catalin Gaman, Romania",
           "timezone": "UTC",
           "date": "2026-10-24T12:30:00+00:00",
           "timestamp": 1792845000,
@@ -70407,7 +70407,7 @@
       {
         "fixture": {
           "id": 1565273,
-          "referee": "G. Mihuleac",
+          "referee": "Gabriel Mihuleac, Romania",
           "timezone": "UTC",
           "date": "2026-10-19T18:00:00+00:00",
           "timestamp": 1792432800,
@@ -70477,7 +70477,7 @@
       {
         "fixture": {
           "id": 1565263,
-          "referee": "M. Barbu",
+          "referee": "Marian Barbu, Romania",
           "timezone": "UTC",
           "date": "2026-10-09T15:00:00+00:00",
           "timestamp": 1791558000,
@@ -70547,7 +70547,7 @@
       {
         "fixture": {
           "id": 1565258,
-          "referee": "F. Andrei",
+          "referee": "Florin Andrei, Romania",
           "timezone": "UTC",
           "date": "2026-09-20T11:00:00+00:00",
           "timestamp": 1789902000,
@@ -70617,7 +70617,7 @@
       {
         "fixture": {
           "id": 1565251,
-          "referee": "A. Moroita",
+          "referee": "Andrei Moroita, Romania",
           "timezone": "UTC",
           "date": "2026-09-12T18:30:00+00:00",
           "timestamp": 1789237800,
@@ -70627,7 +70627,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Superbet Arena - Giulesti",
+            "name": "Stadionul Rapid-Giulesti",
             "city": "Bucharest"
           },
           "status": {
@@ -70687,7 +70687,7 @@
       {
         "fixture": {
           "id": 1565242,
-          "referee": "K. Szabolcs",
+          "referee": "Szabolcs Kovacs, Romania",
           "timezone": "UTC",
           "date": "2026-09-07T14:30:00+00:00",
           "timestamp": 1788791400,
@@ -70827,7 +70827,7 @@
       {
         "fixture": {
           "id": 1565237,
-          "referee": "H. Fesnic",
+          "referee": "Horatiu Fesnic, Romania",
           "timezone": "UTC",
           "date": "2026-08-28T15:00:00+00:00",
           "timestamp": 1787929200,
@@ -70897,7 +70897,7 @@
       {
         "fixture": {
           "id": 1565229,
-          "referee": "A. Cojocaru",
+          "referee": "Adrian Viorel Cojocaru, Romania",
           "timezone": "UTC",
           "date": "2026-08-23T15:30:00+00:00",
           "timestamp": 1787499000,
@@ -71285,7 +71285,7 @@
       {
         "fixture": {
           "id": 1565282,
-          "referee": "V. Flueran",
+          "referee": "Viorel Nicusor Flueran, Romania",
           "timezone": "UTC",
           "date": "2026-10-25T14:00:00+00:00",
           "timestamp": 1792936800,
@@ -71295,7 +71295,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Central Stadium Hagi Academy",
+            "name": "Stadionul Central-Academia Gheorghe Hagi",
             "city": "Ovidiu"
           },
           "status": {
@@ -71355,7 +71355,7 @@
       {
         "fixture": {
           "id": 1565277,
-          "referee": "I. Calin",
+          "referee": "Iulian Calin, Romania",
           "timezone": "UTC",
           "date": "2026-10-18T18:00:00+00:00",
           "timestamp": 1792346400,
@@ -71425,7 +71425,7 @@
       {
         "fixture": {
           "id": 1565265,
-          "referee": "H. Fesnic",
+          "referee": "Horatiu Fesnic, Romania",
           "timezone": "UTC",
           "date": "2026-10-11T18:00:00+00:00",
           "timestamp": 1791741600,
@@ -71435,7 +71435,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Central Stadium Hagi Academy",
+            "name": "Stadionul Central-Academia Gheorghe Hagi",
             "city": "Ovidiu"
           },
           "status": {
@@ -71565,7 +71565,7 @@
       {
         "fixture": {
           "id": 1565256,
-          "referee": "M. Barbu",
+          "referee": "Marian Barbu, Romania",
           "timezone": "UTC",
           "date": "2026-09-20T17:30:00+00:00",
           "timestamp": 1789925400,
@@ -71575,7 +71575,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Stadionul Arcul de Triumf",
+            "name": "Dinamo Stadium",
             "city": "Bucharest"
           },
           "status": {
@@ -71635,7 +71635,7 @@
       {
         "fixture": {
           "id": 1565249,
-          "referee": "H. Mladinovici",
+          "referee": "Horia Gabriel Mladinovici, Romania",
           "timezone": "UTC",
           "date": "2026-09-11T15:00:00+00:00",
           "timestamp": 1789138800,
@@ -71645,8 +71645,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Central Stadium Hagi Academy",
-            "city": "Ovidiu"
+            "name": "Complex Sportiv Academia Gheorghe Hagi",
+            "city": "Constanta"
           },
           "status": {
             "long": "Match Finished",
@@ -71705,7 +71705,7 @@
       {
         "fixture": {
           "id": 1565239,
-          "referee": "R. M. Petrescu",
+          "referee": "Radu Marian Petrescu, Romania",
           "timezone": "UTC",
           "date": "2026-09-04T17:30:00+00:00",
           "timestamp": 1788543000,
@@ -71716,7 +71716,7 @@
           "venue": {
             "id": null,
             "name": "Dr. Constantin Radulescu",
-            "city": "Cluj-Napoca"
+            "city": "Cluj Napoca"
           },
           "status": {
             "long": "Match Finished",
@@ -71775,7 +71775,7 @@
       {
         "fixture": {
           "id": 1565233,
-          "referee": "A. Chivulete",
+          "referee": "Andrei Florin Chivulete, Romania",
           "timezone": "UTC",
           "date": "2026-08-30T13:00:00+00:00",
           "timestamp": 1788094800,
@@ -71785,7 +71785,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Central Stadium Hagi Academy",
+            "name": "Stadionul Central-Academia Gheorghe Hagi",
             "city": "Ovidiu"
           },
           "status": {
@@ -71845,7 +71845,7 @@
       {
         "fixture": {
           "id": 1565228,
-          "referee": "M. Birsan",
+          "referee": "Marcel Birsan, Romania",
           "timezone": "UTC",
           "date": "2026-08-23T13:00:00+00:00",
           "timestamp": 1787490000,
@@ -72369,7 +72369,7 @@
       {
         "fixture": {
           "id": 1565280,
-          "referee": "A. Cojocaru",
+          "referee": "Adrian Viorel Cojocaru, Romania",
           "timezone": "UTC",
           "date": "2026-10-23T18:00:00+00:00",
           "timestamp": 1792778400,
@@ -72439,7 +72439,7 @@
       {
         "fixture": {
           "id": 1565276,
-          "referee": "G. Catalin",
+          "referee": "George Catalin Roman, Romania",
           "timezone": "UTC",
           "date": "2026-10-19T15:00:00+00:00",
           "timestamp": 1792422000,
@@ -72509,7 +72509,7 @@
       {
         "fixture": {
           "id": 1565270,
-          "referee": "R. Vidican",
+          "referee": "Rares George Vidican, Romania",
           "timezone": "UTC",
           "date": "2026-10-12T18:00:00+00:00",
           "timestamp": 1791828000,
@@ -72579,7 +72579,7 @@
       {
         "fixture": {
           "id": 1565207,
-          "referee": "H. Mladinovici",
+          "referee": "Horia Gabriel Mladinovici, Romania",
           "timezone": "UTC",
           "date": "2026-10-08T17:30:00+00:00",
           "timestamp": 1791480600,
@@ -72649,7 +72649,7 @@
       {
         "fixture": {
           "id": 1565258,
-          "referee": "F. Andrei",
+          "referee": "Florin Andrei, Romania",
           "timezone": "UTC",
           "date": "2026-09-20T11:00:00+00:00",
           "timestamp": 1789902000,
@@ -72719,7 +72719,7 @@
       {
         "fixture": {
           "id": 1565254,
-          "referee": "K. Szabolcs",
+          "referee": "Szabolcs Kovacs, Romania",
           "timezone": "UTC",
           "date": "2026-09-14T15:00:00+00:00",
           "timestamp": 1789398000,
@@ -72789,7 +72789,7 @@
       {
         "fixture": {
           "id": 1565245,
-          "referee": "G. Catalin",
+          "referee": "George Catalin Roman, Romania",
           "timezone": "UTC",
           "date": "2026-09-07T17:30:00+00:00",
           "timestamp": 1788802200,
@@ -72929,7 +72929,7 @@
       {
         "fixture": {
           "id": 1565238,
-          "referee": "R. M. Petrescu",
+          "referee": "Radu Marian Petrescu, Romania",
           "timezone": "UTC",
           "date": "2026-08-28T18:00:00+00:00",
           "timestamp": 1787940000,
@@ -73354,8 +73354,8 @@
             "away": 1
           },
           "extratime": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
           },
           "penalty": {
             "home": 5,
@@ -88356,6 +88356,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1490598,
+          "referee": "Ricardo Montero Araya",
+          "timezone": "UTC",
+          "date": "2026-11-02T00:00:00+00:00",
+          "timestamp": 1793577600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1618,
+            "name": "Boston Stadium",
+            "city": "Boston"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 52,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Regular Season - 33",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1609,
+            "name": "New England Revolution",
+            "logo": "https://media.api-sports.io/football/teams/1609.png",
+            "winner": null
+          },
+          "away": {
+            "id": 9568,
+            "name": "Inter Miami",
+            "logo": "https://media.api-sports.io/football/teams/9568.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490571,
           "referee": "Armando Villarreal",
           "timezone": "UTC",
@@ -88973,76 +89043,6 @@
           "fulltime": {
             "home": 2,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490457,
-          "referee": "Jair Antonio Maruffo, USA",
-          "timezone": "UTC",
-          "date": "2026-09-10T00:30:00+00:00",
-          "timestamp": 1789000200,
-          "periods": {
-            "first": 1789000200,
-            "second": 1789003800
-          },
-          "venue": {
-            "id": null,
-            "name": "Soldier Field",
-            "city": "Chicago"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 24",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1607,
-            "name": "Chicago Fire",
-            "logo": "https://media.api-sports.io/football/teams/1607.png",
-            "winner": null
-          },
-          "away": {
-            "id": 9568,
-            "name": "Inter Miami",
-            "logo": "https://media.api-sports.io/football/teams/9568.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 1,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 1,
-            "away": 1
           },
           "extratime": {
             "home": null,
