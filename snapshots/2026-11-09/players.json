@@ -1,7 +1,334 @@
 {
-  "generatedAt": "2026-11-07T02:18:24.103Z",
-  "totalTeams": 0,
-  "totalLeagues": 0,
-  "teamsWithFallback": 0,
-  "data": {}
+  "generatedAt": "2026-11-07T14:06:40.605Z",
+  "totalTeams": 12,
+  "totalLeagues": 5,
+  "teamsWithFallback": 10,
+  "data": {
+    "2072": {
+      "teamId": 2072,
+      "teamName": "Hvidovre",
+      "season": 2026,
+      "leagueId": 120,
+      "leagueName": "1. Division",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2581": {
+      "teamId": 2581,
+      "teamName": "FC Botosani",
+      "season": 2026,
+      "leagueId": 283,
+      "leagueName": "Liga I",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 42660,
+          "name": "A. Dumiter",
+          "photo": "https://media.api-sports.io/football/players/42660.png",
+          "goals": 7,
+          "appearances": 14
+        },
+        "topAssist": {
+          "id": 324272,
+          "name": "Z. Mitrov",
+          "photo": "https://media.api-sports.io/football/players/324272.png",
+          "assists": 3,
+          "appearances": 12
+        },
+        "mostCards": {
+          "id": 419730,
+          "name": "N. Ilaș",
+          "photo": "https://media.api-sports.io/football/players/419730.png",
+          "yellowCards": 3,
+          "redCards": 1
+        }
+      },
+      "topScorers": [
+        {
+          "id": 42660,
+          "name": "A. Dumiter",
+          "photo": "https://media.api-sports.io/football/players/42660.png",
+          "goals": 7,
+          "appearances": 14
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 324272,
+          "name": "Z. Mitrov",
+          "photo": "https://media.api-sports.io/football/players/324272.png",
+          "assists": 3,
+          "appearances": 12
+        },
+        {
+          "id": 43217,
+          "name": "E. Papa",
+          "photo": "https://media.api-sports.io/football/players/43217.png",
+          "assists": 3,
+          "appearances": 12
+        }
+      ]
+    },
+    "2646": {
+      "teamId": 2646,
+      "teamName": "TSC Backa Topola",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2653": {
+      "teamId": 2653,
+      "teamName": "Javor",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "2655": {
+      "teamId": 2655,
+      "teamName": "Napredak",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "4662": {
+      "teamId": 4662,
+      "teamName": "União de Leiria",
+      "season": 2026,
+      "leagueId": 95,
+      "leagueName": "Segunda Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": {
+          "id": 141764,
+          "name": "Ibrahima",
+          "photo": "https://media.api-sports.io/football/players/141764.png",
+          "yellowCards": 4,
+          "redCards": 0
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "4799": {
+      "teamId": 4799,
+      "teamName": "Torreense",
+      "season": 2026,
+      "leagueId": 95,
+      "leagueName": "Segunda Liga",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 286961,
+          "name": "Manu Pozo",
+          "photo": "https://media.api-sports.io/football/players/286961.png",
+          "goals": 2,
+          "appearances": 4
+        },
+        "topAssist": {
+          "id": 2046,
+          "name": "Javi Vázquez",
+          "photo": "https://media.api-sports.io/football/players/2046.png",
+          "assists": 3,
+          "appearances": 4
+        },
+        "mostCards": {
+          "id": 160546,
+          "name": "Adriel",
+          "photo": "https://media.api-sports.io/football/players/160546.png",
+          "yellowCards": 1,
+          "redCards": 1
+        }
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "6004": {
+      "teamId": 6004,
+      "teamName": "Aarhus Fremad",
+      "season": 2026,
+      "leagueId": 120,
+      "leagueName": "1. Division",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    },
+    "6886": {
+      "teamId": 6886,
+      "teamName": "Oţelul",
+      "season": 2026,
+      "leagueId": 283,
+      "leagueName": "Liga I",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 41452,
+          "name": "Patrick",
+          "photo": "https://media.api-sports.io/football/players/41452.png",
+          "goals": 4,
+          "appearances": 13
+        },
+        "topAssist": {
+          "id": 41127,
+          "name": "Pedro Nuno",
+          "photo": "https://media.api-sports.io/football/players/41127.png",
+          "assists": 7,
+          "appearances": 14
+        },
+        "mostCards": {
+          "id": 112902,
+          "name": "T. Lungu",
+          "photo": "https://media.api-sports.io/football/players/112902.png",
+          "yellowCards": 4,
+          "redCards": 0
+        }
+      },
+      "topScorers": [
+        {
+          "id": 41452,
+          "name": "Patrick",
+          "photo": "https://media.api-sports.io/football/players/41452.png",
+          "goals": 4,
+          "appearances": 13
+        }
+      ],
+      "topAssists": [
+        {
+          "id": 41127,
+          "name": "Pedro Nuno",
+          "photo": "https://media.api-sports.io/football/players/41127.png",
+          "assists": 7,
+          "appearances": 14
+        }
+      ]
+    },
+    "9585": {
+      "teamId": 9585,
+      "teamName": "Real Sociedad II",
+      "season": 2026,
+      "leagueId": 141,
+      "leagueName": "Segunda División",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 441218,
+          "name": "Gorka Gorosabel",
+          "photo": "https://media.api-sports.io/football/players/441218.png",
+          "goals": 3,
+          "appearances": 11
+        },
+        "topAssist": {
+          "id": 412738,
+          "name": "Dani Díaz",
+          "photo": "https://media.api-sports.io/football/players/412738.png",
+          "assists": 5,
+          "appearances": 12
+        },
+        "mostCards": {
+          "id": 402168,
+          "name": "Arkaitz Mariezkurrena",
+          "photo": "https://media.api-sports.io/football/players/402168.png",
+          "yellowCards": 2,
+          "redCards": 1
+        }
+      },
+      "topScorers": [],
+      "topAssists": [
+        {
+          "id": 412738,
+          "name": "Dani Díaz",
+          "photo": "https://media.api-sports.io/football/players/412738.png",
+          "assists": 5,
+          "appearances": 12
+        }
+      ]
+    },
+    "9593": {
+      "teamId": 9593,
+      "teamName": "Sabadell",
+      "season": 2026,
+      "leagueId": 141,
+      "leagueName": "Segunda División",
+      "keyPlayers": {
+        "topScorer": {
+          "id": 153465,
+          "name": "N. Gioacchini",
+          "photo": "https://media.api-sports.io/football/players/153465.png",
+          "goals": 3,
+          "appearances": 5
+        },
+        "topAssist": {
+          "id": 181222,
+          "name": "Ton Ripoll",
+          "photo": "https://media.api-sports.io/football/players/181222.png",
+          "assists": 4,
+          "appearances": 12
+        },
+        "mostCards": {
+          "id": 1565,
+          "name": "Edgar González",
+          "photo": "https://media.api-sports.io/football/players/1565.png",
+          "yellowCards": 6,
+          "redCards": 1
+        }
+      },
+      "topScorers": [],
+      "topAssists": [
+        {
+          "id": 181222,
+          "name": "Ton Ripoll",
+          "photo": "https://media.api-sports.io/football/players/181222.png",
+          "assists": 4,
+          "appearances": 12
+        },
+        {
+          "id": 214292,
+          "name": "Q. Liameed",
+          "photo": "https://media.api-sports.io/football/players/214292.png",
+          "assists": 3,
+          "appearances": 12
+        }
+      ]
+    },
+    "26409": {
+      "teamId": 26409,
+      "teamName": "OFK Bor 1919",
+      "season": 2026,
+      "leagueId": 287,
+      "leagueName": "Prva Liga",
+      "keyPlayers": {
+        "topScorer": null,
+        "topAssist": null,
+        "mostCards": null
+      },
+      "topScorers": [],
+      "topAssists": []
+    }
+  }
 }
