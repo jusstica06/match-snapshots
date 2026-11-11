@@ -27122,12 +27122,12 @@
         "name": "Qatar U23",
         "logo": "https://media.api-sports.io/football/teams/10954.png"
       },
-      "form": "WLWLD",
+      "form": "WLWLDD",
       "fixtures": {
         "played": {
-          "home": 2,
+          "home": 3,
           "away": 3,
-          "total": 5
+          "total": 6
         },
         "wins": {
           "home": 1,
@@ -27135,9 +27135,9 @@
           "total": 2
         },
         "draws": {
-          "home": 0,
+          "home": 1,
           "away": 1,
-          "total": 1
+          "total": 2
         },
         "loses": {
           "home": 1,
@@ -27153,9 +27153,9 @@
             "total": 5
           },
           "average": {
-            "home": "1.5",
+            "home": "1.0",
             "away": "0.7",
-            "total": "1.0"
+            "total": "0.8"
           },
           "minute": {
             "0-15": {
@@ -27194,23 +27194,23 @@
           "under_over": {
             "0.5": {
               "over": 3,
-              "under": 2
+              "under": 3
             },
             "1.5": {
               "over": 2,
-              "under": 3
+              "under": 4
             },
             "2.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             },
             "3.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             },
             "4.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             }
           }
         },
@@ -27221,9 +27221,9 @@
             "total": 7
           },
           "average": {
-            "home": "2.0",
+            "home": "1.3",
             "away": "1.0",
-            "total": "1.4"
+            "total": "1.2"
           },
           "minute": {
             "0-15": {
@@ -27262,23 +27262,23 @@
           "under_over": {
             "0.5": {
               "over": 4,
-              "under": 1
+              "under": 2
             },
             "1.5": {
               "over": 2,
-              "under": 3
+              "under": 4
             },
             "2.5": {
               "over": 1,
-              "under": 4
+              "under": 5
             },
             "3.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             },
             "4.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             }
           }
         }
@@ -27309,14 +27309,14 @@
         }
       },
       "clean_sheet": {
-        "home": 0,
+        "home": 1,
         "away": 1,
-        "total": 1
+        "total": 2
       },
       "failed_to_score": {
-        "home": 0,
+        "home": 1,
         "away": 2,
-        "total": 2
+        "total": 3
       },
       "penalty": {
         "scored": {
@@ -27337,8 +27337,8 @@
             "percentage": null
           },
           "16-30": {
-            "total": null,
-            "percentage": null
+            "total": 1,
+            "percentage": "100.00%"
           },
           "31-45": {
             "total": null,
@@ -27402,6 +27402,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1649005,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-11-10T08:00:00+00:00",
+          "timestamp": 1794297600,
+          "periods": {
+            "first": 1794297600,
+            "second": 1794301200
+          },
+          "venue": {
+            "id": null,
+            "name": "Pleiku Stadium",
+            "city": "Pleiku"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10954,
+            "name": "Qatar U23",
+            "logo": "https://media.api-sports.io/football/teams/10954.png",
+            "winner": null
+          },
+          "away": {
+            "id": 10956,
+            "name": "Singapore U23",
+            "logo": "https://media.api-sports.io/football/teams/10956.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1606559,
@@ -28031,76 +28101,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1545265,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-06-03T15:30:00+00:00",
-          "timestamp": 1780500600,
-          "periods": {
-            "first": 1780500600,
-            "second": 1780504200
-          },
-          "venue": {
-            "id": null,
-            "name": "Gradski stadion Krizevci",
-            "city": "Krizevci"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 2
-          }
-        },
-        "league": {
-          "id": 10,
-          "name": "Friendlies",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/10.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Friendly International",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 8186,
-            "name": "Croatia U21",
-            "logo": "https://media.api-sports.io/football/teams/8186.png",
-            "winner": true
-          },
-          "away": {
-            "id": 10954,
-            "name": "Qatar U23",
-            "logo": "https://media.api-sports.io/football/teams/10954.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -28119,12 +28119,12 @@
         "name": "Singapore U23",
         "logo": "https://media.api-sports.io/football/teams/10956.png"
       },
-      "form": null,
+      "form": "D",
       "fixtures": {
         "played": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         },
         "wins": {
           "home": 0,
@@ -28133,8 +28133,8 @@
         },
         "draws": {
           "home": 0,
-          "away": 0,
-          "total": 0
+          "away": 1,
+          "total": 1
         },
         "loses": {
           "home": 0,
@@ -28191,23 +28191,23 @@
           "under_over": {
             "0.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         },
@@ -28259,23 +28259,23 @@
           "under_over": {
             "0.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "2.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "3.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             },
             "4.5": {
               "over": 0,
-              "under": 0
+              "under": 1
             }
           }
         }
@@ -28283,7 +28283,7 @@
       "biggest": {
         "streak": {
           "wins": 0,
-          "draws": 0,
+          "draws": 1,
           "loses": 0
         },
         "wins": {
@@ -28307,13 +28307,13 @@
       },
       "clean_sheet": {
         "home": 0,
-        "away": 0,
-        "total": 0
+        "away": 1,
+        "total": 1
       },
       "failed_to_score": {
         "home": 0,
-        "away": 0,
-        "total": 0
+        "away": 1,
+        "total": 1
       },
       "penalty": {
         "scored": {
@@ -28399,6 +28399,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1649005,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-11-10T08:00:00+00:00",
+          "timestamp": 1794297600,
+          "periods": {
+            "first": 1794297600,
+            "second": 1794301200
+          },
+          "venue": {
+            "id": null,
+            "name": "Pleiku Stadium",
+            "city": "Pleiku"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10954,
+            "name": "Qatar U23",
+            "logo": "https://media.api-sports.io/football/teams/10954.png",
+            "winner": null
+          },
+          "away": {
+            "id": 10956,
+            "name": "Singapore U23",
+            "logo": "https://media.api-sports.io/football/teams/10956.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1491687,
@@ -29028,76 +29098,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 861037,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2022-05-11T09:00:00+00:00",
-          "timestamp": 1652259600,
-          "periods": {
-            "first": 1652259600,
-            "second": 1652263200
-          },
-          "venue": {
-            "id": null,
-            "name": "Sân vận động Thiên Trường",
-            "city": "Nam Dinh"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 911,
-          "name": "Southeast Asian Games",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/911.png",
-          "flag": null,
-          "season": 2022,
-          "round": "Group Stage - 3",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 10931,
-            "name": "Cambodia U23",
-            "logo": "https://media.api-sports.io/football/teams/10931.png",
-            "winner": false
-          },
-          "away": {
-            "id": 10956,
-            "name": "Singapore U23",
-            "logo": "https://media.api-sports.io/football/teams/10956.png",
-            "winner": true
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -29116,12 +29116,12 @@
         "name": "Thailand U23",
         "logo": "https://media.api-sports.io/football/teams/10960.png"
       },
-      "form": "DWLLL",
+      "form": "DWLLLL",
       "fixtures": {
         "played": {
           "home": 3,
-          "away": 2,
-          "total": 5
+          "away": 3,
+          "total": 6
         },
         "wins": {
           "home": 1,
@@ -29135,8 +29135,8 @@
         },
         "loses": {
           "home": 2,
-          "away": 1,
-          "total": 3
+          "away": 2,
+          "total": 4
         }
       },
       "goals": {
@@ -29148,8 +29148,8 @@
           },
           "average": {
             "home": "1.7",
-            "away": "1.5",
-            "total": "1.6"
+            "away": "1.0",
+            "total": "1.3"
           },
           "minute": {
             "0-15": {
@@ -29188,61 +29188,61 @@
           "under_over": {
             "0.5": {
               "over": 5,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 3,
-              "under": 2
+              "under": 3
             },
             "2.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             },
             "3.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             },
             "4.5": {
               "over": 0,
-              "under": 5
+              "under": 6
             }
           }
         },
         "against": {
           "total": {
             "home": 8,
-            "away": 5,
-            "total": 13
+            "away": 8,
+            "total": 16
           },
           "average": {
             "home": "2.7",
-            "away": "2.5",
-            "total": "2.6"
+            "away": "2.7",
+            "total": "2.7"
           },
           "minute": {
             "0-15": {
               "total": 2,
-              "percentage": "15.38%"
+              "percentage": "12.50%"
             },
             "16-30": {
-              "total": 2,
-              "percentage": "15.38%"
+              "total": 3,
+              "percentage": "18.75%"
             },
             "31-45": {
-              "total": 1,
-              "percentage": "7.69%"
+              "total": 2,
+              "percentage": "12.50%"
             },
             "46-60": {
               "total": 4,
-              "percentage": "30.77%"
+              "percentage": "25.00%"
             },
             "61-75": {
               "total": 2,
-              "percentage": "15.38%"
+              "percentage": "12.50%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "15.38%"
+              "total": 3,
+              "percentage": "18.75%"
             },
             "91-105": {
               "total": null,
@@ -29255,24 +29255,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 4,
+              "over": 5,
               "under": 1
             },
             "1.5": {
-              "over": 4,
+              "over": 5,
               "under": 1
             },
             "2.5": {
-              "over": 3,
+              "over": 4,
               "under": 2
             },
             "3.5": {
               "over": 1,
-              "under": 4
+              "under": 5
             },
             "4.5": {
               "over": 1,
-              "under": 4
+              "under": 5
             }
           }
         }
@@ -29289,7 +29289,7 @@
         },
         "loses": {
           "home": "2-5",
-          "away": "3-1"
+          "away": "3-0"
         },
         "goals": {
           "for": {
@@ -29309,8 +29309,8 @@
       },
       "failed_to_score": {
         "home": 0,
-        "away": 0,
-        "total": 0
+        "away": 1,
+        "total": 1
       },
       "penalty": {
         "scored": {
@@ -29396,6 +29396,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1649006,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-11-10T12:00:00+00:00",
+          "timestamp": 1794312000,
+          "periods": {
+            "first": 1794312000,
+            "second": 1794315600
+          },
+          "venue": {
+            "id": null,
+            "name": "Pleiku Stadium",
+            "city": "Pleiku"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10964,
+            "name": "Vietnam U23",
+            "logo": "https://media.api-sports.io/football/teams/10964.png",
+            "winner": true
+          },
+          "away": {
+            "id": 10960,
+            "name": "Thailand U23",
+            "logo": "https://media.api-sports.io/football/teams/10960.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1641726,
@@ -30025,76 +30095,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1501613,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-14T11:30:00+00:00",
-          "timestamp": 1768390200,
-          "periods": {
-            "first": 1768390200,
-            "second": 1768393800
-          },
-          "venue": {
-            "id": null,
-            "name": "Al-Shabab Club Stadium",
-            "city": "Riyadh"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 6
-          }
-        },
-        "league": {
-          "id": 532,
-          "name": "AFC U23 Asian Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/532.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Group Stage - 3",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 10960,
-            "name": "Thailand U23",
-            "logo": "https://media.api-sports.io/football/teams/10960.png",
-            "winner": null
-          },
-          "away": {
-            "id": 10932,
-            "name": "China PR U23",
-            "logo": "https://media.api-sports.io/football/teams/10932.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -30113,17 +30113,17 @@
         "name": "Vietnam U23",
         "logo": "https://media.api-sports.io/football/teams/10964.png"
       },
-      "form": "DLL",
+      "form": "DLLW",
       "fixtures": {
         "played": {
-          "home": 1,
+          "home": 2,
           "away": 2,
-          "total": 3
+          "total": 4
         },
         "wins": {
-          "home": 0,
+          "home": 1,
           "away": 0,
-          "total": 0
+          "total": 1
         },
         "draws": {
           "home": 1,
@@ -30139,27 +30139,27 @@
       "goals": {
         "for": {
           "total": {
-            "home": 1,
+            "home": 4,
             "away": 0,
-            "total": 1
+            "total": 4
           },
           "average": {
-            "home": "1.0",
+            "home": "2.0",
             "away": "0.0",
-            "total": "0.3"
+            "total": "1.0"
           },
           "minute": {
             "0-15": {
               "total": 1,
-              "percentage": "100.00%"
+              "percentage": "25.00%"
             },
             "16-30": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "25.00%"
             },
             "31-45": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "25.00%"
             },
             "46-60": {
               "total": null,
@@ -30170,8 +30170,8 @@
               "percentage": null
             },
             "76-90": {
-              "total": null,
-              "percentage": null
+              "total": 1,
+              "percentage": "25.00%"
             },
             "91-105": {
               "total": null,
@@ -30184,24 +30184,24 @@
           },
           "under_over": {
             "0.5": {
-              "over": 1,
+              "over": 2,
               "under": 2
             },
             "1.5": {
-              "over": 0,
+              "over": 1,
               "under": 3
             },
             "2.5": {
-              "over": 0,
+              "over": 1,
               "under": 3
             },
             "3.5": {
               "over": 0,
-              "under": 3
+              "under": 4
             },
             "4.5": {
               "over": 0,
-              "under": 3
+              "under": 4
             }
           }
         },
@@ -30212,9 +30212,9 @@
             "total": 3
           },
           "average": {
-            "home": "1.0",
+            "home": "0.5",
             "away": "1.0",
-            "total": "1.0"
+            "total": "0.8"
           },
           "minute": {
             "0-15": {
@@ -30253,23 +30253,23 @@
           "under_over": {
             "0.5": {
               "over": 3,
-              "under": 0
+              "under": 1
             },
             "1.5": {
               "over": 0,
-              "under": 3
+              "under": 4
             },
             "2.5": {
               "over": 0,
-              "under": 3
+              "under": 4
             },
             "3.5": {
               "over": 0,
-              "under": 3
+              "under": 4
             },
             "4.5": {
               "over": 0,
-              "under": 3
+              "under": 4
             }
           }
         }
@@ -30278,10 +30278,10 @@
         "streak": {
           "wins": 0,
           "draws": 1,
-          "loses": 0
+          "loses": 2
         },
         "wins": {
-          "home": null,
+          "home": "3-0",
           "away": null
         },
         "loses": {
@@ -30290,7 +30290,7 @@
         },
         "goals": {
           "for": {
-            "home": 1,
+            "home": 3,
             "away": 0
           },
           "against": {
@@ -30300,9 +30300,9 @@
         }
       },
       "clean_sheet": {
-        "home": 0,
+        "home": 1,
         "away": 0,
-        "total": 0
+        "total": 1
       },
       "failed_to_score": {
         "home": 0,
@@ -30311,14 +30311,14 @@
       },
       "penalty": {
         "scored": {
-          "total": 0,
-          "percentage": "0%"
+          "total": 1,
+          "percentage": "100.00%"
         },
         "missed": {
           "total": 0,
           "percentage": "0%"
         },
-        "total": 0
+        "total": 1
       },
       "lineups": [],
       "cards": {
@@ -30393,6 +30393,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1649006,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-11-10T12:00:00+00:00",
+          "timestamp": 1794312000,
+          "periods": {
+            "first": 1794312000,
+            "second": 1794315600
+          },
+          "venue": {
+            "id": null,
+            "name": "Pleiku Stadium",
+            "city": "Pleiku"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 10,
+          "name": "Friendlies",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/10.png",
+          "flag": null,
+          "season": 2026,
+          "round": "Friendly International",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 10964,
+            "name": "Vietnam U23",
+            "logo": "https://media.api-sports.io/football/teams/10964.png",
+            "winner": true
+          },
+          "away": {
+            "id": 10960,
+            "name": "Thailand U23",
+            "logo": "https://media.api-sports.io/football/teams/10960.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1641615,
@@ -31016,76 +31086,6 @@
           "extratime": {
             "home": null,
             "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1506732,
-          "referee": null,
-          "timezone": "UTC",
-          "date": "2026-01-16T15:30:00+00:00",
-          "timestamp": 1768577400,
-          "periods": {
-            "first": 1768577400,
-            "second": 1768581000
-          },
-          "venue": {
-            "id": null,
-            "name": "Prince Abdullah al-Faisal Stadium",
-            "city": "Jeddah"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "AET",
-            "elapsed": 120,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 532,
-          "name": "AFC U23 Asian Cup",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/532.png",
-          "flag": null,
-          "season": 2025,
-          "round": "Quarter-finals",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 10964,
-            "name": "Vietnam U23",
-            "logo": "https://media.api-sports.io/football/teams/10964.png",
-            "winner": true
-          },
-          "away": {
-            "id": 10184,
-            "name": "UAE U23",
-            "logo": "https://media.api-sports.io/football/teams/10184.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 2
-          },
-          "extratime": {
-            "home": 1,
-            "away": 0
           },
           "penalty": {
             "home": null,
