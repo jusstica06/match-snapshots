@@ -11443,6 +11443,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492457,
+          "referee": "L. Casagrande",
+          "timezone": "UTC",
+          "date": "2026-11-20T00:30:00+00:00",
+          "timestamp": 1795134600,
+          "periods": {
+            "first": 1795134600,
+            "second": null
+          },
+          "venue": {
+            "id": 269,
+            "name": "Estadio Do MorumBIS",
+            "city": "Sao Paulo"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 35",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 126,
+            "name": "Sao Paulo",
+            "logo": "https://media.api-sports.io/football/teams/126.png",
+            "winner": false
+          },
+          "away": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492449,
           "referee": "R. Pereira",
           "timezone": "UTC",
@@ -12070,76 +12140,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1630778,
-          "referee": "C. Garay",
-          "timezone": "UTC",
-          "date": "2026-09-15T22:00:00+00:00",
-          "timestamp": 1789509600,
-          "periods": {
-            "first": 1789509600,
-            "second": 1789513200
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Ciudad de Vicente Lopez",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 13,
-          "name": "CONMEBOL Libertadores",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/13.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Quarter-finals",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1064,
-            "name": "Platense",
-            "logo": "https://media.api-sports.io/football/teams/1064.png",
-            "winner": true
-          },
-          "away": {
-            "id": 124,
-            "name": "Fluminense",
-            "logo": "https://media.api-sports.io/football/teams/124.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 2,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -12415,31 +12415,31 @@
         "yellow": {
           "0-15": {
             "total": 1,
-            "percentage": "1.32%"
+            "percentage": "1.33%"
           },
           "16-30": {
             "total": 9,
-            "percentage": "11.84%"
+            "percentage": "12.00%"
           },
           "31-45": {
             "total": 13,
-            "percentage": "17.11%"
+            "percentage": "17.33%"
           },
           "46-60": {
             "total": 5,
-            "percentage": "6.58%"
+            "percentage": "6.67%"
           },
           "61-75": {
             "total": 13,
-            "percentage": "17.11%"
+            "percentage": "17.33%"
           },
           "76-90": {
             "total": 16,
-            "percentage": "21.05%"
+            "percentage": "21.33%"
           },
           "91-105": {
-            "total": 17,
-            "percentage": "22.37%"
+            "total": 16,
+            "percentage": "21.33%"
           },
           "106-120": {
             "total": null,
@@ -12447,7 +12447,7 @@
           },
           "": {
             "total": 2,
-            "percentage": "2.63%"
+            "percentage": "2.67%"
           }
         },
         "red": {
@@ -12487,6 +12487,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1492457,
+          "referee": "L. Casagrande",
+          "timezone": "UTC",
+          "date": "2026-11-20T00:30:00+00:00",
+          "timestamp": 1795134600,
+          "periods": {
+            "first": 1795134600,
+            "second": null
+          },
+          "venue": {
+            "id": 269,
+            "name": "Estadio Do MorumBIS",
+            "city": "Sao Paulo"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 35",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 126,
+            "name": "Sao Paulo",
+            "logo": "https://media.api-sports.io/football/teams/126.png",
+            "winner": false
+          },
+          "away": {
+            "id": 124,
+            "name": "Fluminense",
+            "logo": "https://media.api-sports.io/football/teams/124.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1492448,
@@ -13106,76 +13176,6 @@
           "fulltime": {
             "home": 1,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492378,
-          "referee": "R. Klein",
-          "timezone": "UTC",
-          "date": "2026-09-12T21:30:00+00:00",
-          "timestamp": 1789248600,
-          "periods": {
-            "first": 1789248600,
-            "second": 1789252200
-          },
-          "venue": {
-            "id": null,
-            "name": "Nubank Parque",
-            "city": "Sao Paulo"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 27",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 121,
-            "name": "Palmeiras",
-            "logo": "https://media.api-sports.io/football/teams/121.png",
-            "winner": true
-          },
-          "away": {
-            "id": 126,
-            "name": "Sao Paulo",
-            "logo": "https://media.api-sports.io/football/teams/126.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -83191,6 +83191,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1649491,
+          "referee": "Rubiel Vazquez",
+          "timezone": "UTC",
+          "date": "2026-11-20T00:30:00+00:00",
+          "timestamp": 1795134600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 20500,
+            "name": "Exploria Stadium",
+            "city": "Orlando"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Round of 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1598,
+            "name": "Orlando City SC",
+            "logo": "https://media.api-sports.io/football/teams/1598.png",
+            "winner": null
+          },
+          "away": {
+            "id": 2242,
+            "name": "FC Cincinnati",
+            "logo": "https://media.api-sports.io/football/teams/2242.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490606,
           "referee": "G. Gonzales",
           "timezone": "UTC",
@@ -83808,76 +83878,6 @@
           "fulltime": {
             "home": 4,
             "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1545812,
-          "referee": "A. Da Silva",
-          "timezone": "UTC",
-          "date": "2026-09-16T23:00:00+00:00",
-          "timestamp": 1789599600,
-          "periods": {
-            "first": 1789599600,
-            "second": 1789603200
-          },
-          "venue": {
-            "id": null,
-            "name": "ScottsMiracle-Gro Field",
-            "city": null
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 8
-          }
-        },
-        "league": {
-          "id": 257,
-          "name": "US Open Cup",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/257.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Semi-finals",
-          "standings": false
-        },
-        "teams": {
-          "home": {
-            "id": 1613,
-            "name": "Columbus Crew",
-            "logo": "https://media.api-sports.io/football/teams/1613.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1598,
-            "name": "Orlando City SC",
-            "logo": "https://media.api-sports.io/football/teams/1598.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 1
           },
           "extratime": {
             "home": null,
@@ -95220,6 +95220,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1649491,
+          "referee": "Rubiel Vazquez",
+          "timezone": "UTC",
+          "date": "2026-11-20T00:30:00+00:00",
+          "timestamp": 1795134600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 20500,
+            "name": "Exploria Stadium",
+            "city": "Orlando"
+          },
+          "status": {
+            "long": "Halftime",
+            "short": "HT",
+            "elapsed": 45,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Round of 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 1598,
+            "name": "Orlando City SC",
+            "logo": "https://media.api-sports.io/football/teams/1598.png",
+            "winner": null
+          },
+          "away": {
+            "id": 2242,
+            "name": "FC Cincinnati",
+            "logo": "https://media.api-sports.io/football/teams/2242.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490601,
           "referee": "T. Penso",
           "timezone": "UTC",
@@ -95837,76 +95907,6 @@
           "fulltime": {
             "home": 3,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490487,
-          "referee": "J. Marrufo",
-          "timezone": "UTC",
-          "date": "2026-09-20T00:30:00+00:00",
-          "timestamp": 1789864200,
-          "periods": {
-            "first": 1789864200,
-            "second": 1789867800
-          },
-          "venue": {
-            "id": null,
-            "name": "Shell Energy Stadium",
-            "city": "Houston"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": 9
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 26",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1600,
-            "name": "Houston Dynamo",
-            "logo": "https://media.api-sports.io/football/teams/1600.png",
-            "winner": null
-          },
-          "away": {
-            "id": 2242,
-            "name": "FC Cincinnati",
-            "logo": "https://media.api-sports.io/football/teams/2242.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 2
           },
           "extratime": {
             "home": null,
