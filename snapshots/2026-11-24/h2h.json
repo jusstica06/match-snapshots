@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-11-23T01:38:42.047Z",
+  "generatedAt": "2026-11-24T01:37:29.612Z",
   "totalFixtures": 29,
   "uniquePairs": 29,
   "data": {
     "1492469": {
       "matches": [
+        {
+          "fixtureId": 1492469,
+          "date": "2026-11-24T00:00:00+00:00",
+          "venue": "Morumbi",
+          "leagueName": "Serie A",
+          "homeTeamId": 128,
+          "homeTeam": "Santos",
+          "homeWinner": false,
+          "awayTeamId": 130,
+          "awayTeam": "Gremio",
+          "awayWinner": true,
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
         {
           "fixtureId": 1492274,
           "date": "2026-05-23T22:00:00+00:00",
@@ -130,28 +144,14 @@
           "awayWinner": false,
           "homeGoals": 4,
           "awayGoals": 1
-        },
-        {
-          "fixtureId": 649955,
-          "date": "2020-12-09T22:15:00+00:00",
-          "venue": "Arena do Grêmio",
-          "leagueName": "CONMEBOL Libertadores",
-          "homeTeamId": 130,
-          "homeTeam": "Gremio",
-          "homeWinner": null,
-          "awayTeamId": 128,
-          "awayTeam": "Santos",
-          "awayWinner": null,
-          "homeGoals": 1,
-          "awayGoals": 1
         }
       ],
       "summary": {
         "total": 10,
         "homeWins": 3,
-        "awayWins": 3,
-        "draws": 4,
-        "homeGoals": 16,
+        "awayWins": 4,
+        "draws": 3,
+        "homeGoals": 15,
         "awayGoals": 14
       }
     },
@@ -2423,6 +2423,20 @@
     "1649498": {
       "matches": [
         {
+          "fixtureId": 1649498,
+          "date": "2026-11-24T01:00:00+00:00",
+          "venue": "Citypark",
+          "leagueName": "Major League Soccer",
+          "homeTeamId": 20787,
+          "homeTeam": "St. Louis City",
+          "homeWinner": null,
+          "awayTeamId": 1616,
+          "awayTeam": "Los Angeles FC",
+          "awayWinner": null,
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
           "fixtureId": 1490288,
           "date": "2026-05-14T00:30:00+00:00",
           "venue": "CITYPARK",
@@ -2550,10 +2564,10 @@
         }
       ],
       "summary": {
-        "total": 9,
+        "total": 10,
         "homeWins": 2,
         "awayWins": 5,
-        "draws": 2,
+        "draws": 3,
         "homeGoals": 5,
         "awayGoals": 14
       }

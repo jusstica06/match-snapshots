@@ -17519,6 +17519,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1492469,
+          "referee": "Ramon Abatti",
+          "timezone": "UTC",
+          "date": "2026-11-24T00:00:00+00:00",
+          "timestamp": 1795478400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 269,
+            "name": "Morumbi",
+            "city": "Sao Paulo"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 69,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 36",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 128,
+            "name": "Santos",
+            "logo": "https://media.api-sports.io/football/teams/128.png",
+            "winner": false
+          },
+          "away": {
+            "id": 130,
+            "name": "Gremio",
+            "logo": "https://media.api-sports.io/football/teams/130.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1492451,
           "referee": "Braulio Da Silva Machado, Brazil",
           "timezone": "UTC",
@@ -18146,76 +18216,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1631513,
-          "referee": "F. Tello",
-          "timezone": "UTC",
-          "date": "2026-09-16T22:00:00+00:00",
-          "timestamp": 1789596000,
-          "periods": {
-            "first": 1789596000,
-            "second": 1789599600
-          },
-          "venue": {
-            "id": null,
-            "name": "MRV Arena",
-            "city": "Belo Horizonte"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "PEN",
-            "elapsed": 120,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 11,
-          "name": "CONMEBOL Sudamericana",
-          "country": "World",
-          "logo": "https://media.api-sports.io/football/leagues/11.png",
-          "flag": null,
-          "season": 2026,
-          "round": "Quarter-finals",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1062,
-            "name": "Atletico-MG",
-            "logo": "https://media.api-sports.io/football/teams/1062.png",
-            "winner": true
-          },
-          "away": {
-            "id": 128,
-            "name": "Santos",
-            "logo": "https://media.api-sports.io/football/teams/128.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 2
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 4,
-            "away": 2
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": 3,
-            "away": 1
-          }
-        }
       }
     ]
   },
@@ -18539,6 +18539,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1492469,
+          "referee": "Ramon Abatti",
+          "timezone": "UTC",
+          "date": "2026-11-24T00:00:00+00:00",
+          "timestamp": 1795478400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 269,
+            "name": "Morumbi",
+            "city": "Sao Paulo"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 69,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 71,
+          "name": "Serie A",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/71.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2026,
+          "round": "Regular Season - 36",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 128,
+            "name": "Santos",
+            "logo": "https://media.api-sports.io/football/teams/128.png",
+            "winner": false
+          },
+          "away": {
+            "id": 130,
+            "name": "Gremio",
+            "logo": "https://media.api-sports.io/football/teams/130.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1492454,
@@ -19158,76 +19228,6 @@
           "fulltime": {
             "home": 1,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1492384,
-          "referee": "Paulo Cesar Zanovelli da Silva, Brazil",
-          "timezone": "UTC",
-          "date": "2026-09-20T14:00:00+00:00",
-          "timestamp": 1789912800,
-          "periods": {
-            "first": 1789912800,
-            "second": 1789916400
-          },
-          "venue": {
-            "id": 241,
-            "name": "Arena do Grêmio",
-            "city": "Porto Alegre"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 71,
-          "name": "Serie A",
-          "country": "Brazil",
-          "logo": "https://media.api-sports.io/football/leagues/71.png",
-          "flag": "https://media.api-sports.io/flags/br.svg",
-          "season": 2026,
-          "round": "Regular Season - 28",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 130,
-            "name": "Gremio",
-            "logo": "https://media.api-sports.io/football/teams/130.png",
-            "winner": null
-          },
-          "away": {
-            "id": 121,
-            "name": "Palmeiras",
-            "logo": "https://media.api-sports.io/football/teams/121.png",
-            "winner": null
-          }
-        },
-        "goals": {
-          "home": 0,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 0,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 0,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -28432,31 +28432,31 @@
           "minute": {
             "0-15": {
               "total": 4,
-              "percentage": "17.39%"
+              "percentage": "18.18%"
             },
             "16-30": {
               "total": 4,
-              "percentage": "17.39%"
+              "percentage": "18.18%"
             },
             "31-45": {
               "total": 4,
-              "percentage": "17.39%"
+              "percentage": "18.18%"
             },
             "46-60": {
               "total": 2,
-              "percentage": "8.70%"
+              "percentage": "9.09%"
             },
             "61-75": {
               "total": 4,
-              "percentage": "17.39%"
+              "percentage": "18.18%"
             },
             "76-90": {
-              "total": 4,
-              "percentage": "17.39%"
+              "total": 3,
+              "percentage": "13.64%"
             },
             "91-105": {
               "total": 1,
-              "percentage": "4.35%"
+              "percentage": "4.55%"
             },
             "106-120": {
               "total": null,
@@ -28500,31 +28500,31 @@
           "minute": {
             "0-15": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "9.09%"
             },
             "16-30": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "9.09%"
             },
             "31-45": {
               "total": 2,
-              "percentage": "20.00%"
+              "percentage": "18.18%"
             },
             "46-60": {
               "total": 2,
-              "percentage": "20.00%"
+              "percentage": "18.18%"
             },
             "61-75": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "9.09%"
             },
             "76-90": {
-              "total": 2,
-              "percentage": "20.00%"
+              "total": 3,
+              "percentage": "27.27%"
             },
             "91-105": {
               "total": 1,
-              "percentage": "10.00%"
+              "percentage": "9.09%"
             },
             "106-120": {
               "total": null,
@@ -41812,7 +41812,7 @@
       {
         "fixture": {
           "id": 1584469,
-          "referee": "A. Sansalan",
+          "referee": "Ali Sansalan, Türkiye",
           "timezone": "UTC",
           "date": "2026-11-21T13:00:00+00:00",
           "timestamp": 1795266000,
@@ -41882,7 +41882,7 @@
       {
         "fixture": {
           "id": 1584461,
-          "referee": "H. U. Meler",
+          "referee": "Halil Umut Meler, Türkiye",
           "timezone": "UTC",
           "date": "2026-11-07T16:00:00+00:00",
           "timestamp": 1794067200,
@@ -41892,7 +41892,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Rams Park",
+            "name": "Rams Park Stadyumu",
             "city": "Istanbul"
           },
           "status": {
@@ -42022,7 +42022,7 @@
       {
         "fixture": {
           "id": 1584455,
-          "referee": "C. Aydin",
+          "referee": "Cihan Aydin, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-30T17:00:00+00:00",
           "timestamp": 1793379600,
@@ -42032,7 +42032,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Konya Buyuksehir Belediye Stadium",
+            "name": "Medas Konya Büyüksehir Belediyesi Stadium",
             "city": "Konya"
           },
           "status": {
@@ -42092,7 +42092,7 @@
       {
         "fixture": {
           "id": 1584442,
-          "referee": "A. Karaoglan",
+          "referee": "Atilla Karaoglan, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-26T18:30:00+00:00",
           "timestamp": 1793039400,
@@ -42102,7 +42102,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Rams Park",
+            "name": "Rams Park Stadyumu",
             "city": "Istanbul"
           },
           "status": {
@@ -42232,7 +42232,7 @@
       {
         "fixture": {
           "id": 1584435,
-          "referee": "R. Coskunses",
+          "referee": "Resat Onur Coskunses, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-17T13:00:00+00:00",
           "timestamp": 1792242000,
@@ -42242,7 +42242,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Eryaman Stadium",
+            "name": "Eryaman Stadyumu",
             "city": "Ankara"
           },
           "status": {
@@ -43320,7 +43320,7 @@
       {
         "fixture": {
           "id": 1551579,
-          "referee": "Michal Očenáš, Slovakia",
+          "referee": "M. Ocenas",
           "timezone": "UTC",
           "date": "2026-10-17T16:00:00+00:00",
           "timestamp": 1792252800,
@@ -43330,7 +43330,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Štadión Antona Malatinského",
+            "name": "City Arena Trnava",
             "city": "Trnava"
           },
           "status": {
@@ -52941,6 +52941,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1649498,
+          "referee": "Guido Gonzales Jr",
+          "timezone": "UTC",
+          "date": "2026-11-24T01:00:00+00:00",
+          "timestamp": 1795482000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19408,
+            "name": "Citypark",
+            "city": "Saint Louis"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 11,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Round of 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 20787,
+            "name": "St. Louis City",
+            "logo": "https://media.api-sports.io/football/teams/20787.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1616,
+            "name": "Los Angeles FC",
+            "logo": "https://media.api-sports.io/football/teams/1616.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490608,
           "referee": "Filip Dujic",
           "timezone": "UTC",
@@ -53558,76 +53628,6 @@
           "fulltime": {
             "home": 3,
             "away": 1
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490461,
-          "referee": "R. Montero",
-          "timezone": "UTC",
-          "date": "2026-09-10T02:30:00+00:00",
-          "timestamp": 1789007400,
-          "periods": {
-            "first": 1789007400,
-            "second": 1789011000
-          },
-          "venue": {
-            "id": null,
-            "name": "BMO Stadium",
-            "city": "Los Angeles"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 24",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 1616,
-            "name": "Los Angeles FC",
-            "logo": "https://media.api-sports.io/football/teams/1616.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1602,
-            "name": "New York Red Bulls",
-            "logo": "https://media.api-sports.io/football/teams/1602.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 2,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 2,
-            "away": 0
           },
           "extratime": {
             "home": null,
@@ -56975,7 +56975,7 @@
           "venue": {
             "id": null,
             "name": "Old Road",
-            "city": null
+            "city": "Briton Ferry"
           },
           "status": {
             "long": "Match Finished",
@@ -57977,6 +57977,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1649498,
+          "referee": "Guido Gonzales Jr",
+          "timezone": "UTC",
+          "date": "2026-11-24T01:00:00+00:00",
+          "timestamp": 1795482000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19408,
+            "name": "Citypark",
+            "city": "Saint Louis"
+          },
+          "status": {
+            "long": "First Half",
+            "short": "1H",
+            "elapsed": 11,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 253,
+          "name": "Major League Soccer",
+          "country": "USA",
+          "logo": "https://media.api-sports.io/football/leagues/253.png",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "season": 2026,
+          "round": "Round of 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 20787,
+            "name": "St. Louis City",
+            "logo": "https://media.api-sports.io/football/teams/20787.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1616,
+            "name": "Los Angeles FC",
+            "logo": "https://media.api-sports.io/football/teams/1616.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1490614,
           "referee": "Allen Chapman",
           "timezone": "UTC",
@@ -58594,76 +58664,6 @@
           "fulltime": {
             "home": 0,
             "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1490490,
-          "referee": "L. Szpala",
-          "timezone": "UTC",
-          "date": "2026-09-20T00:30:00+00:00",
-          "timestamp": 1789864200,
-          "periods": {
-            "first": 1789864200,
-            "second": 1789867800
-          },
-          "venue": {
-            "id": null,
-            "name": "CITYPARK",
-            "city": "St. Louis"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 253,
-          "name": "Major League Soccer",
-          "country": "USA",
-          "logo": "https://media.api-sports.io/football/leagues/253.png",
-          "flag": "https://media.api-sports.io/flags/us.svg",
-          "season": 2026,
-          "round": "Regular Season - 26",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 20787,
-            "name": "St. Louis City",
-            "logo": "https://media.api-sports.io/football/teams/20787.png",
-            "winner": true
-          },
-          "away": {
-            "id": 1601,
-            "name": "Toronto FC",
-            "logo": "https://media.api-sports.io/football/teams/1601.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 1
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 1
           },
           "extratime": {
             "home": null,
