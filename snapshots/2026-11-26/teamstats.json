@@ -29562,6 +29562,76 @@
     "lastFixtures": [
       {
         "fixture": {
+          "id": 1649565,
+          "referee": "Luis Lobo Medina",
+          "timezone": "UTC",
+          "date": "2026-11-26T00:00:00+00:00",
+          "timestamp": 1795651200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 46,
+            "name": "Estadio Alberto J. Armando",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 74,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Round of 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 451,
+            "name": "Boca Juniors",
+            "logo": "https://media.api-sports.io/football/teams/451.png",
+            "winner": true
+          },
+          "away": {
+            "id": 473,
+            "name": "Independ. Rivadavia",
+            "logo": "https://media.api-sports.io/football/teams/473.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
           "id": 1647047,
           "referee": "Andrés Matías Matonte Cabrera",
           "timezone": "UTC",
@@ -30189,76 +30259,6 @@
             "away": null
           }
         }
-      },
-      {
-        "fixture": {
-          "id": 1493155,
-          "referee": "S. Martinez",
-          "timezone": "UTC",
-          "date": "2026-10-03T00:30:00+00:00",
-          "timestamp": 1790987400,
-          "periods": {
-            "first": 1790987400,
-            "second": 1790991000
-          },
-          "venue": {
-            "id": 46,
-            "name": "Estadio Alberto J. Armando",
-            "city": "Buenos Aires"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 11",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 451,
-            "name": "Boca Juniors",
-            "logo": "https://media.api-sports.io/football/teams/451.png",
-            "winner": true
-          },
-          "away": {
-            "id": 441,
-            "name": "Union Santa Fe",
-            "logo": "https://media.api-sports.io/football/teams/441.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 3,
-          "away": 0
-        },
-        "score": {
-          "halftime": {
-            "home": 1,
-            "away": 0
-          },
-          "fulltime": {
-            "home": 3,
-            "away": 0
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
-          }
-        }
       }
     ]
   },
@@ -30610,6 +30610,76 @@
       }
     },
     "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1649565,
+          "referee": "Luis Lobo Medina",
+          "timezone": "UTC",
+          "date": "2026-11-26T00:00:00+00:00",
+          "timestamp": 1795651200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 46,
+            "name": "Estadio Alberto J. Armando",
+            "city": "Buenos Aires"
+          },
+          "status": {
+            "long": "Second Half",
+            "short": "2H",
+            "elapsed": 74,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 128,
+          "name": "Liga Profesional Argentina",
+          "country": "Argentina",
+          "logo": "https://media.api-sports.io/football/leagues/128.png",
+          "flag": "https://media.api-sports.io/flags/ar.svg",
+          "season": 2026,
+          "round": "Round of 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 451,
+            "name": "Boca Juniors",
+            "logo": "https://media.api-sports.io/football/teams/451.png",
+            "winner": true
+          },
+          "away": {
+            "id": 473,
+            "name": "Independ. Rivadavia",
+            "logo": "https://media.api-sports.io/football/teams/473.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
       {
         "fixture": {
           "id": 1589960,
@@ -31237,76 +31307,6 @@
           "penalty": {
             "home": 2,
             "away": 3
-          }
-        }
-      },
-      {
-        "fixture": {
-          "id": 1493131,
-          "referee": "D. Herrera",
-          "timezone": "UTC",
-          "date": "2026-09-12T17:45:00+00:00",
-          "timestamp": 1789235100,
-          "periods": {
-            "first": 1789235100,
-            "second": 1789238700
-          },
-          "venue": {
-            "id": null,
-            "name": "Estadio Juan Bautista Gargantini",
-            "city": "Mendoza"
-          },
-          "status": {
-            "long": "Match Finished",
-            "short": "FT",
-            "elapsed": 90,
-            "extra": null
-          }
-        },
-        "league": {
-          "id": 128,
-          "name": "Liga Profesional Argentina",
-          "country": "Argentina",
-          "logo": "https://media.api-sports.io/football/leagues/128.png",
-          "flag": "https://media.api-sports.io/flags/ar.svg",
-          "season": 2026,
-          "round": "Clausura - 9",
-          "standings": true
-        },
-        "teams": {
-          "home": {
-            "id": 473,
-            "name": "Independ. Rivadavia",
-            "logo": "https://media.api-sports.io/football/teams/473.png",
-            "winner": true
-          },
-          "away": {
-            "id": 463,
-            "name": "Aldosivi",
-            "logo": "https://media.api-sports.io/football/teams/463.png",
-            "winner": false
-          }
-        },
-        "goals": {
-          "home": 4,
-          "away": 3
-        },
-        "score": {
-          "halftime": {
-            "home": 3,
-            "away": 1
-          },
-          "fulltime": {
-            "home": 4,
-            "away": 3
-          },
-          "extratime": {
-            "home": null,
-            "away": null
-          },
-          "penalty": {
-            "home": null,
-            "away": null
           }
         }
       }
@@ -37663,7 +37663,7 @@
       {
         "fixture": {
           "id": 1584473,
-          "referee": "C. Altay",
+          "referee": "Cagdas Altay, Türkiye",
           "timezone": "UTC",
           "date": "2026-11-22T13:00:00+00:00",
           "timestamp": 1795352400,
@@ -37673,7 +37673,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Konya Buyuksehir Belediye Stadium",
+            "name": "Medas Konya Büyüksehir Belediyesi Stadium",
             "city": "Konya"
           },
           "status": {
@@ -37733,7 +37733,7 @@
       {
         "fixture": {
           "id": 1584458,
-          "referee": "A. Karaoglan",
+          "referee": "Atilla Karaoglan, Türkiye",
           "timezone": "UTC",
           "date": "2026-11-08T18:00:00+00:00",
           "timestamp": 1794160800,
@@ -37743,7 +37743,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Tupras Stadium",
+            "name": "Tüpraş Stadyumu",
             "city": "Istanbul"
           },
           "status": {
@@ -37873,7 +37873,7 @@
       {
         "fixture": {
           "id": 1584453,
-          "referee": "R. Coskunses",
+          "referee": "Resat Onur Coskunses, Türkiye",
           "timezone": "UTC",
           "date": "2026-11-01T16:00:00+00:00",
           "timestamp": 1793548800,
@@ -37943,7 +37943,7 @@
       {
         "fixture": {
           "id": 1584440,
-          "referee": "U. Ozturk",
+          "referee": "Umit Ozturk, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-26T16:00:00+00:00",
           "timestamp": 1793030400,
@@ -37953,7 +37953,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Tupras Stadium",
+            "name": "Tüpraş Stadyumu",
             "city": "Istanbul"
           },
           "status": {
@@ -38083,7 +38083,7 @@
       {
         "fixture": {
           "id": 1584438,
-          "referee": "C. Aydin",
+          "referee": "Cihan Aydin, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-19T17:00:00+00:00",
           "timestamp": 1792429200,
@@ -38223,7 +38223,7 @@
       {
         "fixture": {
           "id": 1584422,
-          "referee": "A. B. Taskinsoy",
+          "referee": "Abdullah Bugra Taskinsoy, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-11T16:00:00+00:00",
           "timestamp": 1791734400,
@@ -38233,7 +38233,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Tupras Stadium",
+            "name": "Tüpraş Stadyumu",
             "city": "Istanbul"
           },
           "status": {
@@ -38293,7 +38293,7 @@
       {
         "fixture": {
           "id": 1584412,
-          "referee": "A. Sansalan",
+          "referee": "Ali Sansalan, Türkiye",
           "timezone": "UTC",
           "date": "2026-09-20T17:00:00+00:00",
           "timestamp": 1789923600,
@@ -39686,7 +39686,7 @@
           "venue": {
             "id": null,
             "name": "Lotto Park",
-            "city": "Brussels"
+            "city": "Anderlecht"
           },
           "status": {
             "long": "Match Finished",
@@ -39745,7 +39745,7 @@
       {
         "fixture": {
           "id": 1558672,
-          "referee": "Jasper Vergoote, Belgium",
+          "referee": "J. Vergoote",
           "timezone": "UTC",
           "date": "2026-11-08T12:30:00+00:00",
           "timestamp": 1794141000,
@@ -39755,8 +39755,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Jan Breydel Stadium",
-            "city": "Bruges"
+            "name": "Jan Breydel Stadion",
+            "city": "Brugge"
           },
           "status": {
             "long": "Match Finished",
@@ -39885,7 +39885,7 @@
       {
         "fixture": {
           "id": 1558662,
-          "referee": "Nicolas Laforge, Belgium",
+          "referee": "N. Laforge",
           "timezone": "UTC",
           "date": "2026-10-31T19:45:00+00:00",
           "timestamp": 1793475900,
@@ -39896,7 +39896,7 @@
           "venue": {
             "id": null,
             "name": "Lotto Park",
-            "city": "Brussels"
+            "city": "Anderlecht"
           },
           "status": {
             "long": "Match Finished",
@@ -39955,7 +39955,7 @@
       {
         "fixture": {
           "id": 1558656,
-          "referee": "Eric Lambrechts, Belgium",
+          "referee": "E. Lambrechts",
           "timezone": "UTC",
           "date": "2026-10-25T17:30:00+00:00",
           "timestamp": 1792949400,
@@ -40235,7 +40235,7 @@
       {
         "fixture": {
           "id": 1558645,
-          "referee": "Kevin van Damme, Belgium",
+          "referee": "K. van Damme",
           "timezone": "UTC",
           "date": "2026-10-10T14:00:00+00:00",
           "timestamp": 1791640800,
@@ -40245,8 +40245,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Jan Breydel Stadium",
-            "city": "Bruges"
+            "name": "Jan Breydel Stadion",
+            "city": "Brugge"
           },
           "status": {
             "long": "Match Finished",
@@ -48745,7 +48745,708 @@
         }
       }
     },
-    "lastFixtures": []
+    "lastFixtures": [
+      {
+        "fixture": {
+          "id": 1560080,
+          "referee": "Dalibor Cerny",
+          "timezone": "UTC",
+          "date": "2026-11-22T17:00:00+00:00",
+          "timestamp": 1795366800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19513,
+            "name": "Stadion Letná",
+            "city": "Prague"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 345,
+          "name": "Czech Liga",
+          "country": "Czech-Republic",
+          "logo": "https://media.api-sports.io/football/leagues/345.png",
+          "flag": "https://media.api-sports.io/flags/cz.svg",
+          "season": 2026,
+          "round": "Regular Season - 15",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 628,
+            "name": "Sparta Praha",
+            "logo": "https://media.api-sports.io/football/teams/628.png",
+            "winner": false
+          },
+          "away": {
+            "id": 782,
+            "name": "Slovan Liberec",
+            "logo": "https://media.api-sports.io/football/teams/782.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1560069,
+          "referee": "Dominik Stary",
+          "timezone": "UTC",
+          "date": "2026-11-08T17:00:00+00:00",
+          "timestamp": 1794157200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 438,
+            "name": "Doosan Arena",
+            "city": "Pilsner"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 345,
+          "name": "Czech Liga",
+          "country": "Czech-Republic",
+          "logo": "https://media.api-sports.io/football/leagues/345.png",
+          "flag": "https://media.api-sports.io/flags/cz.svg",
+          "season": 2026,
+          "round": "Regular Season - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 567,
+            "name": "Plzen",
+            "logo": "https://media.api-sports.io/football/teams/567.png",
+            "winner": null
+          },
+          "away": {
+            "id": 628,
+            "name": "Sparta Praha",
+            "logo": "https://media.api-sports.io/football/teams/628.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1636337,
+          "referee": "Erik Lambrechts",
+          "timezone": "UTC",
+          "date": "2026-11-05T17:45:00+00:00",
+          "timestamp": 1793900700,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19513,
+            "name": "Stadion Letná",
+            "city": "Prague"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 3,
+          "name": "UEFA Europa League",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/3.png",
+          "flag": null,
+          "season": 2026,
+          "round": "League Stage - 4",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 628,
+            "name": "Sparta Praha",
+            "logo": "https://media.api-sports.io/football/teams/628.png",
+            "winner": false
+          },
+          "away": {
+            "id": 35,
+            "name": "Bournemouth",
+            "logo": "https://media.api-sports.io/football/teams/35.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1560057,
+          "referee": "Ondrej Pechanec",
+          "timezone": "UTC",
+          "date": "2026-11-01T17:00:00+00:00",
+          "timestamp": 1793552400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 2496,
+            "name": "Dolicek Stadium",
+            "city": "Prague"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 345,
+          "name": "Czech Liga",
+          "country": "Czech-Republic",
+          "logo": "https://media.api-sports.io/football/leagues/345.png",
+          "flag": "https://media.api-sports.io/flags/cz.svg",
+          "season": 2026,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 3714,
+            "name": "Bohemians 1905",
+            "logo": "https://media.api-sports.io/football/teams/3714.png",
+            "winner": null
+          },
+          "away": {
+            "id": 628,
+            "name": "Sparta Praha",
+            "logo": "https://media.api-sports.io/football/teams/628.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1645413,
+          "referee": "J. Wulkan",
+          "timezone": "UTC",
+          "date": "2026-10-28T17:30:00+00:00",
+          "timestamp": 1793208600,
+          "periods": {
+            "first": 1793208600,
+            "second": 1793212200
+          },
+          "venue": {
+            "id": null,
+            "name": "epet ARENA",
+            "city": "Prague"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+          }
+        },
+        "league": {
+          "id": 347,
+          "name": "Cup",
+          "country": "Czech-Republic",
+          "logo": "https://media.api-sports.io/football/leagues/347.png",
+          "flag": "https://media.api-sports.io/flags/cz.svg",
+          "season": 2026,
+          "round": "Round of 16",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 628,
+            "name": "Sparta Praha",
+            "logo": "https://media.api-sports.io/football/teams/628.png",
+            "winner": false
+          },
+          "away": {
+            "id": 3713,
+            "name": "Baník Ostrava",
+            "logo": "https://media.api-sports.io/football/teams/3713.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1560054,
+          "referee": "Antonin Bohata",
+          "timezone": "UTC",
+          "date": "2026-10-25T14:00:00+00:00",
+          "timestamp": 1792936800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19513,
+            "name": "Stadion Letná",
+            "city": "Prague"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 345,
+          "name": "Czech Liga",
+          "country": "Czech-Republic",
+          "logo": "https://media.api-sports.io/football/leagues/345.png",
+          "flag": "https://media.api-sports.io/flags/cz.svg",
+          "season": 2026,
+          "round": "Regular Season - 12",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 628,
+            "name": "Sparta Praha",
+            "logo": "https://media.api-sports.io/football/teams/628.png",
+            "winner": true
+          },
+          "away": {
+            "id": 3719,
+            "name": "Slovácko",
+            "logo": "https://media.api-sports.io/football/teams/3719.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1636308,
+          "referee": "Espen Eskas",
+          "timezone": "UTC",
+          "date": "2026-10-22T19:00:00+00:00",
+          "timestamp": 1792695600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 775,
+            "name": "Karaiskakis Stadium",
+            "city": "Piraeus"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 3,
+          "name": "UEFA Europa League",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/3.png",
+          "flag": null,
+          "season": 2026,
+          "round": "League Stage - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 553,
+            "name": "Olympiakos Piraeus",
+            "logo": "https://media.api-sports.io/football/teams/553.png",
+            "winner": true
+          },
+          "away": {
+            "id": 628,
+            "name": "Sparta Praha",
+            "logo": "https://media.api-sports.io/football/teams/628.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1560045,
+          "referee": "Dalibor Cerny",
+          "timezone": "UTC",
+          "date": "2026-10-18T13:00:00+00:00",
+          "timestamp": 1792328400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 2495,
+            "name": "Městský stadion ve Vítkovicích",
+            "city": "Ostrava"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 345,
+          "name": "Czech Liga",
+          "country": "Czech-Republic",
+          "logo": "https://media.api-sports.io/football/leagues/345.png",
+          "flag": "https://media.api-sports.io/flags/cz.svg",
+          "season": 2026,
+          "round": "Regular Season - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 3713,
+            "name": "Baník Ostrava",
+            "logo": "https://media.api-sports.io/football/teams/3713.png",
+            "winner": null
+          },
+          "away": {
+            "id": 628,
+            "name": "Sparta Praha",
+            "logo": "https://media.api-sports.io/football/teams/628.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1636338,
+          "referee": "Martin Matosa",
+          "timezone": "UTC",
+          "date": "2026-10-15T16:45:00+00:00",
+          "timestamp": 1792082700,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19513,
+            "name": "Stadion Letná",
+            "city": "Prague"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 3,
+          "name": "UEFA Europa League",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/3.png",
+          "flag": null,
+          "season": 2026,
+          "round": "League Stage - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 628,
+            "name": "Sparta Praha",
+            "logo": "https://media.api-sports.io/football/teams/628.png",
+            "winner": null
+          },
+          "away": {
+            "id": 321,
+            "name": "Lillestrom",
+            "logo": "https://media.api-sports.io/football/teams/321.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1560038,
+          "referee": "J. Benes",
+          "timezone": "UTC",
+          "date": "2026-10-11T16:00:00+00:00",
+          "timestamp": 1791734400,
+          "periods": {
+            "first": 1791734400,
+            "second": 1791738000
+          },
+          "venue": {
+            "id": null,
+            "name": "epet ARENA",
+            "city": "Prague"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 345,
+          "name": "Czech Liga",
+          "country": "Czech-Republic",
+          "logo": "https://media.api-sports.io/football/leagues/345.png",
+          "flag": "https://media.api-sports.io/flags/cz.svg",
+          "season": 2026,
+          "round": "Regular Season - 10",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 628,
+            "name": "Sparta Praha",
+            "logo": "https://media.api-sports.io/football/teams/628.png",
+            "winner": true
+          },
+          "away": {
+            "id": 3724,
+            "name": "Pardubice",
+            "logo": "https://media.api-sports.io/football/teams/3724.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   },
   "631": {
     "statistics": {
@@ -49062,7 +49763,7 @@
       {
         "fixture": {
           "id": 1558681,
-          "referee": "Lawrence Visser, Belgium",
+          "referee": "L. Visser",
           "timezone": "UTC",
           "date": "2026-11-22T12:30:00+00:00",
           "timestamp": 1795350600,
@@ -49132,7 +49833,7 @@
       {
         "fixture": {
           "id": 1558673,
-          "referee": "Jan Boterberg, Belgium",
+          "referee": "J. Boterberg",
           "timezone": "UTC",
           "date": "2026-11-08T15:00:00+00:00",
           "timestamp": 1794150000,
@@ -49272,7 +49973,7 @@
       {
         "fixture": {
           "id": 1558667,
-          "referee": "Kevin van Damme, Belgium",
+          "referee": "K. van Damme",
           "timezone": "UTC",
           "date": "2026-11-01T17:30:00+00:00",
           "timestamp": 1793554200,
@@ -49342,7 +50043,7 @@
       {
         "fixture": {
           "id": 1558656,
-          "referee": "Eric Lambrechts, Belgium",
+          "referee": "E. Lambrechts",
           "timezone": "UTC",
           "date": "2026-10-25T17:30:00+00:00",
           "timestamp": 1792949400,
@@ -49622,7 +50323,7 @@
       {
         "fixture": {
           "id": 1558651,
-          "referee": "Nicolas Laforge, Belgium",
+          "referee": "N. Laforge",
           "timezone": "UTC",
           "date": "2026-10-10T18:45:00+00:00",
           "timestamp": 1791657900,
@@ -50064,7 +50765,7 @@
       {
         "fixture": {
           "id": 1565310,
-          "referee": "R. Vidican",
+          "referee": "Rares George Vidican, Romania",
           "timezone": "UTC",
           "date": "2026-11-22T15:30:00+00:00",
           "timestamp": 1795361400,
@@ -50074,7 +50775,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Arena Francisc Neuman",
+            "name": "Stadionul Francisc von Neumann",
             "city": "Arad"
           },
           "status": {
@@ -50134,7 +50835,7 @@
       {
         "fixture": {
           "id": 1565295,
-          "referee": "M. Barbu",
+          "referee": "Marian Barbu, Romania",
           "timezone": "UTC",
           "date": "2026-11-08T17:00:00+00:00",
           "timestamp": 1794157200,
@@ -50145,7 +50846,7 @@
           "venue": {
             "id": null,
             "name": "Dr. Constantin Rădulescu",
-            "city": "Cluj-Napoca"
+            "city": "Cluj Napoca"
           },
           "status": {
             "long": "Match Finished",
@@ -50274,7 +50975,7 @@
       {
         "fixture": {
           "id": 1565294,
-          "referee": "G. Mihuleac",
+          "referee": "Gabriel Mihuleac, Romania",
           "timezone": "UTC",
           "date": "2026-11-01T15:30:00+00:00",
           "timestamp": 1793547000,
@@ -50414,7 +51115,7 @@
       {
         "fixture": {
           "id": 1565286,
-          "referee": "H. Mladinovici",
+          "referee": "Horia Gabriel Mladinovici, Romania",
           "timezone": "UTC",
           "date": "2026-10-26T18:00:00+00:00",
           "timestamp": 1793037600,
@@ -50554,7 +51255,7 @@
       {
         "fixture": {
           "id": 1565277,
-          "referee": "I. Calin",
+          "referee": "Iulian Calin, Romania",
           "timezone": "UTC",
           "date": "2026-10-18T18:00:00+00:00",
           "timestamp": 1792346400,
@@ -50694,7 +51395,7 @@
       {
         "fixture": {
           "id": 1565264,
-          "referee": "A. Moroita",
+          "referee": "Andrei Moroita, Romania",
           "timezone": "UTC",
           "date": "2026-10-11T15:00:00+00:00",
           "timestamp": 1791730800,
@@ -56103,7 +56804,7 @@
       {
         "fixture": {
           "id": 1558683,
-          "referee": "Bert Put, Belgium",
+          "referee": "B. Put",
           "timezone": "UTC",
           "date": "2026-11-21T15:00:00+00:00",
           "timestamp": 1795273200,
@@ -56173,7 +56874,7 @@
       {
         "fixture": {
           "id": 1558678,
-          "referee": "Anthony Letellier, Belgium",
+          "referee": "A. Letellier",
           "timezone": "UTC",
           "date": "2026-11-08T18:15:00+00:00",
           "timestamp": 1794161700,
@@ -56183,8 +56884,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stayen",
-            "city": "Sint- Truiden"
+            "name": "Daio Wasabi Stayen",
+            "city": "Sint-Truiden"
           },
           "status": {
             "long": "Match Finished",
@@ -56313,7 +57014,7 @@
       {
         "fixture": {
           "id": 1558669,
-          "referee": "Michiel Allaerts, Belgium",
+          "referee": "M. Allaerts",
           "timezone": "UTC",
           "date": "2026-11-01T15:00:00+00:00",
           "timestamp": 1793545200,
@@ -56323,8 +57024,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Stayen",
-            "city": "Sint- Truiden"
+            "name": "Daio Wasabi Stayen",
+            "city": "Sint-Truiden"
           },
           "status": {
             "long": "Match Finished",
@@ -56383,7 +57084,7 @@
       {
         "fixture": {
           "id": 1558654,
-          "referee": "Nathan Verboomen, Belgium",
+          "referee": "N. Verboomen",
           "timezone": "UTC",
           "date": "2026-10-25T15:00:00+00:00",
           "timestamp": 1792940400,
@@ -56393,8 +57094,8 @@
           },
           "venue": {
             "id": null,
-            "name": "Jan Breydel Stadium",
-            "city": "Bruges"
+            "name": "Jan Breydel Stadion",
+            "city": "Brugge"
           },
           "status": {
             "long": "Match Finished",
@@ -56663,7 +57364,7 @@
       {
         "fixture": {
           "id": 1558647,
-          "referee": "Bert Verbeke, Netherlands",
+          "referee": "B. Verbeke",
           "timezone": "UTC",
           "date": "2026-10-11T17:15:00+00:00",
           "timestamp": 1791738900,
@@ -56673,7 +57374,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Veoliastadion Achter De Kazerne",
+            "name": "Achter de Kazerne",
             "city": "Mechelen"
           },
           "status": {
@@ -56733,7 +57434,7 @@
       {
         "fixture": {
           "id": 1558641,
-          "referee": "Massimiliano Ledda, Belgium",
+          "referee": "M. Ledda",
           "timezone": "UTC",
           "date": "2026-09-20T14:00:00+00:00",
           "timestamp": 1789912800,
@@ -59253,7 +59954,7 @@
       {
         "fixture": {
           "id": 1584457,
-          "referee": "O. Cakir",
+          "referee": "Oguzhan Cakir, Türkiye",
           "timezone": "UTC",
           "date": "2026-11-08T15:30:00+00:00",
           "timestamp": 1794151800,
@@ -59263,7 +59964,7 @@
           },
           "venue": {
             "id": null,
-            "name": "Alanya Oba Stadium",
+            "name": "Bahcesehir Okullari Stadium",
             "city": "Alanya"
           },
           "status": {
@@ -59393,7 +60094,7 @@
       {
         "fixture": {
           "id": 1584456,
-          "referee": "A. B. Taskinsoy",
+          "referee": "Abdullah Bugra Taskinsoy, Türkiye",
           "timezone": "UTC",
           "date": "2026-11-01T13:00:00+00:00",
           "timestamp": 1793538000,
@@ -59463,7 +60164,7 @@
       {
         "fixture": {
           "id": 1584446,
-          "referee": "H. U. Meler",
+          "referee": "Halil Umut Meler, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-26T16:00:00+00:00",
           "timestamp": 1793030400,
@@ -59603,7 +60304,7 @@
       {
         "fixture": {
           "id": 1584438,
-          "referee": "C. Aydin",
+          "referee": "Cihan Aydin, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-19T17:00:00+00:00",
           "timestamp": 1792429200,
@@ -59743,7 +60444,7 @@
       {
         "fixture": {
           "id": 1584429,
-          "referee": "O. Cakir",
+          "referee": "Oguzhan Cakir, Türkiye",
           "timezone": "UTC",
           "date": "2026-10-10T13:00:00+00:00",
           "timestamp": 1791637200,
@@ -65177,7 +65878,7 @@
       {
         "fixture": {
           "id": 1558685,
-          "referee": "Kevin van Damme, Belgium",
+          "referee": "K. van Damme",
           "timezone": "UTC",
           "date": "2026-11-22T15:00:00+00:00",
           "timestamp": 1795359600,
@@ -65247,7 +65948,7 @@
       {
         "fixture": {
           "id": 1558676,
-          "referee": "Bram Van Driessche, Belgium",
+          "referee": "B. Van Driessche",
           "timezone": "UTC",
           "date": "2026-11-08T17:30:00+00:00",
           "timestamp": 1794159000,
@@ -65387,7 +66088,7 @@
       {
         "fixture": {
           "id": 1558663,
-          "referee": "Bert Put, Belgium",
+          "referee": "B. Put",
           "timezone": "UTC",
           "date": "2026-10-31T19:45:00+00:00",
           "timestamp": 1793475900,
@@ -65457,7 +66158,7 @@
       {
         "fixture": {
           "id": 1558660,
-          "referee": "Wesli De Cremer, Belgium",
+          "referee": "W. De Cremer",
           "timezone": "UTC",
           "date": "2026-10-25T18:15:00+00:00",
           "timestamp": 1792952100,
@@ -65737,7 +66438,7 @@
       {
         "fixture": {
           "id": 1558649,
-          "referee": "Nathan Verboomen, Belgium",
+          "referee": "N. Verboomen",
           "timezone": "UTC",
           "date": "2026-10-11T14:00:00+00:00",
           "timestamp": 1791727200,
@@ -65807,7 +66508,7 @@
       {
         "fixture": {
           "id": 1558640,
-          "referee": "Jan Boterberg, Belgium",
+          "referee": "J. Boterberg",
           "timezone": "UTC",
           "date": "2026-09-20T11:30:00+00:00",
           "timestamp": 1789903800,
@@ -73273,7 +73974,7 @@
       {
         "fixture": {
           "id": 1635107,
-          "referee": "Mateo Musa, Bosnia & Herzegovina",
+          "referee": "M. Musa",
           "timezone": "UTC",
           "date": "2026-11-21T15:00:00+00:00",
           "timestamp": 1795273200,
@@ -73343,7 +74044,7 @@
       {
         "fixture": {
           "id": 1635098,
-          "referee": "Mirza Kazlagić, Bosnia & Herzegovina",
+          "referee": "M. Kazlagic",
           "timezone": "UTC",
           "date": "2026-11-08T14:00:00+00:00",
           "timestamp": 1794146400,
@@ -73483,7 +74184,7 @@
       {
         "fixture": {
           "id": 1635094,
-          "referee": "Nihad Ljajić, Bosnia & Herzegovina",
+          "referee": "N. Ljajic",
           "timezone": "UTC",
           "date": "2026-10-31T19:45:00+00:00",
           "timestamp": 1793475900,
@@ -73623,7 +74324,7 @@
       {
         "fixture": {
           "id": 1635088,
-          "referee": "Josip Martinović, Bosnia & Herzegovina",
+          "referee": "J. Martinovic",
           "timezone": "UTC",
           "date": "2026-10-25T16:30:00+00:00",
           "timestamp": 1792945800,
@@ -73903,7 +74604,7 @@
       {
         "fixture": {
           "id": 1582805,
-          "referee": "Dražen Marić, Bosnia & Herzegovina",
+          "referee": "D. Maric",
           "timezone": "UTC",
           "date": "2026-10-10T16:30:00+00:00",
           "timestamp": 1791649800,
@@ -81349,7 +82050,7 @@
       {
         "fixture": {
           "id": 1638220,
-          "referee": null,
+          "referee": "A. Anufrijevs",
           "timezone": "UTC",
           "date": "2026-11-20T17:30:00+00:00",
           "timestamp": 1795195800,
